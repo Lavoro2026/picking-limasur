@@ -1,15 +1,6 @@
 {
   "asignaciones": [
     {
-      "placa": "F3M892",
-      "familia": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "TORRES",
-      "picador": "VALLEJO QUISPE LUIS CARLOS",
-      "timestamp": "2026-06-18T06:17:52.643Z"
-    },
-    {
       "placa": "A1Q874",
       "familia": "A",
       "material": "3777",
@@ -22,5 +13,5 @@
       "timestamp": "2026-06-18T10:30:03.925Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-18T10:30:03.925Z"
+  "ultima_actualizacion": "2026-06-18T11:06:38.380Z"
 }
