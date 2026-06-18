@@ -1,32 +1,4 @@
 {
-  "asignaciones": [
-    {
-      "placa": "A1Q874",
-      "familia": "B",
-      "material": "1004553",
-      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
-      "controlador": "NICOLAS",
-      "picador": "GABRIEL CHAVEZ CESAR",
-      "timestamp": "2026-06-17T10:35:27.239Z"
-    },
-    {
-      "placa": "F3M892",
-      "familia": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "TORRES",
-      "picador": "VALLEJO QUISPE LUIS CARLOS",
-      "timestamp": "2026-06-18T05:37:31.002Z"
-    },
-    {
-      "placa": "D1V932",
-      "familia": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "PIERRE",
-      "picador": "VALLEJO QUISPE LUIS CARLOS",
-      "timestamp": "2026-06-18T05:53:32.656Z"
-    }
-  ],
-  "ultima_actualizacion": "2026-06-18T05:53:32.656Z"
+  "asignaciones": [],
+  "ultima_actualizacion": "2026-06-18T06:02:19.798Z"
 }
