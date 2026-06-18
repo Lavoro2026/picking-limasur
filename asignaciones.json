@@ -8,7 +8,19 @@
       "controlador": "TORRES",
       "picador": "VALLEJO QUISPE LUIS CARLOS",
       "timestamp": "2026-06-18T06:17:52.643Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "TORRES",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 402.97,
+      "cajas": 32,
+      "unds": 224,
+      "timestamp": "2026-06-18T10:30:03.925Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-18T06:17:52.643Z"
+  "ultima_actualizacion": "2026-06-18T10:30:03.925Z"
 }
