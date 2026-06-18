@@ -17,7 +17,16 @@
       "controlador": "TORRES",
       "picador": "VALLEJO QUISPE LUIS CARLOS",
       "timestamp": "2026-06-18T05:37:31.002Z"
+    },
+    {
+      "placa": "D1V932",
+      "familia": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "PIERRE",
+      "picador": "VALLEJO QUISPE LUIS CARLOS",
+      "timestamp": "2026-06-18T05:53:32.656Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-18T05:37:31.002Z"
+  "ultima_actualizacion": "2026-06-18T05:53:32.656Z"
 }
