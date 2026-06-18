@@ -1,17 +1,4 @@
 {
-  "asignaciones": [
-    {
-      "placa": "AMQ791",
-      "familia": "B",
-      "material": "1004553",
-      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
-      "controlador": "NICOLAS",
-      "picador": "CUADROS TITO DIEGO SEBASTIAN",
-      "kg": 1099.87,
-      "cajas": 93,
-      "unds": 219,
-      "timestamp": "2026-06-18T12:13:54.109Z"
-    }
-  ],
-  "ultima_actualizacion": "2026-06-18T12:14:44.710Z"
+  "asignaciones": [],
+  "ultima_actualizacion": "2026-06-18T12:14:51.832Z"
 }
