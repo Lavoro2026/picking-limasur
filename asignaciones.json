@@ -11,7 +11,19 @@
       "cajas": 20,
       "unds": 200,
       "timestamp": "2026-06-19T05:36:35.478Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "LALO",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 229.2,
+      "cajas": 18,
+      "unds": 15,
+      "timestamp": "2026-06-19T05:37:01.818Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T05:36:35.478Z"
+  "ultima_actualizacion": "2026-06-19T05:37:01.818Z"
 }
