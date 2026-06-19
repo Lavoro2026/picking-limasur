@@ -707,7 +707,19 @@
       "cajas": 79,
       "unds": 19,
       "timestamp": "2026-06-19T07:25:19.583Z"
+    },
+    {
+      "placa": "ACX716",
+      "familia": "F",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "PIERRE",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 158.14,
+      "cajas": 27,
+      "unds": 300,
+      "timestamp": "2026-06-19T07:25:35.895Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:25:19.583Z"
+  "ultima_actualizacion": "2026-06-19T07:25:35.895Z"
 }
