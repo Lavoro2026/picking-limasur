@@ -1583,7 +1583,19 @@
       "cajas": 25,
       "unds": 302,
       "timestamp": "2026-06-19T10:30:29.440Z"
+    },
+    {
+      "placa": "APU790",
+      "familia": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "TORRES",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 747.63,
+      "cajas": 62,
+      "unds": 13,
+      "timestamp": "2026-06-19T10:33:59.608Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T10:30:29.440Z"
+  "ultima_actualizacion": "2026-06-19T10:33:59.608Z"
 }
