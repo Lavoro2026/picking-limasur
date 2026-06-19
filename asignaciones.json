@@ -527,7 +527,19 @@
       "cajas": 35,
       "unds": 118,
       "timestamp": "2026-06-19T07:20:56.128Z"
+    },
+    {
+      "placa": "CKI862",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 138.61,
+      "cajas": 30,
+      "unds": 177,
+      "timestamp": "2026-06-19T07:21:08.742Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:20:56.128Z"
+  "ultima_actualizacion": "2026-06-19T07:21:08.742Z"
 }
