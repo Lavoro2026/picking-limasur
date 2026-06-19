@@ -1055,7 +1055,19 @@
       "cajas": 26,
       "unds": 25,
       "timestamp": "2026-06-19T08:38:02.960Z"
+    },
+    {
+      "placa": "C1J747",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 152.31,
+      "cajas": 32,
+      "unds": 179,
+      "timestamp": "2026-06-19T08:38:18.178Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:38:02.960Z"
+  "ultima_actualizacion": "2026-06-19T08:38:18.178Z"
 }
