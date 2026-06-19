@@ -695,7 +695,19 @@
       "cajas": 28,
       "unds": 172,
       "timestamp": "2026-06-19T07:25:02.313Z"
+    },
+    {
+      "placa": "ACX716",
+      "familia": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "PIERRE",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 918.31,
+      "cajas": 79,
+      "unds": 19,
+      "timestamp": "2026-06-19T07:25:19.583Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:25:02.313Z"
+  "ultima_actualizacion": "2026-06-19T07:25:19.583Z"
 }
