@@ -1091,7 +1091,19 @@
       "cajas": 22,
       "unds": 204,
       "timestamp": "2026-06-19T09:38:58.844Z"
+    },
+    {
+      "placa": "B0V924",
+      "familia": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "TORRES",
+      "picador": "ZAPATA OYARCE MARCO ANTONIO",
+      "kg": 312.23,
+      "cajas": 21,
+      "unds": 244,
+      "timestamp": "2026-06-19T09:39:07.711Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T09:38:58.844Z"
+  "ultima_actualizacion": "2026-06-19T09:39:07.711Z"
 }
