@@ -611,7 +611,19 @@
       "cajas": 29,
       "unds": 148,
       "timestamp": "2026-06-19T07:22:43.850Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 62.75,
+      "cajas": 8,
+      "unds": 207,
+      "timestamp": "2026-06-19T07:23:16.598Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:22:43.850Z"
+  "ultima_actualizacion": "2026-06-19T07:23:16.598Z"
 }
