@@ -1379,7 +1379,19 @@
       "cajas": 23,
       "unds": 244,
       "timestamp": "2026-06-19T10:11:38.610Z"
+    },
+    {
+      "placa": "A7Y808",
+      "familia": "A",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "VENTURA",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 460.95,
+      "cajas": 36,
+      "unds": 270,
+      "timestamp": "2026-06-19T10:11:49.970Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T10:11:38.610Z"
+  "ultima_actualizacion": "2026-06-19T10:11:49.970Z"
 }
