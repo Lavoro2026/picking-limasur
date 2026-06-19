@@ -311,7 +311,19 @@
       "cajas": 19,
       "unds": 242,
       "timestamp": "2026-06-19T06:13:41.555Z"
+    },
+    {
+      "placa": "ATP870",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 99.42,
+      "cajas": 13,
+      "unds": 170,
+      "timestamp": "2026-06-19T06:13:57.171Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T06:13:41.555Z"
+  "ultima_actualizacion": "2026-06-19T06:13:57.171Z"
 }
