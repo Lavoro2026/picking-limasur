@@ -1571,7 +1571,19 @@
       "cajas": 58,
       "unds": 9,
       "timestamp": "2026-06-19T10:30:14.307Z"
+    },
+    {
+      "placa": "APU790",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 187.62,
+      "cajas": 25,
+      "unds": 302,
+      "timestamp": "2026-06-19T10:30:29.440Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T10:30:14.307Z"
+  "ultima_actualizacion": "2026-06-19T10:30:29.440Z"
 }
