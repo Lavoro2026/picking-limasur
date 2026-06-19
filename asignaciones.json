@@ -1043,7 +1043,19 @@
       "cajas": 22,
       "unds": 191,
       "timestamp": "2026-06-19T08:37:50.840Z"
+    },
+    {
+      "placa": "ARD784",
+      "familia": "C",
+      "material": "1004939",
+      "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+      "controlador": "LALO",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 325.77,
+      "cajas": 26,
+      "unds": 25,
+      "timestamp": "2026-06-19T08:38:02.960Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:37:50.840Z"
+  "ultima_actualizacion": "2026-06-19T08:38:02.960Z"
 }
