@@ -1,4 +1,17 @@
 {
-  "asignaciones": [],
-  "ultima_actualizacion": "2026-06-18T12:14:51.832Z"
+  "asignaciones": [
+    {
+      "placa": "BKV855",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 111.41,
+      "cajas": 20,
+      "unds": 200,
+      "timestamp": "2026-06-19T05:36:35.478Z"
+    }
+  ],
+  "ultima_actualizacion": "2026-06-19T05:36:35.478Z"
 }
