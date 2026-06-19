@@ -359,7 +359,19 @@
       "cajas": 20,
       "unds": 189,
       "timestamp": "2026-06-19T06:26:31.871Z"
+    },
+    {
+      "placa": "CKI862",
+      "familia": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "PIERRE",
+      "picador": "VALLEJO QUISPE LUIS CARLOS",
+      "kg": 308.18,
+      "cajas": 22,
+      "unds": 210,
+      "timestamp": "2026-06-19T06:34:51.395Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T06:26:31.871Z"
+  "ultima_actualizacion": "2026-06-19T06:34:51.395Z"
 }
