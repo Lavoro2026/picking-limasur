@@ -995,7 +995,19 @@
       "cajas": 20,
       "unds": 193,
       "timestamp": "2026-06-19T08:30:22.375Z"
+    },
+    {
+      "placa": "B0V924",
+      "familia": "A",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "TORRES",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 594.52,
+      "cajas": 51,
+      "unds": 176,
+      "timestamp": "2026-06-19T08:30:37.317Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:30:22.375Z"
+  "ultima_actualizacion": "2026-06-19T08:30:37.317Z"
 }
