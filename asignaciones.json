@@ -743,7 +743,19 @@
       "cajas": 23,
       "unds": 179,
       "timestamp": "2026-06-19T07:26:00.394Z"
+    },
+    {
+      "placa": "D3L703",
+      "familia": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "NICOLAS",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 447.22,
+      "cajas": 39,
+      "unds": 262,
+      "timestamp": "2026-06-19T07:26:09.829Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:26:00.394Z"
+  "ultima_actualizacion": "2026-06-19T07:26:09.829Z"
 }
