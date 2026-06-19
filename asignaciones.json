@@ -947,7 +947,19 @@
       "cajas": 53,
       "unds": 235,
       "timestamp": "2026-06-19T08:11:26.619Z"
+    },
+    {
+      "placa": "ASM907",
+      "familia": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "VENTURA",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 581.01,
+      "cajas": 48,
+      "unds": 19,
+      "timestamp": "2026-06-19T08:11:56.832Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:11:26.619Z"
+  "ultima_actualizacion": "2026-06-19T08:11:56.832Z"
 }
