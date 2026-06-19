@@ -551,7 +551,19 @@
       "cajas": 57,
       "unds": 257,
       "timestamp": "2026-06-19T07:21:28.152Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 106.66,
+      "cajas": 18,
+      "unds": 218,
+      "timestamp": "2026-06-19T07:21:48.635Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T07:21:28.152Z"
+  "ultima_actualizacion": "2026-06-19T07:21:48.635Z"
 }
