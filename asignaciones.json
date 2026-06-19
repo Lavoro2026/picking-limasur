@@ -1019,7 +1019,19 @@
       "cajas": 37,
       "unds": 23,
       "timestamp": "2026-06-19T08:30:51.530Z"
+    },
+    {
+      "placa": "AWH909",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 45.33,
+      "cajas": 4,
+      "unds": 108,
+      "timestamp": "2026-06-19T08:31:08.613Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:30:51.530Z"
+  "ultima_actualizacion": "2026-06-19T08:31:08.613Z"
 }
