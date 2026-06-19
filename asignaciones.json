@@ -899,7 +899,19 @@
       "cajas": 13,
       "unds": 307,
       "timestamp": "2026-06-19T08:05:21.809Z"
+    },
+    {
+      "placa": "AHX902",
+      "familia": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "PIERRE",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 567.94,
+      "cajas": 47,
+      "unds": 16,
+      "timestamp": "2026-06-19T08:05:37.397Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T08:05:21.809Z"
+  "ultima_actualizacion": "2026-06-19T08:05:37.397Z"
 }
