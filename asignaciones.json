@@ -371,7 +371,19 @@
       "cajas": 22,
       "unds": 210,
       "timestamp": "2026-06-19T06:34:51.395Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "B",
+      "material": "1006123",
+      "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+      "controlador": "NICOLAS",
+      "picador": "VALLEJO QUISPE LUIS CARLOS",
+      "kg": 669.91,
+      "cajas": 55,
+      "unds": 146,
+      "timestamp": "2026-06-19T06:44:39.469Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-19T06:34:51.395Z"
+  "ultima_actualizacion": "2026-06-19T06:44:39.469Z"
 }
