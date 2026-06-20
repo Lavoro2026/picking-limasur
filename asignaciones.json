@@ -2657,7 +2657,20 @@
       "cajas": 10,
       "unds": 12,
       "timestamp": "2026-06-20T08:41:05.874Z"
+    },
+    {
+      "placa": "A5Y854",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 123.95,
+      "cajas": 25,
+      "unds": 157,
+      "timestamp": "2026-06-20T08:42:17.822Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:41:05.874Z"
+  "ultima_actualizacion": "2026-06-20T08:42:17.822Z"
 }
