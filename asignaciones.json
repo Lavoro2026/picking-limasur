@@ -2293,7 +2293,20 @@
       "cajas": 18,
       "unds": 89,
       "timestamp": "2026-06-20T08:09:52.373Z"
+    },
+    {
+      "placa": "C5R934",
+      "familia": "B",
+      "zona": "B",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "TORRES",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 608.85,
+      "cajas": 47,
+      "unds": 213,
+      "timestamp": "2026-06-20T08:10:03.770Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:09:52.373Z"
+  "ultima_actualizacion": "2026-06-20T08:10:03.770Z"
 }
