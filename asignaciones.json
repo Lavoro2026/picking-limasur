@@ -1786,7 +1786,20 @@
       "cajas": 2,
       "unds": 1,
       "timestamp": "2026-06-20T07:31:49.818Z"
+    },
+    {
+      "placa": "W6L701",
+      "familia": "E",
+      "zona": "",
+      "material": "1003133",
+      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 71.59,
+      "cajas": 9,
+      "unds": 47,
+      "timestamp": "2026-06-20T07:31:54.482Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:31:49.818Z"
+  "ultima_actualizacion": "2026-06-20T07:31:54.482Z"
 }
