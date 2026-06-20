@@ -38,18 +38,6 @@
     },
     {
       "placa": "F7B746",
-      "familia": "A",
-      "material": "3777",
-      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
-      "controlador": "TORRES",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 602.49,
-      "cajas": 51,
-      "unds": 219,
-      "timestamp": "2026-06-19T05:38:57.630Z"
-    },
-    {
-      "placa": "F7B746",
       "familia": "F",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
@@ -73,5 +61,5 @@
       "timestamp": "2026-06-19T05:49:33.570Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:57:22.071Z"
+  "ultima_actualizacion": "2026-06-20T03:57:24.168Z"
 }
