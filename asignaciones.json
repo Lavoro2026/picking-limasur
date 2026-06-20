@@ -169,18 +169,6 @@
       "timestamp": "2026-06-19T05:52:55.856Z"
     },
     {
-      "placa": "F9W785",
-      "familia": "B",
-      "material": "1004553",
-      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
-      "controlador": "NICOLAS",
-      "picador": "GUERRERO VILCA, BRYAN ANTONY",
-      "kg": 302.47,
-      "cajas": 21,
-      "unds": 222,
-      "timestamp": "2026-06-19T05:54:40.291Z"
-    },
-    {
       "placa": "F7X829",
       "familia": "B",
       "material": "3759",
@@ -193,5 +181,5 @@
       "timestamp": "2026-06-19T06:02:28.041Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:56:56.921Z"
+  "ultima_actualizacion": "2026-06-20T03:56:59.210Z"
 }
