@@ -3424,7 +3424,20 @@
       "cajas": 38,
       "unds": 105,
       "timestamp": "2026-06-20T10:34:08.823Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "B",
+      "zona": "P",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 561.19,
+      "cajas": 48,
+      "unds": 134,
+      "timestamp": "2026-06-20T10:38:06.465Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T10:34:08.823Z"
+  "ultima_actualizacion": "2026-06-20T10:38:06.465Z"
 }
