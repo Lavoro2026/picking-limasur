@@ -683,7 +683,19 @@
       "cajas": 43,
       "unds": 250,
       "timestamp": "2026-06-20T06:06:17.289Z"
+    },
+    {
+      "placa": "C2B801",
+      "familia": "E",
+      "material": "1002751",
+      "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U FROJO",
+      "controlador": "LALO",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 37.57,
+      "cajas": 4,
+      "unds": 14,
+      "timestamp": "2026-06-20T06:08:17.625Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:06:17.289Z"
+  "ultima_actualizacion": "2026-06-20T06:08:17.625Z"
 }
