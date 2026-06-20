@@ -373,18 +373,6 @@
       "timestamp": "2026-06-20T06:13:53.177Z"
     },
     {
-      "placa": "ATP870",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "LALO",
-      "picador": "VILLALBA CULE, ALVARO",
-      "kg": 165.33,
-      "cajas": 31,
-      "unds": 277,
-      "timestamp": "2026-06-20T06:14:17.947Z"
-    },
-    {
       "placa": "AMQ791",
       "familia": "C",
       "material": "1004903",
@@ -3904,7 +3892,21 @@
       "cajas": 17,
       "unds": 158,
       "timestamp": "2026-06-20T12:02:28.998Z"
+    },
+    {
+      "placa": "ATP870",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 165.33,
+      "kg_regular": 165.33,
+      "cajas": 31,
+      "unds": 277,
+      "timestamp": "2026-06-20T12:02:30.650Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:28.998Z"
+  "ultima_actualizacion": "2026-06-20T12:02:30.650Z"
 }
