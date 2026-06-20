@@ -3515,7 +3515,20 @@
       "cajas": 43,
       "unds": 248,
       "timestamp": "2026-06-20T10:59:28.625Z"
+    },
+    {
+      "placa": "APU790",
+      "familia": "B",
+      "zona": "P",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "LALO",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 572.48,
+      "cajas": 45,
+      "unds": 282,
+      "timestamp": "2026-06-20T10:59:59.567Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T10:59:28.625Z"
+  "ultima_actualizacion": "2026-06-20T10:59:59.567Z"
 }
