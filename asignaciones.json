@@ -707,19 +707,6 @@
     },
     {
       "placa": "C2B801",
-      "familia": "C",
-      "zona": "",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "LALO",
-      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-      "kg": 669.91,
-      "cajas": 49,
-      "unds": 21,
-      "timestamp": "2026-06-20T06:55:27.102Z"
-    },
-    {
-      "placa": "C2B801",
       "familia": "D",
       "zona": "A",
       "material": "1005241",
@@ -3929,7 +3916,21 @@
       "cajas": 23,
       "unds": 74,
       "timestamp": "2026-06-20T12:03:27.360Z"
+    },
+    {
+      "placa": "C2B801",
+      "familia": "C",
+      "zona": "A",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "LALO",
+      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+      "kg": 669.91,
+      "kg_regular": 669.91,
+      "cajas": 49,
+      "unds": 21,
+      "timestamp": "2026-06-20T12:03:29.000Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:03:27.360Z"
+  "ultima_actualizacion": "2026-06-20T12:03:29.000Z"
 }
