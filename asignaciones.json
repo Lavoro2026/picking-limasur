@@ -732,19 +732,6 @@
       "timestamp": "2026-06-20T06:58:52.238Z"
     },
     {
-      "placa": "AXH708",
-      "familia": "F",
-      "zona": "",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "PIERRE",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 162.24,
-      "cajas": 26,
-      "unds": 250,
-      "timestamp": "2026-06-20T06:59:11.756Z"
-    },
-    {
       "placa": "AXB855",
       "familia": "A",
       "zona": "B",
@@ -3930,7 +3917,21 @@
       "cajas": 49,
       "unds": 21,
       "timestamp": "2026-06-20T12:03:29.000Z"
+    },
+    {
+      "placa": "AXH708",
+      "familia": "F",
+      "zona": "B",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 162.24,
+      "kg_regular": 162.24,
+      "cajas": 26,
+      "unds": 250,
+      "timestamp": "2026-06-20T12:03:32.095Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:03:29.000Z"
+  "ultima_actualizacion": "2026-06-20T12:03:32.095Z"
 }
