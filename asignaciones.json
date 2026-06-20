@@ -85,18 +85,6 @@
       "timestamp": "2026-06-20T05:29:49.163Z"
     },
     {
-      "placa": "D4R705",
-      "familia": "F",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "PIERRE",
-      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
-      "kg": 110.79,
-      "cajas": 17,
-      "unds": 190,
-      "timestamp": "2026-06-20T05:31:08.678Z"
-    },
-    {
       "placa": "D1V932",
       "familia": "E",
       "material": "1002743",
@@ -3866,7 +3854,21 @@
       "cajas": 32,
       "unds": 191,
       "timestamp": "2026-06-20T12:01:35.169Z"
+    },
+    {
+      "placa": "D4R705",
+      "familia": "F",
+      "zona": "A",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "PIERRE",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 110.79,
+      "kg_regular": 110.79,
+      "cajas": 17,
+      "unds": 190,
+      "timestamp": "2026-06-20T12:01:36.830Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:35.169Z"
+  "ultima_actualizacion": "2026-06-20T12:01:36.830Z"
 }
