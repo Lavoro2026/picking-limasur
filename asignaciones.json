@@ -2501,7 +2501,20 @@
       "cajas": 10,
       "unds": 22,
       "timestamp": "2026-06-20T08:28:57.058Z"
+    },
+    {
+      "placa": "ARZ862",
+      "familia": "A",
+      "zona": "C",
+      "material": "535452",
+      "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+      "controlador": "TORRES",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 529.32,
+      "cajas": 42,
+      "unds": 328,
+      "timestamp": "2026-06-20T08:31:13.727Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:28:57.058Z"
+  "ultima_actualizacion": "2026-06-20T08:31:13.727Z"
 }
