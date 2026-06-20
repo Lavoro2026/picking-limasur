@@ -98,18 +98,6 @@
     },
     {
       "placa": "D1V932",
-      "familia": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "PIERRE",
-      "picador": "GUERRERO VILCA, BRYAN ANTONY",
-      "kg": 419.53,
-      "cajas": 29,
-      "unds": 207,
-      "timestamp": "2026-06-19T05:46:42.763Z"
-    },
-    {
-      "placa": "D1V932",
       "familia": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
@@ -145,5 +133,5 @@
       "timestamp": "2026-06-19T06:02:28.041Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:57:04.831Z"
+  "ultima_actualizacion": "2026-06-20T03:57:06.825Z"
 }
