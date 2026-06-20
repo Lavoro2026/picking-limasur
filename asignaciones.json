@@ -1357,18 +1357,6 @@
       "timestamp": "2026-06-19T10:11:19.542Z"
     },
     {
-      "placa": "W6L701",
-      "familia": "A",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "NICOLAS",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 315.35,
-      "cajas": 23,
-      "unds": 244,
-      "timestamp": "2026-06-19T10:11:38.610Z"
-    },
-    {
       "placa": "ATB831",
       "familia": "C",
       "material": "1004903",
@@ -1417,5 +1405,5 @@
       "timestamp": "2026-06-19T10:14:44.500Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:42:36.429Z"
+  "ultima_actualizacion": "2026-06-20T03:42:40.912Z"
 }
