@@ -1105,18 +1105,6 @@
       "timestamp": "2026-06-19T09:39:14.821Z"
     },
     {
-      "placa": "D9G880",
-      "familia": "A",
-      "material": "3777",
-      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
-      "controlador": "VENTURA",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 976.18,
-      "cajas": 89,
-      "unds": 179,
-      "timestamp": "2026-06-19T10:04:54.957Z"
-    },
-    {
       "placa": "B0V924",
       "familia": "C",
       "material": "1004903",
@@ -1129,5 +1117,5 @@
       "timestamp": "2026-06-19T10:05:26.385Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:47:00.627Z"
+  "ultima_actualizacion": "2026-06-20T03:47:04.527Z"
 }
