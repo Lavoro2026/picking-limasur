@@ -1838,7 +1838,20 @@
       "cajas": 36,
       "unds": 8,
       "timestamp": "2026-06-20T07:34:02.476Z"
+    },
+    {
+      "placa": "A7Y808",
+      "familia": "D",
+      "zona": "B",
+      "material": "1050241",
+      "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+      "controlador": "NICOLAS",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 20.4,
+      "cajas": 3,
+      "unds": 4,
+      "timestamp": "2026-06-20T07:34:53.803Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:34:02.476Z"
+  "ultima_actualizacion": "2026-06-20T07:34:53.803Z"
 }
