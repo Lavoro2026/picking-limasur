@@ -49,18 +49,6 @@
       "timestamp": "2026-06-20T05:21:27.898Z"
     },
     {
-      "placa": "ANI940",
-      "familia": "E",
-      "material": "1003133",
-      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
-      "controlador": "TORRES",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 171.75,
-      "cajas": 24,
-      "unds": 46,
-      "timestamp": "2026-06-20T05:22:46.726Z"
-    },
-    {
       "placa": "D1V932",
       "familia": "F",
       "material": "1004551",
@@ -3860,7 +3848,21 @@
       "cajas": 32,
       "unds": 197,
       "timestamp": "2026-06-20T12:01:27.603Z"
+    },
+    {
+      "placa": "ANI940",
+      "familia": "E",
+      "zona": "A",
+      "material": "1003133",
+      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+      "controlador": "TORRES",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 171.75,
+      "kg_regular": 35.54,
+      "cajas": 24,
+      "unds": 46,
+      "timestamp": "2026-06-20T12:01:29.115Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:27.603Z"
+  "ultima_actualizacion": "2026-06-20T12:01:29.115Z"
 }
