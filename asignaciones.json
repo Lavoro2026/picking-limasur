@@ -3670,7 +3670,21 @@
       "cajas": 34,
       "unds": 217,
       "timestamp": "2026-06-20T11:58:19.918Z"
+    },
+    {
+      "placa": "A7Y808",
+      "familia": "A",
+      "zona": "B",
+      "material": "535452",
+      "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+      "controlador": "NICOLAS",
+      "picador": "BAZAN CORTEGANA NILO",
+      "kg": 448.65,
+      "kg_regular": 448.65,
+      "cajas": 37,
+      "unds": 201,
+      "timestamp": "2026-06-20T11:58:24.312Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:58:19.918Z"
+  "ultima_actualizacion": "2026-06-20T11:58:24.312Z"
 }
