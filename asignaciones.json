@@ -50,18 +50,6 @@
     },
     {
       "placa": "BKV855",
-      "familia": "E",
-      "material": "1002743",
-      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
-      "controlador": "PIERRE",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 144.49,
-      "cajas": 20,
-      "unds": 44,
-      "timestamp": "2026-06-20T05:17:50.508Z"
-    },
-    {
-      "placa": "BKV855",
       "familia": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
@@ -3640,7 +3628,21 @@
       "cajas": 25,
       "unds": 180,
       "timestamp": "2026-06-20T11:57:34.441Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "E",
+      "zona": "A",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 144.49,
+      "kg_regular": 27.03,
+      "cajas": 20,
+      "unds": 44,
+      "timestamp": "2026-06-20T11:57:35.598Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:57:34.441Z"
+  "ultima_actualizacion": "2026-06-20T11:57:35.598Z"
 }
