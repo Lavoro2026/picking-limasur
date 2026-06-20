@@ -2150,7 +2150,20 @@
       "cajas": 37,
       "unds": 71,
       "timestamp": "2026-06-20T07:55:05.321Z"
+    },
+    {
+      "placa": "ARD784",
+      "familia": "D",
+      "zona": "B",
+      "material": "1050241",
+      "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 190.04,
+      "cajas": 27,
+      "unds": 15,
+      "timestamp": "2026-06-20T07:55:27.795Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:55:05.321Z"
+  "ultima_actualizacion": "2026-06-20T07:55:27.795Z"
 }
