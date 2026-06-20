@@ -1,17 +1,4 @@
 {
-  "asignaciones": [
-    {
-      "placa": "BKV855",
-      "familia": "A",
-      "material": "3777",
-      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
-      "controlador": "LALO",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 657.88,
-      "cajas": 53,
-      "unds": 326,
-      "timestamp": "2026-06-19T05:38:37.534Z"
-    }
-  ],
-  "ultima_actualizacion": "2026-06-20T03:57:42.183Z"
+  "asignaciones": [],
+  "ultima_actualizacion": "2026-06-20T03:57:45.667Z"
 }
