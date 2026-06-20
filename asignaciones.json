@@ -3229,7 +3229,20 @@
       "cajas": 128,
       "unds": 21,
       "timestamp": "2026-06-20T09:48:22.043Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "B",
+      "zona": "C",
+      "material": "1006123",
+      "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+      "controlador": "LALO",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 2244.88,
+      "cajas": 203,
+      "unds": 111,
+      "timestamp": "2026-06-20T09:48:26.948Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:48:22.043Z"
+  "ultima_actualizacion": "2026-06-20T09:48:26.948Z"
 }
