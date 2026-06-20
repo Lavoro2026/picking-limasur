@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "18/06/2026 23:27:41",
+  "ultima_actualizacion": "19/06/2026 22:16:52",
   "dias": {
     "2026-06-01": {
       "por_familia": {
@@ -66,6 +66,14 @@
         "APB825": 1213.81,
         "AHX902": 1227.71,
         "ASA790": 1111.97
+      },
+      "por_almacen": {
+        "ABARROTES": 62869.91,
+        "REFRIGERADOS": 13431.04
+      },
+      "por_estado": {
+        "Picking_Regular": 56698.67,
+        "Picking Directo": 19602.28
       },
       "total_kg": 76300.95,
       "total_registros": 4733
@@ -138,6 +146,14 @@
         "F1E927": 1065.69,
         "C2B801": 3170.29
       },
+      "por_almacen": {
+        "ABARROTES": 85464.44,
+        "REFRIGERADOS": 18834.9
+      },
+      "por_estado": {
+        "Picking_Regular": 75797.3,
+        "Picking Directo": 28502.04
+      },
       "total_kg": 104299.35,
       "total_registros": 5528
     },
@@ -207,6 +223,14 @@
         "AHX902": 2606.16,
         "AUP711": 2898.1
       },
+      "por_almacen": {
+        "ABARROTES": 86775.98,
+        "REFRIGERADOS": 19897.59
+      },
+      "por_estado": {
+        "Picking_Regular": 76579.69,
+        "Picking Directo": 30093.89
+      },
       "total_kg": 106673.57,
       "total_registros": 5370
     },
@@ -275,6 +299,14 @@
         "APC840": 1081.65,
         "ASA790": 1201.26,
         "ATB831": 2211.4
+      },
+      "por_almacen": {
+        "ABARROTES": 76057.01,
+        "REFRIGERADOS": 19453.94
+      },
+      "por_estado": {
+        "Picking_Regular": 67288.27,
+        "Picking Directo": 28222.67
       },
       "total_kg": 95510.94,
       "total_registros": 5342
@@ -349,6 +381,14 @@
         "ACX716": 2180.23,
         "BBI909": 2954.48
       },
+      "por_almacen": {
+        "ABARROTES": 112354.83,
+        "REFRIGERADOS": 16358.2
+      },
+      "por_estado": {
+        "Picking_Regular": 69299.52,
+        "Picking Directo": 59413.51
+      },
       "total_kg": 128713.03,
       "total_registros": 5183
     },
@@ -422,6 +462,14 @@
         "AUP711": 3828.44,
         "C3Q769": 6650.85
       },
+      "por_almacen": {
+        "ABARROTES": 101086.45,
+        "REFRIGERADOS": 15298.03
+      },
+      "por_estado": {
+        "Picking_Regular": 65764.84,
+        "Picking Directo": 50619.64
+      },
       "total_kg": 116384.48,
       "total_registros": 4908
     },
@@ -493,6 +541,14 @@
         "AHX902": 2196.3,
         "APB825": 1384.39,
         "ATB831": 1928.22
+      },
+      "por_almacen": {
+        "ABARROTES": 102704.29,
+        "REFRIGERADOS": 15539.09
+      },
+      "por_estado": {
+        "Picking_Regular": 72258.53,
+        "Picking Directo": 45984.85
       },
       "total_kg": 118243.38,
       "total_registros": 4913
@@ -566,6 +622,14 @@
         "AUP711": 2143.65,
         "BBI909": 3166.33,
         "AHX902": 2266.32
+      },
+      "por_almacen": {
+        "ABARROTES": 97238.07,
+        "REFRIGERADOS": 22342.06
+      },
+      "por_estado": {
+        "Picking_Regular": 75004.94,
+        "Picking Directo": 44575.18
       },
       "total_kg": 119580.12,
       "total_registros": 5384
@@ -643,6 +707,14 @@
         "AHX902": 3406.25,
         "AUP711": 3416.73
       },
+      "por_almacen": {
+        "ABARROTES": 102664.65,
+        "REFRIGERADOS": 28947.14
+      },
+      "por_estado": {
+        "Picking_Regular": 79294.21,
+        "Picking Directo": 52317.57
+      },
       "total_kg": 131611.79,
       "total_registros": 5571
     },
@@ -718,6 +790,14 @@
         "ASA790": 1457.98,
         "ATB831": 2208.35
       },
+      "por_almacen": {
+        "ABARROTES": 96831.08,
+        "REFRIGERADOS": 26613.8
+      },
+      "por_estado": {
+        "Picking_Regular": 81693.77,
+        "Picking Directo": 41751.1
+      },
       "total_kg": 123444.87,
       "total_registros": 5662
     },
@@ -792,6 +872,14 @@
         "ACX716": 2557.92,
         "BBI909": 2888.27
       },
+      "por_almacen": {
+        "ABARROTES": 88974.54,
+        "REFRIGERADOS": 22434.18
+      },
+      "por_estado": {
+        "Picking_Regular": 78436.57,
+        "Picking Directo": 32972.14
+      },
       "total_kg": 111408.72,
       "total_registros": 5482
     },
@@ -863,6 +951,14 @@
         "ARD784": 2876.07,
         "AUP711": 3646.48
       },
+      "por_almacen": {
+        "ABARROTES": 87527.02,
+        "REFRIGERADOS": 24740.21
+      },
+      "por_estado": {
+        "Picking_Regular": 77609.05,
+        "Picking Directo": 34658.19
+      },
       "total_kg": 112267.23,
       "total_registros": 5118
     },
@@ -933,6 +1029,14 @@
         "F1E927": 2643.61,
         "BBI909": 2115.13,
         "APB825": 2650.06
+      },
+      "por_almacen": {
+        "ABARROTES": 82763.04,
+        "REFRIGERADOS": 23337.24
+      },
+      "por_estado": {
+        "Picking_Regular": 76539.86,
+        "Picking Directo": 29560.42
       },
       "total_kg": 106100.28,
       "total_registros": 5265
@@ -1009,6 +1113,14 @@
         "ANE848": 4961.28,
         "F9W785": 1841.34
       },
+      "por_almacen": {
+        "ABARROTES": 105799.7,
+        "REFRIGERADOS": 23970.22
+      },
+      "por_estado": {
+        "Picking_Regular": 75042.11,
+        "Picking Directo": 54727.81
+      },
       "total_kg": 129769.92,
       "total_registros": 5608
     },
@@ -1084,6 +1196,14 @@
         "AWH909": 3967.86,
         "AVA931": 3243.9
       },
+      "por_almacen": {
+        "ABARROTES": 115168.82,
+        "REFRIGERADOS": 25702.57
+      },
+      "por_estado": {
+        "Picking_Regular": 84539.69,
+        "Picking Directo": 56331.69
+      },
       "total_kg": 140871.39,
       "total_registros": 5546
     },
@@ -1158,6 +1278,14 @@
         "F3M892": 1210.74,
         "ARD784": 2429.2
       },
+      "por_almacen": {
+        "ABARROTES": 100802.76,
+        "REFRIGERADOS": 24520.95
+      },
+      "por_estado": {
+        "Picking_Regular": 75818.05,
+        "Picking Directo": 49505.65
+      },
       "total_kg": 125323.71,
       "total_registros": 5525
     },
@@ -1230,8 +1358,95 @@
         "AXB855": 1888.88,
         "A1Q874": 1785.99
       },
+      "por_almacen": {
+        "ABARROTES": 85176.41,
+        "REFRIGERADOS": 14905.06
+      },
+      "por_estado": {
+        "Picking_Regular": 71240.33,
+        "Picking Directo": 28841.14
+      },
       "total_kg": 100081.47,
       "total_registros": 5271
+    },
+    "2026-06-20": {
+      "por_familia": {
+        "A": 29366.35,
+        "B": 29464.94,
+        "C": 24540.42,
+        "F": 7243.52,
+        "E": 7378.7,
+        "D": 3688.81,
+        "G": 568.43
+      },
+      "por_status": {
+        "A": 34031.15,
+        "B": 30382.72,
+        "C": 25925.58,
+        "P": 11911.72
+      },
+      "por_placa": {
+        "F1E927": 1645.07,
+        "AXB855": 2290.2,
+        "A5K897": 1590.24,
+        "C1J747": 1233.45,
+        "BKV855": 1634.61,
+        "D7L941": 2440.42,
+        "P4A742": 2996.31,
+        "F9W785": 1964.17,
+        "C3Q769": 3424.49,
+        "ARD784": 2487.76,
+        "AUP711": 2383.08,
+        "A6R946": 1595.2,
+        "D3L703": 2559.26,
+        "A7Y808": 2148.94,
+        "ARZ862": 1875.62,
+        "APU790": 2291.4,
+        "B0V924": 1328.18,
+        "A5Y854": 1866.61,
+        "A6P899": 1984.06,
+        "CKI862": 1468.36,
+        "AHX902": 1861.04,
+        "C8F736": 1517.19,
+        "ANI940": 1709.21,
+        "ATP870": 1574.21,
+        "ASM812": 1979.6,
+        "APB825": 1113.86,
+        "D2H719": 1603.33,
+        "A4G840": 1887.91,
+        "F7X829": 1441.48,
+        "AWH909": 3535.42,
+        "A1Q874": 1460.59,
+        "F3M892": 1461.98,
+        "AMQ791": 3373.24,
+        "W6L701": 1768.26,
+        "ASM907": 2021.19,
+        "AWC785": 1284.5,
+        "D1V932": 1379.11,
+        "C5R934": 3091.51,
+        "ATB831": 1905.37,
+        "AXH708": 2185.68,
+        "D9G880": 3643.86,
+        "F7B746": 1909.64,
+        "T6F869": 1404.46,
+        "AMF737": 4153.4,
+        "C2B801": 3445.0,
+        "ACX716": 1234.82,
+        "APC840": 1805.59,
+        "D4R705": 1533.27,
+        "ASA790": 2579.56,
+        "V2F841": 1179.46
+      },
+      "por_almacen": {
+        "ABARROTES": 87638.38,
+        "REFRIGERADOS": 14612.79
+      },
+      "por_estado": {
+        "Picking_Regular": 65644.55,
+        "Picking Directo": 36606.62
+      },
+      "total_kg": 102251.17,
+      "total_registros": 4985
     }
   }
 }
