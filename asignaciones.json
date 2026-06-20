@@ -1213,18 +1213,6 @@
       "timestamp": "2026-06-19T10:07:12.810Z"
     },
     {
-      "placa": "C5G823",
-      "familia": "C",
-      "material": "1005193",
-      "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
-      "controlador": "LALO",
-      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-      "kg": 1475.08,
-      "cajas": 146,
-      "unds": 13,
-      "timestamp": "2026-06-19T10:07:22.362Z"
-    },
-    {
       "placa": "A6P899",
       "familia": "C",
       "material": "1004903",
@@ -1261,5 +1249,5 @@
       "timestamp": "2026-06-19T10:14:44.500Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:43:39.053Z"
+  "ultima_actualizacion": "2026-06-20T03:45:55.147Z"
 }
