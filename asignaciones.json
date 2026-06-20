@@ -3216,7 +3216,20 @@
       "cajas": 58,
       "unds": 11,
       "timestamp": "2026-06-20T09:48:03.100Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "C",
+      "zona": "",
+      "material": "1004939",
+      "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+      "controlador": "PIERRE",
+      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+      "kg": 1310.85,
+      "cajas": 128,
+      "unds": 21,
+      "timestamp": "2026-06-20T09:48:22.043Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:48:03.100Z"
+  "ultima_actualizacion": "2026-06-20T09:48:22.043Z"
 }
