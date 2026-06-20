@@ -143,7 +143,19 @@
       "cajas": 24,
       "unds": 91,
       "timestamp": "2026-06-20T05:21:27.898Z"
+    },
+    {
+      "placa": "F7B746",
+      "familia": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "NICOLAS",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 447.74,
+      "cajas": 32,
+      "unds": 197,
+      "timestamp": "2026-06-20T05:21:58.856Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:21:27.898Z"
+  "ultima_actualizacion": "2026-06-20T05:21:58.856Z"
 }
