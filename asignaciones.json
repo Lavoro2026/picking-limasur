@@ -11,7 +11,19 @@
       "cajas": 34,
       "unds": 196,
       "timestamp": "2026-06-20T04:59:42.372Z"
+    },
+    {
+      "placa": "F7B746",
+      "familia": "A",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "NICOLAS",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 411.94,
+      "cajas": 34,
+      "unds": 203,
+      "timestamp": "2026-06-20T05:02:49.284Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T04:59:42.372Z"
+  "ultima_actualizacion": "2026-06-20T05:02:49.284Z"
 }
