@@ -863,7 +863,20 @@
       "cajas": 9,
       "unds": 15,
       "timestamp": "2026-06-20T06:22:50.101Z"
+    },
+    {
+      "placa": "CKI862",
+      "familia": "E",
+      "zona": "",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "NICOLAS",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 96.91,
+      "cajas": 12,
+      "unds": 91,
+      "timestamp": "2026-06-20T06:24:50.923Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:22:50.101Z"
+  "ultima_actualizacion": "2026-06-20T06:24:50.923Z"
 }
