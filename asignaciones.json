@@ -498,19 +498,6 @@
       "timestamp": "2026-06-20T06:30:39.372Z"
     },
     {
-      "placa": "C1J747",
-      "familia": "C",
-      "zona": "",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "PIERRE",
-      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
-      "kg": 210.6,
-      "cajas": 19,
-      "unds": 12,
-      "timestamp": "2026-06-20T06:33:47.480Z"
-    },
-    {
       "placa": "C2B801",
       "familia": "F",
       "zona": "A",
@@ -3917,7 +3904,21 @@
       "cajas": 39,
       "unds": 72,
       "timestamp": "2026-06-20T12:02:49.348Z"
+    },
+    {
+      "placa": "C1J747",
+      "familia": "C",
+      "zona": "A",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "PIERRE",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 210.6,
+      "kg_regular": 210.6,
+      "cajas": 19,
+      "unds": 12,
+      "timestamp": "2026-06-20T12:02:53.749Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:49.348Z"
+  "ultima_actualizacion": "2026-06-20T12:02:53.749Z"
 }
