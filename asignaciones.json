@@ -193,18 +193,6 @@
       "timestamp": "2026-06-20T05:47:35.979Z"
     },
     {
-      "placa": "F1E927",
-      "familia": "D",
-      "material": "1004919",
-      "denominacion": "AGUA PURA VIDA CAJA 20L",
-      "controlador": "LALO",
-      "picador": "PAUL LORENZO, ZAVALA VIVAS",
-      "kg": 57.93,
-      "cajas": 7,
-      "unds": 0,
-      "timestamp": "2026-06-20T05:47:44.148Z"
-    },
-    {
       "placa": "BKV855",
       "familia": "D",
       "material": "1050239",
@@ -3886,7 +3874,21 @@
       "cajas": 16,
       "unds": 72,
       "timestamp": "2026-06-20T12:01:55.131Z"
+    },
+    {
+      "placa": "F1E927",
+      "familia": "D",
+      "zona": "A",
+      "material": "1004919",
+      "denominacion": "AGUA PURA VIDA CAJA 20L",
+      "controlador": "LALO",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 57.93,
+      "kg_regular": 57.93,
+      "cajas": 7,
+      "unds": 0,
+      "timestamp": "2026-06-20T12:02:02.162Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:55.131Z"
+  "ultima_actualizacion": "2026-06-20T12:02:02.162Z"
 }
