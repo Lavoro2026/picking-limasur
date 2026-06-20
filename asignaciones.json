@@ -745,18 +745,6 @@
       "timestamp": "2026-06-19T07:26:09.829Z"
     },
     {
-      "placa": "A5Y854",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "TORRES",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 128.16,
-      "cajas": 25,
-      "unds": 205,
-      "timestamp": "2026-06-19T07:26:24.945Z"
-    },
-    {
       "placa": "C5R934",
       "familia": "A",
       "material": "3777",
@@ -781,5 +769,5 @@
       "timestamp": "2026-06-19T07:43:27.233Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:52:16.730Z"
+  "ultima_actualizacion": "2026-06-20T03:52:19.296Z"
 }
