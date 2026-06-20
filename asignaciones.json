@@ -2709,7 +2709,20 @@
       "cajas": 10,
       "unds": 5,
       "timestamp": "2026-06-20T08:43:22.600Z"
+    },
+    {
+      "placa": "A5K897",
+      "familia": "D",
+      "zona": "C",
+      "material": "1050245",
+      "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 30.2,
+      "cajas": 4,
+      "unds": 4,
+      "timestamp": "2026-06-20T08:45:27.191Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:43:22.600Z"
+  "ultima_actualizacion": "2026-06-20T08:45:27.191Z"
 }
