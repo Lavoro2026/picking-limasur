@@ -2761,7 +2761,20 @@
       "cajas": 39,
       "unds": 197,
       "timestamp": "2026-06-20T08:51:21.483Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 125.04,
+      "cajas": 22,
+      "unds": 125,
+      "timestamp": "2026-06-20T08:51:29.264Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:51:21.483Z"
+  "ultima_actualizacion": "2026-06-20T08:51:29.264Z"
 }
