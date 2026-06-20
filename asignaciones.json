@@ -803,7 +803,19 @@
       "cajas": 32,
       "unds": 101,
       "timestamp": "2026-06-20T06:18:06.292Z"
+    },
+    {
+      "placa": "A6R946",
+      "familia": "E",
+      "material": "1003251",
+      "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+      "controlador": "TORRES",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 157.11,
+      "cajas": 23,
+      "unds": 50,
+      "timestamp": "2026-06-20T06:18:13.694Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:18:06.292Z"
+  "ultima_actualizacion": "2026-06-20T06:18:13.694Z"
 }
