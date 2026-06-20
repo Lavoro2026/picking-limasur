@@ -3138,7 +3138,20 @@
       "cajas": 45,
       "unds": 19,
       "timestamp": "2026-06-20T09:41:17.942Z"
+    },
+    {
+      "placa": "A4G840",
+      "familia": "F",
+      "zona": "P",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 100.03,
+      "cajas": 17,
+      "unds": 179,
+      "timestamp": "2026-06-20T09:45:16.648Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:41:17.942Z"
+  "ultima_actualizacion": "2026-06-20T09:45:16.648Z"
 }
