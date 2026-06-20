@@ -1773,7 +1773,20 @@
       "cajas": 15,
       "unds": 33,
       "timestamp": "2026-06-20T07:26:39.631Z"
+    },
+    {
+      "placa": "P4A742",
+      "familia": "D",
+      "zona": "B",
+      "material": "1005241",
+      "denominacion": "TAMPICO REF CITRUS PUNCH 600ML PQTX6UND",
+      "controlador": "LALO",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 11.54,
+      "cajas": 2,
+      "unds": 1,
+      "timestamp": "2026-06-20T07:31:49.818Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:26:39.631Z"
+  "ultima_actualizacion": "2026-06-20T07:31:49.818Z"
 }
