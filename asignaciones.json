@@ -1249,18 +1249,6 @@
       "timestamp": "2026-06-19T10:07:45.579Z"
     },
     {
-      "placa": "D9G880",
-      "familia": "F",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "VENTURA",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 309.58,
-      "cajas": 65,
-      "unds": 174,
-      "timestamp": "2026-06-19T10:07:55.973Z"
-    },
-    {
       "placa": "AMQ791",
       "familia": "C",
       "material": "1004903",
@@ -1309,5 +1297,5 @@
       "timestamp": "2026-06-19T10:14:44.500Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:43:14.589Z"
+  "ultima_actualizacion": "2026-06-20T03:43:18.077Z"
 }
