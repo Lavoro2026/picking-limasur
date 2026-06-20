@@ -2579,7 +2579,20 @@
       "cajas": 49,
       "unds": 290,
       "timestamp": "2026-06-20T08:34:03.983Z"
+    },
+    {
+      "placa": "D7L941",
+      "familia": "D",
+      "zona": "C",
+      "material": "1005261",
+      "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+      "controlador": "NICOLAS",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 26.97,
+      "cajas": 4,
+      "unds": 6,
+      "timestamp": "2026-06-20T08:34:09.155Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:34:03.983Z"
+  "ultima_actualizacion": "2026-06-20T08:34:09.155Z"
 }
