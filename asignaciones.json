@@ -119,7 +119,19 @@
       "cajas": 25,
       "unds": 200,
       "timestamp": "2026-06-20T05:19:46.482Z"
+    },
+    {
+      "placa": "AHX902",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 117.5,
+      "cajas": 24,
+      "unds": 164,
+      "timestamp": "2026-06-20T05:20:37.941Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:19:46.482Z"
+  "ultima_actualizacion": "2026-06-20T05:20:37.941Z"
 }
