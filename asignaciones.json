@@ -949,18 +949,6 @@
       "timestamp": "2026-06-19T08:11:56.832Z"
     },
     {
-      "placa": "AHX902",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "PIERRE",
-      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
-      "kg": 145.93,
-      "cajas": 25,
-      "unds": 209,
-      "timestamp": "2026-06-19T08:12:11.745Z"
-    },
-    {
       "placa": "C1J747",
       "familia": "F",
       "material": "1003105",
@@ -997,5 +985,5 @@
       "timestamp": "2026-06-19T10:05:26.385Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:51:01.280Z"
+  "ultima_actualizacion": "2026-06-20T03:51:07.494Z"
 }
