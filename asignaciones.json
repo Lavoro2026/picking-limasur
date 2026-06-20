@@ -193,18 +193,6 @@
       "timestamp": "2026-06-20T05:47:35.979Z"
     },
     {
-      "placa": "BKV855",
-      "familia": "D",
-      "material": "1050239",
-      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
-      "controlador": "PIERRE",
-      "picador": "PAUL LORENZO, ZAVALA VIVAS",
-      "kg": 51.15,
-      "cajas": 8,
-      "unds": 2,
-      "timestamp": "2026-06-20T05:48:16.183Z"
-    },
-    {
       "placa": "ANI940",
       "familia": "D",
       "material": "1050239",
@@ -3888,7 +3876,21 @@
       "cajas": 7,
       "unds": 0,
       "timestamp": "2026-06-20T12:02:02.162Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "D",
+      "zona": "A",
+      "material": "1050239",
+      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 51.15,
+      "kg_regular": 51.15,
+      "cajas": 8,
+      "unds": 2,
+      "timestamp": "2026-06-20T12:02:03.647Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:02.162Z"
+  "ultima_actualizacion": "2026-06-20T12:02:03.647Z"
 }
