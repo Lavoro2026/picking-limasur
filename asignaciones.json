@@ -2189,7 +2189,20 @@
       "cajas": 25,
       "unds": 261,
       "timestamp": "2026-06-20T08:05:22.721Z"
+    },
+    {
+      "placa": "D9G880",
+      "familia": "D",
+      "zona": "C",
+      "material": "1005243",
+      "denominacion": "TAMPICO REF CITRUS PUNCH 1.5L PQTX6UND",
+      "controlador": "LALO",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 9.35,
+      "cajas": 1,
+      "unds": 0,
+      "timestamp": "2026-06-20T08:05:52.521Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:05:22.721Z"
+  "ultima_actualizacion": "2026-06-20T08:05:52.521Z"
 }
