@@ -980,7 +980,20 @@
       "cajas": 19,
       "unds": 12,
       "timestamp": "2026-06-20T06:33:47.480Z"
+    },
+    {
+      "placa": "C2B801",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003101",
+      "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+      "controlador": "LALO",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 107.71,
+      "cajas": 18,
+      "unds": 85,
+      "timestamp": "2026-06-20T06:34:50.681Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:33:47.480Z"
+  "ultima_actualizacion": "2026-06-20T06:34:50.681Z"
 }
