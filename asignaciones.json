@@ -263,7 +263,19 @@
       "cajas": 16,
       "unds": 84,
       "timestamp": "2026-06-20T05:34:02.132Z"
+    },
+    {
+      "placa": "F1E927",
+      "familia": "B",
+      "material": "1004553",
+      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+      "controlador": "LALO",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 568.31,
+      "cajas": 46,
+      "unds": 148,
+      "timestamp": "2026-06-20T05:37:17.913Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:34:02.132Z"
+  "ultima_actualizacion": "2026-06-20T05:37:17.913Z"
 }
