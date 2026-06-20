@@ -2852,7 +2852,20 @@
       "cajas": 26,
       "unds": 9,
       "timestamp": "2026-06-20T08:59:41.480Z"
+    },
+    {
+      "placa": "W6L701",
+      "familia": "F",
+      "zona": "C",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 64.65,
+      "cajas": 10,
+      "unds": 179,
+      "timestamp": "2026-06-20T09:01:31.065Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:59:41.480Z"
+  "ultima_actualizacion": "2026-06-20T09:01:31.065Z"
 }
