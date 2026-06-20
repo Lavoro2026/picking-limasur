@@ -3698,7 +3698,21 @@
       "cajas": 26,
       "unds": 221,
       "timestamp": "2026-06-20T11:58:34.798Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "A",
+      "zona": "C",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "LALO",
+      "picador": "BAZAN CORTEGANA NILO",
+      "kg": 1323.17,
+      "kg_regular": 1323.17,
+      "cajas": 123,
+      "unds": 172,
+      "timestamp": "2026-06-20T11:58:43.024Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:58:34.798Z"
+  "ultima_actualizacion": "2026-06-20T11:58:43.024Z"
 }
