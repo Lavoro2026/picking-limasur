@@ -455,7 +455,19 @@
       "cajas": 38,
       "unds": 12,
       "timestamp": "2026-06-20T05:47:35.979Z"
+    },
+    {
+      "placa": "F1E927",
+      "familia": "D",
+      "material": "1004919",
+      "denominacion": "AGUA PURA VIDA CAJA 20L",
+      "controlador": "LALO",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 57.93,
+      "cajas": 7,
+      "unds": 0,
+      "timestamp": "2026-06-20T05:47:44.148Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:47:35.979Z"
+  "ultima_actualizacion": "2026-06-20T05:47:44.148Z"
 }
