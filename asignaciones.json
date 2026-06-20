@@ -1019,7 +1019,20 @@
       "cajas": 22,
       "unds": 141,
       "timestamp": "2026-06-20T06:35:46.468Z"
+    },
+    {
+      "placa": "AWH909",
+      "familia": "E",
+      "zona": "B",
+      "material": "1002745",
+      "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+      "controlador": "NICOLAS",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 140.29,
+      "cajas": 20,
+      "unds": 37,
+      "timestamp": "2026-06-20T06:36:55.833Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:35:46.468Z"
+  "ultima_actualizacion": "2026-06-20T06:36:55.833Z"
 }
