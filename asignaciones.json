@@ -1,4 +1,17 @@
 {
-  "asignaciones": [],
-  "ultima_actualizacion": "2026-06-20T03:57:45.667Z"
+  "asignaciones": [
+    {
+      "placa": "F7B746",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 163.72,
+      "cajas": 34,
+      "unds": 196,
+      "timestamp": "2026-06-20T04:59:42.372Z"
+    }
+  ],
+  "ultima_actualizacion": "2026-06-20T04:59:42.372Z"
 }
