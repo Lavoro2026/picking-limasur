@@ -686,18 +686,6 @@
     },
     {
       "placa": "ACX716",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "PIERRE",
-      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
-      "kg": 918.31,
-      "cajas": 79,
-      "unds": 19,
-      "timestamp": "2026-06-19T07:25:19.583Z"
-    },
-    {
-      "placa": "ACX716",
       "familia": "F",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
@@ -757,5 +745,5 @@
       "timestamp": "2026-06-19T07:43:27.233Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:52:22.944Z"
+  "ultima_actualizacion": "2026-06-20T03:52:26.092Z"
 }
