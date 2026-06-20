@@ -641,19 +641,6 @@
       "timestamp": "2026-06-20T06:50:18.256Z"
     },
     {
-      "placa": "APC840",
-      "familia": "D",
-      "zona": "A",
-      "material": "1005239",
-      "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
-      "controlador": "PIERRE",
-      "picador": "PAUL LORENZO, ZAVALA VIVAS",
-      "kg": 23.13,
-      "cajas": 3,
-      "unds": 2,
-      "timestamp": "2026-06-20T06:51:14.521Z"
-    },
-    {
       "placa": "ACX716",
       "familia": "D",
       "zona": "A",
@@ -3926,7 +3913,21 @@
       "cajas": 27,
       "unds": 190,
       "timestamp": "2026-06-20T12:03:18.043Z"
+    },
+    {
+      "placa": "APC840",
+      "familia": "D",
+      "zona": "A",
+      "material": "1005239",
+      "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 23.13,
+      "kg_regular": 23.13,
+      "cajas": 3,
+      "unds": 2,
+      "timestamp": "2026-06-20T12:03:19.987Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:03:18.043Z"
+  "ultima_actualizacion": "2026-06-20T12:03:19.987Z"
 }
