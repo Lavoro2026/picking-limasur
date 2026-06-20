@@ -2397,7 +2397,20 @@
       "cajas": 110,
       "unds": 166,
       "timestamp": "2026-06-20T08:22:21.971Z"
+    },
+    {
+      "placa": "AWH909",
+      "familia": "B",
+      "zona": "B",
+      "material": "1989",
+      "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+      "controlador": "NICOLAS",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 1091.83,
+      "cajas": 95,
+      "unds": 162,
+      "timestamp": "2026-06-20T08:23:09.625Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:22:21.971Z"
+  "ultima_actualizacion": "2026-06-20T08:23:09.625Z"
 }
