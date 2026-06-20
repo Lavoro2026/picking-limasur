@@ -3281,7 +3281,20 @@
       "cajas": 20,
       "unds": 20,
       "timestamp": "2026-06-20T09:59:29.655Z"
+    },
+    {
+      "placa": "D2H719",
+      "familia": "B",
+      "zona": "C",
+      "material": "1007119",
+      "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+      "controlador": "LALO",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 554.68,
+      "cajas": 47,
+      "unds": 117,
+      "timestamp": "2026-06-20T10:02:32.505Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:59:29.655Z"
+  "ultima_actualizacion": "2026-06-20T10:02:32.505Z"
 }
