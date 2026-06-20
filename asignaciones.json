@@ -47,7 +47,19 @@
       "cajas": 32,
       "unds": 226,
       "timestamp": "2026-06-20T05:10:12.033Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 116.21,
+      "cajas": 22,
+      "unds": 210,
+      "timestamp": "2026-06-20T05:10:18.666Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:10:12.033Z"
+  "ultima_actualizacion": "2026-06-20T05:10:18.666Z"
 }
