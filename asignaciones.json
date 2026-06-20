@@ -3,11 +3,13 @@
     {
       "placa": "F7B746",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 604.09,
+      "kg_regular": 604.09,
       "cajas": 47,
       "unds": 25,
       "timestamp": "2026-06-20T05:15:34.137Z"
@@ -15,11 +17,13 @@
     {
       "placa": "BKV855",
       "familia": "A",
+      "zona": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "PIERRE",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 329.23,
+      "kg_regular": 329.23,
       "cajas": 25,
       "unds": 200,
       "timestamp": "2026-06-20T05:19:46.482Z"
@@ -27,11 +31,13 @@
     {
       "placa": "AHX902",
       "familia": "F",
+      "zona": "A",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 117.5,
+      "kg_regular": 117.5,
       "cajas": 24,
       "unds": 164,
       "timestamp": "2026-06-20T05:20:37.941Z"
@@ -39,11 +45,13 @@
     {
       "placa": "F7B746",
       "familia": "E",
+      "zona": "A",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 178.33,
+      "kg_regular": 57.91,
       "cajas": 24,
       "unds": 91,
       "timestamp": "2026-06-20T05:21:27.898Z"
@@ -51,11 +59,13 @@
     {
       "placa": "ANI940",
       "familia": "A",
+      "zona": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 465.43,
+      "kg_regular": 465.43,
       "cajas": 39,
       "unds": 217,
       "timestamp": "2026-06-20T05:26:37.843Z"
@@ -63,11 +73,13 @@
     {
       "placa": "BKV855",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 588.21,
+      "kg_regular": 588.21,
       "cajas": 50,
       "unds": 15,
       "timestamp": "2026-06-20T05:29:16.154Z"
@@ -75,11 +87,13 @@
     {
       "placa": "AHX902",
       "familia": "E",
+      "zona": "A",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 144.7,
+      "kg_regular": 31.19,
       "cajas": 24,
       "unds": 35,
       "timestamp": "2026-06-20T05:29:49.163Z"
@@ -87,11 +101,13 @@
     {
       "placa": "F1E927",
       "familia": "B",
+      "zona": "A",
       "material": "1004553",
       "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 568.31,
+      "kg_regular": 49.03,
       "cajas": 46,
       "unds": 148,
       "timestamp": "2026-06-20T05:37:17.913Z"
@@ -99,11 +115,13 @@
     {
       "placa": "AMQ791",
       "familia": "F",
+      "zona": "A",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "TORRES",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 124.12,
+      "kg_regular": 124.12,
       "cajas": 27,
       "unds": 159,
       "timestamp": "2026-06-20T05:37:28.165Z"
@@ -111,11 +129,13 @@
     {
       "placa": "AHX902",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 814.59,
+      "kg_regular": 814.59,
       "cajas": 70,
       "unds": 26,
       "timestamp": "2026-06-20T05:40:08.759Z"
@@ -123,11 +143,13 @@
     {
       "placa": "AWC785",
       "familia": "F",
+      "zona": "A",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "NICOLAS",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 140.38,
+      "kg_regular": 140.38,
       "cajas": 26,
       "unds": 222,
       "timestamp": "2026-06-20T05:41:49.238Z"
@@ -135,11 +157,13 @@
     {
       "placa": "AMQ791",
       "familia": "A",
+      "zona": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 243.49,
+      "kg_regular": 243.49,
       "cajas": 19,
       "unds": 147,
       "timestamp": "2026-06-20T05:43:22.588Z"
@@ -147,11 +171,13 @@
     {
       "placa": "ATB831",
       "familia": "E",
+      "zona": "A",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "LALO",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 140.17,
+      "kg_regular": 22.71,
       "cajas": 20,
       "unds": 64,
       "timestamp": "2026-06-20T05:45:48.215Z"
@@ -159,11 +185,13 @@
     {
       "placa": "ANI940",
       "familia": "B",
+      "zona": "A",
       "material": "3759",
       "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
       "controlador": "TORRES",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 394.22,
+      "kg_regular": 106.56,
       "cajas": 33,
       "unds": 197,
       "timestamp": "2026-06-20T05:46:39.650Z"
@@ -171,11 +199,13 @@
     {
       "placa": "ATB831",
       "familia": "F",
+      "zona": "A",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
       "controlador": "LALO",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 267.28,
+      "kg_regular": 267.28,
       "cajas": 60,
       "unds": 120,
       "timestamp": "2026-06-20T05:47:20.194Z"
@@ -183,11 +213,13 @@
     {
       "placa": "ANI940",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 438.33,
+      "kg_regular": 438.33,
       "cajas": 38,
       "unds": 12,
       "timestamp": "2026-06-20T05:47:35.979Z"
@@ -195,11 +227,13 @@
     {
       "placa": "ANI940",
       "familia": "D",
+      "zona": "A",
       "material": "1050239",
       "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 93.35,
+      "kg_regular": 93.35,
       "cajas": 11,
       "unds": 18,
       "timestamp": "2026-06-20T05:48:38.839Z"
@@ -207,11 +241,13 @@
     {
       "placa": "ACX716",
       "familia": "E",
+      "zona": "A",
       "material": "1003133",
       "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
       "controlador": "TORRES",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 133.73,
+      "kg_regular": 45.89,
       "cajas": 15,
       "unds": 60,
       "timestamp": "2026-06-20T05:50:01.526Z"
@@ -219,11 +255,13 @@
     {
       "placa": "ASM812",
       "familia": "E",
+      "zona": "A",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 122.06,
+      "kg_regular": 48.04,
       "cajas": 19,
       "unds": 52,
       "timestamp": "2026-06-20T05:50:39.811Z"
@@ -231,11 +269,13 @@
     {
       "placa": "D4R705",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 178.35,
+      "kg_regular": 178.35,
       "cajas": 14,
       "unds": 4,
       "timestamp": "2026-06-20T05:54:42.740Z"
@@ -243,11 +283,13 @@
     {
       "placa": "ACX716",
       "familia": "A",
+      "zona": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "TORRES",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 433.76,
+      "kg_regular": 433.76,
       "cajas": 36,
       "unds": 152,
       "timestamp": "2026-06-20T05:58:50.316Z"
@@ -255,11 +297,13 @@
     {
       "placa": "D1V932",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 344.62,
+      "kg_regular": 344.62,
       "cajas": 29,
       "unds": 20,
       "timestamp": "2026-06-20T05:59:07.826Z"
@@ -267,11 +311,13 @@
     {
       "placa": "D1V932",
       "familia": "B",
+      "zona": "A",
       "material": "3759",
       "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 335.89,
+      "kg_regular": 57.46,
       "cajas": 22,
       "unds": 215,
       "timestamp": "2026-06-20T05:59:34.958Z"
@@ -279,11 +325,13 @@
     {
       "placa": "AWC785",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 161.26,
+      "kg_regular": 161.26,
       "cajas": 13,
       "unds": 15,
       "timestamp": "2026-06-20T06:00:52.608Z"
@@ -291,11 +339,13 @@
     {
       "placa": "ACX716",
       "familia": "F",
+      "zona": "A",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "TORRES",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 95.17,
+      "kg_regular": 95.17,
       "cajas": 18,
       "unds": 128,
       "timestamp": "2026-06-20T06:03:15.179Z"
@@ -303,11 +353,13 @@
     {
       "placa": "D3L703",
       "familia": "E",
+      "zona": "A",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 105.79,
+      "kg_regular": 11.04,
       "cajas": 15,
       "unds": 35,
       "timestamp": "2026-06-20T06:04:14.724Z"
@@ -315,11 +367,13 @@
     {
       "placa": "ATP870",
       "familia": "A",
+      "zona": "A",
       "material": "1004557",
       "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
       "controlador": "LALO",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 526.22,
+      "kg_regular": 526.22,
       "cajas": 43,
       "unds": 250,
       "timestamp": "2026-06-20T06:06:17.289Z"
@@ -327,11 +381,13 @@
     {
       "placa": "C2B801",
       "familia": "E",
+      "zona": "A",
       "material": "1002751",
       "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U FROJO",
       "controlador": "LALO",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 37.57,
+      "kg_regular": 18.82,
       "cajas": 4,
       "unds": 14,
       "timestamp": "2026-06-20T06:08:17.625Z"
@@ -339,11 +395,13 @@
     {
       "placa": "ATB831",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 498.21,
+      "kg_regular": 498.21,
       "cajas": 39,
       "unds": 34,
       "timestamp": "2026-06-20T06:13:31.131Z"
@@ -351,11 +409,13 @@
     {
       "placa": "D4R705",
       "familia": "B",
+      "zona": "A",
       "material": "3759",
       "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
       "controlador": "PIERRE",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 700.46,
+      "kg_regular": 29.24,
       "cajas": 62,
       "unds": 129,
       "timestamp": "2026-06-20T06:13:38.249Z"
@@ -363,11 +423,13 @@
     {
       "placa": "C1J747",
       "familia": "A",
+      "zona": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "PIERRE",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 351.72,
+      "kg_regular": 351.72,
       "cajas": 28,
       "unds": 185,
       "timestamp": "2026-06-20T06:13:53.177Z"
@@ -375,11 +437,13 @@
     {
       "placa": "AMQ791",
       "familia": "D",
+      "zona": "A",
       "material": "1004785",
       "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 91.01,
+      "kg_regular": 91.01,
       "cajas": 5,
       "unds": 66,
       "timestamp": "2026-06-20T06:15:31.676Z"
@@ -387,11 +451,13 @@
     {
       "placa": "C1J747",
       "familia": "F",
+      "zona": "A",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "PIERRE",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 111.6,
+      "kg_regular": 111.6,
       "cajas": 19,
       "unds": 195,
       "timestamp": "2026-06-20T06:17:26.627Z"
@@ -399,11 +465,13 @@
     {
       "placa": "AXH708",
       "familia": "E",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 221.65,
+      "kg_regular": 37.08,
       "cajas": 32,
       "unds": 101,
       "timestamp": "2026-06-20T06:18:06.292Z"
@@ -411,11 +479,13 @@
     {
       "placa": "A6R946",
       "familia": "E",
+      "zona": "B",
       "material": "1003251",
       "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 157.11,
+      "kg_regular": 30.78,
       "cajas": 23,
       "unds": 50,
       "timestamp": "2026-06-20T06:18:13.694Z"
@@ -423,11 +493,13 @@
     {
       "placa": "ACX716",
       "familia": "C",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 129.34,
+      "kg_regular": 129.34,
       "cajas": 9,
       "unds": 15,
       "timestamp": "2026-06-20T06:22:50.101Z"
@@ -435,12 +507,13 @@
     {
       "placa": "CKI862",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 96.91,
+      "kg_regular": 34.73,
       "cajas": 12,
       "unds": 91,
       "timestamp": "2026-06-20T06:24:50.923Z"
@@ -448,12 +521,13 @@
     {
       "placa": "ATP870",
       "familia": "C",
-      "zona": "",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 184.7,
+      "kg_regular": 184.7,
       "cajas": 15,
       "unds": 14,
       "timestamp": "2026-06-20T06:26:35.674Z"
@@ -461,12 +535,13 @@
     {
       "placa": "C2B801",
       "familia": "A",
-      "zona": "",
+      "zona": "A",
       "material": "1001135",
       "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
       "controlador": "LALO",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 927.87,
+      "kg_regular": 927.87,
       "cajas": 85,
       "unds": 117,
       "timestamp": "2026-06-20T06:28:19.530Z"
@@ -474,12 +549,13 @@
     {
       "placa": "APC840",
       "familia": "B",
-      "zona": "",
+      "zona": "A",
       "material": "1004553",
       "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
       "controlador": "PIERRE",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 707.35,
+      "kg_regular": 101.51,
       "cajas": 66,
       "unds": 111,
       "timestamp": "2026-06-20T06:30:08.892Z"
@@ -487,12 +563,13 @@
     {
       "placa": "A6P899",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 143.09,
+      "kg_regular": 24.65,
       "cajas": 21,
       "unds": 39,
       "timestamp": "2026-06-20T06:30:39.372Z"
@@ -506,6 +583,7 @@
       "controlador": "LALO",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 107.71,
+      "kg_regular": 107.71,
       "cajas": 18,
       "unds": 85,
       "timestamp": "2026-06-20T06:34:50.681Z"
@@ -519,6 +597,7 @@
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 140.29,
+      "kg_regular": 95.87,
       "cajas": 20,
       "unds": 37,
       "timestamp": "2026-06-20T06:36:55.833Z"
@@ -526,12 +605,13 @@
     {
       "placa": "C5R934",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "TORRES",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 123.68,
+      "kg_regular": 18.07,
       "cajas": 19,
       "unds": 37,
       "timestamp": "2026-06-20T06:37:06.369Z"
@@ -545,6 +625,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 546.99,
+      "kg_regular": 64.99,
       "cajas": 42,
       "unds": 177,
       "timestamp": "2026-06-20T06:37:25.958Z"
@@ -558,6 +639,7 @@
       "controlador": "TORRES",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 396.89,
+      "kg_regular": 49.33,
       "cajas": 28,
       "unds": 188,
       "timestamp": "2026-06-20T06:37:27.360Z"
@@ -565,12 +647,13 @@
     {
       "placa": "D3L703",
       "familia": "C",
-      "zona": "",
+      "zona": "A",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 384.85,
+      "kg_regular": 384.85,
       "cajas": 32,
       "unds": 19,
       "timestamp": "2026-06-20T06:39:11.997Z"
@@ -578,12 +661,13 @@
     {
       "placa": "AXH708",
       "familia": "A",
-      "zona": "",
+      "zona": "B",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "PIERRE",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 443.55,
+      "kg_regular": 443.55,
       "cajas": 36,
       "unds": 228,
       "timestamp": "2026-06-20T06:48:34.201Z"
@@ -597,6 +681,7 @@
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 106.95,
+      "kg_regular": 19.11,
       "cajas": 14,
       "unds": 67,
       "timestamp": "2026-06-20T06:48:36.709Z"
@@ -604,12 +689,13 @@
     {
       "placa": "A7Y808",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1003133",
       "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 145.02,
+      "kg_regular": 48.29,
       "cajas": 18,
       "unds": 58,
       "timestamp": "2026-06-20T06:49:48.589Z"
@@ -623,6 +709,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 212.1,
+      "kg_regular": 212.1,
       "cajas": 34,
       "unds": 15,
       "timestamp": "2026-06-20T06:49:58.976Z"
@@ -636,6 +723,7 @@
       "controlador": "NICOLAS",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 306.07,
+      "kg_regular": 306.07,
       "cajas": 24,
       "unds": 196,
       "timestamp": "2026-06-20T06:50:18.256Z"
@@ -649,6 +737,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 39.47,
+      "kg_regular": 39.47,
       "cajas": 7,
       "unds": 2,
       "timestamp": "2026-06-20T06:51:37.826Z"
@@ -662,6 +751,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 53.85,
+      "kg_regular": 53.85,
       "cajas": 7,
       "unds": 10,
       "timestamp": "2026-06-20T06:52:05.259Z"
@@ -675,6 +765,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 14.92,
+      "kg_regular": 14.92,
       "cajas": 2,
       "unds": 1,
       "timestamp": "2026-06-20T06:53:00.374Z"
@@ -688,6 +779,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 40.02,
+      "kg_regular": 40.02,
       "cajas": 7,
       "unds": 3,
       "timestamp": "2026-06-20T06:53:43.890Z"
@@ -701,6 +793,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 41.92,
+      "kg_regular": 41.92,
       "cajas": 4,
       "unds": 27,
       "timestamp": "2026-06-20T06:54:24.504Z"
@@ -714,6 +807,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 3.79,
+      "kg_regular": 3.79,
       "cajas": 1,
       "unds": 0,
       "timestamp": "2026-06-20T06:55:37.150Z"
@@ -721,12 +815,13 @@
     {
       "placa": "ARD784",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 115.91,
+      "kg_regular": 37.93,
       "cajas": 16,
       "unds": 58,
       "timestamp": "2026-06-20T06:58:52.238Z"
@@ -740,6 +835,7 @@
       "controlador": "LALO",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 855.41,
+      "kg_regular": 855.41,
       "cajas": 75,
       "unds": 302,
       "timestamp": "2026-06-20T07:00:41.365Z"
@@ -753,6 +849,7 @@
       "controlador": "TORRES",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 291,
+      "kg_regular": 47.87,
       "cajas": 20,
       "unds": 193,
       "timestamp": "2026-06-20T07:02:09.773Z"
@@ -760,12 +857,13 @@
     {
       "placa": "A6P899",
       "familia": "A",
-      "zona": "",
+      "zona": "B",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "PIERRE",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 607.19,
+      "kg_regular": 607.19,
       "cajas": 50,
       "unds": 270,
       "timestamp": "2026-06-20T07:02:47.794Z"
@@ -779,6 +877,7 @@
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 128.12,
+      "kg_regular": 15.6,
       "cajas": 19,
       "unds": 28,
       "timestamp": "2026-06-20T07:02:51.234Z"
@@ -786,12 +885,13 @@
     {
       "placa": "A6R946",
       "familia": "F",
-      "zona": "",
+      "zona": "B",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
       "controlador": "TORRES",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 153.87,
+      "kg_regular": 153.87,
       "cajas": 29,
       "unds": 229,
       "timestamp": "2026-06-20T07:04:45.777Z"
@@ -805,6 +905,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 103.99,
+      "kg_regular": 103.99,
       "cajas": 13,
       "unds": 22,
       "timestamp": "2026-06-20T07:04:48.607Z"
@@ -818,6 +919,7 @@
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 130.79,
+      "kg_regular": 130.79,
       "cajas": 22,
       "unds": 231,
       "timestamp": "2026-06-20T07:05:10.954Z"
@@ -825,12 +927,13 @@
     {
       "placa": "B0V924",
       "familia": "E",
-      "zona": "",
+      "zona": "B",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 94.64,
+      "kg_regular": 25.55,
       "cajas": 11,
       "unds": 57,
       "timestamp": "2026-06-20T07:06:58.228Z"
@@ -844,6 +947,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 112.76,
+      "kg_regular": 112.76,
       "cajas": 15,
       "unds": 18,
       "timestamp": "2026-06-20T07:08:19.234Z"
@@ -857,6 +961,7 @@
       "controlador": "LALO",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 89.8,
+      "kg_regular": 33.54,
       "cajas": 9,
       "unds": 76,
       "timestamp": "2026-06-20T07:08:46.652Z"
@@ -864,12 +969,13 @@
     {
       "placa": "AXH708",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 379.15,
+      "kg_regular": 379.15,
       "cajas": 30,
       "unds": 18,
       "timestamp": "2026-06-20T07:12:40.160Z"
@@ -883,6 +989,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 191.94,
+      "kg_regular": 191.94,
       "cajas": 34,
       "unds": 18,
       "timestamp": "2026-06-20T07:13:44.488Z"
@@ -890,12 +997,13 @@
     {
       "placa": "A6R946",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 361.06,
+      "kg_regular": 361.06,
       "cajas": 29,
       "unds": 15,
       "timestamp": "2026-06-20T07:14:06.260Z"
@@ -903,12 +1011,13 @@
     {
       "placa": "AUP711",
       "familia": "E",
-      "zona": "",
+      "zona": "C",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 256.78,
+      "kg_regular": 55.43,
       "cajas": 35,
       "unds": 124,
       "timestamp": "2026-06-20T07:14:10.846Z"
@@ -922,6 +1031,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 53.58,
+      "kg_regular": 53.58,
       "cajas": 7,
       "unds": 10,
       "timestamp": "2026-06-20T07:16:36.795Z"
@@ -935,6 +1045,7 @@
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 1698.15,
+      "kg_regular": 32.91,
       "cajas": 137,
       "unds": 60,
       "timestamp": "2026-06-20T07:17:28.898Z"
@@ -948,6 +1059,7 @@
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 195.66,
+      "kg_regular": 37.74,
       "cajas": 30,
       "unds": 69,
       "timestamp": "2026-06-20T07:17:35.998Z"
@@ -961,6 +1073,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 36.39,
+      "kg_regular": 36.39,
       "cajas": 6,
       "unds": 4,
       "timestamp": "2026-06-20T07:17:42.707Z"
@@ -974,6 +1087,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 660.54,
+      "kg_regular": 135.99,
       "cajas": 63,
       "unds": 181,
       "timestamp": "2026-06-20T07:19:26.009Z"
@@ -987,6 +1101,7 @@
       "controlador": "NICOLAS",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 953.15,
+      "kg_regular": 953.15,
       "cajas": 84,
       "unds": 133,
       "timestamp": "2026-06-20T07:21:32.584Z"
@@ -1000,6 +1115,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 138.38,
+      "kg_regular": 138.38,
       "cajas": 18,
       "unds": 4,
       "timestamp": "2026-06-20T07:21:51.809Z"
@@ -1007,12 +1123,13 @@
     {
       "placa": "AXB855",
       "familia": "F",
-      "zona": "",
+      "zona": "B",
       "material": "1003105",
       "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
       "controlador": "LALO",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 185.27,
+      "kg_regular": 185.27,
       "cajas": 36,
       "unds": 168,
       "timestamp": "2026-06-20T07:22:47.700Z"
@@ -1020,12 +1137,13 @@
     {
       "placa": "AXB855",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 258.83,
+      "kg_regular": 258.83,
       "cajas": 20,
       "unds": 18,
       "timestamp": "2026-06-20T07:23:03.840Z"
@@ -1039,6 +1157,7 @@
       "controlador": "PIERRE",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 184.92,
+      "kg_regular": 184.92,
       "cajas": 37,
       "unds": 168,
       "timestamp": "2026-06-20T07:23:09.824Z"
@@ -1046,12 +1165,13 @@
     {
       "placa": "P4A742",
       "familia": "A",
-      "zona": "",
+      "zona": "B",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "LALO",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 909.73,
+      "kg_regular": 909.73,
       "cajas": 81,
       "unds": 246,
       "timestamp": "2026-06-20T07:23:31.003Z"
@@ -1065,6 +1185,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 351.66,
+      "kg_regular": 351.66,
       "cajas": 38,
       "unds": 0,
       "timestamp": "2026-06-20T07:25:25.349Z"
@@ -1078,6 +1199,7 @@
       "controlador": "TORRES",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 105.89,
+      "kg_regular": 105.89,
       "cajas": 18,
       "unds": 229,
       "timestamp": "2026-06-20T07:25:36.591Z"
@@ -1091,6 +1213,7 @@
       "controlador": "NICOLAS",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 167.73,
+      "kg_regular": 42.38,
       "cajas": 24,
       "unds": 61,
       "timestamp": "2026-06-20T07:26:18.362Z"
@@ -1098,12 +1221,13 @@
     {
       "placa": "AMF737",
       "familia": "E",
-      "zona": "",
+      "zona": "C",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "LALO",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 106.27,
+      "kg_regular": 10.53,
       "cajas": 15,
       "unds": 33,
       "timestamp": "2026-06-20T07:26:39.631Z"
@@ -1117,6 +1241,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 11.54,
+      "kg_regular": 11.54,
       "cajas": 2,
       "unds": 1,
       "timestamp": "2026-06-20T07:31:49.818Z"
@@ -1124,12 +1249,13 @@
     {
       "placa": "W6L701",
       "familia": "E",
-      "zona": "",
+      "zona": "C",
       "material": "1003133",
       "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 71.59,
+      "kg_regular": 14.35,
       "cajas": 9,
       "unds": 47,
       "timestamp": "2026-06-20T07:31:54.482Z"
@@ -1143,6 +1269,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 25.52,
+      "kg_regular": 25.52,
       "cajas": 5,
       "unds": 12,
       "timestamp": "2026-06-20T07:32:28.898Z"
@@ -1156,6 +1283,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 35.18,
+      "kg_regular": 35.18,
       "cajas": 6,
       "unds": 3,
       "timestamp": "2026-06-20T07:33:35.568Z"
@@ -1163,12 +1291,13 @@
     {
       "placa": "A6P899",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 431.12,
+      "kg_regular": 431.12,
       "cajas": 36,
       "unds": 8,
       "timestamp": "2026-06-20T07:34:02.476Z"
@@ -1182,6 +1311,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 20.4,
+      "kg_regular": 20.4,
       "cajas": 3,
       "unds": 4,
       "timestamp": "2026-06-20T07:34:53.803Z"
@@ -1195,6 +1325,7 @@
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 417.44,
+      "kg_regular": 417.44,
       "cajas": 34,
       "unds": 210,
       "timestamp": "2026-06-20T07:35:04.047Z"
@@ -1202,12 +1333,13 @@
     {
       "placa": "C5R934",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 319.24,
+      "kg_regular": 319.24,
       "cajas": 27,
       "unds": 23,
       "timestamp": "2026-06-20T07:37:31.150Z"
@@ -1221,6 +1353,7 @@
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 162.45,
+      "kg_regular": 39.08,
       "cajas": 23,
       "unds": 44,
       "timestamp": "2026-06-20T07:37:36.322Z"
@@ -1228,12 +1361,13 @@
     {
       "placa": "P4A742",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 568.19,
+      "kg_regular": 568.19,
       "cajas": 46,
       "unds": 15,
       "timestamp": "2026-06-20T07:37:49.272Z"
@@ -1241,12 +1375,13 @@
     {
       "placa": "D7L941",
       "familia": "E",
-      "zona": "",
+      "zona": "C",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 145.79,
+      "kg_regular": 30.31,
       "cajas": 23,
       "unds": 51,
       "timestamp": "2026-06-20T07:37:54.972Z"
@@ -1260,6 +1395,7 @@
       "controlador": "NICOLAS",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 327.63,
+      "kg_regular": 327.63,
       "cajas": 69,
       "unds": 229,
       "timestamp": "2026-06-20T07:39:53.152Z"
@@ -1267,12 +1403,13 @@
     {
       "placa": "P4A742",
       "familia": "F",
-      "zona": "",
+      "zona": "B",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
       "controlador": "LALO",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 107.41,
+      "kg_regular": 107.41,
       "cajas": 26,
       "unds": 146,
       "timestamp": "2026-06-20T07:40:10.713Z"
@@ -1286,6 +1423,7 @@
       "controlador": "TORRES",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 379.75,
+      "kg_regular": 90.49,
       "cajas": 26,
       "unds": 307,
       "timestamp": "2026-06-20T07:41:45.474Z"
@@ -1299,6 +1437,7 @@
       "controlador": "PIERRE",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 108.38,
+      "kg_regular": 108.38,
       "cajas": 21,
       "unds": 173,
       "timestamp": "2026-06-20T07:42:13.875Z"
@@ -1312,6 +1451,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 94.26,
+      "kg_regular": 94.26,
       "cajas": 14,
       "unds": 17,
       "timestamp": "2026-06-20T07:43:06.411Z"
@@ -1325,6 +1465,7 @@
       "controlador": "PIERRE",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 146.28,
+      "kg_regular": 43.63,
       "cajas": 20,
       "unds": 77,
       "timestamp": "2026-06-20T07:45:36.477Z"
@@ -1332,12 +1473,13 @@
     {
       "placa": "D2H719",
       "familia": "E",
-      "zona": "",
+      "zona": "C",
       "material": "1003133",
       "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
       "controlador": "LALO",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 175.82,
+      "kg_regular": 73.17,
       "cajas": 22,
       "unds": 73,
       "timestamp": "2026-06-20T07:46:22.195Z"
@@ -1345,12 +1487,13 @@
     {
       "placa": "AWH909",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 652.3,
+      "kg_regular": 652.3,
       "cajas": 54,
       "unds": 17,
       "timestamp": "2026-06-20T07:46:29.727Z"
@@ -1364,6 +1507,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 23.8,
+      "kg_regular": 23.8,
       "cajas": 3,
       "unds": 4,
       "timestamp": "2026-06-20T07:46:43.792Z"
@@ -1377,6 +1521,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 43.45,
+      "kg_regular": 43.45,
       "cajas": 6,
       "unds": 13,
       "timestamp": "2026-06-20T07:47:51.286Z"
@@ -1384,12 +1529,13 @@
     {
       "placa": "C8F736",
       "familia": "A",
-      "zona": "",
+      "zona": "B",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "LALO",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 604.46,
+      "kg_regular": 604.46,
       "cajas": 52,
       "unds": 187,
       "timestamp": "2026-06-20T07:49:34.824Z"
@@ -1397,12 +1543,13 @@
     {
       "placa": "A1Q874",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 551.65,
+      "kg_regular": 551.65,
       "cajas": 49,
       "unds": 21,
       "timestamp": "2026-06-20T07:52:30.231Z"
@@ -1416,6 +1563,7 @@
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 320.74,
+      "kg_regular": 320.74,
       "cajas": 27,
       "unds": 167,
       "timestamp": "2026-06-20T07:53:56.131Z"
@@ -1429,6 +1577,7 @@
       "controlador": "PIERRE",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 857.79,
+      "kg_regular": 90.09,
       "cajas": 68,
       "unds": 252,
       "timestamp": "2026-06-20T07:54:26.075Z"
@@ -1436,12 +1585,13 @@
     {
       "placa": "A1Q874",
       "familia": "F",
-      "zona": "",
+      "zona": "B",
       "material": "1004551",
       "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
       "controlador": "TORRES",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 74.39,
+      "kg_regular": 74.39,
       "cajas": 9,
       "unds": 173,
       "timestamp": "2026-06-20T07:54:39.457Z"
@@ -1449,12 +1599,13 @@
     {
       "placa": "V2F841",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 304,
+      "kg_regular": 304,
       "cajas": 24,
       "unds": 12,
       "timestamp": "2026-06-20T07:54:58.716Z"
@@ -1468,6 +1619,7 @@
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 671.73,
+      "kg_regular": 120.43,
       "cajas": 58,
       "unds": 202,
       "timestamp": "2026-06-20T07:55:03.808Z"
@@ -1481,6 +1633,7 @@
       "controlador": "TORRES",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 240.69,
+      "kg_regular": 50.2,
       "cajas": 37,
       "unds": 71,
       "timestamp": "2026-06-20T07:55:05.321Z"
@@ -1494,6 +1647,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 190.04,
+      "kg_regular": 190.04,
       "cajas": 27,
       "unds": 15,
       "timestamp": "2026-06-20T07:55:27.795Z"
@@ -1507,6 +1661,7 @@
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 138.27,
+      "kg_regular": 138.27,
       "cajas": 22,
       "unds": 212,
       "timestamp": "2026-06-20T08:00:54.748Z"
@@ -1520,6 +1675,7 @@
       "controlador": "LALO",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 147.65,
+      "kg_regular": 147.65,
       "cajas": 25,
       "unds": 261,
       "timestamp": "2026-06-20T08:05:22.721Z"
@@ -1533,6 +1689,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 9.35,
+      "kg_regular": 9.35,
       "cajas": 1,
       "unds": 0,
       "timestamp": "2026-06-20T08:05:52.521Z"
@@ -1546,6 +1703,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 61.52,
+      "kg_regular": 61.52,
       "cajas": 7,
       "unds": 8,
       "timestamp": "2026-06-20T08:06:39.103Z"
@@ -1559,6 +1717,7 @@
       "controlador": "NICOLAS",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 299.82,
+      "kg_regular": 299.82,
       "cajas": 22,
       "unds": 244,
       "timestamp": "2026-06-20T08:06:42.622Z"
@@ -1566,12 +1725,13 @@
     {
       "placa": "A7Y808",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 1164.67,
+      "kg_regular": 81.07,
       "cajas": 93,
       "unds": 18,
       "timestamp": "2026-06-20T08:06:48.286Z"
@@ -1579,12 +1739,13 @@
     {
       "placa": "CKI862",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 370.66,
+      "kg_regular": 370.66,
       "cajas": 32,
       "unds": 7,
       "timestamp": "2026-06-20T08:07:12.392Z"
@@ -1598,6 +1759,7 @@
       "controlador": "LALO",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 200.11,
+      "kg_regular": 29.35,
       "cajas": 28,
       "unds": 59,
       "timestamp": "2026-06-20T08:09:14.621Z"
@@ -1611,6 +1773,7 @@
       "controlador": "PIERRE",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 472.99,
+      "kg_regular": 82.07,
       "cajas": 36,
       "unds": 156,
       "timestamp": "2026-06-20T08:09:15.765Z"
@@ -1624,6 +1787,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 123.4,
+      "kg_regular": 123.4,
       "cajas": 19,
       "unds": 1,
       "timestamp": "2026-06-20T08:09:21.738Z"
@@ -1631,12 +1795,13 @@
     {
       "placa": "A4G840",
       "familia": "E",
-      "zona": "",
+      "zona": "P",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 135.36,
+      "kg_regular": 35.67,
       "cajas": 18,
       "unds": 89,
       "timestamp": "2026-06-20T08:09:52.373Z"
@@ -1650,6 +1815,7 @@
       "controlador": "TORRES",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 608.85,
+      "kg_regular": 81.59,
       "cajas": 47,
       "unds": 213,
       "timestamp": "2026-06-20T08:10:03.770Z"
@@ -1657,12 +1823,13 @@
     {
       "placa": "D9G880",
       "familia": "A",
-      "zona": "",
+      "zona": "C",
       "material": "1004557",
       "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
       "controlador": "LALO",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 1905.9,
+      "kg_regular": 1112.9,
       "cajas": 184,
       "unds": 147,
       "timestamp": "2026-06-20T08:10:18.643Z"
@@ -1676,6 +1843,7 @@
       "controlador": "PIERRE",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 174.2,
+      "kg_regular": 174.2,
       "cajas": 33,
       "unds": 197,
       "timestamp": "2026-06-20T08:15:09.224Z"
@@ -1689,6 +1857,7 @@
       "controlador": "PIERRE",
       "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
       "kg": 198.57,
+      "kg_regular": 44.6,
       "cajas": 29,
       "unds": 72,
       "timestamp": "2026-06-20T08:16:36.246Z"
@@ -1696,12 +1865,13 @@
     {
       "placa": "F3M892",
       "familia": "E",
-      "zona": "",
+      "zona": "P",
       "material": "1002743",
       "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
       "controlador": "TORRES",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 126.23,
+      "kg_regular": 23.58,
       "cajas": 16,
       "unds": 66,
       "timestamp": "2026-06-20T08:17:28.801Z"
@@ -1715,6 +1885,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 119.35,
+      "kg_regular": 119.35,
       "cajas": 15,
       "unds": 27,
       "timestamp": "2026-06-20T08:19:14.410Z"
@@ -1722,12 +1893,13 @@
     {
       "placa": "C8F736",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 180.26,
+      "kg_regular": 180.26,
       "cajas": 14,
       "unds": 23,
       "timestamp": "2026-06-20T08:21:41.571Z"
@@ -1741,6 +1913,7 @@
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 1316.49,
+      "kg_regular": 67.11,
       "cajas": 110,
       "unds": 166,
       "timestamp": "2026-06-20T08:22:21.971Z"
@@ -1754,6 +1927,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 1091.83,
+      "kg_regular": 213.65,
       "cajas": 95,
       "unds": 162,
       "timestamp": "2026-06-20T08:23:09.625Z"
@@ -1767,6 +1941,7 @@
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 132.94,
+      "kg_regular": 26.34,
       "cajas": 19,
       "unds": 58,
       "timestamp": "2026-06-20T08:23:10.950Z"
@@ -1780,6 +1955,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 13.67,
+      "kg_regular": 13.67,
       "cajas": 2,
       "unds": 1,
       "timestamp": "2026-06-20T08:23:32.642Z"
@@ -1787,12 +1963,13 @@
     {
       "placa": "ARD784",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 1124.44,
+      "kg_regular": 1124.44,
       "cajas": 107,
       "unds": 15,
       "timestamp": "2026-06-20T08:23:39.861Z"
@@ -1806,6 +1983,7 @@
       "controlador": "TORRES",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 77.78,
+      "kg_regular": 77.78,
       "cajas": 15,
       "unds": 139,
       "timestamp": "2026-06-20T08:24:29.070Z"
@@ -1813,12 +1991,13 @@
     {
       "placa": "APB825",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 52.91,
+      "kg_regular": 52.91,
       "cajas": 4,
       "unds": 17,
       "timestamp": "2026-06-20T08:25:59.215Z"
@@ -1832,6 +2011,7 @@
       "controlador": "NICOLAS",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 73.83,
+      "kg_regular": 73.83,
       "cajas": 15,
       "unds": 109,
       "timestamp": "2026-06-20T08:26:15.859Z"
@@ -1845,6 +2025,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 79.66,
+      "kg_regular": 79.66,
       "cajas": 10,
       "unds": 22,
       "timestamp": "2026-06-20T08:28:57.058Z"
@@ -1858,6 +2039,7 @@
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 529.32,
+      "kg_regular": 529.32,
       "cajas": 42,
       "unds": 328,
       "timestamp": "2026-06-20T08:31:13.727Z"
@@ -1871,6 +2053,7 @@
       "controlador": "LALO",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 195.68,
+      "kg_regular": 57.5,
       "cajas": 29,
       "unds": 77,
       "timestamp": "2026-06-20T08:32:00.438Z"
@@ -1884,6 +2067,7 @@
       "controlador": "LALO",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 173.05,
+      "kg_regular": 173.05,
       "cajas": 34,
       "unds": 163,
       "timestamp": "2026-06-20T08:32:43.563Z"
@@ -1897,6 +2081,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 30.28,
+      "kg_regular": 30.28,
       "cajas": 5,
       "unds": 1,
       "timestamp": "2026-06-20T08:33:37.219Z"
@@ -1904,12 +2089,13 @@
     {
       "placa": "B0V924",
       "familia": "C",
-      "zona": "",
+      "zona": "B",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 531.91,
+      "kg_regular": 531.91,
       "cajas": 41,
       "unds": 30,
       "timestamp": "2026-06-20T08:34:02.015Z"
@@ -1917,12 +2103,13 @@
     {
       "placa": "A5Y854",
       "familia": "A",
-      "zona": "",
+      "zona": "C",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "NICOLAS",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 610.77,
+      "kg_regular": 610.77,
       "cajas": 49,
       "unds": 290,
       "timestamp": "2026-06-20T08:34:03.983Z"
@@ -1936,6 +2123,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 26.97,
+      "kg_regular": 26.97,
       "cajas": 4,
       "unds": 6,
       "timestamp": "2026-06-20T08:34:09.155Z"
@@ -1949,6 +2137,7 @@
       "controlador": "PIERRE",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 278.52,
+      "kg_regular": 44.68,
       "cajas": 16,
       "unds": 238,
       "timestamp": "2026-06-20T08:34:36.974Z"
@@ -1962,6 +2151,7 @@
       "controlador": "TORRES",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 164.19,
+      "kg_regular": 164.19,
       "cajas": 32,
       "unds": 235,
       "timestamp": "2026-06-20T08:38:21.705Z"
@@ -1975,6 +2165,7 @@
       "controlador": "TORRES",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 261.03,
+      "kg_regular": 42.02,
       "cajas": 17,
       "unds": 180,
       "timestamp": "2026-06-20T08:38:44.417Z"
@@ -1988,6 +2179,7 @@
       "controlador": "PIERRE",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 245.07,
+      "kg_regular": 245.07,
       "cajas": 49,
       "unds": 295,
       "timestamp": "2026-06-20T08:38:57.121Z"
@@ -2001,6 +2193,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 60.3,
+      "kg_regular": 60.3,
       "cajas": 10,
       "unds": 12,
       "timestamp": "2026-06-20T08:41:05.874Z"
@@ -2014,6 +2207,7 @@
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 123.95,
+      "kg_regular": 123.95,
       "cajas": 25,
       "unds": 157,
       "timestamp": "2026-06-20T08:42:17.822Z"
@@ -2021,12 +2215,13 @@
     {
       "placa": "D9G880",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 225.63,
+      "kg_regular": 225.63,
       "cajas": 18,
       "unds": 21,
       "timestamp": "2026-06-20T08:42:33.646Z"
@@ -2034,12 +2229,13 @@
     {
       "placa": "AUP711",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 556.39,
+      "kg_regular": 556.39,
       "cajas": 50,
       "unds": 25,
       "timestamp": "2026-06-20T08:42:57.998Z"
@@ -2053,6 +2249,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 70.08,
+      "kg_regular": 70.08,
       "cajas": 10,
       "unds": 5,
       "timestamp": "2026-06-20T08:43:22.600Z"
@@ -2066,6 +2263,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 30.2,
+      "kg_regular": 30.2,
       "cajas": 4,
       "unds": 4,
       "timestamp": "2026-06-20T08:45:27.191Z"
@@ -2079,6 +2277,7 @@
       "controlador": "NICOLAS",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 227.63,
+      "kg_regular": 59.33,
       "cajas": 13,
       "unds": 182,
       "timestamp": "2026-06-20T08:45:56.482Z"
@@ -2092,6 +2291,7 @@
       "controlador": "LALO",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 382.97,
+      "kg_regular": 72.3,
       "cajas": 31,
       "unds": 204,
       "timestamp": "2026-06-20T08:48:09.825Z"
@@ -2105,6 +2305,7 @@
       "controlador": "PIERRE",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 476.97,
+      "kg_regular": 476.97,
       "cajas": 39,
       "unds": 197,
       "timestamp": "2026-06-20T08:51:21.483Z"
@@ -2118,6 +2319,7 @@
       "controlador": "LALO",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 125.04,
+      "kg_regular": 125.04,
       "cajas": 22,
       "unds": 125,
       "timestamp": "2026-06-20T08:51:29.264Z"
@@ -2125,12 +2327,13 @@
     {
       "placa": "ARZ862",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 395.4,
+      "kg_regular": 395.4,
       "cajas": 34,
       "unds": 8,
       "timestamp": "2026-06-20T08:52:40.687Z"
@@ -2144,6 +2347,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 126.59,
+      "kg_regular": 126.59,
       "cajas": 18,
       "unds": 28,
       "timestamp": "2026-06-20T08:55:38.078Z"
@@ -2151,12 +2355,13 @@
     {
       "placa": "ASA790",
       "familia": "A",
-      "zona": "",
+      "zona": "C",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "TORRES",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 561.92,
+      "kg_regular": 561.92,
       "cajas": 48,
       "unds": 223,
       "timestamp": "2026-06-20T08:56:24.828Z"
@@ -2164,12 +2369,13 @@
     {
       "placa": "AMF737",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 283.3,
+      "kg_regular": 283.3,
       "cajas": 22,
       "unds": 1,
       "timestamp": "2026-06-20T08:56:59.436Z"
@@ -2183,6 +2389,7 @@
       "controlador": "PIERRE",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 371.64,
+      "kg_regular": 153.21,
       "cajas": 38,
       "unds": 215,
       "timestamp": "2026-06-20T08:57:15.541Z"
@@ -2190,12 +2397,13 @@
     {
       "placa": "A5Y854",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 300.85,
+      "kg_regular": 300.85,
       "cajas": 26,
       "unds": 9,
       "timestamp": "2026-06-20T08:59:41.480Z"
@@ -2209,6 +2417,7 @@
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 64.65,
+      "kg_regular": 64.65,
       "cajas": 10,
       "unds": 179,
       "timestamp": "2026-06-20T09:01:31.065Z"
@@ -2222,6 +2431,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 187.74,
+      "kg_regular": 187.74,
       "cajas": 24,
       "unds": 16,
       "timestamp": "2026-06-20T09:01:41.690Z"
@@ -2235,6 +2445,7 @@
       "controlador": "TORRES",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 122.42,
+      "kg_regular": 122.42,
       "cajas": 22,
       "unds": 173,
       "timestamp": "2026-06-20T09:01:47.376Z"
@@ -2242,12 +2453,13 @@
     {
       "placa": "ASA790",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 96.51,
+      "kg_regular": 96.51,
       "cajas": 9,
       "unds": 5,
       "timestamp": "2026-06-20T09:03:14.766Z"
@@ -2261,6 +2473,7 @@
       "controlador": "NICOLAS",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 100.52,
+      "kg_regular": 100.52,
       "cajas": 14,
       "unds": 255,
       "timestamp": "2026-06-20T09:06:33.587Z"
@@ -2274,6 +2487,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 169.81,
+      "kg_regular": 169.81,
       "cajas": 24,
       "unds": 48,
       "timestamp": "2026-06-20T09:08:32.342Z"
@@ -2287,6 +2501,7 @@
       "controlador": "LALO",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 430.85,
+      "kg_regular": 430.85,
       "cajas": 38,
       "unds": 148,
       "timestamp": "2026-06-20T09:09:21.193Z"
@@ -2300,6 +2515,7 @@
       "controlador": "LALO",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 171.13,
+      "kg_regular": 171.13,
       "cajas": 30,
       "unds": 194,
       "timestamp": "2026-06-20T09:10:13.133Z"
@@ -2307,12 +2523,13 @@
     {
       "placa": "D7L941",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 679.9,
+      "kg_regular": 679.9,
       "cajas": 63,
       "unds": 24,
       "timestamp": "2026-06-20T09:12:50.753Z"
@@ -2320,12 +2537,13 @@
     {
       "placa": "W6L701",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 515.86,
+      "kg_regular": 515.86,
       "cajas": 45,
       "unds": 22,
       "timestamp": "2026-06-20T09:16:02.591Z"
@@ -2339,6 +2557,7 @@
       "controlador": "TORRES",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 86.81,
+      "kg_regular": 86.81,
       "cajas": 14,
       "unds": 16,
       "timestamp": "2026-06-20T09:16:30.742Z"
@@ -2346,12 +2565,13 @@
     {
       "placa": "A5K897",
       "familia": "A",
-      "zona": "",
+      "zona": "C",
       "material": "1004557",
       "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
       "controlador": "PIERRE",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 469.24,
+      "kg_regular": 469.24,
       "cajas": 37,
       "unds": 241,
       "timestamp": "2026-06-20T09:18:18.437Z"
@@ -2365,6 +2585,7 @@
       "controlador": "NICOLAS",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 233.72,
+      "kg_regular": 60.32,
       "cajas": 10,
       "unds": 252,
       "timestamp": "2026-06-20T09:18:30.690Z"
@@ -2378,6 +2599,7 @@
       "controlador": "PIERRE",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 109.34,
+      "kg_regular": 109.34,
       "cajas": 17,
       "unds": 243,
       "timestamp": "2026-06-20T09:20:58.898Z"
@@ -2385,12 +2607,13 @@
     {
       "placa": "D2H719",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 195.03,
+      "kg_regular": 195.03,
       "cajas": 15,
       "unds": 21,
       "timestamp": "2026-06-20T09:21:58.817Z"
@@ -2404,6 +2627,7 @@
       "controlador": "TORRES",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 569.86,
+      "kg_regular": 569.86,
       "cajas": 44,
       "unds": 373,
       "timestamp": "2026-06-20T09:24:42.909Z"
@@ -2417,6 +2641,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 48.39,
+      "kg_regular": 48.39,
       "cajas": 7,
       "unds": 15,
       "timestamp": "2026-06-20T09:25:28.790Z"
@@ -2430,6 +2655,7 @@
       "controlador": "TORRES",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 190.4,
+      "kg_regular": 190.4,
       "cajas": 37,
       "unds": 268,
       "timestamp": "2026-06-20T09:25:37.268Z"
@@ -2443,6 +2669,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 23.96,
+      "kg_regular": 23.96,
       "cajas": 4,
       "unds": 8,
       "timestamp": "2026-06-20T09:25:53.001Z"
@@ -2450,12 +2677,13 @@
     {
       "placa": "ASM907",
       "familia": "C",
-      "zona": "",
+      "zona": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 403.13,
+      "kg_regular": 403.13,
       "cajas": 34,
       "unds": 9,
       "timestamp": "2026-06-20T09:27:24.981Z"
@@ -2469,6 +2697,7 @@
       "controlador": "PIERRE",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 647.83,
+      "kg_regular": 150.38,
       "cajas": 51,
       "unds": 277,
       "timestamp": "2026-06-20T09:33:45.095Z"
@@ -2476,12 +2705,13 @@
     {
       "placa": "APU790",
       "familia": "C",
-      "zona": "",
+      "zona": "P",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 565.84,
+      "kg_regular": 565.84,
       "cajas": 45,
       "unds": 19,
       "timestamp": "2026-06-20T09:41:17.942Z"
@@ -2495,6 +2725,7 @@
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 100.03,
+      "kg_regular": 100.03,
       "cajas": 17,
       "unds": 179,
       "timestamp": "2026-06-20T09:45:16.648Z"
@@ -2508,6 +2739,7 @@
       "controlador": "LALO",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 173.32,
+      "kg_regular": 173.32,
       "cajas": 36,
       "unds": 265,
       "timestamp": "2026-06-20T09:45:35.068Z"
@@ -2521,6 +2753,7 @@
       "controlador": "TORRES",
       "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
       "kg": 159.38,
+      "kg_regular": 159.38,
       "cajas": 33,
       "unds": 221,
       "timestamp": "2026-06-20T09:46:54.403Z"
@@ -2534,6 +2767,7 @@
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 197.74,
+      "kg_regular": 197.74,
       "cajas": 40,
       "unds": 144,
       "timestamp": "2026-06-20T09:47:25.661Z"
@@ -2541,12 +2775,13 @@
     {
       "placa": "F3M892",
       "familia": "C",
-      "zona": "",
+      "zona": "P",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "TORRES",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 451.57,
+      "kg_regular": 451.57,
       "cajas": 39,
       "unds": 21,
       "timestamp": "2026-06-20T09:47:52.819Z"
@@ -2554,12 +2789,13 @@
     {
       "placa": "A4G840",
       "familia": "C",
-      "zona": "",
+      "zona": "P",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "NICOLAS",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 630.93,
+      "kg_regular": 630.93,
       "cajas": 58,
       "unds": 11,
       "timestamp": "2026-06-20T09:48:03.100Z"
@@ -2567,12 +2803,13 @@
     {
       "placa": "C3Q769",
       "familia": "C",
-      "zona": "",
+      "zona": "P",
       "material": "1004939",
       "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 1310.85,
+      "kg_regular": 167.83,
       "cajas": 128,
       "unds": 21,
       "timestamp": "2026-06-20T09:48:22.043Z"
@@ -2586,6 +2823,7 @@
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 2244.88,
+      "kg_regular": 125.36,
       "cajas": 203,
       "unds": 111,
       "timestamp": "2026-06-20T09:48:26.948Z"
@@ -2593,12 +2831,13 @@
     {
       "placa": "APU790",
       "familia": "A",
-      "zona": "",
+      "zona": "P",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "LALO",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 581.89,
+      "kg_regular": 581.89,
       "cajas": 48,
       "unds": 237,
       "timestamp": "2026-06-20T09:51:43.674Z"
@@ -2612,6 +2851,7 @@
       "controlador": "PIERRE",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 966.89,
+      "kg_regular": 966.89,
       "cajas": 86,
       "unds": 286,
       "timestamp": "2026-06-20T09:52:37.945Z"
@@ -2619,12 +2859,13 @@
     {
       "placa": "T6F869",
       "familia": "C",
-      "zona": "",
+      "zona": "P",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
       "controlador": "LALO",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 281.99,
+      "kg_regular": 281.99,
       "cajas": 20,
       "unds": 20,
       "timestamp": "2026-06-20T09:59:29.655Z"
@@ -2638,6 +2879,7 @@
       "controlador": "LALO",
       "picador": "QUINDE RETETE DANILO NATAN",
       "kg": 554.68,
+      "kg_regular": 120.82,
       "cajas": 47,
       "unds": 117,
       "timestamp": "2026-06-20T10:02:32.505Z"
@@ -2651,6 +2893,7 @@
       "controlador": "PIERRE",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 410.71,
+      "kg_regular": 410.71,
       "cajas": 34,
       "unds": 12,
       "timestamp": "2026-06-20T10:05:15.087Z"
@@ -2664,6 +2907,7 @@
       "controlador": "NICOLAS",
       "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
       "kg": 539.44,
+      "kg_regular": 539.44,
       "cajas": 45,
       "unds": 23,
       "timestamp": "2026-06-20T10:05:33.701Z"
@@ -2677,6 +2921,7 @@
       "controlador": "NICOLAS",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 111.78,
+      "kg_regular": 111.78,
       "cajas": 21,
       "unds": 202,
       "timestamp": "2026-06-20T10:07:42.308Z"
@@ -2690,6 +2935,7 @@
       "controlador": "LALO",
       "picador": "FRANCIA MENA, LIZANDRO",
       "kg": 180.75,
+      "kg_regular": 180.75,
       "cajas": 37,
       "unds": 221,
       "timestamp": "2026-06-20T10:08:20.168Z"
@@ -2697,12 +2943,13 @@
     {
       "placa": "F7X829",
       "familia": "A",
-      "zona": "",
+      "zona": "P",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
       "controlador": "NICOLAS",
       "picador": "VENTURA LOZANO BRAYANS AMIR",
       "kg": 199.06,
+      "kg_regular": 199.06,
       "cajas": 13,
       "unds": 187,
       "timestamp": "2026-06-20T10:09:32.425Z"
@@ -2716,6 +2963,7 @@
       "controlador": "LALO",
       "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
       "kg": 328.45,
+      "kg_regular": 328.45,
       "cajas": 24,
       "unds": 246,
       "timestamp": "2026-06-20T10:21:28.628Z"
@@ -2723,12 +2971,13 @@
     {
       "placa": "A5K897",
       "familia": "B",
-      "zona": "",
+      "zona": "C",
       "material": "3759",
       "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
       "controlador": "PIERRE",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 418.78,
+      "kg_regular": 139.24,
       "cajas": 30,
       "unds": 220,
       "timestamp": "2026-06-20T10:27:44.421Z"
@@ -2736,12 +2985,13 @@
     {
       "placa": "A4G840",
       "familia": "B",
-      "zona": "",
+      "zona": "P",
       "material": "3759",
       "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
       "controlador": "NICOLAS",
       "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
       "kg": 469.83,
+      "kg_regular": 124.62,
       "cajas": 33,
       "unds": 192,
       "timestamp": "2026-06-20T10:28:06.220Z"
@@ -2755,6 +3005,7 @@
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 385.48,
+      "kg_regular": 62.07,
       "cajas": 26,
       "unds": 216,
       "timestamp": "2026-06-20T10:28:22.723Z"
@@ -2768,6 +3019,7 @@
       "controlador": "TORRES",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 483.64,
+      "kg_regular": 72.54,
       "cajas": 38,
       "unds": 105,
       "timestamp": "2026-06-20T10:34:08.823Z"
@@ -2781,6 +3033,7 @@
       "controlador": "PIERRE",
       "picador": "VIZA QUISPE, JOEL ALEXANDER",
       "kg": 561.19,
+      "kg_regular": 151.73,
       "cajas": 48,
       "unds": 134,
       "timestamp": "2026-06-20T10:38:06.465Z"
@@ -2794,6 +3047,7 @@
       "controlador": "LALO",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 1207.46,
+      "kg_regular": 65.65,
       "cajas": 98,
       "unds": 192,
       "timestamp": "2026-06-20T10:56:36.897Z"
@@ -2807,6 +3061,7 @@
       "controlador": "TORRES",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 466.93,
+      "kg_regular": 125.07,
       "cajas": 37,
       "unds": 261,
       "timestamp": "2026-06-20T10:57:34.403Z"
@@ -2820,6 +3075,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 533.26,
+      "kg_regular": 40.88,
       "cajas": 41,
       "unds": 176,
       "timestamp": "2026-06-20T10:58:16.404Z"
@@ -2833,6 +3089,7 @@
       "controlador": "PIERRE",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 556.29,
+      "kg_regular": 36.74,
       "cajas": 39,
       "unds": 154,
       "timestamp": "2026-06-20T10:58:39.453Z"
@@ -2846,6 +3103,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 626.38,
+      "kg_regular": 104.11,
       "cajas": 49,
       "unds": 233,
       "timestamp": "2026-06-20T10:59:03.756Z"
@@ -2859,6 +3117,7 @@
       "controlador": "TORRES",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 548.25,
+      "kg_regular": 122.12,
       "cajas": 43,
       "unds": 248,
       "timestamp": "2026-06-20T10:59:28.625Z"
@@ -2872,6 +3131,7 @@
       "controlador": "LALO",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 572.48,
+      "kg_regular": 156.43,
       "cajas": 45,
       "unds": 282,
       "timestamp": "2026-06-20T10:59:59.567Z"
@@ -2885,6 +3145,7 @@
       "controlador": "TORRES",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 1604.92,
+      "kg_regular": 42.88,
       "cajas": 136,
       "unds": 116,
       "timestamp": "2026-06-20T11:00:18.309Z"
@@ -2898,6 +3159,7 @@
       "controlador": "NICOLAS",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 358.75,
+      "kg_regular": 89.36,
       "cajas": 24,
       "unds": 237,
       "timestamp": "2026-06-20T11:00:29.970Z"
@@ -2911,6 +3173,7 @@
       "controlador": "LALO",
       "picador": "GUERRERO VILCA, BRYAN ANTONY",
       "kg": 381.69,
+      "kg_regular": 46.43,
       "cajas": 26,
       "unds": 183,
       "timestamp": "2026-06-20T11:00:40.956Z"
@@ -2924,6 +3187,7 @@
       "controlador": "TORRES",
       "picador": "TORRES CALDAS OSCAR RUBEN",
       "kg": 370.81,
+      "kg_regular": 75.98,
       "cajas": 28,
       "unds": 146,
       "timestamp": "2026-06-20T11:19:52.563Z"
@@ -2937,6 +3201,7 @@
       "controlador": "NICOLAS",
       "picador": "VILLALBA CULE, ALVARO",
       "kg": 385.18,
+      "kg_regular": 86.71,
       "cajas": 29,
       "unds": 190,
       "timestamp": "2026-06-20T11:22:07.546Z"
@@ -2950,6 +3215,7 @@
       "controlador": "NICOLAS",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 67,
+      "kg_regular": 67,
       "cajas": 10,
       "unds": 2,
       "timestamp": "2026-06-20T11:22:44.472Z"
@@ -2963,6 +3229,7 @@
       "controlador": "LALO",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 43.17,
+      "kg_regular": 43.17,
       "cajas": 6,
       "unds": 15,
       "timestamp": "2026-06-20T11:22:54.459Z"
@@ -2976,6 +3243,7 @@
       "controlador": "PIERRE",
       "picador": "PAUL LORENZO, ZAVALA VIVAS",
       "kg": 16.9,
+      "kg_regular": 16.9,
       "cajas": 2,
       "unds": 4,
       "timestamp": "2026-06-20T11:23:02.285Z"
@@ -3933,5 +4201,5 @@
       "timestamp": "2026-06-20T12:03:32.095Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:03:32.095Z"
+  "ultima_actualizacion": "2026-06-20T12:21:08.149Z"
 }
