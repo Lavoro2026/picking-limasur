@@ -2267,7 +2267,20 @@
       "cajas": 36,
       "unds": 156,
       "timestamp": "2026-06-20T08:09:15.765Z"
+    },
+    {
+      "placa": "ARZ862",
+      "familia": "D",
+      "zona": "C",
+      "material": "1050239",
+      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+      "controlador": "TORRES",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 123.4,
+      "cajas": 19,
+      "unds": 1,
+      "timestamp": "2026-06-20T08:09:21.738Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:09:15.765Z"
+  "ultima_actualizacion": "2026-06-20T08:09:21.738Z"
 }
