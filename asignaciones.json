@@ -1799,7 +1799,20 @@
       "cajas": 9,
       "unds": 47,
       "timestamp": "2026-06-20T07:31:54.482Z"
+    },
+    {
+      "placa": "V2F841",
+      "familia": "D",
+      "zona": "B",
+      "material": "539006",
+      "denominacion": "SAN MATEO AGUA SIN GAS 600ML SIXPACK",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 25.52,
+      "cajas": 5,
+      "unds": 12,
+      "timestamp": "2026-06-20T07:32:28.898Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:31:54.482Z"
+  "ultima_actualizacion": "2026-06-20T07:32:28.898Z"
 }
