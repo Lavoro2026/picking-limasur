@@ -383,7 +383,19 @@
       "cajas": 27,
       "unds": 234,
       "timestamp": "2026-06-20T05:44:12.372Z"
+    },
+    {
+      "placa": "AWC785",
+      "familia": "A",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "NICOLAS",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 413.92,
+      "cajas": 32,
+      "unds": 281,
+      "timestamp": "2026-06-20T05:44:20.038Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:44:12.372Z"
+  "ultima_actualizacion": "2026-06-20T05:44:20.038Z"
 }
