@@ -3268,7 +3268,20 @@
       "cajas": 86,
       "unds": 286,
       "timestamp": "2026-06-20T09:52:37.945Z"
+    },
+    {
+      "placa": "T6F869",
+      "familia": "C",
+      "zona": "",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "LALO",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 281.99,
+      "cajas": 20,
+      "unds": 20,
+      "timestamp": "2026-06-20T09:59:29.655Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:52:37.945Z"
+  "ultima_actualizacion": "2026-06-20T09:59:29.655Z"
 }
