@@ -781,18 +781,6 @@
       "timestamp": "2026-06-19T07:26:50.386Z"
     },
     {
-      "placa": "A5Y854",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "TORRES",
-      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-      "kg": 506.19,
-      "cajas": 43,
-      "unds": 21,
-      "timestamp": "2026-06-19T07:30:12.081Z"
-    },
-    {
       "placa": "V2F841",
       "familia": "A",
       "material": "3777",
@@ -805,5 +793,5 @@
       "timestamp": "2026-06-19T07:43:27.233Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:52:12.654Z"
+  "ultima_actualizacion": "2026-06-20T03:52:14.778Z"
 }
