@@ -1552,7 +1552,20 @@
       "cajas": 29,
       "unds": 15,
       "timestamp": "2026-06-20T07:14:06.260Z"
+    },
+    {
+      "placa": "AUP711",
+      "familia": "E",
+      "zona": "",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 256.78,
+      "cajas": 35,
+      "unds": 124,
+      "timestamp": "2026-06-20T07:14:10.846Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:14:06.260Z"
+  "ultima_actualizacion": "2026-06-20T07:14:10.846Z"
 }
