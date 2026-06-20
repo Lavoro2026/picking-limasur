@@ -2527,7 +2527,20 @@
       "cajas": 29,
       "unds": 77,
       "timestamp": "2026-06-20T08:32:00.438Z"
+    },
+    {
+      "placa": "D9G880",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 173.05,
+      "cajas": 34,
+      "unds": 163,
+      "timestamp": "2026-06-20T08:32:43.563Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:32:00.438Z"
+  "ultima_actualizacion": "2026-06-20T08:32:43.563Z"
 }
