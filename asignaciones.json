@@ -109,18 +109,6 @@
       "timestamp": "2026-06-20T05:37:28.165Z"
     },
     {
-      "placa": "F7B746",
-      "familia": "D",
-      "material": "1050239",
-      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
-      "controlador": "NICOLAS",
-      "picador": "PAUL LORENZO, ZAVALA VIVAS",
-      "kg": 102.76,
-      "cajas": 15,
-      "unds": 19,
-      "timestamp": "2026-06-20T05:38:49.602Z"
-    },
-    {
       "placa": "AWC785",
       "familia": "E",
       "material": "1002743",
@@ -3876,7 +3864,21 @@
       "cajas": 18,
       "unds": 72,
       "timestamp": "2026-06-20T12:01:44.357Z"
+    },
+    {
+      "placa": "F7B746",
+      "familia": "D",
+      "zona": "A",
+      "material": "1050239",
+      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+      "controlador": "NICOLAS",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 102.76,
+      "kg_regular": 102.76,
+      "cajas": 15,
+      "unds": 19,
+      "timestamp": "2026-06-20T12:01:45.886Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:44.357Z"
+  "ultima_actualizacion": "2026-06-20T12:01:45.886Z"
 }
