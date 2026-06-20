@@ -3768,7 +3768,21 @@
       "cajas": 26,
       "unds": 197,
       "timestamp": "2026-06-20T11:59:09.234Z"
+    },
+    {
+      "placa": "C5R934",
+      "familia": "A",
+      "zona": "B",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "TORRES",
+      "picador": "BAZAN CORTEGANA NILO",
+      "kg": 1876.27,
+      "kg_regular": 1876.27,
+      "cajas": 175,
+      "unds": 134,
+      "timestamp": "2026-06-20T11:59:15.680Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:59:09.234Z"
+  "ultima_actualizacion": "2026-06-20T11:59:15.680Z"
 }
