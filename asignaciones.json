@@ -421,18 +421,6 @@
       "timestamp": "2026-06-20T06:18:13.694Z"
     },
     {
-      "placa": "AWC785",
-      "familia": "B",
-      "material": "1989",
-      "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
-      "controlador": "NICOLAS",
-      "picador": "QUINDE RETETE DANILO NATAN",
-      "kg": 368.77,
-      "cajas": 29,
-      "unds": 159,
-      "timestamp": "2026-06-20T06:21:56.707Z"
-    },
-    {
       "placa": "D3L703",
       "familia": "A",
       "material": "3777",
@@ -3908,7 +3896,21 @@
       "cajas": 238,
       "unds": 36,
       "timestamp": "2026-06-20T12:02:31.825Z"
+    },
+    {
+      "placa": "AWC785",
+      "familia": "B",
+      "zona": "A",
+      "material": "1989",
+      "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+      "controlador": "NICOLAS",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 368.77,
+      "kg_regular": 54.67,
+      "cajas": 29,
+      "unds": 159,
+      "timestamp": "2026-06-20T12:02:37.603Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:31.825Z"
+  "ultima_actualizacion": "2026-06-20T12:02:37.603Z"
 }
