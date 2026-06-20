@@ -469,18 +469,6 @@
       "timestamp": "2026-06-19T07:19:49.132Z"
     },
     {
-      "placa": "APC840",
-      "familia": "F",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "LALO",
-      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
-      "kg": 145.77,
-      "cajas": 23,
-      "unds": 233,
-      "timestamp": "2026-06-19T07:20:02.011Z"
-    },
-    {
       "placa": "CKI862",
       "familia": "A",
       "material": "3777",
@@ -505,5 +493,5 @@
       "timestamp": "2026-06-19T07:22:33.704Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:54:43.689Z"
+  "ultima_actualizacion": "2026-06-20T03:54:45.470Z"
 }
