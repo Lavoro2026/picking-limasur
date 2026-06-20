@@ -3164,7 +3164,20 @@
       "cajas": 36,
       "unds": 265,
       "timestamp": "2026-06-20T09:45:35.068Z"
+    },
+    {
+      "placa": "F3M892",
+      "familia": "F",
+      "zona": "P",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 159.38,
+      "cajas": 33,
+      "unds": 221,
+      "timestamp": "2026-06-20T09:46:54.403Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:45:35.068Z"
+  "ultima_actualizacion": "2026-06-20T09:46:54.403Z"
 }
