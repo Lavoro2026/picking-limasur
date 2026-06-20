@@ -1537,18 +1537,6 @@
       "timestamp": "2026-06-19T10:16:24.582Z"
     },
     {
-      "placa": "C2B801",
-      "familia": "A",
-      "material": "3777",
-      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
-      "controlador": "VENTURA",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 752.54,
-      "cajas": 64,
-      "unds": 255,
-      "timestamp": "2026-06-19T10:29:46.376Z"
-    },
-    {
       "placa": "AWC785",
       "familia": "A",
       "material": "3777",
@@ -1573,5 +1561,5 @@
       "timestamp": "2026-06-19T10:30:14.307Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:40:58.415Z"
+  "ultima_actualizacion": "2026-06-20T03:41:00.948Z"
 }
