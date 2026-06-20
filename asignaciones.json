@@ -3567,7 +3567,20 @@
       "cajas": 26,
       "unds": 183,
       "timestamp": "2026-06-20T11:00:40.956Z"
+    },
+    {
+      "placa": "F3M892",
+      "familia": "B",
+      "zona": "P",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "TORRES",
+      "picador": "TORRES CALDAS OSCAR RUBEN",
+      "kg": 370.81,
+      "cajas": 28,
+      "unds": 146,
+      "timestamp": "2026-06-20T11:19:52.563Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:00:40.956Z"
+  "ultima_actualizacion": "2026-06-20T11:19:52.563Z"
 }
