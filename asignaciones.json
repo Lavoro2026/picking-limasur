@@ -1461,7 +1461,20 @@
       "cajas": 13,
       "unds": 22,
       "timestamp": "2026-06-20T07:04:48.607Z"
+    },
+    {
+      "placa": "CKI862",
+      "familia": "F",
+      "zona": "B",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "NICOLAS",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 130.79,
+      "cajas": 22,
+      "unds": 231,
+      "timestamp": "2026-06-20T07:05:10.954Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:04:48.607Z"
+  "ultima_actualizacion": "2026-06-20T07:05:10.954Z"
 }
