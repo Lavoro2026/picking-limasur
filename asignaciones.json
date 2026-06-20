@@ -2,18 +2,6 @@
   "asignaciones": [
     {
       "placa": "F7B746",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
-      "kg": 163.72,
-      "cajas": 34,
-      "unds": 196,
-      "timestamp": "2026-06-20T04:59:42.372Z"
-    },
-    {
-      "placa": "F7B746",
       "familia": "A",
       "material": "1004557",
       "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
@@ -3632,7 +3620,21 @@
       "cajas": 2,
       "unds": 4,
       "timestamp": "2026-06-20T11:23:02.285Z"
+    },
+    {
+      "placa": "F7B746",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 163.72,
+      "kg_regular": 163.72,
+      "cajas": 34,
+      "unds": 196,
+      "timestamp": "2026-06-20T11:57:26.387Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T11:23:02.285Z"
+  "ultima_actualizacion": "2026-06-20T11:57:26.387Z"
 }
