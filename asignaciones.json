@@ -145,18 +145,6 @@
       "timestamp": "2026-06-20T05:43:22.588Z"
     },
     {
-      "placa": "BKV855",
-      "familia": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "PIERRE",
-      "picador": "GUERRERO VILCA, BRYAN ANTONY",
-      "kg": 396.91,
-      "cajas": 27,
-      "unds": 234,
-      "timestamp": "2026-06-20T05:44:12.372Z"
-    },
-    {
       "placa": "AWC785",
       "familia": "A",
       "material": "1004557",
@@ -3880,7 +3868,21 @@
       "cajas": 24,
       "unds": 66,
       "timestamp": "2026-06-20T12:01:47.410Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "B",
+      "zona": "A",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "PIERRE",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 396.91,
+      "kg_regular": 120.29,
+      "cajas": 27,
+      "unds": 234,
+      "timestamp": "2026-06-20T12:01:52.644Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:47.410Z"
+  "ultima_actualizacion": "2026-06-20T12:01:52.644Z"
 }
