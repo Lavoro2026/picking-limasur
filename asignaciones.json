@@ -635,7 +635,19 @@
       "cajas": 18,
       "unds": 128,
       "timestamp": "2026-06-20T06:03:15.179Z"
+    },
+    {
+      "placa": "F9W785",
+      "familia": "E",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "TORRES",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 206.37,
+      "cajas": 28,
+      "unds": 78,
+      "timestamp": "2026-06-20T06:03:25.913Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:03:15.179Z"
+  "ultima_actualizacion": "2026-06-20T06:03:25.913Z"
 }
