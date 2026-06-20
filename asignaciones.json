@@ -3060,7 +3060,20 @@
       "cajas": 44,
       "unds": 373,
       "timestamp": "2026-06-20T09:24:42.909Z"
+    },
+    {
+      "placa": "F7X829",
+      "familia": "D",
+      "zona": "P",
+      "material": "1004787",
+      "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+      "controlador": "NICOLAS",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 48.39,
+      "cajas": 7,
+      "unds": 15,
+      "timestamp": "2026-06-20T09:25:28.790Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:24:42.909Z"
+  "ultima_actualizacion": "2026-06-20T09:25:28.790Z"
 }
