@@ -241,18 +241,6 @@
       "timestamp": "2026-06-20T05:54:42.740Z"
     },
     {
-      "placa": "C1J747",
-      "familia": "E",
-      "material": "1003133",
-      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
-      "controlador": "PIERRE",
-      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
-      "kg": 177.15,
-      "cajas": 23,
-      "unds": 91,
-      "timestamp": "2026-06-20T05:57:20.284Z"
-    },
-    {
       "placa": "ATP870",
       "familia": "E",
       "material": "1002743",
@@ -3894,7 +3882,21 @@
       "cajas": 36,
       "unds": 136,
       "timestamp": "2026-06-20T12:02:10.624Z"
+    },
+    {
+      "placa": "C1J747",
+      "familia": "E",
+      "zona": "A",
+      "material": "1003133",
+      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+      "controlador": "PIERRE",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 177.15,
+      "kg_regular": 49.83,
+      "cajas": 23,
+      "unds": 91,
+      "timestamp": "2026-06-20T12:02:12.076Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:10.624Z"
+  "ultima_actualizacion": "2026-06-20T12:02:12.076Z"
 }
