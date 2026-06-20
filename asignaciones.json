@@ -3255,7 +3255,20 @@
       "cajas": 48,
       "unds": 237,
       "timestamp": "2026-06-20T09:51:43.674Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "A",
+      "zona": "P",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 966.89,
+      "cajas": 86,
+      "unds": 286,
+      "timestamp": "2026-06-20T09:52:37.945Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:51:43.674Z"
+  "ultima_actualizacion": "2026-06-20T09:52:37.945Z"
 }
