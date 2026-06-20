@@ -1,18 +1,6 @@
 {
   "asignaciones": [
     {
-      "placa": "BKV855",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "PIERRE",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 116.21,
-      "cajas": 22,
-      "unds": 210,
-      "timestamp": "2026-06-20T05:10:18.666Z"
-    },
-    {
       "placa": "F7B746",
       "familia": "C",
       "material": "1004903",
@@ -3856,7 +3844,21 @@
       "cajas": 18,
       "unds": 191,
       "timestamp": "2026-06-20T12:01:20.612Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 116.21,
+      "kg_regular": 116.21,
+      "cajas": 22,
+      "unds": 210,
+      "timestamp": "2026-06-20T12:01:22.405Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:20.612Z"
+  "ultima_actualizacion": "2026-06-20T12:01:22.405Z"
 }
