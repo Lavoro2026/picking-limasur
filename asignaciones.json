@@ -566,18 +566,6 @@
     },
     {
       "placa": "C3Q769",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "NICOLAS",
-      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
-      "kg": 491.92,
-      "cajas": 43,
-      "unds": 9,
-      "timestamp": "2026-06-19T07:22:18.755Z"
-    },
-    {
-      "placa": "C3Q769",
       "familia": "A",
       "material": "3777",
       "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
@@ -637,5 +625,5 @@
       "timestamp": "2026-06-19T07:25:02.313Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:52:52.778Z"
+  "ultima_actualizacion": "2026-06-20T03:52:56.808Z"
 }
