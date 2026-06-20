@@ -1489,18 +1489,6 @@
       "timestamp": "2026-06-19T10:14:44.500Z"
     },
     {
-      "placa": "ARZ862",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "LALO",
-      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
-      "kg": 540.11,
-      "cajas": 48,
-      "unds": 20,
-      "timestamp": "2026-06-19T10:14:56.325Z"
-    },
-    {
       "placa": "AMF737",
       "familia": "A",
       "material": "3777",
@@ -1513,5 +1501,5 @@
       "timestamp": "2026-06-19T10:15:45.414Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:41:21.931Z"
+  "ultima_actualizacion": "2026-06-20T03:41:24.018Z"
 }
