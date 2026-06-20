@@ -467,7 +467,19 @@
       "cajas": 7,
       "unds": 0,
       "timestamp": "2026-06-20T05:47:44.148Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "D",
+      "material": "1050239",
+      "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 51.15,
+      "cajas": 8,
+      "unds": 2,
+      "timestamp": "2026-06-20T05:48:16.183Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:47:44.148Z"
+  "ultima_actualizacion": "2026-06-20T05:48:16.183Z"
 }
