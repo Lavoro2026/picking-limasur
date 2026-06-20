@@ -1045,7 +1045,20 @@
       "cajas": 19,
       "unds": 37,
       "timestamp": "2026-06-20T06:37:06.369Z"
+    },
+    {
+      "placa": "ASM812",
+      "familia": "B",
+      "zona": "A",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "NICOLAS",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 546.99,
+      "cajas": 42,
+      "unds": 177,
+      "timestamp": "2026-06-20T06:37:25.958Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:37:06.369Z"
+  "ultima_actualizacion": "2026-06-20T06:37:25.958Z"
 }
