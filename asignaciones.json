@@ -374,18 +374,6 @@
     },
     {
       "placa": "AMQ791",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "TORRES",
-      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-      "kg": 2495.17,
-      "cajas": 238,
-      "unds": 36,
-      "timestamp": "2026-06-20T06:15:11.812Z"
-    },
-    {
-      "placa": "AMQ791",
       "familia": "D",
       "material": "1004785",
       "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
@@ -3906,7 +3894,21 @@
       "cajas": 31,
       "unds": 277,
       "timestamp": "2026-06-20T12:02:30.650Z"
+    },
+    {
+      "placa": "AMQ791",
+      "familia": "C",
+      "zona": "A",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "TORRES",
+      "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+      "kg": 2495.17,
+      "kg_regular": 419.51,
+      "cajas": 238,
+      "unds": 36,
+      "timestamp": "2026-06-20T12:02:31.825Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:30.650Z"
+  "ultima_actualizacion": "2026-06-20T12:02:31.825Z"
 }
