@@ -997,18 +997,6 @@
       "timestamp": "2026-06-19T08:30:37.317Z"
     },
     {
-      "placa": "ANI940",
-      "familia": "C",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "TORRES",
-      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
-      "kg": 439.22,
-      "cajas": 37,
-      "unds": 23,
-      "timestamp": "2026-06-19T08:30:51.530Z"
-    },
-    {
       "placa": "C1J747",
       "familia": "F",
       "material": "1003105",
@@ -1045,5 +1033,5 @@
       "timestamp": "2026-06-19T10:05:26.385Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:48:59.160Z"
+  "ultima_actualizacion": "2026-06-20T03:49:07.804Z"
 }
