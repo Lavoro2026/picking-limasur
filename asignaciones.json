@@ -2,18 +2,6 @@
   "asignaciones": [
     {
       "placa": "BKV855",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "LALO",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 111.41,
-      "cajas": 20,
-      "unds": 200,
-      "timestamp": "2026-06-19T05:36:35.478Z"
-    },
-    {
-      "placa": "BKV855",
       "familia": "C",
       "material": "1004903",
       "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
@@ -1489,5 +1477,5 @@
       "timestamp": "2026-06-19T10:15:45.414Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:41:29.945Z"
+  "ultima_actualizacion": "2026-06-20T03:41:38.378Z"
 }
