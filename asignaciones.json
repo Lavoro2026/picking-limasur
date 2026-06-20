@@ -1,18 +1,6 @@
 {
   "asignaciones": [
     {
-      "placa": "D1V932",
-      "familia": "F",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "PIERRE",
-      "picador": "VILLALBA CULE, ALVARO",
-      "kg": 147.57,
-      "cajas": 31,
-      "unds": 151,
-      "timestamp": "2026-06-19T05:38:02.465Z"
-    },
-    {
       "placa": "BKV855",
       "familia": "A",
       "material": "3777",
@@ -25,5 +13,5 @@
       "timestamp": "2026-06-19T05:38:37.534Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:57:33.464Z"
+  "ultima_actualizacion": "2026-06-20T03:57:42.183Z"
 }
