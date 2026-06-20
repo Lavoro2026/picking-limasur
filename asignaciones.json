@@ -2449,7 +2449,20 @@
       "cajas": 107,
       "unds": 15,
       "timestamp": "2026-06-20T08:23:39.861Z"
+    },
+    {
+      "placa": "APB825",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 77.78,
+      "cajas": 15,
+      "unds": 139,
+      "timestamp": "2026-06-20T08:24:29.070Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:23:39.861Z"
+  "ultima_actualizacion": "2026-06-20T08:24:29.070Z"
 }
