@@ -1656,7 +1656,20 @@
       "cajas": 18,
       "unds": 4,
       "timestamp": "2026-06-20T07:21:51.809Z"
+    },
+    {
+      "placa": "AXB855",
+      "familia": "F",
+      "zona": "",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+      "kg": 185.27,
+      "cajas": 36,
+      "unds": 168,
+      "timestamp": "2026-06-20T07:22:47.700Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T07:21:51.809Z"
+  "ultima_actualizacion": "2026-06-20T07:22:47.700Z"
 }
