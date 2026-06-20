@@ -459,19 +459,6 @@
       "timestamp": "2026-06-20T06:26:35.674Z"
     },
     {
-      "placa": "AXB855",
-      "familia": "E",
-      "zona": "B",
-      "material": "1002743",
-      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
-      "controlador": "LALO",
-      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
-      "kg": 253.51,
-      "cajas": 39,
-      "unds": 72,
-      "timestamp": "2026-06-20T06:26:49.982Z"
-    },
-    {
       "placa": "C2B801",
       "familia": "A",
       "zona": "",
@@ -3916,7 +3903,21 @@
       "cajas": 32,
       "unds": 227,
       "timestamp": "2026-06-20T12:02:46.553Z"
+    },
+    {
+      "placa": "AXB855",
+      "familia": "E",
+      "zona": "B",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "LALO",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 253.51,
+      "kg_regular": 65.98,
+      "cajas": 39,
+      "unds": 72,
+      "timestamp": "2026-06-20T12:02:49.348Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:46.553Z"
+  "ultima_actualizacion": "2026-06-20T12:02:49.348Z"
 }
