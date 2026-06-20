@@ -1214,7 +1214,20 @@
       "cajas": 6,
       "unds": 0,
       "timestamp": "2026-06-20T06:50:35.556Z"
+    },
+    {
+      "placa": "C1J747",
+      "familia": "B",
+      "zona": "A",
+      "material": "1007197",
+      "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+      "controlador": "PIERRE",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 360.81,
+      "cajas": 27,
+      "unds": 190,
+      "timestamp": "2026-06-20T06:50:48.611Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:50:35.556Z"
+  "ultima_actualizacion": "2026-06-20T06:50:48.611Z"
 }
