@@ -85,18 +85,6 @@
       "timestamp": "2026-06-20T05:29:49.163Z"
     },
     {
-      "placa": "D1V932",
-      "familia": "A",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "LALO",
-      "picador": "VENTURA LOZANO BRAYANS AMIR",
-      "kg": 396.58,
-      "cajas": 32,
-      "unds": 191,
-      "timestamp": "2026-06-20T05:31:06.748Z"
-    },
-    {
       "placa": "D4R705",
       "familia": "F",
       "material": "1004551",
@@ -3864,7 +3852,21 @@
       "cajas": 23,
       "unds": 153,
       "timestamp": "2026-06-20T12:01:30.516Z"
+    },
+    {
+      "placa": "D1V932",
+      "familia": "A",
+      "zona": "A",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "LALO",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 396.58,
+      "kg_regular": 396.58,
+      "cajas": 32,
+      "unds": 191,
+      "timestamp": "2026-06-20T12:01:35.169Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:01:30.516Z"
+  "ultima_actualizacion": "2026-06-20T12:01:35.169Z"
 }
