@@ -841,18 +841,6 @@
       "timestamp": "2026-06-19T07:43:27.233Z"
     },
     {
-      "placa": "ASM907",
-      "familia": "A",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "VENTURA",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 440.65,
-      "cajas": 34,
-      "unds": 244,
-      "timestamp": "2026-06-19T07:43:42.353Z"
-    },
-    {
       "placa": "ANI940",
       "familia": "A",
       "material": "3777",
@@ -901,5 +889,5 @@
       "timestamp": "2026-06-19T10:05:26.385Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:51:34.270Z"
+  "ultima_actualizacion": "2026-06-20T03:51:43.092Z"
 }
