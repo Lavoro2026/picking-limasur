@@ -515,7 +515,19 @@
       "cajas": 19,
       "unds": 52,
       "timestamp": "2026-06-20T05:50:39.811Z"
+    },
+    {
+      "placa": "APC840",
+      "familia": "A",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 313.05,
+      "cajas": 23,
+      "unds": 214,
+      "timestamp": "2026-06-20T05:53:54.883Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:50:39.811Z"
+  "ultima_actualizacion": "2026-06-20T05:53:54.883Z"
 }
