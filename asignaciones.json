@@ -373,18 +373,6 @@
       "timestamp": "2026-06-20T06:13:53.177Z"
     },
     {
-      "placa": "AMQ791",
-      "familia": "B",
-      "material": "1001507",
-      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
-      "controlador": "TORRES",
-      "picador": "GUERRERO VILCA, BRYAN ANTONY",
-      "kg": 263.49,
-      "cajas": 17,
-      "unds": 158,
-      "timestamp": "2026-06-20T06:13:59.962Z"
-    },
-    {
       "placa": "ATP870",
       "familia": "F",
       "material": "1003105",
@@ -3902,7 +3890,21 @@
       "cajas": 28,
       "unds": 286,
       "timestamp": "2026-06-20T12:02:22.862Z"
+    },
+    {
+      "placa": "AMQ791",
+      "familia": "B",
+      "zona": "A",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "TORRES",
+      "picador": "GUERRERO VILCA, BRYAN ANTONY",
+      "kg": 263.49,
+      "kg_regular": 55,
+      "cajas": 17,
+      "unds": 158,
+      "timestamp": "2026-06-20T12:02:28.998Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:22.862Z"
+  "ultima_actualizacion": "2026-06-20T12:02:28.998Z"
 }
