@@ -107,7 +107,19 @@
       "cajas": 20,
       "unds": 44,
       "timestamp": "2026-06-20T05:17:50.508Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "PIERRE",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 329.23,
+      "cajas": 25,
+      "unds": 200,
+      "timestamp": "2026-06-20T05:19:46.482Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T05:17:50.508Z"
+  "ultima_actualizacion": "2026-06-20T05:19:46.482Z"
 }
