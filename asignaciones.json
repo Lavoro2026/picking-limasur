@@ -3151,7 +3151,20 @@
       "cajas": 17,
       "unds": 179,
       "timestamp": "2026-06-20T09:45:16.648Z"
+    },
+    {
+      "placa": "APU790",
+      "familia": "F",
+      "zona": "P",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "LALO",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 173.32,
+      "cajas": 36,
+      "unds": 265,
+      "timestamp": "2026-06-20T09:45:35.068Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T09:45:16.648Z"
+  "ultima_actualizacion": "2026-06-20T09:45:35.068Z"
 }
