@@ -2306,7 +2306,20 @@
       "cajas": 47,
       "unds": 213,
       "timestamp": "2026-06-20T08:10:03.770Z"
+    },
+    {
+      "placa": "D9G880",
+      "familia": "A",
+      "zona": "",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "LALO",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 1905.9,
+      "cajas": 184,
+      "unds": 147,
+      "timestamp": "2026-06-20T08:10:18.643Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T08:10:03.770Z"
+  "ultima_actualizacion": "2026-06-20T08:10:18.643Z"
 }
