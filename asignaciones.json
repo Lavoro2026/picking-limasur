@@ -1227,7 +1227,20 @@
       "cajas": 27,
       "unds": 190,
       "timestamp": "2026-06-20T06:50:48.611Z"
+    },
+    {
+      "placa": "APC840",
+      "familia": "D",
+      "zona": "A",
+      "material": "1005239",
+      "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+      "controlador": "PIERRE",
+      "picador": "PAUL LORENZO, ZAVALA VIVAS",
+      "kg": 23.13,
+      "cajas": 3,
+      "unds": 2,
+      "timestamp": "2026-06-20T06:51:14.521Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:50:48.611Z"
+  "ultima_actualizacion": "2026-06-20T06:51:14.521Z"
 }
