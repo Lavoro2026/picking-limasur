@@ -743,7 +743,19 @@
       "cajas": 17,
       "unds": 158,
       "timestamp": "2026-06-20T06:13:59.962Z"
+    },
+    {
+      "placa": "ATP870",
+      "familia": "F",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 165.33,
+      "cajas": 31,
+      "unds": 277,
+      "timestamp": "2026-06-20T06:14:17.947Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:13:59.962Z"
+  "ultima_actualizacion": "2026-06-20T06:14:17.947Z"
 }
