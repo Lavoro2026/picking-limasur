@@ -1084,7 +1084,20 @@
       "cajas": 32,
       "unds": 19,
       "timestamp": "2026-06-20T06:39:11.997Z"
+    },
+    {
+      "placa": "P4A742",
+      "familia": "E",
+      "zona": "",
+      "material": "1002745",
+      "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+      "controlador": "LALO",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 68.97,
+      "cajas": 9,
+      "unds": 34,
+      "timestamp": "2026-06-20T06:42:16.134Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T06:39:11.997Z"
+  "ultima_actualizacion": "2026-06-20T06:42:16.134Z"
 }
