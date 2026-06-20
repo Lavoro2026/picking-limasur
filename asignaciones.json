@@ -3385,7 +3385,20 @@
       "cajas": 30,
       "unds": 220,
       "timestamp": "2026-06-20T10:27:44.421Z"
+    },
+    {
+      "placa": "A4G840",
+      "familia": "B",
+      "zona": "",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "NICOLAS",
+      "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+      "kg": 469.83,
+      "cajas": 33,
+      "unds": 192,
+      "timestamp": "2026-06-20T10:28:06.220Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T10:27:44.421Z"
+  "ultima_actualizacion": "2026-06-20T10:28:06.220Z"
 }
