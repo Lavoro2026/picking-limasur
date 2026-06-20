@@ -421,18 +421,6 @@
       "timestamp": "2026-06-20T06:18:13.694Z"
     },
     {
-      "placa": "D3L703",
-      "familia": "A",
-      "material": "3777",
-      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
-      "controlador": "NICOLAS",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 1294.6,
-      "cajas": 116,
-      "unds": 305,
-      "timestamp": "2026-06-20T06:22:14.557Z"
-    },
-    {
       "placa": "APC840",
       "familia": "C",
       "material": "1004903",
@@ -3910,7 +3898,21 @@
       "cajas": 29,
       "unds": 159,
       "timestamp": "2026-06-20T12:02:37.603Z"
+    },
+    {
+      "placa": "D3L703",
+      "familia": "A",
+      "zona": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "NICOLAS",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 1294.6,
+      "kg_regular": 359.09,
+      "cajas": 116,
+      "unds": 305,
+      "timestamp": "2026-06-20T12:02:39.425Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T12:02:37.603Z"
+  "ultima_actualizacion": "2026-06-20T12:02:39.425Z"
 }
