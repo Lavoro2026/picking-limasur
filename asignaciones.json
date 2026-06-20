@@ -961,18 +961,6 @@
       "timestamp": "2026-06-19T08:12:11.745Z"
     },
     {
-      "placa": "V2F841",
-      "familia": "F",
-      "material": "1003107",
-      "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 79.75,
-      "cajas": 13,
-      "unds": 162,
-      "timestamp": "2026-06-19T08:29:45.740Z"
-    },
-    {
       "placa": "A6P899",
       "familia": "A",
       "material": "3777",
@@ -1021,5 +1009,5 @@
       "timestamp": "2026-06-19T10:05:26.385Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-20T03:49:11.366Z"
+  "ultima_actualizacion": "2026-06-20T03:49:14.785Z"
 }
