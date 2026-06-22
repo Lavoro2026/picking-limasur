@@ -83,7 +83,21 @@
       "cajas": 28,
       "unds": 78,
       "timestamp": "2026-06-22T05:18:19.469Z"
+    },
+    {
+      "placa": "F1E927",
+      "familia": "F",
+      "zona": "A",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "LALO",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 114.97,
+      "kg_regular": 114.97,
+      "cajas": 18,
+      "unds": 191,
+      "timestamp": "2026-06-22T05:23:01.964Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-22T05:18:19.469Z"
+  "ultima_actualizacion": "2026-06-22T05:23:01.964Z"
 }
