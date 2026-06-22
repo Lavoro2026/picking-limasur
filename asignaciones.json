@@ -1,19 +1,4 @@
 {
-  "asignaciones": [
-    {
-      "placa": "ARD784",
-      "familia": "E",
-      "zona": "B",
-      "material": "1002743",
-      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
-      "controlador": "PIERRE",
-      "picador": "ARAUCO TICONA PABLO NICOLAS",
-      "kg": 115.91,
-      "kg_regular": 37.93,
-      "cajas": 16,
-      "unds": 58,
-      "timestamp": "2026-06-22T08:21:16.991Z"
-    }
-  ],
-  "ultima_actualizacion": "2026-06-22T08:21:16.991Z"
+  "asignaciones": [],
+  "ultima_actualizacion": "2026-06-22T08:24:04.651Z"
 }
