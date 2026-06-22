@@ -237,7 +237,21 @@
       "cajas": 9,
       "unds": 47,
       "timestamp": "2026-06-22T06:48:32.449Z"
+    },
+    {
+      "placa": "ASM812",
+      "familia": "A",
+      "zona": "A",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "NICOLAS",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 614.73,
+      "kg_regular": 614.73,
+      "cajas": 54,
+      "unds": 178,
+      "timestamp": "2026-06-22T06:50:59.635Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-22T06:48:32.449Z"
+  "ultima_actualizacion": "2026-06-22T06:50:59.635Z"
 }
