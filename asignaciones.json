@@ -1,4 +1,19 @@
 {
-  "asignaciones": [],
-  "ultima_actualizacion": "2026-06-22T02:54:51.146Z"
+  "asignaciones": [
+    {
+      "placa": "F9W785",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 190.82,
+      "kg_regular": 190.82,
+      "cajas": 32,
+      "unds": 227,
+      "timestamp": "2026-06-22T05:08:50.041Z"
+    }
+  ],
+  "ultima_actualizacion": "2026-06-22T05:08:50.041Z"
 }
