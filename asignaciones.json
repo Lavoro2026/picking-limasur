@@ -1,4 +1,19 @@
 {
-  "asignaciones": [],
-  "ultima_actualizacion": "2026-06-22T08:09:20.136Z"
+  "asignaciones": [
+    {
+      "placa": "V2F841",
+      "familia": "A",
+      "zona": "B",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "PIERRE",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 347.71,
+      "kg_regular": 347.71,
+      "cajas": 26,
+      "unds": 197,
+      "timestamp": "2026-06-22T08:09:59.134Z"
+    }
+  ],
+  "ultima_actualizacion": "2026-06-22T08:09:59.134Z"
 }
