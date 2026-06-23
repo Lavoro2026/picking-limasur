@@ -3261,7 +3261,21 @@
       "cajas": 51,
       "unds": 258,
       "timestamp": "2026-06-23T13:02:09.631Z"
+    },
+    {
+      "placa": "V2F841",
+      "familia": "A",
+      "zona": "C",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "LALO",
+      "picador": "BAZAN CORTEGANA NILO",
+      "kg": 1053.33,
+      "kg_regular": 1053.33,
+      "cajas": 95,
+      "unds": 188,
+      "timestamp": "2026-06-23T13:02:26.115Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T13:02:09.631Z"
+  "ultima_actualizacion": "2026-06-23T13:02:26.115Z"
 }
