@@ -1581,7 +1581,21 @@
       "cajas": 42,
       "unds": 280,
       "timestamp": "2026-06-23T07:41:01.852Z"
+    },
+    {
+      "placa": "D1V932",
+      "familia": "C",
+      "zona": "B",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "TORRES",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 822.75,
+      "kg_regular": 822.75,
+      "cajas": 74,
+      "unds": 24,
+      "timestamp": "2026-06-23T07:44:03.423Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:41:01.852Z"
+  "ultima_actualizacion": "2026-06-23T07:44:03.423Z"
 }
