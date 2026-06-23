@@ -1441,7 +1441,21 @@
       "cajas": 20,
       "unds": 140,
       "timestamp": "2026-06-23T07:25:48.008Z"
+    },
+    {
+      "placa": "C5G823",
+      "familia": "A",
+      "zona": "B",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "TORRES",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 1778.04,
+      "kg_regular": 1778.04,
+      "cajas": 168,
+      "unds": 53,
+      "timestamp": "2026-06-23T07:29:02.817Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:25:48.008Z"
+  "ultima_actualizacion": "2026-06-23T07:29:02.817Z"
 }
