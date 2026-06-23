@@ -1147,7 +1147,21 @@
       "cajas": 56,
       "unds": 233,
       "timestamp": "2026-06-23T06:53:41.716Z"
+    },
+    {
+      "placa": "C5G823",
+      "familia": "C",
+      "zona": "B",
+      "material": "1005193",
+      "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+      "controlador": "TORRES",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 30.84,
+      "kg_regular": 30.84,
+      "cajas": 2,
+      "unds": 0,
+      "timestamp": "2026-06-23T06:54:03.504Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T06:53:41.716Z"
+  "ultima_actualizacion": "2026-06-23T06:54:03.504Z"
 }
