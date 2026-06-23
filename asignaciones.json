@@ -1427,7 +1427,21 @@
       "cajas": 12,
       "unds": 47,
       "timestamp": "2026-06-23T07:25:36.520Z"
+    },
+    {
+      "placa": "ACX716",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 108.59,
+      "kg_regular": 108.59,
+      "cajas": 20,
+      "unds": 140,
+      "timestamp": "2026-06-23T07:25:48.008Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:25:36.520Z"
+  "ultima_actualizacion": "2026-06-23T07:25:48.008Z"
 }
