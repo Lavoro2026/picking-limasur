@@ -1301,7 +1301,21 @@
       "cajas": 9,
       "unds": 288,
       "timestamp": "2026-06-23T07:08:45.358Z"
+    },
+    {
+      "placa": "C5G823",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003109",
+      "denominacion": "GLORIA YOG.PAR.DESC.FRESA X6UX500G",
+      "controlador": "TORRES",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 182.91,
+      "kg_regular": 182.91,
+      "cajas": 55,
+      "unds": 68,
+      "timestamp": "2026-06-23T07:09:37.726Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:08:45.358Z"
+  "ultima_actualizacion": "2026-06-23T07:09:37.726Z"
 }
