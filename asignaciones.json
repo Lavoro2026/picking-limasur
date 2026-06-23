@@ -2127,7 +2127,21 @@
       "cajas": 23,
       "unds": 32,
       "timestamp": "2026-06-23T08:35:10.223Z"
+    },
+    {
+      "placa": "C5R934",
+      "familia": "B",
+      "zona": "B",
+      "material": "1004553",
+      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+      "controlador": "LALO",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 509.63,
+      "kg_regular": 100.64,
+      "cajas": 38,
+      "unds": 267,
+      "timestamp": "2026-06-23T08:37:47.598Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:35:10.223Z"
+  "ultima_actualizacion": "2026-06-23T08:37:47.598Z"
 }
