@@ -2463,7 +2463,21 @@
       "cajas": 23,
       "unds": 158,
       "timestamp": "2026-06-23T09:08:00.064Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 131.59,
+      "kg_regular": 131.59,
+      "cajas": 27,
+      "unds": 238,
+      "timestamp": "2026-06-23T09:08:17.500Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T09:08:00.064Z"
+  "ultima_actualizacion": "2026-06-23T09:08:17.500Z"
 }
