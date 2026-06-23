@@ -1,19 +1,4 @@
 {
-  "asignaciones": [
-    {
-      "placa": "D3L703",
-      "familia": "E",
-      "zona": "A",
-      "material": "1002743",
-      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
-      "controlador": "NICOLAS",
-      "picador": "ARAUCO TICONA PABLO NICOLAS",
-      "kg": 105.79,
-      "kg_regular": 11.04,
-      "cajas": 15,
-      "unds": 35,
-      "timestamp": "2026-06-22T08:52:31.911Z"
-    }
-  ],
-  "ultima_actualizacion": "2026-06-23T02:27:06.800Z"
+  "asignaciones": [],
+  "ultima_actualizacion": "2026-06-23T02:27:10.777Z"
 }
