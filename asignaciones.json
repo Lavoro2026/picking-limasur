@@ -615,7 +615,21 @@
       "cajas": 24,
       "unds": 22,
       "timestamp": "2026-06-23T06:03:04.701Z"
+    },
+    {
+      "placa": "AMQ791",
+      "familia": "A",
+      "zona": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "TORRES",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 769.42,
+      "kg_regular": 769.42,
+      "cajas": 65,
+      "unds": 267,
+      "timestamp": "2026-06-23T06:04:20.679Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T06:03:04.701Z"
+  "ultima_actualizacion": "2026-06-23T06:04:20.679Z"
 }
