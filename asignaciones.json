@@ -2393,7 +2393,21 @@
       "cajas": 42,
       "unds": 21,
       "timestamp": "2026-06-23T08:54:15.212Z"
+    },
+    {
+      "placa": "D1V932",
+      "familia": "B",
+      "zona": "B",
+      "material": "1989",
+      "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+      "controlador": "TORRES",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 658.53,
+      "kg_regular": 102.67,
+      "cajas": 54,
+      "unds": 199,
+      "timestamp": "2026-06-23T09:02:11.323Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:54:15.212Z"
+  "ultima_actualizacion": "2026-06-23T09:02:11.323Z"
 }
