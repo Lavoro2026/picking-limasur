@@ -3037,7 +3037,21 @@
       "cajas": 105,
       "unds": 294,
       "timestamp": "2026-06-23T10:30:19.723Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "B",
+      "zona": "C",
+      "material": "1006123",
+      "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+      "controlador": "PIERRE",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 253.61,
+      "kg_regular": 41.62,
+      "cajas": 17,
+      "unds": 124,
+      "timestamp": "2026-06-23T10:41:12.559Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T10:30:19.723Z"
+  "ultima_actualizacion": "2026-06-23T10:41:12.559Z"
 }
