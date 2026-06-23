@@ -1371,7 +1371,21 @@
       "cajas": 22,
       "unds": 47,
       "timestamp": "2026-06-23T07:19:40.576Z"
+    },
+    {
+      "placa": "D4R705",
+      "familia": "C",
+      "zona": "B",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "PIERRE",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 322.96,
+      "kg_regular": 322.96,
+      "cajas": 24,
+      "unds": 27,
+      "timestamp": "2026-06-23T07:22:48.520Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:19:40.576Z"
+  "ultima_actualizacion": "2026-06-23T07:22:48.520Z"
 }
