@@ -1483,7 +1483,21 @@
       "cajas": 31,
       "unds": 130,
       "timestamp": "2026-06-23T07:29:55.021Z"
+    },
+    {
+      "placa": "AWC785",
+      "familia": "C",
+      "zona": "B",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "NICOLAS",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 123.67,
+      "kg_regular": 123.67,
+      "cajas": 7,
+      "unds": 16,
+      "timestamp": "2026-06-23T07:30:48.712Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:29:55.021Z"
+  "ultima_actualizacion": "2026-06-23T07:30:48.712Z"
 }
