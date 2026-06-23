@@ -2883,7 +2883,21 @@
       "cajas": 18,
       "unds": 385,
       "timestamp": "2026-06-23T10:06:30.800Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "A",
+      "zona": "C",
+      "material": "535452",
+      "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+      "controlador": "PIERRE",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 443.8,
+      "kg_regular": 443.8,
+      "cajas": 36,
+      "unds": 242,
+      "timestamp": "2026-06-23T10:12:28.634Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T10:06:30.800Z"
+  "ultima_actualizacion": "2026-06-23T10:12:28.634Z"
 }
