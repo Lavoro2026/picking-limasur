@@ -2057,7 +2057,21 @@
       "cajas": 90,
       "unds": 14,
       "timestamp": "2026-06-23T08:24:15.666Z"
+    },
+    {
+      "placa": "ATP870",
+      "familia": "C",
+      "zona": "C",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "LALO",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 1025.52,
+      "kg_regular": 1025.52,
+      "cajas": 96,
+      "unds": 5,
+      "timestamp": "2026-06-23T08:25:50.269Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:24:15.666Z"
+  "ultima_actualizacion": "2026-06-23T08:25:50.269Z"
 }
