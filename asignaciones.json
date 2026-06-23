@@ -1329,7 +1329,21 @@
       "cajas": 53,
       "unds": 63,
       "timestamp": "2026-06-23T07:13:12.495Z"
+    },
+    {
+      "placa": "APC840",
+      "familia": "C",
+      "zona": "B",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "TORRES",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 773.5,
+      "kg_regular": 773.5,
+      "cajas": 69,
+      "unds": 32,
+      "timestamp": "2026-06-23T07:14:21.486Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:13:12.495Z"
+  "ultima_actualizacion": "2026-06-23T07:14:21.486Z"
 }
