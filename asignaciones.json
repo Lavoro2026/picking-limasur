@@ -2365,7 +2365,21 @@
       "cajas": 19,
       "unds": 113,
       "timestamp": "2026-06-23T08:53:35.466Z"
+    },
+    {
+      "placa": "ATB831",
+      "familia": "B",
+      "zona": "B",
+      "material": "3759",
+      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+      "controlador": "PIERRE",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 654.08,
+      "kg_regular": 113.47,
+      "cajas": 54,
+      "unds": 187,
+      "timestamp": "2026-06-23T08:53:42.332Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:53:35.466Z"
+  "ultima_actualizacion": "2026-06-23T08:53:42.332Z"
 }
