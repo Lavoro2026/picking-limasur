@@ -2477,7 +2477,21 @@
       "cajas": 27,
       "unds": 238,
       "timestamp": "2026-06-23T09:08:17.500Z"
+    },
+    {
+      "placa": "D2H719",
+      "familia": "B",
+      "zona": "B",
+      "material": "1001317",
+      "denominacion": "BONLE MEZC LACT FAMILIAR 480G X4-6PK TTP",
+      "controlador": "NICOLAS",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 2111.76,
+      "kg_regular": 8.64,
+      "cajas": 173,
+      "unds": 34,
+      "timestamp": "2026-06-23T09:09:41.279Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T09:08:17.500Z"
+  "ultima_actualizacion": "2026-06-23T09:09:41.279Z"
 }
