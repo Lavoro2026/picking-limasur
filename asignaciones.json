@@ -2757,7 +2757,21 @@
       "cajas": 47,
       "unds": 19,
       "timestamp": "2026-06-23T09:51:44.612Z"
+    },
+    {
+      "placa": "AMF737",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 82.98,
+      "kg_regular": 82.98,
+      "cajas": 16,
+      "unds": 136,
+      "timestamp": "2026-06-23T09:51:54.769Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T09:51:44.612Z"
+  "ultima_actualizacion": "2026-06-23T09:51:54.769Z"
 }
