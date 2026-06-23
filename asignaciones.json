@@ -1,20 +1,6 @@
 {
   "asignaciones": [
     {
-      "placa": "AWH909",
-      "familia": "E",
-      "zona": "B",
-      "material": "1002745",
-      "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
-      "controlador": "NICOLAS",
-      "picador": "ARAUCO TICONA PABLO NICOLAS",
-      "kg": 140.29,
-      "kg_regular": 95.87,
-      "cajas": 20,
-      "unds": 37,
-      "timestamp": "2026-06-22T08:44:45.175Z"
-    },
-    {
       "placa": "D3L703",
       "familia": "E",
       "zona": "A",
@@ -113,5 +99,5 @@
       "timestamp": "2026-06-22T09:49:21.984Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-22T09:49:21.984Z"
+  "ultima_actualizacion": "2026-06-23T02:26:42.372Z"
 }
