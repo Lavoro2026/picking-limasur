@@ -2717,20 +2717,6 @@
       "timestamp": "2026-06-23T09:48:50.946Z"
     },
     {
-      "placa": "APB825",
-      "familia": "C",
-      "zona": "P",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "NICOLAS",
-      "picador": "VENTURA LOZANO BRAYANS AMIR",
-      "kg": 465.35,
-      "kg_regular": 465.35,
-      "cajas": 38,
-      "unds": 19,
-      "timestamp": "2026-06-23T09:49:25.335Z"
-    },
-    {
       "placa": "ANE848",
       "familia": "F",
       "zona": "C",
@@ -2743,7 +2729,21 @@
       "cajas": 13,
       "unds": 150,
       "timestamp": "2026-06-23T09:50:11.766Z"
+    },
+    {
+      "placa": "APB825",
+      "familia": "C",
+      "zona": "P",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "NICOLAS",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 465.35,
+      "kg_regular": 465.35,
+      "cajas": 38,
+      "unds": 19,
+      "timestamp": "2026-06-23T09:50:38.242Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T09:50:11.766Z"
+  "ultima_actualizacion": "2026-06-23T09:50:38.242Z"
 }
