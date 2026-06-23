@@ -1637,7 +1637,21 @@
       "cajas": 26,
       "unds": 155,
       "timestamp": "2026-06-23T07:48:12.656Z"
+    },
+    {
+      "placa": "ACX716",
+      "familia": "A",
+      "zona": "B",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "LALO",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 640.78,
+      "kg_regular": 640.78,
+      "cajas": 54,
+      "unds": 219,
+      "timestamp": "2026-06-23T07:48:39.551Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T07:48:12.656Z"
+  "ultima_actualizacion": "2026-06-23T07:48:39.551Z"
 }
