@@ -2295,7 +2295,21 @@
       "cajas": 28,
       "unds": 203,
       "timestamp": "2026-06-23T08:51:50.334Z"
+    },
+    {
+      "placa": "D2H719",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003113",
+      "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+      "controlador": "NICOLAS",
+      "picador": "ESCALANTE BALDEON LUIS JAYRO",
+      "kg": 57.11,
+      "kg_regular": 57.11,
+      "cajas": 6,
+      "unds": 98,
+      "timestamp": "2026-06-23T08:52:11.030Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:51:50.334Z"
+  "ultima_actualizacion": "2026-06-23T08:52:11.030Z"
 }
