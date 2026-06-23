@@ -2183,7 +2183,21 @@
       "cajas": 25,
       "unds": 67,
       "timestamp": "2026-06-23T08:42:42.449Z"
+    },
+    {
+      "placa": "D2H719",
+      "familia": "A",
+      "zona": "B",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "NICOLAS",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 910.53,
+      "kg_regular": 910.53,
+      "cajas": 81,
+      "unds": 181,
+      "timestamp": "2026-06-23T08:42:55.652Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T08:42:42.449Z"
+  "ultima_actualizacion": "2026-06-23T08:42:55.652Z"
 }
