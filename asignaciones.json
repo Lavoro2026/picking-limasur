@@ -1217,7 +1217,21 @@
       "cajas": 17,
       "unds": 57,
       "timestamp": "2026-06-23T06:58:54.857Z"
+    },
+    {
+      "placa": "A4G840",
+      "familia": "A",
+      "zona": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "PIERRE",
+      "picador": "QUINDE RETETE DANILO NATAN",
+      "kg": 313.36,
+      "kg_regular": 313.36,
+      "cajas": 22,
+      "unds": 286,
+      "timestamp": "2026-06-23T07:01:11.632Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T06:58:54.857Z"
+  "ultima_actualizacion": "2026-06-23T07:01:11.632Z"
 }
