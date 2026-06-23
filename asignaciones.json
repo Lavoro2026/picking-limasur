@@ -2897,7 +2897,21 @@
       "cajas": 36,
       "unds": 242,
       "timestamp": "2026-06-23T10:12:28.634Z"
+    },
+    {
+      "placa": "ASM907",
+      "familia": "B",
+      "zona": "C",
+      "material": "1004553",
+      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+      "controlador": "NICOLAS",
+      "picador": "VILLALBA CULE, ALVARO",
+      "kg": 235.74,
+      "kg_regular": 98.43,
+      "cajas": 13,
+      "unds": 149,
+      "timestamp": "2026-06-23T10:12:37.281Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T10:12:28.634Z"
+  "ultima_actualizacion": "2026-06-23T10:12:37.281Z"
 }
