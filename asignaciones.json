@@ -2771,7 +2771,21 @@
       "cajas": 16,
       "unds": 136,
       "timestamp": "2026-06-23T09:51:54.769Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "B",
+      "zona": "C",
+      "material": "1007197",
+      "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+      "controlador": "PIERRE",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 220.21,
+      "kg_regular": 111.12,
+      "cajas": 18,
+      "unds": 177,
+      "timestamp": "2026-06-23T09:52:48.718Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T09:51:54.769Z"
+  "ultima_actualizacion": "2026-06-23T09:52:48.718Z"
 }
