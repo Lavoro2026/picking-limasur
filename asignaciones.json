@@ -433,7 +433,21 @@
       "cajas": 33,
       "unds": 282,
       "timestamp": "2026-06-24T06:20:26.245Z"
+    },
+    {
+      "placa": "D9G880",
+      "familia": "F",
+      "zona": "A",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 178.93,
+      "kg_regular": 178.93,
+      "cajas": 34,
+      "unds": 289,
+      "timestamp": "2026-06-24T06:20:37.126Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T06:20:26.245Z"
+  "ultima_actualizacion": "2026-06-24T06:20:37.126Z"
 }
