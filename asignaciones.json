@@ -1553,7 +1553,21 @@
       "cajas": 25,
       "unds": 259,
       "timestamp": "2026-06-24T08:37:17.288Z"
+    },
+    {
+      "placa": "AMQ791",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 135.76,
+      "kg_regular": 135.76,
+      "cajas": 30,
+      "unds": 130,
+      "timestamp": "2026-06-24T08:40:47.523Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T08:37:17.288Z"
+  "ultima_actualizacion": "2026-06-24T08:40:47.523Z"
 }
