@@ -2183,7 +2183,21 @@
       "cajas": 25,
       "unds": 216,
       "timestamp": "2026-06-24T10:14:03.190Z"
+    },
+    {
+      "placa": "APU790",
+      "familia": "A",
+      "zona": "PEN",
+      "material": "1004557",
+      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+      "controlador": "NICOLAS",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 822.7,
+      "kg_regular": 822.7,
+      "cajas": 70,
+      "unds": 301,
+      "timestamp": "2026-06-24T10:19:30.959Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T10:14:03.190Z"
+  "ultima_actualizacion": "2026-06-24T10:19:30.959Z"
 }
