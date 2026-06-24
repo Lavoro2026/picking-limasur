@@ -27,7 +27,21 @@
       "cajas": 29,
       "unds": 198,
       "timestamp": "2026-06-24T05:23:48.664Z"
+    },
+    {
+      "placa": "D0I718",
+      "familia": "E",
+      "zona": "A",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "TORRES",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 186.92,
+      "kg_regular": 35.91,
+      "cajas": 28,
+      "unds": 73,
+      "timestamp": "2026-06-24T05:24:04.677Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T05:23:48.664Z"
+  "ultima_actualizacion": "2026-06-24T05:24:04.677Z"
 }
