@@ -1401,20 +1401,6 @@
       "timestamp": "2026-06-23T07:24:15.629Z"
     },
     {
-      "placa": "BBI909",
-      "familia": "F",
-      "zona": "B",
-      "material": "3233",
-      "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
-      "controlador": "PIERRE",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 163.01,
-      "kg_regular": 163.01,
-      "cajas": 26,
-      "unds": 351,
-      "timestamp": "2026-06-23T07:24:31.718Z"
-    },
-    {
       "placa": "D3L703",
       "familia": "E",
       "zona": "A",
@@ -1429,5 +1415,5 @@
       "timestamp": "2026-06-23T07:25:36.520Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:48:38.701Z"
+  "ultima_actualizacion": "2026-06-24T03:48:43.062Z"
 }
