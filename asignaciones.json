@@ -2071,7 +2071,21 @@
       "cajas": 94,
       "unds": 194,
       "timestamp": "2026-06-24T09:50:03.510Z"
+    },
+    {
+      "placa": "ARD784",
+      "familia": "C",
+      "zona": "PEN",
+      "material": "1004903",
+      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+      "controlador": "PIERRE",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 604.57,
+      "kg_regular": 604.57,
+      "cajas": 49,
+      "unds": 12,
+      "timestamp": "2026-06-24T09:50:17.365Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:50:03.510Z"
+  "ultima_actualizacion": "2026-06-24T09:50:17.365Z"
 }
