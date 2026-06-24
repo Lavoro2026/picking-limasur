@@ -1805,7 +1805,21 @@
       "cajas": 51,
       "unds": 65,
       "timestamp": "2026-06-24T09:15:20.179Z"
+    },
+    {
+      "placa": "A5Y854",
+      "familia": "E",
+      "zona": "C",
+      "material": "1003133",
+      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+      "controlador": "NICOLAS",
+      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+      "kg": 207.12,
+      "kg_regular": 59.07,
+      "cajas": 30,
+      "unds": 49,
+      "timestamp": "2026-06-24T09:19:05.957Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:15:20.179Z"
+  "ultima_actualizacion": "2026-06-24T09:19:05.957Z"
 }
