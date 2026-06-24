@@ -1609,21 +1609,7 @@
       "cajas": 54,
       "unds": 219,
       "timestamp": "2026-06-23T07:48:39.551Z"
-    },
-    {
-      "placa": "AHX902",
-      "familia": "F",
-      "zona": "B",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "TORRES",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 236.4,
-      "kg_regular": 236.4,
-      "cajas": 25,
-      "unds": 271,
-      "timestamp": "2026-06-23T07:57:25.097Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:47:54.476Z"
+  "ultima_actualizacion": "2026-06-24T03:47:56.869Z"
 }
