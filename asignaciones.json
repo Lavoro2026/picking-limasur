@@ -2491,21 +2491,7 @@
       "cajas": 173,
       "unds": 21,
       "timestamp": "2026-06-23T09:15:40.188Z"
-    },
-    {
-      "placa": "ASM907",
-      "familia": "F",
-      "zona": "C",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 126.17,
-      "kg_regular": 126.17,
-      "cajas": 16,
-      "unds": 237,
-      "timestamp": "2026-06-23T09:26:24.353Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:44:52.377Z"
+  "ultima_actualizacion": "2026-06-24T03:44:55.447Z"
 }
