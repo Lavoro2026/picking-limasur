@@ -1514,20 +1514,6 @@
     },
     {
       "placa": "BBI909",
-      "familia": "B",
-      "zona": "B",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "PIERRE",
-      "picador": "VILLALBA CULE, ALVARO",
-      "kg": 515.91,
-      "kg_regular": 188.56,
-      "cajas": 42,
-      "unds": 280,
-      "timestamp": "2026-06-23T07:41:01.852Z"
-    },
-    {
-      "placa": "BBI909",
       "familia": "A",
       "zona": "B",
       "material": "3777",
@@ -1541,5 +1527,5 @@
       "timestamp": "2026-06-23T07:46:31.259Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:48:18.404Z"
+  "ultima_actualizacion": "2026-06-24T03:48:23.301Z"
 }
