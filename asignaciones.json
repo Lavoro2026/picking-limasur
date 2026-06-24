@@ -2659,7 +2659,21 @@
       "cajas": 24,
       "unds": 141,
       "timestamp": "2026-06-24T11:31:10.450Z"
+    },
+    {
+      "placa": "ACX716",
+      "familia": "F",
+      "zona": "C",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "NICOLAS",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 116.87,
+      "kg_regular": 116.87,
+      "cajas": 22,
+      "unds": 170,
+      "timestamp": "2026-06-24T11:31:29.275Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T11:31:10.450Z"
+  "ultima_actualizacion": "2026-06-24T11:31:29.275Z"
 }
