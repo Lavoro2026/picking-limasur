@@ -1203,7 +1203,21 @@
       "cajas": 36,
       "unds": 333,
       "timestamp": "2026-06-24T07:50:58.706Z"
+    },
+    {
+      "placa": "ASM907",
+      "familia": "C",
+      "zona": "B",
+      "material": "1004939",
+      "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+      "controlador": "PIERRE",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 160.01,
+      "kg_regular": 160.01,
+      "cajas": 14,
+      "unds": 10,
+      "timestamp": "2026-06-24T07:51:27.610Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:50:58.706Z"
+  "ultima_actualizacion": "2026-06-24T07:51:27.610Z"
 }
