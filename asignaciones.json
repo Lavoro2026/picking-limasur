@@ -1847,7 +1847,21 @@
       "cajas": 70,
       "unds": 214,
       "timestamp": "2026-06-24T09:24:08.872Z"
+    },
+    {
+      "placa": "C5G823",
+      "familia": "F",
+      "zona": "C",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "TORRES",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 128.93,
+      "kg_regular": 128.93,
+      "cajas": 21,
+      "unds": 251,
+      "timestamp": "2026-06-24T09:24:52.498Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:24:08.872Z"
+  "ultima_actualizacion": "2026-06-24T09:24:52.498Z"
 }
