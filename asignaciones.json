@@ -1975,20 +1975,6 @@
       "timestamp": "2026-06-23T08:17:13.955Z"
     },
     {
-      "placa": "D1V932",
-      "familia": "F",
-      "zona": "B",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "TORRES",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 71.43,
-      "kg_regular": 71.43,
-      "cajas": 10,
-      "unds": 235,
-      "timestamp": "2026-06-23T08:18:04.235Z"
-    },
-    {
       "placa": "APC840",
       "familia": "E",
       "zona": "B",
@@ -2003,5 +1989,5 @@
       "timestamp": "2026-06-23T08:21:04.038Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:46:27.003Z"
+  "ultima_actualizacion": "2026-06-24T03:46:29.085Z"
 }
