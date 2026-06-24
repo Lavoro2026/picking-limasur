@@ -125,21 +125,7 @@
       "cajas": 22,
       "unds": 86,
       "timestamp": "2026-06-23T05:24:23.762Z"
-    },
-    {
-      "placa": "A6P899",
-      "familia": "F",
-      "zona": "A",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "PIERRE",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 100.29,
-      "kg_regular": 100.29,
-      "cajas": 17,
-      "unds": 201,
-      "timestamp": "2026-06-23T05:31:17.047Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:53:06.217Z"
+  "ultima_actualizacion": "2026-06-24T03:53:09.388Z"
 }
