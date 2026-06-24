@@ -2143,20 +2143,6 @@
       "timestamp": "2026-06-23T08:37:47.598Z"
     },
     {
-      "placa": "D7L941",
-      "familia": "A",
-      "zona": "B",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "LALO",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 377.91,
-      "kg_regular": 377.91,
-      "cajas": 30,
-      "unds": 206,
-      "timestamp": "2026-06-23T08:39:57.547Z"
-    },
-    {
       "placa": "ASM907",
       "familia": "C",
       "zona": "C",
@@ -2199,5 +2185,5 @@
       "timestamp": "2026-06-23T08:51:07.281Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:45:51.477Z"
+  "ultima_actualizacion": "2026-06-24T03:45:53.792Z"
 }
