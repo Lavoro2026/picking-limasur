@@ -506,20 +506,6 @@
     },
     {
       "placa": "C2B801",
-      "familia": "F",
-      "zona": "A",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "LALO",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 98.15,
-      "kg_regular": 98.15,
-      "cajas": 25,
-      "unds": 153,
-      "timestamp": "2026-06-23T05:55:11.232Z"
-    },
-    {
-      "placa": "C2B801",
       "familia": "C",
       "zona": "A",
       "material": "1004903",
@@ -547,5 +533,5 @@
       "timestamp": "2026-06-23T06:03:04.701Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:51:27.393Z"
+  "ultima_actualizacion": "2026-06-24T03:51:29.093Z"
 }
