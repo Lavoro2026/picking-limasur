@@ -1471,20 +1471,6 @@
       "timestamp": "2026-06-23T07:29:30.859Z"
     },
     {
-      "placa": "AXH708",
-      "familia": "B",
-      "zona": "B",
-      "material": "1004553",
-      "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
-      "controlador": "LALO",
-      "picador": "VILLALBA CULE, ALVARO",
-      "kg": 414.53,
-      "kg_regular": 74.77,
-      "cajas": 31,
-      "unds": 130,
-      "timestamp": "2026-06-23T07:29:55.021Z"
-    },
-    {
       "placa": "AWC785",
       "familia": "C",
       "zona": "B",
@@ -1513,5 +1499,5 @@
       "timestamp": "2026-06-23T07:46:31.259Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:48:25.529Z"
+  "ultima_actualizacion": "2026-06-24T03:48:27.435Z"
 }
