@@ -1091,7 +1091,21 @@
       "cajas": 24,
       "unds": 143,
       "timestamp": "2026-06-24T07:39:21.068Z"
+    },
+    {
+      "placa": "AXH708",
+      "familia": "E",
+      "zona": "B",
+      "material": "1003133",
+      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+      "controlador": "NICOLAS",
+      "picador": "ARAUCO TICONA PABLO NICOLAS",
+      "kg": 139.46,
+      "kg_regular": 18.06,
+      "cajas": 20,
+      "unds": 48,
+      "timestamp": "2026-06-24T07:44:40.282Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:39:21.068Z"
+  "ultima_actualizacion": "2026-06-24T07:44:40.282Z"
 }
