@@ -1875,7 +1875,21 @@
       "cajas": 29,
       "unds": 215,
       "timestamp": "2026-06-24T09:29:44.175Z"
+    },
+    {
+      "placa": "ATP870",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "TORRES",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 131.49,
+      "kg_regular": 131.49,
+      "cajas": 26,
+      "unds": 216,
+      "timestamp": "2026-06-24T09:31:55.144Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:29:44.175Z"
+  "ultima_actualizacion": "2026-06-24T09:31:55.144Z"
 }
