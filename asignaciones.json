@@ -1189,7 +1189,21 @@
       "cajas": 60,
       "unds": 321,
       "timestamp": "2026-06-24T07:47:26.807Z"
+    },
+    {
+      "placa": "BBI909",
+      "familia": "A",
+      "zona": "B",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "LALO",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 469.98,
+      "kg_regular": 469.98,
+      "cajas": 36,
+      "unds": 333,
+      "timestamp": "2026-06-24T07:50:58.706Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:47:26.807Z"
+  "ultima_actualizacion": "2026-06-24T07:50:58.706Z"
 }
