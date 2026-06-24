@@ -2239,7 +2239,21 @@
       "cajas": 23,
       "unds": 351,
       "timestamp": "2026-06-24T10:34:24.319Z"
+    },
+    {
+      "placa": "D2H719",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "FRANCIA MENA, LIZANDRO",
+      "kg": 102.47,
+      "kg_regular": 102.47,
+      "cajas": 20,
+      "unds": 137,
+      "timestamp": "2026-06-24T10:38:05.753Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T10:34:24.319Z"
+  "ultima_actualizacion": "2026-06-24T10:38:05.753Z"
 }
