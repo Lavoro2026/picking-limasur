@@ -99,20 +99,6 @@
       "timestamp": "2026-06-23T05:16:34.546Z"
     },
     {
-      "placa": "F9W785",
-      "familia": "A",
-      "zona": "A",
-      "material": "1001135",
-      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
-      "controlador": "TORRES",
-      "picador": "VIZA QUISPE, JOEL ALEXANDER",
-      "kg": 413.61,
-      "kg_regular": 413.61,
-      "cajas": 32,
-      "unds": 285,
-      "timestamp": "2026-06-23T05:17:45.663Z"
-    },
-    {
       "placa": "A6P899",
       "familia": "B",
       "zona": "A",
@@ -155,5 +141,5 @@
       "timestamp": "2026-06-23T05:31:17.047Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:53:03.317Z"
+  "ultima_actualizacion": "2026-06-24T03:53:06.217Z"
 }
