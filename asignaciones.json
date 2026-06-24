@@ -237,7 +237,21 @@
       "cajas": 41,
       "unds": 81,
       "timestamp": "2026-06-24T05:50:09.440Z"
+    },
+    {
+      "placa": "BKV855",
+      "familia": "B",
+      "zona": "A",
+      "material": "1001507",
+      "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+      "controlador": "TORRES",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 326.32,
+      "kg_regular": 150.66,
+      "cajas": 26,
+      "unds": 231,
+      "timestamp": "2026-06-24T05:50:51.067Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T05:50:09.440Z"
+  "ultima_actualizacion": "2026-06-24T05:50:51.067Z"
 }
