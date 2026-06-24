@@ -1387,20 +1387,6 @@
       "timestamp": "2026-06-23T07:22:48.520Z"
     },
     {
-      "placa": "C5R934",
-      "familia": "C",
-      "zona": "B",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "LALO",
-      "picador": "VENTURA LOZANO BRAYANS AMIR",
-      "kg": 351.44,
-      "kg_regular": 351.44,
-      "cajas": 29,
-      "unds": 25,
-      "timestamp": "2026-06-23T07:24:15.629Z"
-    },
-    {
       "placa": "D3L703",
       "familia": "E",
       "zona": "A",
@@ -1415,5 +1401,5 @@
       "timestamp": "2026-06-23T07:25:36.520Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:48:43.062Z"
+  "ultima_actualizacion": "2026-06-24T03:48:45.351Z"
 }
