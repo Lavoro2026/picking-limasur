@@ -729,20 +729,6 @@
       "timestamp": "2026-06-23T06:14:54.345Z"
     },
     {
-      "placa": "C2B801",
-      "familia": "E",
-      "zona": "A",
-      "material": "1003251",
-      "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
-      "controlador": "LALO",
-      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
-      "kg": 139.04,
-      "kg_regular": 11.72,
-      "cajas": 22,
-      "unds": 22,
-      "timestamp": "2026-06-23T06:15:23.304Z"
-    },
-    {
       "placa": "C3Q769",
       "familia": "B",
       "zona": "A",
@@ -757,5 +743,5 @@
       "timestamp": "2026-06-23T06:15:28.527Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:50:43.539Z"
+  "ultima_actualizacion": "2026-06-24T03:50:46.656Z"
 }
