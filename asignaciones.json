@@ -2673,7 +2673,21 @@
       "cajas": 22,
       "unds": 170,
       "timestamp": "2026-06-24T11:31:29.275Z"
+    },
+    {
+      "placa": "C3Q769",
+      "familia": "F",
+      "zona": "PEN",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "LALO",
+      "picador": "VENTURA LOZANO BRAYANS AMIR",
+      "kg": 60.57,
+      "kg_regular": 60.57,
+      "cajas": 8,
+      "unds": 126,
+      "timestamp": "2026-06-24T11:32:08.785Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T11:31:29.275Z"
+  "ultima_actualizacion": "2026-06-24T11:32:08.785Z"
 }
