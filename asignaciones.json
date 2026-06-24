@@ -1721,21 +1721,7 @@
       "cajas": 38,
       "unds": 131,
       "timestamp": "2026-06-23T08:03:16.791Z"
-    },
-    {
-      "placa": "AWC785",
-      "familia": "F",
-      "zona": "B",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 94.37,
-      "kg_regular": 94.37,
-      "cajas": 16,
-      "unds": 194,
-      "timestamp": "2026-06-23T08:03:52.804Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:47:30.901Z"
+  "ultima_actualizacion": "2026-06-24T03:47:33.224Z"
 }
