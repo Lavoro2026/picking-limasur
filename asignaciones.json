@@ -1933,20 +1933,6 @@
       "timestamp": "2026-06-23T08:12:00.970Z"
     },
     {
-      "placa": "ACX716",
-      "familia": "E",
-      "zona": "B",
-      "material": "1003133",
-      "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
-      "controlador": "LALO",
-      "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
-      "kg": 189.63,
-      "kg_regular": 24.8,
-      "cajas": 26,
-      "unds": 79,
-      "timestamp": "2026-06-23T08:12:49.071Z"
-    },
-    {
       "placa": "C1J747",
       "familia": "C",
       "zona": "C",
@@ -1961,5 +1947,5 @@
       "timestamp": "2026-06-23T08:17:13.955Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:46:36.725Z"
+  "ultima_actualizacion": "2026-06-24T03:46:40.445Z"
 }
