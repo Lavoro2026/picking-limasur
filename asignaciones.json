@@ -1357,7 +1357,21 @@
       "cajas": 29,
       "unds": 172,
       "timestamp": "2026-06-24T08:16:54.062Z"
+    },
+    {
+      "placa": "D4R705",
+      "familia": "E",
+      "zona": "B",
+      "material": "1003251",
+      "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+      "controlador": "TORRES",
+      "picador": "ARAUCO TICONA PABLO NICOLAS",
+      "kg": 287.7,
+      "kg_regular": 31.08,
+      "cajas": 43,
+      "unds": 62,
+      "timestamp": "2026-06-24T08:17:46.666Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T08:16:54.062Z"
+  "ultima_actualizacion": "2026-06-24T08:17:46.666Z"
 }
