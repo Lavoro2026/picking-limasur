@@ -2213,20 +2213,6 @@
       "timestamp": "2026-06-23T08:47:17.524Z"
     },
     {
-      "placa": "AXB855",
-      "familia": "F",
-      "zona": "C",
-      "material": "1004551",
-      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
-      "controlador": "PIERRE",
-      "picador": "FRANCIA MENA, LIZANDRO",
-      "kg": 120.38,
-      "kg_regular": 120.38,
-      "cajas": 20,
-      "unds": 251,
-      "timestamp": "2026-06-23T08:50:08.080Z"
-    },
-    {
       "placa": "P4A742",
       "familia": "F",
       "zona": "B",
@@ -2269,5 +2255,5 @@
       "timestamp": "2026-06-23T08:51:50.334Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:45:38.366Z"
+  "ultima_actualizacion": "2026-06-24T03:45:40.514Z"
 }
