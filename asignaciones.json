@@ -1105,7 +1105,21 @@
       "cajas": 20,
       "unds": 48,
       "timestamp": "2026-06-24T07:44:40.282Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "B",
+      "zona": "A",
+      "material": "1007119",
+      "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+      "controlador": "PIERRE",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 300.89,
+      "kg_regular": 70.93,
+      "cajas": 21,
+      "unds": 150,
+      "timestamp": "2026-06-24T07:45:01.542Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:44:40.282Z"
+  "ultima_actualizacion": "2026-06-24T07:45:01.542Z"
 }
