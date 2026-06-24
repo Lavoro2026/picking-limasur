@@ -55,21 +55,7 @@
       "cajas": 36,
       "unds": 23,
       "timestamp": "2026-06-23T05:14:55.670Z"
-    },
-    {
-      "placa": "BKV855",
-      "familia": "B",
-      "zona": "A",
-      "material": "1007101",
-      "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
-      "controlador": "NICOLAS",
-      "picador": "VILLALBA CULE, ALVARO",
-      "kg": 245.48,
-      "kg_regular": 38.05,
-      "cajas": 18,
-      "unds": 165,
-      "timestamp": "2026-06-23T05:16:34.546Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:53:23.719Z"
+  "ultima_actualizacion": "2026-06-24T03:53:26.363Z"
 }
