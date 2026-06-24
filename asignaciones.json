@@ -1891,20 +1891,6 @@
       "timestamp": "2026-06-23T08:11:32.949Z"
     },
     {
-      "placa": "T6F869",
-      "familia": "B",
-      "zona": "A",
-      "material": "3759",
-      "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
-      "controlador": "LALO",
-      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
-      "kg": 482.79,
-      "kg_regular": 97.71,
-      "cajas": 37,
-      "unds": 171,
-      "timestamp": "2026-06-23T08:11:44.517Z"
-    },
-    {
       "placa": "F9W785",
       "familia": "B",
       "zona": "A",
@@ -1933,5 +1919,5 @@
       "timestamp": "2026-06-23T08:17:13.955Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:46:42.154Z"
+  "ultima_actualizacion": "2026-06-24T03:46:44.380Z"
 }
