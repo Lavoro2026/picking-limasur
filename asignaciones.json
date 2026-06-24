@@ -2197,7 +2197,21 @@
       "cajas": 70,
       "unds": 301,
       "timestamp": "2026-06-24T10:19:30.959Z"
+    },
+    {
+      "placa": "B0V924",
+      "familia": "A",
+      "zona": "PEN",
+      "material": "1001135",
+      "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+      "controlador": "PIERRE",
+      "picador": "TORRES CALDAS OSCAR RUBEN",
+      "kg": 511.13,
+      "kg_regular": 511.13,
+      "cajas": 40,
+      "unds": 283,
+      "timestamp": "2026-06-24T10:20:29.190Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T10:19:30.959Z"
+  "ultima_actualizacion": "2026-06-24T10:20:29.190Z"
 }
