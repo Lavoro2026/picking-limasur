@@ -279,7 +279,21 @@
       "cajas": 36,
       "unds": 231,
       "timestamp": "2026-06-24T05:54:46.663Z"
+    },
+    {
+      "placa": "AWC785",
+      "familia": "F",
+      "zona": "A",
+      "material": "1003107",
+      "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 85.17,
+      "kg_regular": 85.17,
+      "cajas": 16,
+      "unds": 129,
+      "timestamp": "2026-06-24T05:58:39.643Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T05:54:46.663Z"
+  "ultima_actualizacion": "2026-06-24T05:58:39.643Z"
 }
