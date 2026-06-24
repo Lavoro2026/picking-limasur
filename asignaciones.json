@@ -909,7 +909,21 @@
       "cajas": 146,
       "unds": 188,
       "timestamp": "2026-06-24T07:29:27.164Z"
+    },
+    {
+      "placa": "AXH708",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "NICOLAS",
+      "picador": "ESCALANTE BALDEON LUIS JAYRO",
+      "kg": 70.18,
+      "kg_regular": 70.18,
+      "cajas": 13,
+      "unds": 159,
+      "timestamp": "2026-06-24T07:29:58.327Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:29:27.164Z"
+  "ultima_actualizacion": "2026-06-24T07:29:58.327Z"
 }
