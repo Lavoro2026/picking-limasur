@@ -1525,7 +1525,21 @@
       "cajas": 62,
       "unds": 209,
       "timestamp": "2026-06-24T08:34:41.104Z"
+    },
+    {
+      "placa": "A6P899",
+      "familia": "F",
+      "zona": "B",
+      "material": "1003723",
+      "denominacion": "GLORIA MANTEQUILLA X 90GRX48U BARRA",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 39.84,
+      "kg_regular": 39.84,
+      "cajas": 6,
+      "unds": 8,
+      "timestamp": "2026-06-24T08:35:37.401Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T08:34:41.104Z"
+  "ultima_actualizacion": "2026-06-24T08:35:37.401Z"
 }
