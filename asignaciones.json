@@ -3317,21 +3317,7 @@
       "cajas": 61,
       "unds": 213,
       "timestamp": "2026-06-23T13:02:53.594Z"
-    },
-    {
-      "placa": "CKI862",
-      "familia": "A",
-      "zona": "C",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "LALO",
-      "picador": "BAZAN CORTEGANA NILO",
-      "kg": 418.29,
-      "kg_regular": 418.29,
-      "cajas": 32,
-      "unds": 276,
-      "timestamp": "2026-06-23T13:03:02.919Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-23T13:03:02.919Z"
+  "ultima_actualizacion": "2026-06-24T03:41:42.303Z"
 }
