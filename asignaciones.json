@@ -841,20 +841,6 @@
       "timestamp": "2026-06-23T06:21:38.047Z"
     },
     {
-      "placa": "ASM812",
-      "familia": "F",
-      "zona": "A",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 72.57,
-      "kg_regular": 72.57,
-      "cajas": 11,
-      "unds": 150,
-      "timestamp": "2026-06-23T06:22:51.011Z"
-    },
-    {
       "placa": "ARD784",
       "familia": "A",
       "zona": "A",
@@ -883,5 +869,5 @@
       "timestamp": "2026-06-23T06:24:00.960Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:50:20.684Z"
+  "ultima_actualizacion": "2026-06-24T03:50:22.371Z"
 }
