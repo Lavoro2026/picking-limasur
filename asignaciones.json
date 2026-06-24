@@ -1903,7 +1903,21 @@
       "cajas": 70,
       "unds": 86,
       "timestamp": "2026-06-24T09:32:34.161Z"
+    },
+    {
+      "placa": "AWH909",
+      "familia": "B",
+      "zona": "B",
+      "material": "1006123",
+      "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+      "controlador": "LALO",
+      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+      "kg": 1391.01,
+      "kg_regular": 263.85,
+      "cajas": 136,
+      "unds": 196,
+      "timestamp": "2026-06-24T09:33:50.604Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:32:34.161Z"
+  "ultima_actualizacion": "2026-06-24T09:33:50.604Z"
 }
