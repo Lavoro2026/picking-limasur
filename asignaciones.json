@@ -2717,20 +2717,6 @@
       "timestamp": "2026-06-23T09:48:50.946Z"
     },
     {
-      "placa": "ANE848",
-      "familia": "F",
-      "zona": "C",
-      "material": "1003105",
-      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
-      "controlador": "NICOLAS",
-      "picador": "ESCALANTE BALDEON LUIS JAYRO",
-      "kg": 72.15,
-      "kg_regular": 72.15,
-      "cajas": 13,
-      "unds": 150,
-      "timestamp": "2026-06-23T09:50:11.766Z"
-    },
-    {
       "placa": "APB825",
       "familia": "C",
       "zona": "P",
@@ -2787,5 +2773,5 @@
       "timestamp": "2026-06-23T09:52:58.825Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:43:41.913Z"
+  "ultima_actualizacion": "2026-06-24T03:43:45.233Z"
 }
