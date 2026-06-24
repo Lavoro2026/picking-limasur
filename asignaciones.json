@@ -631,20 +631,6 @@
       "timestamp": "2026-06-23T06:04:20.679Z"
     },
     {
-      "placa": "W6L701",
-      "familia": "B",
-      "zona": "A",
-      "material": "1006123",
-      "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
-      "controlador": "NICOLAS",
-      "picador": "CALLE TRIGUEROS, LUIS GERARDO",
-      "kg": 1620.27,
-      "kg_regular": 87.56,
-      "cajas": 152,
-      "unds": 108,
-      "timestamp": "2026-06-23T06:04:35.030Z"
-    },
-    {
       "placa": "C3Q769",
       "familia": "F",
       "zona": "A",
@@ -687,5 +673,5 @@
       "timestamp": "2026-06-23T06:14:19.202Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:50:56.923Z"
+  "ultima_actualizacion": "2026-06-24T03:51:00.679Z"
 }
