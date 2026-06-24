@@ -197,20 +197,6 @@
       "timestamp": "2026-06-23T05:25:52.799Z"
     },
     {
-      "placa": "F9W785",
-      "familia": "C",
-      "zona": "A",
-      "material": "1004903",
-      "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
-      "controlador": "TORRES",
-      "picador": "CARHUAPOMA GOSURE, ALVARO",
-      "kg": 381.63,
-      "kg_regular": 381.63,
-      "cajas": 33,
-      "unds": 29,
-      "timestamp": "2026-06-23T05:26:54.393Z"
-    },
-    {
       "placa": "A6P899",
       "familia": "F",
       "zona": "A",
@@ -239,5 +225,5 @@
       "timestamp": "2026-06-23T05:33:25.847Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:52:43.191Z"
+  "ultima_actualizacion": "2026-06-24T03:52:45.842Z"
 }
