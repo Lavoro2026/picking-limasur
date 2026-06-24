@@ -937,7 +937,21 @@
       "cajas": 24,
       "unds": 48,
       "timestamp": "2026-06-24T07:30:30.396Z"
+    },
+    {
+      "placa": "ATB831",
+      "familia": "E",
+      "zona": "A",
+      "material": "1002743",
+      "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+      "controlador": "LALO",
+      "picador": "ARAUCO TICONA PABLO NICOLAS",
+      "kg": 319.19,
+      "kg_regular": 30.99,
+      "cajas": 51,
+      "unds": 71,
+      "timestamp": "2026-06-24T07:30:36.268Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T07:30:30.396Z"
+  "ultima_actualizacion": "2026-06-24T07:30:36.268Z"
 }
