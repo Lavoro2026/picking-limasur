@@ -1038,20 +1038,6 @@
     },
     {
       "placa": "ANI940",
-      "familia": "A",
-      "zona": "A",
-      "material": "1004557",
-      "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
-      "controlador": "LALO",
-      "picador": "QUINDE RETETE DANILO NATAN",
-      "kg": 416.16,
-      "kg_regular": 416.16,
-      "cajas": 32,
-      "unds": 254,
-      "timestamp": "2026-06-23T06:40:35.351Z"
-    },
-    {
-      "placa": "ANI940",
       "familia": "B",
       "zona": "A",
       "material": "3759",
@@ -1065,5 +1051,5 @@
       "timestamp": "2026-06-23T06:43:08.159Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:49:48.785Z"
+  "ultima_actualizacion": "2026-06-24T03:49:50.205Z"
 }
