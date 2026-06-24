@@ -335,7 +335,21 @@
       "cajas": 12,
       "unds": 204,
       "timestamp": "2026-06-24T06:03:53.850Z"
+    },
+    {
+      "placa": "ARZ862",
+      "familia": "A",
+      "zona": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "LALO",
+      "picador": "VIZA QUISPE, JOEL ALEXANDER",
+      "kg": 941.89,
+      "kg_regular": 941.89,
+      "cajas": 80,
+      "unds": 343,
+      "timestamp": "2026-06-24T06:05:29.229Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T06:03:53.850Z"
+  "ultima_actualizacion": "2026-06-24T06:05:29.229Z"
 }
