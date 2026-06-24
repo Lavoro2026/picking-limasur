@@ -1413,7 +1413,21 @@
       "cajas": 40,
       "unds": 173,
       "timestamp": "2026-06-24T08:20:08.745Z"
+    },
+    {
+      "placa": "D4R705",
+      "familia": "F",
+      "zona": "B",
+      "material": "1004551",
+      "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+      "controlador": "TORRES",
+      "picador": "ESCALANTE BALDEON LUIS JAYRO",
+      "kg": 99.98,
+      "kg_regular": 99.98,
+      "cajas": 15,
+      "unds": 210,
+      "timestamp": "2026-06-24T08:20:59.736Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T08:20:08.745Z"
+  "ultima_actualizacion": "2026-06-24T08:20:59.736Z"
 }
