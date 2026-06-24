@@ -447,7 +447,21 @@
       "cajas": 34,
       "unds": 289,
       "timestamp": "2026-06-24T06:20:37.126Z"
+    },
+    {
+      "placa": "AWC785",
+      "familia": "C",
+      "zona": "A",
+      "material": "1004939",
+      "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+      "controlador": "PIERRE",
+      "picador": "CARHUAPOMA GOSURE, ALVARO",
+      "kg": 385.63,
+      "kg_regular": 385.63,
+      "cajas": 34,
+      "unds": 14,
+      "timestamp": "2026-06-24T06:27:06.658Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T06:20:37.126Z"
+  "ultima_actualizacion": "2026-06-24T06:27:06.658Z"
 }
