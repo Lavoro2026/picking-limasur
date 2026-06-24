@@ -489,7 +489,21 @@
       "cajas": 35,
       "unds": 78,
       "timestamp": "2026-06-24T06:34:23.093Z"
+    },
+    {
+      "placa": "W6L701",
+      "familia": "A",
+      "zona": "A",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "LALO",
+      "picador": "TORRES CALDAS OSCAR RUBEN",
+      "kg": 379.88,
+      "kg_regular": 379.88,
+      "cajas": 30,
+      "unds": 223,
+      "timestamp": "2026-06-24T06:35:08.840Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T06:34:23.093Z"
+  "ultima_actualizacion": "2026-06-24T06:35:08.840Z"
 }
