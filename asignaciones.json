@@ -1763,7 +1763,21 @@
       "cajas": 55,
       "unds": 241,
       "timestamp": "2026-06-24T09:11:03.535Z"
+    },
+    {
+      "placa": "A4G840",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 131.31,
+      "kg_regular": 131.31,
+      "cajas": 28,
+      "unds": 201,
+      "timestamp": "2026-06-24T09:13:51.290Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:11:03.535Z"
+  "ultima_actualizacion": "2026-06-24T09:13:51.290Z"
 }
