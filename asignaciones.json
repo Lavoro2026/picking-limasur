@@ -2353,20 +2353,6 @@
       "timestamp": "2026-06-23T08:53:28.497Z"
     },
     {
-      "placa": "C1J747",
-      "familia": "F",
-      "zona": "C",
-      "material": "1003107",
-      "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
-      "controlador": "TORRES",
-      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
-      "kg": 94.52,
-      "kg_regular": 94.52,
-      "cajas": 19,
-      "unds": 113,
-      "timestamp": "2026-06-23T08:53:35.466Z"
-    },
-    {
       "placa": "AHX902",
       "familia": "E",
       "zona": "B",
@@ -2395,5 +2381,5 @@
       "timestamp": "2026-06-23T09:07:31.369Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T03:45:13.038Z"
+  "ultima_actualizacion": "2026-06-24T03:45:14.815Z"
 }
