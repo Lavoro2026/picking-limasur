@@ -1861,7 +1861,21 @@
       "cajas": 21,
       "unds": 251,
       "timestamp": "2026-06-24T09:24:52.498Z"
+    },
+    {
+      "placa": "APB825",
+      "familia": "F",
+      "zona": "C",
+      "material": "1003105",
+      "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+      "controlador": "LALO",
+      "picador": "ESCALANTE BALDEON LUIS JAYRO",
+      "kg": 144.42,
+      "kg_regular": 144.42,
+      "cajas": 29,
+      "unds": 215,
+      "timestamp": "2026-06-24T09:29:44.175Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-24T09:24:52.498Z"
+  "ultima_actualizacion": "2026-06-24T09:29:44.175Z"
 }
