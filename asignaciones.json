@@ -1,4 +1,19 @@
 {
-  "asignaciones": [],
-  "ultima_actualizacion": "2026-06-25T04:15:26.534Z"
+  "asignaciones": [
+    {
+      "placa": "A5Y854",
+      "familia": "A",
+      "zona": "C",
+      "material": "3777",
+      "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+      "controlador": "NICOLAS",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 804.29,
+      "kg_regular": 804.29,
+      "cajas": 70,
+      "unds": 214,
+      "timestamp": "2026-06-27T21:04:03.480Z"
+    }
+  ],
+  "ultima_actualizacion": "2026-06-27T21:04:03.480Z"
 }
