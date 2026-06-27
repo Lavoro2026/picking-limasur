@@ -13,7 +13,21 @@
       "cajas": 70,
       "unds": 214,
       "timestamp": "2026-06-27T21:04:03.480Z"
+    },
+    {
+      "placa": "A1Q874",
+      "familia": "B",
+      "zona": "A",
+      "material": "1007119",
+      "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+      "controlador": "PIERRE",
+      "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+      "kg": 300.89,
+      "kg_regular": 70.93,
+      "cajas": 21,
+      "unds": 150,
+      "timestamp": "2026-06-27T21:04:16.119Z"
     }
   ],
-  "ultima_actualizacion": "2026-06-27T21:04:03.480Z"
+  "ultima_actualizacion": "2026-06-27T21:04:16.119Z"
 }
