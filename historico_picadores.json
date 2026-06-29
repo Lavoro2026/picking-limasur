@@ -7478,8 +7478,36 @@
         "cajas": 23,
         "unds": 170,
         "timestamp": "2026-06-24T12:13:43.125Z"
+      },
+      {
+        "placa": "A5Y854",
+        "familia": "A",
+        "zona": "C",
+        "material": "3777",
+        "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+        "controlador": "NICOLAS",
+        "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+        "kg": 804.29,
+        "kg_regular": 804.29,
+        "cajas": 70,
+        "unds": 214,
+        "timestamp": "2026-06-27T21:04:03.480Z"
+      },
+      {
+        "placa": "A1Q874",
+        "familia": "B",
+        "zona": "A",
+        "material": "1007119",
+        "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+        "controlador": "PIERRE",
+        "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+        "kg": 300.89,
+        "kg_regular": 70.93,
+        "cajas": 21,
+        "unds": 150,
+        "timestamp": "2026-06-27T21:04:16.119Z"
       }
     ]
   },
-  "ultima_actualizacion": "2026-06-25T04:15:25.131Z"
+  "ultima_actualizacion": "2026-06-29T02:07:41.180Z"
 }
