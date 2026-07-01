@@ -1693,5 +1693,20 @@
     "unds": 231,
     "kg_regular": 94.85,
     "timestamp": "2026-07-01T10:00:16.039Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "LALO",
+    "kg": 270.55,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 22,
+    "unds": 181,
+    "kg_regular": 60.71,
+    "timestamp": "2026-07-01T10:01:04.030Z"
   }
 ]
