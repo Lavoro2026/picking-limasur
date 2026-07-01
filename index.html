@@ -288,7 +288,10 @@ async function cargarDatos(silencioso = false) {
     const res = await fetch(DATA_URL + "?t=" + Date.now());
     if (!res.ok) throw new Error("HTTP " + res.status);
     const json = await res.json();
-    allData = json.datos || [];
+    allData = (json.datos || []).map(r => ({
+      ...r,
+      orden2_num: r.orden2 ? parseFloat(String(r.orden2).replace(",",".")) : 999999
+    }));
     // Personal se carga de archivo separado (para no inflar picking_data.json)
     // Solo si aun no se cargo en esta sesion
     if (personalList.length === 0) {
