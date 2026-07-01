@@ -118,5 +118,20 @@
     "unds": 250,
     "kg_regular": 233.26,
     "timestamp": "2026-07-01T05:38:06.085Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "E",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 148.48,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 22,
+    "unds": 47,
+    "kg_regular": 50.76,
+    "timestamp": "2026-07-01T05:46:18.888Z"
   }
 ]
