@@ -2203,5 +2203,20 @@
     "unds": 16,
     "kg_regular": 366.25,
     "timestamp": "2026-07-01T11:17:21.771Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "C",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 102.92,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 7,
+    "unds": 16,
+    "kg_regular": 102.92,
+    "timestamp": "2026-07-01T11:17:32.527Z"
   }
 ]
