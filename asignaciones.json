@@ -793,5 +793,20 @@
     "unds": 12,
     "kg_regular": 371.69,
     "timestamp": "2026-07-01T07:47:07.305Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 68.65,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 6,
+    "unds": 13,
+    "kg_regular": 68.65,
+    "timestamp": "2026-07-01T07:50:54.335Z"
   }
 ]
