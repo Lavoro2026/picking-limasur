@@ -1738,5 +1738,20 @@
     "unds": 392,
     "kg_regular": 516.34,
     "timestamp": "2026-07-01T10:03:31.966Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "C",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 280.81,
+    "n_orden": 0,
+    "zona": "P",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 23,
+    "unds": 18,
+    "kg_regular": 280.81,
+    "timestamp": "2026-07-01T10:04:40.528Z"
   }
 ]
