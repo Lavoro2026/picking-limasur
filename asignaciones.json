@@ -973,5 +973,20 @@
     "unds": 374,
     "kg_regular": 338.3,
     "timestamp": "2026-07-01T08:25:19.105Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "F",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 169.28,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 30,
+    "unds": 175,
+    "kg_regular": 169.28,
+    "timestamp": "2026-07-01T08:25:22.165Z"
   }
 ]
