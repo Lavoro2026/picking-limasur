@@ -238,5 +238,20 @@
     "unds": 227,
     "kg_regular": 143.9,
     "timestamp": "2026-07-01T06:10:42.318Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "C",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "TORRES",
+    "kg": 83.93,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 6,
+    "unds": 19,
+    "kg_regular": 83.93,
+    "timestamp": "2026-07-01T06:11:16.674Z"
   }
 ]
