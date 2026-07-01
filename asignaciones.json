@@ -1468,5 +1468,20 @@
     "unds": 247,
     "kg_regular": 104.89,
     "timestamp": "2026-07-01T09:57:23.189Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "B",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 399.11,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 30,
+    "unds": 135,
+    "kg_regular": 61.19,
+    "timestamp": "2026-07-01T09:57:30.409Z"
   }
 ]
