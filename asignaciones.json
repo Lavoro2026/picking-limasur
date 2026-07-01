@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "placa": "ASM812",
+    "familia": "A",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "TORRES",
+    "kg": 484.88,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 39,
+    "unds": 271,
+    "kg_regular": 484.88,
+    "timestamp": "2026-07-01T05:20:03.360Z"
+  }
+]
