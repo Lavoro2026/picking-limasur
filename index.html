@@ -449,7 +449,7 @@ function renderRegistroVivo() {
         <tr><th>Picador</th><th>Familia</th><th>Placa</th><th style="text-align:center">Kg</th><th></th></tr>
         ${ordenadas.map(a => `
           <tr>
-            <td>${a.picador || a.nombre || "—"}</td>
+            <td>${a.nombre || a.picador || "—"}</td>
             <td><span class="zona-badge zona-${a.familia}">${a.familia || "—"}</span></td>
             <td><span class="pc-placa" style="font-size:11px">${a.placa || "—"}</span></td>
             <td style="text-align:center;font-weight:700;color:#0d3b61">${(a.kg || 0).toFixed(1)}</td>
