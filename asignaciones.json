@@ -1468,5 +1468,20 @@
     "unds": 26,
     "kg_regular": 602.11,
     "timestamp": "2026-07-03T10:38:09.689Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "C",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 547.39,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 46,
+    "unds": 10,
+    "kg_regular": 547.39,
+    "timestamp": "2026-07-03T10:38:17.997Z"
   }
 ]
