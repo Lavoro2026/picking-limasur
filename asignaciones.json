@@ -388,5 +388,20 @@
     "unds": 192,
     "kg_regular": 116.19,
     "timestamp": "2026-07-03T06:56:50.239Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "A",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 469,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 38,
+    "unds": 267,
+    "kg_regular": 469,
+    "timestamp": "2026-07-03T06:59:53.677Z"
   }
 ]
