@@ -58,5 +58,20 @@
     "unds": 202,
     "kg_regular": 418.88,
     "timestamp": "2026-07-03T05:39:03.067Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "F",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 292.17,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 51,
+    "unds": 316,
+    "kg_regular": 292.17,
+    "timestamp": "2026-07-03T05:42:11.589Z"
   }
 ]
