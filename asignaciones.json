@@ -403,5 +403,20 @@
     "unds": 204,
     "kg_regular": 166.07,
     "timestamp": "2026-07-04T06:40:49.031Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "B",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 623.45,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 44,
+    "unds": 159,
+    "kg_regular": 88.31,
+    "timestamp": "2026-07-04T06:52:01.041Z"
   }
 ]
