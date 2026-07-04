@@ -1633,5 +1633,20 @@
     "unds": 4,
     "kg_regular": 95.22,
     "timestamp": "2026-07-04T10:29:18.342Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 32,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1050247",
+    "denominacion": "ARUBA TE VERDE DURAZNO X400MLX12 PET",
+    "cajas": 3,
+    "unds": 6,
+    "kg_regular": 32,
+    "timestamp": "2026-07-04T10:29:23.068Z"
   }
 ]
