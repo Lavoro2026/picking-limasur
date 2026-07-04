@@ -1348,5 +1348,20 @@
     "unds": 250,
     "kg_regular": 170.24,
     "timestamp": "2026-07-04T09:50:08.015Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 156.07,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 7,
+    "unds": 143,
+    "kg_regular": 23.07,
+    "timestamp": "2026-07-04T09:53:02.274Z"
   }
 ]
