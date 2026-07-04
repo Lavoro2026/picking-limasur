@@ -1963,5 +1963,20 @@
     "unds": 3,
     "kg_regular": 55.74,
     "timestamp": "2026-07-04T10:32:51.120Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 46.79,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 7,
+    "unds": 24,
+    "kg_regular": 46.79,
+    "timestamp": "2026-07-04T10:33:02.971Z"
   }
 ]
