@@ -2218,5 +2218,20 @@
     "unds": 14,
     "kg_regular": 101.17,
     "timestamp": "2026-07-04T10:36:12.074Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 46.33,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 6,
+    "unds": 4,
+    "kg_regular": 46.33,
+    "timestamp": "2026-07-04T10:36:21.234Z"
   }
 ]
