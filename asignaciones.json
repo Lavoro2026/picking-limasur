@@ -2143,5 +2143,20 @@
     "unds": 6,
     "kg_regular": 15.69,
     "timestamp": "2026-07-04T10:35:06.037Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 8.2,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 2,
+    "unds": 1,
+    "kg_regular": 8.2,
+    "timestamp": "2026-07-04T10:35:24.347Z"
   }
 ]
