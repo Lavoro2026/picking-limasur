@@ -13,5 +13,20 @@
     "unds": 217,
     "kg_regular": 115.72,
     "timestamp": "2026-07-04T05:26:01.208Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "F",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 144.63,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 29,
+    "unds": 218,
+    "kg_regular": 144.63,
+    "timestamp": "2026-07-04T05:30:34.880Z"
   }
 ]
