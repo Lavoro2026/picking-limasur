@@ -838,5 +838,20 @@
     "unds": 250,
     "kg_regular": 625.76,
     "timestamp": "2026-07-04T07:55:42.610Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "F",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 164.38,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 32,
+    "unds": 190,
+    "kg_regular": 164.38,
+    "timestamp": "2026-07-04T07:57:41.518Z"
   }
 ]
