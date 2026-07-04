@@ -1768,5 +1768,20 @@
     "unds": 28,
     "kg_regular": 193.97,
     "timestamp": "2026-07-04T10:30:18.069Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 104.19,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 13,
+    "unds": 4,
+    "kg_regular": 104.19,
+    "timestamp": "2026-07-04T10:30:22.566Z"
   }
 ]
