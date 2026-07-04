@@ -1318,5 +1318,20 @@
     "unds": 267,
     "kg_regular": 117.13,
     "timestamp": "2026-07-04T09:39:11.113Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 485.33,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 37,
+    "unds": 244,
+    "kg_regular": 111.55,
+    "timestamp": "2026-07-04T09:40:38.068Z"
   }
 ]
