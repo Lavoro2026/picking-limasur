@@ -2563,5 +2563,20 @@
     "unds": 99,
     "kg_regular": 30.38,
     "timestamp": "2026-07-04T11:01:57.760Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "B",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 591.22,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 44,
+    "unds": 202,
+    "kg_regular": 129.53,
+    "timestamp": "2026-07-04T11:02:10.316Z"
   }
 ]
