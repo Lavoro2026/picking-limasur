@@ -718,5 +718,20 @@
     "unds": 238,
     "kg_regular": 132.69,
     "timestamp": "2026-07-04T07:22:12.967Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "B",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 277.59,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 17,
+    "unds": 217,
+    "kg_regular": 67.92,
+    "timestamp": "2026-07-04T07:22:21.391Z"
   }
 ]
