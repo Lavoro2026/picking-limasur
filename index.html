@@ -9,8 +9,6 @@
 <style>
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#eef2f7;min-height:100vh;overscroll-behavior:none}
-
-/* HEADER */
 .header{background:#0d3b61;color:white;padding:14px 16px 12px;display:flex;align-items:center;gap:11px;position:sticky;top:0;z-index:100;box-shadow:0 2px 10px rgba(0,0,0,0.25)}
 .hico{width:36px;height:36px;background:rgba(255,255,255,0.15);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0}
 .htitle{font-size:15px;font-weight:700;line-height:1.2}
@@ -21,23 +19,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .hstatus.ok{background:rgba(39,174,96,0.35);color:#a8ffcc}
 .hstatus.err{background:rgba(231,76,60,0.35);color:#ffb3ae}
 .hstatus.load{background:rgba(255,255,255,0.15);color:rgba(255,255,255,0.7)}
-
-/* LOADING */
 .loading-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:16px;padding:40px}
 .spinner{width:42px;height:42px;border:4px solid #d0dce8;border-top-color:#0d3b61;border-radius:50%;animation:spin .7s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 .load-txt{color:#607d8b;font-size:15px;font-weight:500}
 .load-sub{color:#90a4ae;font-size:12px;margin-top:4px;text-align:center}
-
-/* STATS */
 .stats-row{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding:12px 14px 4px}
 .stat{background:white;border-radius:12px;padding:12px 8px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,0.07)}
 .stat-n{font-size:21px;font-weight:700;color:#0d3b61;line-height:1}
 .stat-l{font-size:10px;color:#90a4ae;margin-top:3px;font-weight:600;text-transform:uppercase;letter-spacing:.3px}
-
-/* SEARCH + FILTROS */
 .search-wrap{padding:10px 14px 6px}
-
 .filtros-select-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;padding:6px 14px 10px}
 .filtros-select-row select{border:1.5px solid #c8d6e0;border-radius:10px;padding:8px 6px;font-size:12px;font-weight:600;color:#0d3b61;background:white;-webkit-appearance:none;appearance:none;min-width:0}
 .filtros-select-row select:focus{border-color:#0d3b61;outline:none}
@@ -46,24 +37,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .search-box input::placeholder{color:#b0bec5}
 .s-ico{color:#90a4ae;font-size:17px;flex-shrink:0}
 .clear-btn{background:none;border:none;color:#b0bec5;font-size:18px;cursor:pointer;padding:4px;line-height:1}
-
-.chips{display:flex;gap:7px;overflow-x:auto;padding:6px 14px 8px;scrollbar-width:none}
-.chips::-webkit-scrollbar{display:none}
-.chip{flex-shrink:0;padding:6px 14px;border-radius:20px;font-size:13px;font-weight:600;cursor:pointer;border:1.5px solid #c8d6e0;background:white;color:#546e7a;transition:all .15s;white-space:nowrap;user-select:none}
-.chip.on{background:#0d3b61;color:white;border-color:#0d3b61}
-
-/* CARDS */
 .cards{padding:4px 14px 90px}
 .no-results{text-align:center;padding:50px 20px;color:#90a4ae}
 .no-results .ni{font-size:44px;margin-bottom:10px}
 .no-results h3{font-size:15px;color:#b0bec5}
 .no-results p{font-size:12px;margin-top:5px}
-
 .placa-card{background:white;border-radius:14px;margin-bottom:10px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,0.07)}
 .pc-header{padding:13px 14px 10px;display:flex;align-items:flex-start;justify-content:space-between;gap:10px;cursor:pointer;user-select:none}
-.pc-left{}
 .pc-ctrl-label{font-size:10px;font-weight:700;color:#90a4ae;text-transform:uppercase;letter-spacing:.4px}
-.pc-ctrl{font-size:15px;font-weight:700;color:#1c2e3d;margin-top:1px}
 .pc-right{text-align:right;flex-shrink:0}
 .pc-placa{background:#e3edf8;color:#0d3b61;font-size:13px;font-weight:700;padding:4px 10px;border-radius:8px;font-family:monospace;letter-spacing:.5px}
 .zona-badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:8px;letter-spacing:.3px}
@@ -75,7 +56,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .pc-cj{background:#fff3e0;color:#bf360c;font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px}
 .pc-un{background:#e8f5e9;color:#2e7d32;font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px}
 .pc-toggle{font-size:11px;color:#90a4ae;margin-top:6px;display:flex;align-items:center;gap:3px}
-
 .pc-body{border-top:1px solid #f0f4f8}
 .pc-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
 .pc-table{width:100%;border-collapse:collapse;min-width:560px}
@@ -84,18 +64,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .pc-table th:last-child,.pc-table td:last-child{text-align:center}
 .pc-table th:nth-child(3),.pc-table td:nth-child(3){text-align:center}
 .pc-table td{padding:8px 10px;font-size:12px;color:#37474f;border-top:1px solid #f0f4f8;vertical-align:middle}
-.mat-code{font-size:11px;color:#78909c;font-family:monospace}
-.denom{font-size:12px;color:#263238;line-height:1.3}
 .n-cj{font-weight:700;color:#bf360c;font-size:14px}
 .n-un{font-weight:700;color:#2e7d32;font-size:14px}
 .pc-total-row{background:#f0f7ff}
 .pc-total-row td{font-weight:700;color:#0d3b61;font-size:12px}
-
-/* FAB IA */
 .fab{position:fixed;bottom:22px;right:18px;width:54px;height:54px;background:linear-gradient(135deg,#0d3b61,#1a73b8);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;color:white;box-shadow:0 4px 16px rgba(13,59,97,.45);cursor:pointer;border:none;z-index:200;transition:transform .15s}
 .fab:active{transform:scale(.9)}
-
-/* MODAL IA */
 .modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.48);z-index:300;align-items:flex-end}
 .modal-bg.open{display:flex}
 .modal-sheet{background:white;border-radius:20px 20px 0 0;width:100%;max-height:78vh;display:flex;flex-direction:column}
@@ -121,23 +95,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .m-input-row input:focus{border-color:#0d3b61}
 .m-send{width:38px;height:38px;background:#0d3b61;border:none;border-radius:50%;color:white;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0}
 .m-send:disabled{background:#b0bec5;cursor:not-allowed}
-
-/* ERROR */
 .err-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:12px;padding:30px;text-align:center}
 .err-ico{font-size:48px}
 .err-screen h3{font-size:16px;font-weight:700;color:#c62828}
 .err-screen p{font-size:13px;color:#78909c;line-height:1.5}
-/* TABS */
 .tabs{display:flex;background:white;border-radius:12px;margin:10px 14px 2px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,0.08)}
 .tab-btn{flex:1;padding:11px 0;text-align:center;font-size:13px;font-weight:700;color:#90a4ae;cursor:pointer;border:none;background:none;border-bottom:3px solid transparent;transition:all .15s}
 .tab-btn.on{color:#0d3b61;border-bottom-color:#0d3b61}
-
-/* ASIGNACION PICADOR */
-.asig-actual{font-size:11px;color:#2e7d32;font-weight:600;margin-top:6px;display:flex;align-items:center;gap:4px;padding:4px 10px;background:#e8f5e9;border-radius:8px}
 .asig-msg{font-size:12px;margin-top:8px;font-weight:600}
 .asig-msg.ok{color:#2e7d32}
 .asig-msg.err{color:#c62828}
-
 .asig-panel{background:white;border-radius:14px;margin:10px 14px;padding:14px;box-shadow:0 1px 4px rgba(0,0,0,0.08)}
 .asig-panel-title{font-size:13px;font-weight:700;color:#1c2e3d;margin-bottom:10px}
 .asig-panel-row{display:flex;gap:8px;margin-bottom:8px}
@@ -145,7 +112,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .asig-panel-row select:focus{border-color:#0d3b61}
 .asig-btn{background:#0d3b61;color:white;border:none;border-radius:10px;padding:9px 16px;font-size:13px;font-weight:700;cursor:pointer;flex-shrink:0;white-space:nowrap}
 .asig-btn:disabled{background:#cfd8dc;cursor:not-allowed}
-
 .registro-vivo{margin:0 14px 10px}
 .reg-vivo-title{font-size:13px;font-weight:700;color:#1c2e3d;margin-bottom:8px}
 .reg-vivo-table-wrap{background:white;border-radius:14px;box-shadow:0 1px 4px rgba(0,0,0,0.08);max-height:280px;overflow-y:auto;overflow-x:auto;-webkit-overflow-scrolling:touch}
@@ -154,8 +120,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .reg-vivo-table td{padding:8px 10px;font-size:12px;color:#37474f;border-top:1px solid #f0f4f8}
 .reg-del-btn{background:none;border:none;font-size:14px;cursor:pointer;padding:4px;opacity:0.6}
 .reg-del-btn:hover{opacity:1}
-
-/* HISTORICO PICADORES */
 .hp-loading{padding:50px 20px;text-align:center;color:#90a4ae;font-size:14px;line-height:1.6}
 .hp-section{padding:12px 14px}
 .hp-select-row{display:flex;flex-direction:column;gap:6px}
@@ -164,22 +128,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .hp-select-row select:focus{border-color:#0d3b61}
 .hp-recalc-box{margin-top:14px;padding:12px;background:#fff8e1;border-radius:10px;border:1px solid #ffe082}
 .hp-recalc-text{font-size:11px;color:#7a5c00;line-height:1.5;margin-bottom:10px}
-
+.cerrar-dia-box{margin:12px 14px;padding:14px;background:#fce4ec;border-radius:12px;border:1px solid #f48fb1}
+.cerrar-dia-title{font-size:13px;font-weight:700;color:#880e4f;margin-bottom:6px}
+.cerrar-dia-text{font-size:11px;color:#ad1457;line-height:1.5;margin-bottom:10px}
+.cerrar-dia-btn{background:#880e4f;color:white;border:none;border-radius:10px;padding:10px 18px;font-size:13px;font-weight:700;cursor:pointer;width:100%}
+.cerrar-dia-btn:disabled{background:#cfd8dc;cursor:not-allowed}
 .export-bar{display:flex;gap:8px;padding:12px 14px 4px}
 .export-btn{flex:1;background:white;color:#0d3b61;border:1.5px solid #0d3b61;border-radius:10px;padding:10px 12px;font-size:13px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px}
 .export-btn:hover{background:#e3edf8}
-.export-btn:active{transform:scale(0.98)}
-
-/* DASHBOARD */
 .dash-section{padding:12px 14px}
 .dash-title{font-size:13px;font-weight:700;color:#1c2e3d;margin:14px 0 8px;display:flex;align-items:center;gap:6px}
-
-/* HISTORICO */
 #dashHistorico{padding:12px 14px;background:white;margin:0 0 10px}
 .hist-title{font-size:13px;font-weight:700;color:#1c2e3d;margin-bottom:10px}
-.hist-tabs{display:flex;gap:7px;margin-bottom:12px;overflow-x:auto}
-.hist-tab{flex-shrink:0;padding:6px 13px;border-radius:18px;font-size:12px;font-weight:600;cursor:pointer;border:1.5px solid #c8d6e0;background:white;color:#546e7a;white-space:nowrap}
-.hist-tab.on{background:#0d3b61;color:white;border-color:#0d3b61}
 .hist-chart-wrap{position:relative;width:100%;height:260px}
 .hist-legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px;font-size:11px;color:#546e7a}
 .hist-legend-item{display:flex;align-items:center;gap:4px}
@@ -261,27 +221,38 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 </div>
 
 <script>
-// ─── CONFIGURACIÓN ───────────────────────────────────────────────
+// ─── CONFIG ──────────────────────────────────────────────────────
 const GITHUB_USER = "Lavoro2026";
 const GITHUB_REPO = "picking-limasur";
 const DATA_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/picking_data.json`;
 const HISTORICO_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/historico_data.json`;
 const HISTORICO_PICADORES_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/historico_picadores.json`;
-let historicoData = null;
-const WORKER_URL = "https://picking-api.almacenero2ls-lavoro.workers.dev"; // <-- URL de tu Cloudflare Worker
+const WORKER_URL = "https://picking-api.almacenero2ls-lavoro.workers.dev";
 const PERSONAL_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/personal.json`;
-const REFRESH_MS = 3 * 60 * 1000; // auto-refresh cada 3 minutos
-// ────────────────────────────────────────────────────────────────
+const REFRESH_MS = 3 * 60 * 1000;
+const PIN_SUPERVISOR = "Lavoro";
+const PASS_PRODUCTIVIDAD = "Lavoro2026$";
+// ─────────────────────────────────────────────────────────────────
 
 let allData = [];
 let personalList = [];
-// Los filtros (controlador/zona/familia) se leen directo de los <select> en filtrar()
+let asignaciones = [];
 let ctx = "";
 let refreshTimer;
-let asignaciones = []; // [{placa, material, denominacion, controlador, picador, timestamp}]
 let tabActual = "consulta";
+let historicoData = null;
+let historicoPicadoresData = null;
+let fechaSeleccionadaHist = null;
+let fechaProductividad = null;
+let familiaProductividad = "todas";
+let zonaProductividad = "todas";
+let registrosFiltradosProductividad = [];
+let productividadDesbloqueada = false;
+let chartTotalInstance = null;
+let chartFamiliaInstance = null;
+let chartAlmacenInstance = null;
 
-// ── CARGA DE DATOS ───────────────────────────────────────────────
+// ── CARGA DE DATOS ────────────────────────────────────────────────
 async function cargarDatos(silencioso = false) {
   if (!silencioso) mostrarLoader();
   try {
@@ -292,16 +263,11 @@ async function cargarDatos(silencioso = false) {
       ...r,
       orden2_num: r.orden2 ? parseFloat(String(r.orden2).replace(",",".")) : 999999
     }));
-    // Personal se carga de archivo separado (para no inflar picking_data.json)
-    // Solo si aun no se cargo en esta sesion
     if (personalList.length === 0) {
       try {
         const pRes = await fetch(PERSONAL_URL + "?t=" + Date.now());
-        if (pRes.ok) {
-          const pJson = await pRes.json();
-          personalList = pJson.personal || [];
-        }
-      } catch (e) { /* silencioso: personal es opcional */ }
+        if (pRes.ok) { const pJson = await pRes.json(); personalList = pJson.personal || []; }
+      } catch(e) {}
     }
     await cargarAsignaciones();
     buildCtx(json);
@@ -310,7 +276,7 @@ async function cargarDatos(silencioso = false) {
     document.getElementById("hStatus").className = "hstatus ok";
     document.getElementById("hStatus").textContent = "✓ Actualizado";
     document.getElementById("hTime").textContent = json.ultima_actualizacion || "";
-  } catch (e) {
+  } catch(e) {
     if (!silencioso) mostrarError(e.message);
     else {
       document.getElementById("hStatus").className = "hstatus err";
@@ -327,25 +293,26 @@ async function cargarAsignaciones() {
     const res = await fetch(WORKER_URL + "/asignaciones?t=" + Date.now());
     if (!res.ok) return;
     const json = await res.json();
-    asignaciones = json.asignaciones || [];
-  } catch (e) {
-    // Silencioso: si el worker no responde, simplemente no hay asignaciones visibles
-  }
+    // FIX PRINCIPAL: normalizar picador — el Worker puede guardarlo como "nombre" o "picador"
+    asignaciones = (json.asignaciones || []).map(a => ({
+      ...a,
+      picador: a.picador || a.nombre || "—",
+      nombre: a.picador || a.nombre || "—",
+    }));
+  } catch(e) {}
 }
 
 function buscarAsignacion(placa, material) {
-  // Compatibilidad: busca por placa+familia (nuevo esquema). Si el registro
-  // de asignacion no tiene "familia" guardada, cae a comparar solo por placa.
   const row = allData.find(r => r.placa === placa && String(r.material) === String(material));
   const familia = row ? row.familia : "";
   return asignaciones.find(a => a.placa === placa && (a.familia || "") === (familia || ""));
 }
 
+// ── ASIGNACIÓN ────────────────────────────────────────────────────
 function actualizarPlacasAsig() {
   const familia = document.getElementById("selFamiliaAsig").value;
   const selPlaca = document.getElementById("selPlacaAsig");
   selPlaca.innerHTML = `<option value="">Placa...</option>`;
-
   if (familia) {
     const placas = [...new Set(allData.filter(r => r.familia === familia).map(r => r.placa).filter(Boolean))].sort();
     placas.forEach(p => {
@@ -372,20 +339,14 @@ async function confirmarAsignacionPanel() {
   const nombre = document.getElementById("selPicadorAsig").value;
   const msgEl = document.getElementById("msgAsigPanel");
   const btn = document.getElementById("btnAsigPanel");
-
   if (!familia || !placa || !nombre) return;
 
-  // Sumar TODOS los registros de esa placa+familia (puede haber varios materiales)
   const filasCoincidentes = allData.filter(r => r.placa === placa && r.familia === familia);
-  const totalKg = filasCoincidentes.reduce((s, r) => s + (r.peso_kg || 0), 0);
-  const totalCajas = filasCoincidentes.reduce((s, r) => s + (r.cajas || 0), 0);
-  const totalUnds = filasCoincidentes.reduce((s, r) => s + (r.unds || 0), 0);
-
-  // Solo el peso de filas con Estado = "Picking_Regular" cuenta para el
-  // Ranking de Picadores (excluye "Picking Directo")
-  const filasRegular = filasCoincidentes.filter(r => (r.estado || "").trim() === "Picking_Regular");
-  const kgRegular = filasRegular.reduce((s, r) => s + (r.peso_kg || 0), 0);
-
+  const totalKg = filasCoincidentes.reduce((s,r) => s+(r.peso_kg||0), 0);
+  const totalCajas = filasCoincidentes.reduce((s,r) => s+(r.cajas||0), 0);
+  const totalUnds = filasCoincidentes.reduce((s,r) => s+(r.unds||0), 0);
+  const filasRegular = filasCoincidentes.filter(r => (r.estado||"").trim() === "Picking_Regular");
+  const kgRegular = filasRegular.reduce((s,r) => s+(r.peso_kg||0), 0);
   const ref = filasCoincidentes[0];
   const zona = ref ? (ref.status || "") : "";
 
@@ -398,29 +359,28 @@ async function confirmarAsignacionPanel() {
       method: "POST",
       headers: {"Content-Type":"application/json"},
       body: JSON.stringify({
-        placa,
-        familia,
-        zona,
+        placa, familia, zona,
         material: ref ? String(ref.material) : "",
         denominacion: ref ? ref.denominacion : "",
         controlador: ref ? ref.controlador : "",
         picador: nombre,
+        nombre: nombre,
         kg: Math.round(totalKg * 100) / 100,
         kg_regular: Math.round(kgRegular * 100) / 100,
         cajas: Math.round(totalCajas),
-        unds: Math.round(totalUnds)
+        unds: Math.round(totalUnds),
       })
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || "Error al guardar");
-
-    msgEl.textContent = `✅ ${nombre} registrado en ${placa} (Familia ${familia}) - ${totalKg.toFixed(1)} kg`;
+    msgEl.textContent = `✅ ${nombre} registrado en ${placa} (Familia ${familia}) — ${totalKg.toFixed(1)} kg`;
     msgEl.className = "asig-msg ok";
     await cargarAsignaciones();
     actualizarPlacasAsig();
     renderRegistroVivo();
     filtrar();
-  } catch (e) {
+    if (tabActual === "dashboard") renderDashboard();
+  } catch(e) {
     msgEl.textContent = "❌ " + e.message;
     msgEl.className = "asig-msg err";
   } finally {
@@ -431,17 +391,9 @@ async function confirmarAsignacionPanel() {
 function renderRegistroVivo() {
   const cont = document.getElementById("registroVivo");
   if (!cont) return;
+  if (!asignaciones.length) { cont.innerHTML = ""; return; }
 
-  if (!asignaciones.length) {
-    cont.innerHTML = "";
-    return;
-  }
-
-  // Mas reciente primero
-  const ordenadas = [...asignaciones].sort((a, b) =>
-    new Date(b.timestamp || 0) - new Date(a.timestamp || 0)
-  );
-
+  const ordenadas = [...asignaciones].sort((a,b) => new Date(b.timestamp||0) - new Date(a.timestamp||0));
   let html = `
     <div class="reg-vivo-title">📋 Registro en vivo del día</div>
     <div class="reg-vivo-table-wrap">
@@ -449,67 +401,92 @@ function renderRegistroVivo() {
         <tr><th>Picador</th><th>Familia</th><th>Placa</th><th style="text-align:center">Kg</th><th></th></tr>
         ${ordenadas.map(a => `
           <tr>
-            <td>${a.nombre || a.picador || "—"}</td>
+            <td>${a.picador || "—"}</td>
             <td><span class="zona-badge zona-${a.familia}">${a.familia || "—"}</span></td>
             <td><span class="pc-placa" style="font-size:11px">${a.placa || "—"}</span></td>
-            <td style="text-align:center;font-weight:700;color:#0d3b61">${(a.kg || 0).toFixed(1)}</td>
+            <td style="text-align:center;font-weight:700;color:#0d3b61">${(a.kg||0).toFixed(1)}</td>
             <td style="text-align:center">
-              <button class="reg-del-btn" onclick="solicitarBorradoRegistro('${a.placa}','${a.familia}')" title="Borrar registro">🗑️</button>
+              <button class="reg-del-btn" onclick="solicitarBorradoRegistro('${a.placa}','${a.familia}')" title="Borrar">🗑️</button>
             </td>
           </tr>`).join("")}
       </table>
     </div>`;
-
   cont.innerHTML = html;
 }
 
-const PIN_SUPERVISOR = "Lavoro";
-
 function solicitarBorradoRegistro(placa, familia) {
   const pin = prompt("Ingresa el PIN de supervisor para borrar este registro:");
-  if (pin === null) return; // cancelado
-  if (pin !== PIN_SUPERVISOR) {
-    alert("PIN incorrecto. No se borró el registro.");
-    return;
-  }
-  const confirmar = confirm(`¿Confirmas borrar el registro de la placa ${placa} (Familia ${familia})?`);
-  if (!confirmar) return;
+  if (pin === null) return;
+  if (pin !== PIN_SUPERVISOR) { alert("PIN incorrecto."); return; }
+  if (!confirm(`¿Confirmas borrar el registro de la placa ${placa} (Familia ${familia})?`)) return;
   borrarRegistro(placa, familia);
 }
 
 async function borrarRegistro(placa, familia) {
   try {
     const res = await fetch(WORKER_URL + "/asignaciones?placa=" + encodeURIComponent(placa) + "&familia=" + encodeURIComponent(familia), {
-      method: "DELETE",
-      headers: {"Content-Type":"application/json"}
+      method: "DELETE", headers: {"Content-Type":"application/json"}
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || "Error al borrar");
-
     await cargarAsignaciones();
     renderRegistroVivo();
     actualizarPlacasAsig();
     if (tabActual === "dashboard") renderDashboard();
-  } catch (e) {
-    alert("❌ Error al borrar: " + e.message);
+  } catch(e) { alert("❌ Error al borrar: " + e.message); }
+}
+
+// ── CERRAR DÍA ────────────────────────────────────────────────────
+async function cerrarDia() {
+  const pin = prompt("Ingresa el PIN de supervisor para cerrar el día:");
+  if (pin === null) return;
+  if (pin !== PIN_SUPERVISOR) { alert("PIN incorrecto."); return; }
+
+  const total = asignaciones.length;
+  if (total === 0) { alert("No hay asignaciones registradas hoy para archivar."); return; }
+
+  if (!confirm(`¿Confirmas cerrar el día?\n\nSe archivarán ${total} registro(s) en el histórico.\nLas asignaciones de hoy quedarán limpias para mañana.`)) return;
+
+  const btn = document.getElementById("btnCerrarDia");
+  const msgEl = document.getElementById("msgCerrarDia");
+  if (btn) btn.disabled = true;
+  if (msgEl) { msgEl.textContent = "Archivando..."; msgEl.className = "asig-msg"; }
+
+  try {
+    const res = await fetch(WORKER_URL + "/archivar", {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({})
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Error al archivar");
+
+    if (msgEl) {
+      msgEl.textContent = `✅ Día cerrado: ${data.archivados} registro(s) archivados en ${data.fecha}`;
+      msgEl.className = "asig-msg ok";
+    }
+
+    // Recargar todo
+    historicoPicadoresData = null;
+    historicoData = null;
+    await cargarAsignaciones();
+    renderRegistroVivo();
+    renderDashboard();
+  } catch(e) {
+    if (msgEl) { msgEl.textContent = "❌ Error: " + e.message; msgEl.className = "asig-msg err"; }
+  } finally {
+    if (btn) btn.disabled = false;
   }
 }
 
-// ── TABS ─────────────────────────────────────────────────────────
-const PASS_PRODUCTIVIDAD = "Lavoro2026$";
-let productividadDesbloqueada = false;
-
+// ── TABS ──────────────────────────────────────────────────────────
 function switchTab(tab) {
   if (tab === "dashboard" && !productividadDesbloqueada) {
     const clave = prompt("Esta sección requiere clave de acceso:");
-    if (clave === null) return; // cancelado, no cambiar de pestaña
-    if (clave !== PASS_PRODUCTIVIDAD) {
-      alert("Clave incorrecta.");
-      return;
-    }
+    if (clave === null) return;
+    if (clave !== PASS_PRODUCTIVIDAD) { alert("Clave incorrecta."); return; }
     productividadDesbloqueada = true;
   }
-
   tabActual = tab;
   document.getElementById("tabConsulta").classList.toggle("on", tab === "consulta");
   document.getElementById("tabHistPick").classList.toggle("on", tab === "historico");
@@ -518,50 +495,32 @@ function switchTab(tab) {
   document.getElementById("histPickApp").style.display = tab === "historico" ? "block" : "none";
   document.getElementById("dashApp").style.display = tab === "dashboard" ? "block" : "none";
   document.getElementById("dashHistorico").style.display = tab === "dashboard" ? "block" : "none";
+  if (tab === "historico") cargarHistoricoPicadores();
+  if (tab === "dashboard") { renderDashboard(); cargarHistorico(); cargarHistoricoPicadoresParaProductividad(); }
+}
 
-  if (tab === "historico") {
-    cargarHistoricoPicadores();
-  }
-  if (tab === "dashboard") {
-    renderDashboard();
-    cargarHistorico();
-    cargarHistoricoPicadoresParaProductividad();
+// ── HISTÓRICO DE PICADORES ────────────────────────────────────────
+async function cargarHistoricoPicadores() {
+  if (historicoPicadoresData) { renderHistoricoPicadores(); return; }
+  document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">Cargando histórico...</div>`;
+  try {
+    const res = await fetch(WORKER_URL + "/historico-picadores?t=" + Date.now());
+    if (!res.ok) throw new Error("No se pudo cargar");
+    historicoPicadoresData = await res.json();
+    renderHistoricoPicadores();
+  } catch(e) {
+    document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">No se pudo cargar el histórico.</div>`;
   }
 }
 
 async function cargarHistoricoPicadoresParaProductividad() {
-  if (historicoPicadoresData) {
-    renderDashboard();
-    return;
-  }
+  if (historicoPicadoresData) { renderDashboard(); return; }
   try {
-    const res = await fetch(HISTORICO_PICADORES_URL + "?t=" + Date.now());
+    const res = await fetch(WORKER_URL + "/historico-picadores?t=" + Date.now());
     if (!res.ok) return;
     historicoPicadoresData = await res.json();
     if (tabActual === "dashboard") renderDashboard();
-  } catch (e) {
-    // Silencioso: si falla, el selector de fecha simplemente no tendra opciones
-  }
-}
-
-// ── HISTORICO DE PICADORES (por dia, quien hizo que placa) ────────
-let historicoPicadoresData = null;
-let fechaSeleccionadaHist = null;
-
-async function cargarHistoricoPicadores() {
-  if (historicoPicadoresData) {
-    renderHistoricoPicadores();
-    return;
-  }
-  document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">Cargando histórico...</div>`;
-  try {
-    const res = await fetch(HISTORICO_PICADORES_URL + "?t=" + Date.now());
-    if (!res.ok) throw new Error("No se pudo cargar");
-    historicoPicadoresData = await res.json();
-    renderHistoricoPicadores();
-  } catch (e) {
-    document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">No se pudo cargar el histórico. Intenta de nuevo más tarde.</div>`;
-  }
+  } catch(e) {}
 }
 
 function renderHistoricoPicadores() {
@@ -570,19 +529,16 @@ function renderHistoricoPicadores() {
   const fechas = Object.keys(dias).sort().reverse();
 
   if (fechas.length === 0) {
-    cont.innerHTML = `<div class="hp-loading">📭 Aún no hay días archivados en el histórico.<br>Esto se llena automáticamente cada vez que se carga el archivo de un nuevo día.</div>`;
+    cont.innerHTML = `<div class="hp-loading">📭 Aún no hay días archivados.<br>Usa el botón "Cerrar Día" en la pestaña Productividad al finalizar la jornada.</div>`;
     return;
   }
 
-  if (!fechaSeleccionadaHist || !dias[fechaSeleccionadaHist]) {
-    fechaSeleccionadaHist = fechas[0];
-  }
-
+  if (!fechaSeleccionadaHist || !dias[fechaSeleccionadaHist]) fechaSeleccionadaHist = fechas[0];
   const registros = dias[fechaSeleccionadaHist] || [];
-  const totalKg = registros.reduce((s, r) => s + (r.kg || 0), 0);
+  const totalKg = registros.reduce((s,r) => s+(r.kg||0), 0);
   const pickersUnicos = new Set(registros.map(r => r.picador)).size;
 
-  let html = `
+  cont.innerHTML = `
     <div class="hp-section">
       <div class="hp-select-row">
         <label class="hp-label">📅 Selecciona un día:</label>
@@ -608,14 +564,9 @@ function renderHistoricoPicadores() {
           </tr>`).join("")}
       </table>
     </div>`;
-
-  cont.innerHTML = html;
 }
 
-function cambiarFechaHist(fecha) {
-  fechaSeleccionadaHist = fecha;
-  renderHistoricoPicadores();
-}
+function cambiarFechaHist(fecha) { fechaSeleccionadaHist = fecha; renderHistoricoPicadores(); }
 
 function formatearFecha(fechaISO) {
   const [yyyy, mm, dd] = fechaISO.split("-");
@@ -623,244 +574,421 @@ function formatearFecha(fechaISO) {
   return `${dd} ${meses[parseInt(mm)-1]} ${yyyy}`;
 }
 
+// ── HISTÓRICO DE TONELAJE ─────────────────────────────────────────
 async function cargarHistorico() {
-  if (historicoData) {
-    renderGraficoHistorico();
-    return;
-  }
+  if (historicoData) { renderGraficoHistorico(); return; }
   try {
     const res = await fetch(HISTORICO_URL + "?t=" + Date.now());
     if (!res.ok) return;
     historicoData = await res.json();
     renderGraficoHistorico();
-  } catch (e) {
-    // Silencioso: si no hay historico todavia, simplemente no se muestra el grafico
-  }
+  } catch(e) {}
 }
-
-let chartTotalInstance = null;
-let chartFamiliaInstance = null;
-let chartAlmacenInstance = null;
 
 function renderGraficoHistorico() {
   const cont = document.getElementById("dashHistorico");
   if (!cont) return;
-
-  if (!historicoData || !historicoData.dias || Object.keys(historicoData.dias).length === 0) {
-    cont.innerHTML = "";
-    return;
-  }
+  if (!historicoData || !historicoData.dias || Object.keys(historicoData.dias).length === 0) { cont.innerHTML = ""; return; }
 
   const fechas = Object.keys(historicoData.dias).sort();
-  const labels = fechas.map(f => {
-    const [, mm, dd] = f.split("-");
-    return `${dd}/${mm}`;
-  });
+  const labels = fechas.map(f => { const [,mm,dd] = f.split("-"); return `${dd}/${mm}`; });
 
-  const html = `
+  cont.innerHTML = `
     <div class="hist-title">📦 Tonelaje total por día</div>
-    <div class="hist-chart-wrap">
-      <canvas id="histChartTotal" role="img" aria-label="Gráfico de barras mostrando el total de toneladas movidas por día"></canvas>
-    </div>
-
-    <div class="hist-title" style="margin-top:22px">🗂️ Avance por familia (toneladas)</div>
-    <div class="hist-chart-wrap">
-      <canvas id="histChartFamilia" role="img" aria-label="Gráfico de líneas mostrando toneladas por familia a través de los días"></canvas>
-    </div>
-    <div class="hist-legend" id="histLegendFamilia"></div>
-
-    <div class="hist-title" style="margin-top:22px">📂 Por tipo de producto (toneladas)</div>
-    <div class="hist-chart-wrap">
-      <canvas id="histChartAlmacen" role="img" aria-label="Gráfico de barras apiladas mostrando toneladas por tipo de producto, Abarrotes vs Refrigerados"></canvas>
-    </div>
-    <div class="hist-legend" id="histLegendAlmacen"></div>`;
-
-  cont.innerHTML = html;
+    <div class="hist-chart-wrap"><canvas id="histChartTotal"></canvas></div>
+    <div class="hist-title" style="margin-top:22px">🗂️ Por familia (toneladas)</div>
+    <div class="hist-chart-wrap"><canvas id="histChartFamilia"></canvas></div>
+    <div class="hist-legend" id="histLegendFamilia"></div>`;
 
   if (typeof Chart === "undefined") {
     const script = document.createElement("script");
     script.src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js";
-    script.onload = () => dibujarTresGraficos(fechas, labels);
+    script.onload = () => dibujarGraficos(fechas, labels);
     document.head.appendChild(script);
   } else {
-    dibujarTresGraficos(fechas, labels);
+    dibujarGraficos(fechas, labels);
   }
 }
 
-function dibujarTresGraficos(fechas, labels) {
-  // ── GRAFICO 1: Tonelaje total por dia (barras, una sola serie) ──
-  const totalesPorDia = fechas.map(f => Math.round(((historicoData.dias[f].total_kg || 0) / 1000) * 100) / 100);
-
+function dibujarGraficos(fechas, labels) {
+  const totales = fechas.map(f => Math.round(((historicoData.dias[f].total_kg||0)/1000)*100)/100);
   if (chartTotalInstance) chartTotalInstance.destroy();
-  const ctxTotal = document.getElementById("histChartTotal");
-  if (ctxTotal) {
-    chartTotalInstance = new Chart(ctxTotal, {
-      type: "bar",
-      data: {
-        labels,
-        datasets: [{ label: "Toneladas", data: totalesPorDia, backgroundColor: "#0d3b61" }]
-      },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        scales: {
-          x: { ticks: { autoSkip: false, maxRotation: 45 } },
-          y: { title: { display: true, text: "Toneladas" } }
-        },
-        plugins: {
-          legend: { display: false },
-          tooltip: { callbacks: { label: (item) => `${item.parsed.y} t` } }
-        }
-      }
-    });
-  }
+  const ctxT = document.getElementById("histChartTotal");
+  if (ctxT) chartTotalInstance = new Chart(ctxT, {
+    type: "bar",
+    data: { labels, datasets: [{ label:"Toneladas", data:totales, backgroundColor:"#0d3b61" }] },
+    options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:false} }, scales:{ x:{ticks:{autoSkip:false,maxRotation:45}}, y:{title:{display:true,text:"Toneladas"}} } }
+  });
 
-  // ── GRAFICO 2: Por familia, tipo linea ──
-  const familiasSet = new Set();
-  fechas.forEach(f => Object.keys(historicoData.dias[f].por_familia || {}).forEach(c => familiasSet.add(c)));
-  const familias = [...familiasSet].sort();
-  const coloresBase = ["#0d3b61","#1a73b8","#2e7d32","#bf360c","#7b1fa2","#bf6f00","#00838f","#ad1457","#558b2f","#5d4037"];
-
-  const datasetsFamilia = familias.map((fam, i) => ({
+  const famSet = new Set();
+  fechas.forEach(f => Object.keys(historicoData.dias[f].por_familia||{}).forEach(c => famSet.add(c)));
+  const fams = [...famSet].sort();
+  const cols = ["#0d3b61","#1a73b8","#2e7d32","#bf360c","#7b1fa2","#bf6f00","#00838f","#ad1457"];
+  const dsFamilia = fams.map((fam,i) => ({
     label: fam,
-    data: fechas.map(f => Math.round((((historicoData.dias[f].por_familia || {})[fam] || 0) / 1000) * 100) / 100),
-    borderColor: coloresBase[i % coloresBase.length],
-    backgroundColor: coloresBase[i % coloresBase.length],
-    fill: false,
-    tension: 0.25,
-    pointRadius: 3,
+    data: fechas.map(f => Math.round((((historicoData.dias[f].por_familia||{})[fam]||0)/1000)*100)/100),
+    borderColor: cols[i%cols.length], backgroundColor: cols[i%cols.length], fill:false, tension:0.25, pointRadius:3
   }));
-
   if (chartFamiliaInstance) chartFamiliaInstance.destroy();
-  const ctxFamilia = document.getElementById("histChartFamilia");
-  if (ctxFamilia) {
-    chartFamiliaInstance = new Chart(ctxFamilia, {
-      type: "line",
-      data: { labels, datasets: datasetsFamilia },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        scales: {
-          x: { ticks: { autoSkip: false, maxRotation: 45 } },
-          y: { title: { display: true, text: "Toneladas" } }
-        },
-        plugins: {
-          legend: { display: false },
-          tooltip: { callbacks: { label: (item) => `${item.dataset.label}: ${item.parsed.y} t` } }
-        }
-      }
-    });
-  }
-  const legFamilia = document.getElementById("histLegendFamilia");
-  if (legFamilia) {
-    legFamilia.innerHTML = datasetsFamilia.map(d =>
-      `<span class="hist-legend-item"><span class="hist-legend-dot" style="background:${d.borderColor}"></span>${d.label}</span>`
-    ).join("");
-  }
-
-  // ── GRAFICO 3: Por tipo de producto / Almacen (barras apiladas) ──
-  const almacenesSet = new Set();
-  fechas.forEach(f => Object.keys(historicoData.dias[f].por_almacen || {}).forEach(c => almacenesSet.add(c)));
-  const almacenes = [...almacenesSet].sort();
-  const coloresAlmacen = {"ABARROTES":"#bf6f00", "REFRIGERADOS":"#1a73b8"};
-
-  const datasetsAlmacen = almacenes.map((alm, i) => ({
-    label: alm,
-    data: fechas.map(f => Math.round((((historicoData.dias[f].por_almacen || {})[alm] || 0) / 1000) * 100) / 100),
-    backgroundColor: coloresAlmacen[alm] || coloresBase[i % coloresBase.length],
-  }));
-
-  if (chartAlmacenInstance) chartAlmacenInstance.destroy();
-  const ctxAlmacen = document.getElementById("histChartAlmacen");
-  if (ctxAlmacen) {
-    chartAlmacenInstance = new Chart(ctxAlmacen, {
-      type: "bar",
-      data: { labels, datasets: datasetsAlmacen },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        scales: {
-          x: { stacked: true, ticks: { autoSkip: false, maxRotation: 45 } },
-          y: { stacked: true, title: { display: true, text: "Toneladas" } }
-        },
-        plugins: {
-          legend: { display: false },
-          tooltip: { callbacks: { label: (item) => `${item.dataset.label}: ${item.parsed.y} t` } }
-        }
-      }
-    });
-  }
-  const legAlmacen = document.getElementById("histLegendAlmacen");
-  if (legAlmacen) {
-    legAlmacen.innerHTML = datasetsAlmacen.map(d =>
-      `<span class="hist-legend-item"><span class="hist-legend-dot" style="background:${d.backgroundColor}"></span>${d.label}</span>`
-    ).join("");
-  }
+  const ctxF = document.getElementById("histChartFamilia");
+  if (ctxF) chartFamiliaInstance = new Chart(ctxF, {
+    type: "line",
+    data: { labels, datasets: dsFamilia },
+    options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:false} }, scales:{ x:{ticks:{autoSkip:false,maxRotation:45}}, y:{title:{display:true,text:"Toneladas"}} } }
+  });
+  const leg = document.getElementById("histLegendFamilia");
+  if (leg) leg.innerHTML = dsFamilia.map(d => `<span class="hist-legend-item"><span class="hist-legend-dot" style="background:${d.borderColor}"></span>${d.label}</span>`).join("");
 }
 
-function mostrarLoader() {
-  document.getElementById("app").innerHTML = `
-    <div class="loading-screen">
-      <div class="spinner"></div>
-      <div><div class="load-txt">Cargando datos del día...</div>
-      <div class="load-sub">Conectando con el servidor</div></div>
+// ── DASHBOARD DE PRODUCTIVIDAD ────────────────────────────────────
+function renderDashboard() {
+  const cont = document.getElementById("dashApp");
+
+  // Botón cerrar día
+  const htmlCerrarDia = `
+    <div class="cerrar-dia-box">
+      <div class="cerrar-dia-title">📁 Cerrar Día</div>
+      <div class="cerrar-dia-text">Al cerrar el día, los ${asignaciones.length} registro(s) de hoy se guardan en el Histórico y las asignaciones quedan limpias para mañana.</div>
+      <button class="cerrar-dia-btn" id="btnCerrarDia" onclick="cerrarDia()" ${asignaciones.length===0?'disabled':''}>
+        🗂️ Cerrar y Archivar Día
+      </button>
+      <div class="asig-msg" id="msgCerrarDia"></div>
     </div>`;
+
+  const htmlExport = `
+    <div class="export-bar">
+      <button class="export-btn" onclick="exportarProductividadExcel()">📊 Exportar Excel</button>
+      <button class="export-btn" onclick="exportarProductividadPDF()">📄 Exportar PDF</button>
+    </div>`;
+
+  const htmlFiltro = renderFiltroHistoricoProductividad();
+  const htmlRanking = renderRankingPicadores();
+
+  if (!asignaciones.length) {
+    cont.innerHTML = htmlCerrarDia + htmlExport + htmlFiltro + htmlRanking + `
+      <div class="dash-section">
+        <div class="dash-card"><div class="dash-empty">📊 Aún no hay asignaciones registradas hoy.<br>Cuando los pickers se registren en la pestaña Consulta, aparecerán aquí.</div></div>
+      </div>`;
+    return;
+  }
+
+  const porPlaca = {}, porControlador = {}, porFamilia = {};
+  asignaciones.forEach(a => {
+    const kg = a.kg||0, cajas = a.cajas||0, unds = a.unds||0;
+    if (!porPlaca[a.placa]) porPlaca[a.placa] = {kg:0,cajas:0,unds:0};
+    porPlaca[a.placa].kg+=kg; porPlaca[a.placa].cajas+=cajas; porPlaca[a.placa].unds+=unds;
+    const ctrl = a.controlador||"—";
+    if (!porControlador[ctrl]) porControlador[ctrl] = {kg:0,cajas:0,unds:0};
+    porControlador[ctrl].kg+=kg; porControlador[ctrl].cajas+=cajas; porControlador[ctrl].unds+=unds;
+    const fam = a.familia||"—";
+    if (!porFamilia[fam]) porFamilia[fam] = {kg:0,cajas:0,unds:0};
+    porFamilia[fam].kg+=kg; porFamilia[fam].cajas+=cajas; porFamilia[fam].unds+=unds;
+  });
+
+  const rankPlaca = Object.entries(porPlaca).sort((a,b) => b[1].kg-a[1].kg);
+  const rankCtrl = Object.entries(porControlador).sort((a,b) => b[1].kg-a[1].kg);
+  const rankFamilia = Object.entries(porFamilia).sort((a,b) => b[1].kg-a[1].kg);
+  const maxP = Math.max(...rankPlaca.map(([,v])=>v.kg),1);
+  const maxC = Math.max(...rankCtrl.map(([,v])=>v.kg),1);
+  const maxF = Math.max(...rankFamilia.map(([,v])=>v.kg),1);
+  const pickersHoy = new Set(asignaciones.map(a=>a.picador)).size;
+
+  let html = `<div class="dash-section">
+    <div class="stats-row" style="margin-bottom:4px">
+      <div class="stat"><div class="stat-n">${asignaciones.length}</div><div class="stat-l">Registros hoy</div></div>
+      <div class="stat"><div class="stat-n">${pickersHoy}</div><div class="stat-l">Pickers activos</div></div>
+      <div class="stat"><div class="stat-n">${asignaciones.reduce((s,a)=>s+(a.kg||0),0).toFixed(0)}</div><div class="stat-l">Kg totales</div></div>
+    </div>
+    <div class="dash-title">🚚 Por Placa (Kg)</div><div class="dash-card">`;
+  rankPlaca.slice(0,15).forEach(([p,v],i) => {
+    html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${p}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxP*100)}%"></div></div><div class="dash-val">${v.kg.toFixed(1)} kg</div></div>`;
+  });
+  html += `</div><div class="dash-title">👷 Por Controlador (Kg)</div><div class="dash-card">`;
+  rankCtrl.forEach(([n,v],i) => {
+    html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${n}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxC*100)}%"></div></div><div class="dash-val">${v.kg.toFixed(1)} kg</div></div>`;
+  });
+  html += `</div><div class="dash-title">🗂️ Por Familia (Kg)</div><div class="dash-card">`;
+  rankFamilia.forEach(([n,v],i) => {
+    html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>Familia ${n}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxF*100)}%"></div></div><div class="dash-val">${v.kg.toFixed(1)} kg</div></div>`;
+  });
+  html += `</div></div>`;
+
+  cont.innerHTML = htmlCerrarDia + htmlExport + htmlFiltro + htmlRanking + html;
+}
+
+function renderFiltroHistoricoProductividad() {
+  const dias = (historicoPicadoresData && historicoPicadoresData.dias) || {};
+  const fechas = Object.keys(dias).sort().reverse();
+  const HOY_KEY = "__hoy__";
+  if (!fechaProductividad) fechaProductividad = HOY_KEY;
+
+  // Datos del día seleccionado
+  let registrosBase = [];
+  if (fechaProductividad === HOY_KEY || fechas.length === 0) {
+    registrosBase = asignaciones;
+  } else {
+    registrosBase = dias[fechaProductividad] || [];
+  }
+
+  const familias = [...new Set(registrosBase.map(r => r.familia||"—"))].sort();
+  const zonas = [...new Set(registrosBase.map(r => r.zona||"—").filter(z=>z&&z!=="—"))].sort();
+
+  let filtrados = registrosBase;
+  if (familiaProductividad !== "todas") filtrados = filtrados.filter(r => (r.familia||"—") === familiaProductividad);
+  if (zonaProductividad !== "todas") filtrados = filtrados.filter(r => (r.zona||"—") === zonaProductividad);
+  registrosFiltradosProductividad = filtrados;
+
+  const placasPorFamilia = {};
+  registrosBase.forEach(r => {
+    const fam = r.familia||"—";
+    if (!placasPorFamilia[fam]) placasPorFamilia[fam] = new Set();
+    placasPorFamilia[fam].add(r.placa);
+  });
+
+  const totalPlacas = new Set(filtrados.map(r=>r.placa)).size;
+  const totalKg = filtrados.reduce((s,r)=>s+(r.kg||0),0);
+  const etiqueta = (fechaProductividad === HOY_KEY || fechas.length===0) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
+
+  const selectorFecha = fechas.length > 0 ? `
+    <div class="hp-select-row" style="margin-bottom:8px">
+      <label class="hp-label">📅 Día</label>
+      <select onchange="cambiarFechaProductividad(this.value)">
+        <option value="${HOY_KEY}" ${fechaProductividad===HOY_KEY?'selected':''}>📅 Hoy (en vivo)</option>
+        ${fechas.map(f=>`<option value="${f}" ${f===fechaProductividad?'selected':''}>${formatearFecha(f)}</option>`).join("")}
+      </select>
+    </div>` : `<div style="padding:6px 0;font-size:12px;color:#90a4ae">📭 Sin días archivados aún — mostrando datos de hoy</div>`;
+
+  return `
+    <div class="hp-section">
+      <div class="dash-title" style="margin-top:0">🔎 Filtro Ranking de Picadores</div>
+      ${selectorFecha}
+      <div class="hp-select-row" style="margin-bottom:8px">
+        <label class="hp-label">🗂️ Familia</label>
+        <select onchange="cambiarFamiliaProductividad(this.value)">
+          <option value="todas" ${familiaProductividad==='todas'?'selected':''}>Todas las familias</option>
+          ${familias.map(f=>`<option value="${f}" ${f===familiaProductividad?'selected':''}>Familia ${f}</option>`).join("")}
+        </select>
+      </div>
+      <div class="hp-select-row">
+        <label class="hp-label">📍 Zona</label>
+        <select onchange="cambiarZonaProductividad(this.value)">
+          <option value="todas" ${zonaProductividad==='todas'?'selected':''}>Todas las zonas</option>
+          ${zonas.map(z=>`<option value="${z}" ${z===zonaProductividad?'selected':''}>Zona ${z}</option>`).join("")}
+        </select>
+      </div>
+      <div class="stats-row" style="margin-top:12px">
+        <div class="stat"><div class="stat-n">${totalPlacas}</div><div class="stat-l">Placas</div></div>
+        <div class="stat"><div class="stat-n">${(totalKg/1000).toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
+      </div>
+      <div class="dash-title">📦 Placas por familia — ${etiqueta}</div>
+      <div class="dash-card">
+        ${Object.entries(placasPorFamilia).sort((a,b)=>b[1].size-a[1].size).map(([fam,pls])=>`
+          <div class="dash-row">
+            <div class="dash-name">Familia ${fam}</div>
+            <div class="dash-val">${pls.size} placas</div>
+          </div>`).join("")}
+      </div>
+      <div class="hp-recalc-box">
+        <div class="hp-recalc-text">⚙️ Si el ranking muestra 0 kg, usa este botón para recalcular con los datos actuales del Excel.</div>
+        <button class="asig-btn" onclick="solicitarRecalculoKgRegular()">Recalcular Kg de hoy</button>
+        <div class="asig-msg" id="msgRecalculo"></div>
+      </div>
+    </div>`;
+}
+
+function cambiarFechaProductividad(f) { fechaProductividad = f; renderDashboard(); }
+function cambiarFamiliaProductividad(f) { familiaProductividad = f; renderDashboard(); }
+function cambiarZonaProductividad(z) { zonaProductividad = z; renderDashboard(); }
+
+function renderRankingPicadores() {
+  const porPicador = {};
+  registrosFiltradosProductividad.forEach(r => {
+    const nombre = r.picador || r.nombre || "—";
+    const kg = r.kg_regular || 0;
+    if (!porPicador[nombre]) porPicador[nombre] = {kg:0, cajas:0, unds:0, placas:new Set()};
+    porPicador[nombre].kg += kg;
+    porPicador[nombre].cajas += (r.cajas||0);
+    porPicador[nombre].unds += (r.unds||0);
+    porPicador[nombre].placas.add(r.placa);
+  });
+
+  const rank = Object.entries(porPicador).sort((a,b) => b[1].kg-a[1].kg);
+  const maxKg = Math.max(...rank.map(([,v])=>v.kg), 1);
+  const HOY_KEY = "__hoy__";
+  const fechaLabel = (!fechaProductividad || fechaProductividad === HOY_KEY) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
+
+  if (rank.length === 0) {
+    return `<div class="dash-section">
+      <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores — ${fechaLabel}</div>
+      <div class="dash-card"><div class="dash-empty">No hay datos para este filtro.<br><small>Los pickers deben registrarse en la pestaña Consulta.</small></div></div>
+    </div>`;
+  }
+
+  let html = `<div class="dash-section">
+    <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores (Kg Regular) — ${fechaLabel}</div>
+    <div class="dash-card">`;
+  rank.forEach(([nombre,v],i) => {
+    html += `<div class="dash-row">
+      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${nombre}</div>
+      <div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxKg*100)}%"></div></div>
+      <div class="dash-val">${v.kg.toFixed(1)} kg · ${v.placas.size} pl</div>
+    </div>`;
+  });
+  html += `</div></div>`;
+  return html;
+}
+
+function rankClass(i) { return i===0?"top1":i===1?"top2":i===2?"top3":""; }
+
+// ── RECALCULAR KG ─────────────────────────────────────────────────
+function solicitarRecalculoKgRegular() {
+  const pin = prompt("PIN de supervisor:");
+  if (pin === null) return;
+  if (pin !== PIN_SUPERVISOR) { alert("PIN incorrecto."); return; }
+  if (!confirm(`¿Recalcular Kg de las ${asignaciones.length} asignaciones de hoy?`)) return;
+  recalcularKgRegular();
+}
+
+async function recalcularKgRegular() {
+  const msgEl = document.getElementById("msgRecalculo");
+  if (msgEl) { msgEl.textContent = "Recalculando..."; msgEl.className = "asig-msg"; }
+
+  const nuevas = asignaciones.map(a => {
+    const filas = allData.filter(r => r.placa === a.placa && r.familia === a.familia);
+    const filasReg = filas.filter(r => (r.estado||"").trim() === "Picking_Regular");
+    const ref = filas[0];
+    return {
+      placa: a.placa, familia: a.familia,
+      zona: a.zona || (ref ? ref.status||"" : ""),
+      material: ref ? String(ref.material) : (a.material||""),
+      denominacion: ref ? ref.denominacion : (a.denominacion||""),
+      controlador: a.controlador,
+      picador: a.picador, nombre: a.picador,
+      kg: Math.round(filas.reduce((s,r)=>s+(r.peso_kg||0),0)*100)/100,
+      kg_regular: Math.round(filasReg.reduce((s,r)=>s+(r.peso_kg||0),0)*100)/100,
+      cajas: Math.round(filas.reduce((s,r)=>s+(r.cajas||0),0)),
+      unds: Math.round(filas.reduce((s,r)=>s+(r.unds||0),0)),
+      timestamp: a.timestamp || new Date().toISOString(),
+    };
+  });
+
+  try {
+    const res = await fetch(WORKER_URL + "/asignaciones", {
+      method: "PUT",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({ asignaciones: nuevas })
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Error");
+    if (msgEl) { msgEl.textContent = `✅ ${nuevas.length} asignaciones recalculadas.`; msgEl.className = "asig-msg ok"; }
+  } catch(e) {
+    if (msgEl) { msgEl.textContent = "❌ " + e.message; msgEl.className = "asig-msg err"; }
+  }
+  await cargarAsignaciones();
+  renderRegistroVivo();
+  if (tabActual === "dashboard") renderDashboard();
+}
+
+// ── EXPORTAR ──────────────────────────────────────────────────────
+function cargarScriptExport(src) {
+  return new Promise((resolve, reject) => {
+    if (document.querySelector(`script[src="${src}"]`)) { resolve(); return; }
+    const s = document.createElement("script"); s.src=src; s.onload=resolve; s.onerror=reject;
+    document.head.appendChild(s);
+  });
+}
+
+async function exportarProductividadExcel() {
+  try {
+    if (typeof XLSX === "undefined") await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js");
+    const wb = XLSX.utils.book_new();
+    const HOY_KEY = "__hoy__";
+    const fechaLabel = (!fechaProductividad || fechaProductividad===HOY_KEY) ? "Hoy" : formatearFecha(fechaProductividad);
+
+    const porPicador = {};
+    registrosFiltradosProductividad.forEach(r => {
+      const n = r.picador||r.nombre||"—";
+      if (!porPicador[n]) porPicador[n]={kg:0,cajas:0,unds:0,placas:new Set()};
+      porPicador[n].kg+=(r.kg_regular||0); porPicador[n].cajas+=(r.cajas||0); porPicador[n].unds+=(r.unds||0); porPicador[n].placas.add(r.placa);
+    });
+    const rankPicker = Object.entries(porPicador).sort((a,b)=>b[1].kg-a[1].kg);
+
+    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet([
+      [`Ranking Picadores — ${fechaLabel}`],[],["#","Picador","Kg Regular","Placas","Cajas","Unds"],
+      ...rankPicker.map(([n,v],i)=>[i+1,n,v.kg.toFixed(1),v.placas.size,Math.round(v.cajas),Math.round(v.unds)])
+    ]), "Ranking Picadores");
+
+    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet([
+      ["Registro del Día (en vivo)"],[],["Picador","Familia","Placa","Zona","Kg","Kg Regular","Cajas","Unds","Controlador"],
+      ...asignaciones.map(a=>[a.picador,a.familia,a.placa,a.zona,(a.kg||0).toFixed(1),(a.kg_regular||0).toFixed(1),a.cajas,a.unds,a.controlador])
+    ]), "Registro del Día");
+
+    XLSX.writeFile(wb, `Productividad_PickingLS_${new Date().toISOString().slice(0,10)}.xlsx`);
+  } catch(e) { alert("❌ Error: " + e.message); }
+}
+
+async function exportarProductividadPDF() {
+  try {
+    if (typeof window.jspdf === "undefined") await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js");
+    if (typeof window.jspdf.jsPDF.API.autoTable === "undefined") await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js");
+    const { jsPDF } = window.jspdf;
+    const HOY_KEY = "__hoy__";
+    const fechaLabel = (!fechaProductividad || fechaProductividad===HOY_KEY) ? "Hoy" : formatearFecha(fechaProductividad);
+    const doc = new jsPDF();
+    doc.setFontSize(16); doc.text("Picking Lima Sur — Productividad", 14, 16);
+    doc.setFontSize(10); doc.text(`${new Date().toLocaleString("es-PE")} · ${fechaLabel}`, 14, 23);
+
+    const porPicador = {};
+    registrosFiltradosProductividad.forEach(r => {
+      const n = r.picador||r.nombre||"—";
+      if (!porPicador[n]) porPicador[n]={kg:0,placas:new Set()};
+      porPicador[n].kg+=(r.kg_regular||0); porPicador[n].placas.add(r.placa);
+    });
+    const rankPicker = Object.entries(porPicador).sort((a,b)=>b[1].kg-a[1].kg);
+    doc.setFontSize(12); doc.text("Ranking de Picadores (Kg Regular)", 14, 32);
+    doc.autoTable({ startY:36, head:[["#","Picador","Kg","Placas"]], body:rankPicker.map(([n,v],i)=>[i+1,n,v.kg.toFixed(1),v.placas.size]), styles:{fontSize:8}, headStyles:{fillColor:[13,59,97]} });
+    doc.save(`Productividad_PickingLS_${new Date().toISOString().slice(0,10)}.pdf`);
+  } catch(e) { alert("❌ Error: " + e.message); }
+}
+
+// ── RENDER UI ─────────────────────────────────────────────────────
+function mostrarLoader() {
+  document.getElementById("app").innerHTML = `<div class="loading-screen"><div class="spinner"></div><div><div class="load-txt">Cargando datos del día...</div><div class="load-sub">Conectando con el servidor</div></div></div>`;
 }
 
 function mostrarError(msg) {
   document.getElementById("hStatus").className = "hstatus err";
   document.getElementById("hStatus").textContent = "Error";
-  document.getElementById("app").innerHTML = `
-    <div class="err-screen">
-      <div class="err-ico">📡</div>
-      <h3>No se pudieron cargar los datos</h3>
-      <p>Verifica que el archivo del día ya fue subido desde la PC del almacén.<br><br><small style="color:#b0bec5">${msg}</small></p>
-      <button class="retry-btn" onclick="cargarDatos()">🔄 Reintentar</button>
-    </div>`;
+  document.getElementById("app").innerHTML = `<div class="err-screen"><div class="err-ico">📡</div><h3>No se pudieron cargar los datos</h3><p>Verifica que el archivo del día ya fue subido.<br><br><small style="color:#b0bec5">${msg}</small></p><button class="asig-btn" onclick="cargarDatos()">🔄 Reintentar</button></div>`;
 }
 
-// ── CONTEXTO IA ──────────────────────────────────────────────────
 function buildCtx(meta) {
   const ctrlMap = {};
   allData.forEach(r => {
     if (!r.controlador) return;
-    if (!ctrlMap[r.controlador]) ctrlMap[r.controlador] = {placas: new Set(), cajas: 0, unds: 0};
-    ctrlMap[r.controlador].placas.add(r.placa);
-    ctrlMap[r.controlador].cajas += r.cajas;
-    ctrlMap[r.controlador].unds  += r.unds;
+    if (!ctrlMap[r.controlador]) ctrlMap[r.controlador] = {placas:new Set(),cajas:0,unds:0};
+    ctrlMap[r.controlador].placas.add(r.placa); ctrlMap[r.controlador].cajas+=r.cajas; ctrlMap[r.controlador].unds+=r.unds;
   });
-  const placas = [...new Set(allData.map(r => r.placa).filter(Boolean))];
-  const topPlacas = placas.map(p => {
-    const rows = allData.filter(r => r.placa === p);
-    return {p, cj: rows.reduce((s,r) => s+r.cajas,0), un: rows.reduce((s,r) => s+r.unds,0)};
-  }).sort((a,b) => b.cj - a.cj).slice(0,10);
-
-  ctx = `DATOS PICKING LIMA SUR - ${meta.fecha || "hoy"}
-Última actualización: ${meta.ultima_actualizacion || "—"}
-Archivo: ${meta.archivo || "—"}
+  ctx = `DATOS PICKING LIMA SUR - ${meta.fecha||"hoy"}
+Última actualización: ${meta.ultima_actualizacion||"—"}
 Total registros: ${allData.length}
 Total cajas: ${Math.round(allData.reduce((s,r)=>s+r.cajas,0))}
-Total unidades: ${Math.round(allData.reduce((s,r)=>s+r.unds,0))}
-Controladores: ${Object.entries(ctrlMap).map(([c,v])=>`${c}(${v.placas.size} placas,${Math.round(v.cajas)}cj)`).join(" | ")}
-Top placas por cajas: ${topPlacas.map(p=>`${p.p}:${Math.round(p.cj)}cj/${Math.round(p.un)}un`).join(", ")}
-Muestra primeros 40 registros: ${JSON.stringify(allData.slice(0,40).map(r=>({pl:r.placa,ct:r.controlador,mat:r.material,den:r.denominacion.substring(0,35),zona:r.status,cj:r.cajas,un:r.unds})))}`;
+Controladores: ${Object.entries(ctrlMap).map(([c,v])=>`${c}(${v.placas.size}pl,${Math.round(v.cajas)}cj)`).join(" | ")}
+Primeros 40 registros: ${JSON.stringify(allData.slice(0,40).map(r=>({pl:r.placa,ct:r.controlador,mat:r.material,den:(r.denominacion||"").substring(0,35),zona:r.status,cj:r.cajas,un:r.unds})))}`;
 }
 
-// ── RENDER UI ────────────────────────────────────────────────────
 function renderUI(meta) {
-  const ctrlList = [...new Set(allData.map(r => r.controlador).filter(Boolean))].sort();
+  const ctrlList = [...new Set(allData.map(r=>r.controlador).filter(Boolean))].sort();
   const ordenZona = {"A":1,"B":2,"C":3,"PE":4};
-  const zonaList = [...new Set(allData.map(r => r.status).filter(Boolean))]
-    .sort((a,b) => (ordenZona[a]||99) - (ordenZona[b]||99));
-  const familiaList = [...new Set(allData.map(r => r.familia).filter(Boolean))].sort();
-  const placas   = [...new Set(allData.map(r => r.placa).filter(Boolean))].length;
-  const totalCj  = Math.round(allData.reduce((s,r) => s+r.cajas, 0));
-  const totalUn  = Math.round(allData.reduce((s,r) => s+r.unds, 0));
-  const totalTon = allData.reduce((s,r) => s+(r.peso_kg||0), 0) / 1000;
-  const tonRegular = allData.filter(r => (r.estado||"").toUpperCase().includes("REGULAR")).reduce((s,r) => s+(r.peso_kg||0), 0) / 1000;
-  const tonDirecto = allData.filter(r => (r.estado||"").toUpperCase().includes("DIRECTO")).reduce((s,r) => s+(r.peso_kg||0), 0) / 1000;
+  const zonaList = [...new Set(allData.map(r=>r.status).filter(Boolean))].sort((a,b)=>(ordenZona[a]||99)-(ordenZona[b]||99));
+  const familiaList = [...new Set(allData.map(r=>r.familia).filter(Boolean))].sort();
+  const placas = [...new Set(allData.map(r=>r.placa).filter(Boolean))].length;
+  const totalCj = Math.round(allData.reduce((s,r)=>s+r.cajas,0));
+  const totalTon = allData.reduce((s,r)=>s+(r.peso_kg||0),0)/1000;
+  const tonReg = allData.filter(r=>(r.estado||"").toUpperCase().includes("REGULAR")).reduce((s,r)=>s+(r.peso_kg||0),0)/1000;
+  const tonDir = allData.filter(r=>(r.estado||"").toUpperCase().includes("DIRECTO")).reduce((s,r)=>s+(r.peso_kg||0),0)/1000;
 
-  let html = `
+  document.getElementById("app").innerHTML = `
     <div class="stats-row">
       <div class="stat"><div class="stat-n">${placas}</div><div class="stat-l">Placas</div></div>
       <div class="stat"><div class="stat-n">${ctrlList.length}</div><div class="stat-l">Controlad.</div></div>
@@ -868,8 +996,8 @@ function renderUI(meta) {
     </div>
     <div class="stats-row">
       <div class="stat"><div class="stat-n">${totalTon.toFixed(1)}</div><div class="stat-l">Ton. totales</div></div>
-      <div class="stat"><div class="stat-n">${tonRegular.toFixed(1)}</div><div class="stat-l">Ton. Regular</div></div>
-      <div class="stat"><div class="stat-n">${tonDirecto.toFixed(1)}</div><div class="stat-l">Ton. Directo</div></div>
+      <div class="stat"><div class="stat-n">${tonReg.toFixed(1)}</div><div class="stat-l">Ton. Regular</div></div>
+      <div class="stat"><div class="stat-n">${tonDir.toFixed(1)}</div><div class="stat-l">Ton. Directo</div></div>
     </div>
     <div class="search-wrap">
       <div class="search-box">
@@ -892,7 +1020,6 @@ function renderUI(meta) {
         ${familiaList.map(f=>`<option value="${f}">Familia ${f}</option>`).join("")}
       </select>
     </div>
-
     <div class="asig-panel">
       <div class="asig-panel-title">📝 Regístrate en una placa</div>
       <div class="asig-panel-row">
@@ -913,84 +1040,55 @@ function renderUI(meta) {
       </div>
       <div class="asig-msg" id="msgAsigPanel"></div>
     </div>
-
     <div class="registro-vivo" id="registroVivo"></div>
-
     <div class="cards" id="cards"></div>`;
 
-  document.getElementById("app").innerHTML = html;
   renderCards(allData);
 }
 
-function zonaLabel(z) {
-  const map = {"A":"Zona A","B":"Zona B","C":"Zona C","PE":"Zona PE"};
-  return map[z] || z;
-}
-
-function limpiar() {
-  const b = document.getElementById("busq");
-  if (b) { b.value = ""; filtrar(); }
-}
+function zonaLabel(z) { return {"A":"Zona A","B":"Zona B","C":"Zona C","PE":"Zona PE"}[z]||z; }
+function limpiar() { const b=document.getElementById("busq"); if(b){b.value="";filtrar();} }
 
 function filtrar() {
-  const q = (document.getElementById("busq")?.value || "").trim().toLowerCase();
-  const fCtrl = document.getElementById("selFiltroControlador")?.value || "todos";
-  const fZona = document.getElementById("selFiltroZona")?.value || "todas";
-  const fFamilia = document.getElementById("selFiltroFamilia")?.value || "todas";
-
+  const q = (document.getElementById("busq")?.value||"").trim().toLowerCase();
+  const fCtrl = document.getElementById("selFiltroControlador")?.value||"todos";
+  const fZona = document.getElementById("selFiltroZona")?.value||"todas";
+  const fFam = document.getElementById("selFiltroFamilia")?.value||"todas";
   let result = allData;
-  if (fCtrl !== "todos") result = result.filter(r => r.controlador === fCtrl);
-  if (fZona !== "todas") result = result.filter(r => r.status === fZona);
-  if (fFamilia !== "todas") result = result.filter(r => r.familia === fFamilia);
-  if (q) result = result.filter(r =>
-    (r.placa||"").toLowerCase().includes(q) ||
-    (r.controlador||"").toLowerCase().includes(q) ||
-    (r.denominacion||"").toLowerCase().includes(q) ||
-    String(r.material||"").toLowerCase().includes(q)
-  );
+  if (fCtrl!=="todos") result = result.filter(r=>r.controlador===fCtrl);
+  if (fZona!=="todas") result = result.filter(r=>r.status===fZona);
+  if (fFam!=="todas") result = result.filter(r=>r.familia===fFam);
+  if (q) result = result.filter(r=>(r.placa||"").toLowerCase().includes(q)||(r.controlador||"").toLowerCase().includes(q)||(r.denominacion||"").toLowerCase().includes(q)||String(r.material||"").toLowerCase().includes(q));
   renderCards(result);
 }
 
 function renderCards(data) {
   const container = document.getElementById("cards");
   if (!container) return;
-  if (!data.length) {
-    container.innerHTML = `<div class="no-results"><div class="ni">🔍</div><h3>Sin resultados</h3><p>Intenta con otra búsqueda</p></div>`;
-    return;
-  }
+  if (!data.length) { container.innerHTML=`<div class="no-results"><div class="ni">🔍</div><h3>Sin resultados</h3><p>Intenta con otra búsqueda</p></div>`; return; }
 
-  // Agrupar por material+denominacion
   const byMat = {};
   data.forEach(r => {
-    const key = (r.material || "SIN COD") + "||" + (r.denominacion || "SIN DESC");
-    if (!byMat[key]) byMat[key] = {material: r.material, denominacion: r.denominacion, items: [], totalCj: 0, totalUn: 0};
-    byMat[key].items.push(r);
-    byMat[key].totalCj += r.cajas;
-    byMat[key].totalUn += r.unds;
+    const key=(r.material||"SIN COD")+"||"+(r.denominacion||"SIN DESC");
+    if (!byMat[key]) byMat[key]={material:r.material,denominacion:r.denominacion,items:[],totalCj:0,totalUn:0};
+    byMat[key].items.push(r); byMat[key].totalCj+=r.cajas; byMat[key].totalUn+=r.unds;
   });
 
-  const placasUnicas = [...new Set(data.map(r => r.placa).filter(Boolean))].length;
-  const entries = Object.values(byMat).sort((a,b) => (a.material||"").localeCompare(b.material||""));
-  let html = `<div style="font-size:11px;font-weight:700;color:#90a4ae;text-transform:uppercase;letter-spacing:.4px;margin-bottom:8px">${data.length} registros · ${entries.length} materiales · ${placasUnicas} placas</div>`;
+  const placasU = [...new Set(data.map(r=>r.placa).filter(Boolean))].length;
+  const entries = Object.values(byMat).sort((a,b)=>(a.material||"").localeCompare(b.material||""));
+  let html = `<div style="font-size:11px;font-weight:700;color:#90a4ae;text-transform:uppercase;letter-spacing:.4px;margin-bottom:8px">${data.length} registros · ${entries.length} materiales · ${placasU} placas</div>`;
 
-  entries.forEach((g, idx) => {
-    const cj = Math.round(g.totalCj);
-    const un = Math.round(g.totalUn);
-    const bodyId = "body_" + idx;
-    const abierto = idx < 3;
-    const denom = g.denominacion || "—";
-    const mat   = g.material || "—";
-
-    // Ordenar placas por "Orden 2" ascendente (secuencia de picking)
-    const itemsOrdenados = [...g.items].sort((a,b) => (a.orden2_num ?? 999999) - (b.orden2_num ?? 999999));
-
-    html += `<div class="placa-card">
+  entries.forEach((g,idx) => {
+    const cj=Math.round(g.totalCj), un=Math.round(g.totalUn);
+    const bodyId="body_"+idx, abierto=idx<3;
+    const itemsOrdenados=[...g.items].sort((a,b)=>(a.orden2_num??999999)-(b.orden2_num??999999));
+    html+=`<div class="placa-card">
       <div class="pc-header" onclick="toggle('${bodyId}',this)">
         <div class="pc-left" style="flex:1;min-width:0">
           <div class="pc-ctrl-label">Código</div>
-          <div style="font-size:14px;font-weight:700;color:#0d3b61;font-family:monospace">${mat}</div>
-          <div style="font-size:12px;color:#37474f;margin-top:3px;line-height:1.3;word-break:break-word">${denom}</div>
-          <div class="pc-toggle" id="tog_${bodyId}" style="margin-top:5px">${abierto ? "▲ ocultar" : "▼ ver detalle ("+g.items.length+" envíos)"}</div>
+          <div style="font-size:14px;font-weight:700;color:#0d3b61;font-family:monospace">${g.material||"—"}</div>
+          <div style="font-size:12px;color:#37474f;margin-top:3px;line-height:1.3;word-break:break-word">${g.denominacion||"—"}</div>
+          <div class="pc-toggle" id="tog_${bodyId}" style="margin-top:5px">${abierto?"▲ ocultar":"▼ ver detalle ("+g.items.length+" envíos)"}</div>
         </div>
         <div class="pc-right" style="flex-shrink:0;text-align:right;padding-left:8px">
           <div class="pc-totals" style="flex-direction:column;align-items:flex-end;gap:4px">
@@ -1000,766 +1098,62 @@ function renderCards(data) {
         </div>
       </div>
       <div class="pc-body" id="${bodyId}" style="display:${abierto?'block':'none'}">
-        <div class="pc-table-wrap">
-        <table class="pc-table">
-          <tr>
-            <th style="text-align:center">N° Orden</th>
-            <th>Placa</th>
-            <th>Controlador</th>
-            <th>Picador</th>
-            <th style="text-align:center">Zona</th>
-            <th style="text-align:center">Cajas</th>
-            <th style="text-align:center">Unds</th>
-          </tr>`;
-
-    itemsOrdenados.forEach((r, ridx) => {
-      const yaAsignado = buscarAsignacion(r.placa, r.material);
-
-      html += `<tr>
-        <td style="text-align:center;font-weight:700;color:#546e7a">${r.orden2 || "—"}</td>
-        <td><span class="pc-placa" style="font-size:12px">${r.placa || "—"}</span></td>
-        <td><div style="font-weight:600;font-size:13px;color:#1c2e3d">${r.controlador || "—"}</div></td>
-        <td>${yaAsignado ? `<span class="picador-tag">✓ ${yaAsignado.picador}</span>` : '<span style="color:#cfd8dc">—</span>'}</td>
-        <td style="text-align:center">${r.status ? `<span class="zona-badge zona-${r.status}">${r.status}</span>` : "—"}</td>
+        <div class="pc-table-wrap"><table class="pc-table">
+          <tr><th style="text-align:center">N° Orden</th><th>Placa</th><th>Controlador</th><th>Picador</th><th style="text-align:center">Zona</th><th style="text-align:center">Cajas</th><th style="text-align:center">Unds</th></tr>`;
+    itemsOrdenados.forEach(r => {
+      const asig = buscarAsignacion(r.placa, r.material);
+      html+=`<tr>
+        <td style="text-align:center;font-weight:700;color:#546e7a">${r.orden2||"—"}</td>
+        <td><span class="pc-placa" style="font-size:12px">${r.placa||"—"}</span></td>
+        <td><div style="font-weight:600;font-size:13px;color:#1c2e3d">${r.controlador||"—"}</div></td>
+        <td>${asig?`<span class="picador-tag">✓ ${asig.picador}</span>`:'<span style="color:#cfd8dc">—</span>'}</td>
+        <td style="text-align:center">${r.status?`<span class="zona-badge zona-${r.status}">${r.status}</span>`:"—"}</td>
         <td style="text-align:center"><span class="n-cj">${Math.round(r.cajas)}</span></td>
         <td style="text-align:center"><span class="n-un">${Math.round(r.unds)}</span></td>
       </tr>`;
     });
-
-    html += `<tr class="pc-total-row">
-        <td colspan="5" style="font-size:11px">TOTAL MATERIAL</td>
-        <td style="text-align:center" class="n-cj">${cj}</td>
-        <td style="text-align:center" class="n-un">${un}</td>
-      </tr>
-        </table>
-        </div>
-      </div>
-    </div>`;
+    html+=`<tr class="pc-total-row"><td colspan="5" style="font-size:11px">TOTAL MATERIAL</td><td style="text-align:center" class="n-cj">${cj}</td><td style="text-align:center" class="n-un">${un}</td></tr>
+        </table></div></div></div>`;
   });
-
   container.innerHTML = html;
 }
 
-// ── DASHBOARD DE PRODUCTIVIDAD ───────────────────────────────────
-let fechaProductividad = null;
-let familiaProductividad = "todas";
-let zonaProductividad = "todas";
-let registrosFiltradosProductividad = []; // usado SOLO por el Ranking de Picadores
-
-function solicitarRecalculoKgRegular() {
-  const pin = prompt("Ingresa el PIN de supervisor para recalcular:");
-  if (pin === null) return;
-  if (pin !== PIN_SUPERVISOR) {
-    alert("PIN incorrecto.");
-    return;
-  }
-  const confirmar = confirm(`Esto recalculará el Kg de Picking Regular para las ${asignaciones.length} asignaciones de hoy, cruzando con los datos actuales del Excel. ¿Continuar?`);
-  if (!confirmar) return;
-  recalcularKgRegular();
+function toggle(id) {
+  const body=document.getElementById(id), tog=document.getElementById("tog_"+id);
+  if(!body) return;
+  const open=body.style.display!=="none";
+  body.style.display=open?"none":"block";
+  if(tog) tog.textContent=open?"▼ ver productos":"▲ ocultar";
 }
 
-async function recalcularKgRegular() {
-  const msgEl = document.getElementById("msgRecalculo");
-  if (msgEl) { msgEl.textContent = "Recalculando..."; msgEl.className = "asig-msg"; }
-
-  // Construir TODO el array recalculado en memoria primero, y enviarlo
-  // de una sola vez (operacion atomica). Hacerlo con muchos POST
-  // individuales causaba una condicion de carrera: GitHub no siempre
-  // confirma el commit a tiempo para que el siguiente POST lea el sha
-  // mas reciente, y se perdian actualizaciones silenciosamente.
-  const nuevasAsignaciones = asignaciones.map(a => {
-    const filasCoincidentes = allData.filter(r => r.placa === a.placa && r.familia === a.familia);
-    const filasRegular = filasCoincidentes.filter(r => (r.estado || "").trim() === "Picking_Regular");
-    const kgRegular = filasRegular.reduce((s, r) => s + (r.peso_kg || 0), 0);
-    const totalKg = filasCoincidentes.reduce((s, r) => s + (r.peso_kg || 0), 0);
-    const totalCajas = filasCoincidentes.reduce((s, r) => s + (r.cajas || 0), 0);
-    const totalUnds = filasCoincidentes.reduce((s, r) => s + (r.unds || 0), 0);
-    const ref = filasCoincidentes[0];
-
-    return {
-      placa: a.placa,
-      familia: a.familia,
-      zona: a.zona || (ref ? (ref.status || "") : ""),
-      material: ref ? String(ref.material) : (a.material || ""),
-      denominacion: ref ? ref.denominacion : (a.denominacion || ""),
-      controlador: a.controlador,
-      picador: a.picador,
-      kg: Math.round(totalKg * 100) / 100,
-      kg_regular: Math.round(kgRegular * 100) / 100,
-      cajas: Math.round(totalCajas),
-      unds: Math.round(totalUnds),
-      timestamp: a.timestamp || new Date().toISOString(),
-    };
-  });
-
-  try {
-    const res = await fetch(WORKER_URL + "/asignaciones", {
-      method: "PUT",
-      headers: {"Content-Type":"application/json"},
-      body: JSON.stringify({ asignaciones: nuevasAsignaciones })
-    });
-    const data = await res.json();
-    if (!res.ok) throw new Error(data.error || "Error al guardar");
-
-    if (msgEl) {
-      msgEl.textContent = `✅ Recalculado: ${nuevasAsignaciones.length} asignación(es) actualizadas correctamente.`;
-      msgEl.className = "asig-msg ok";
-    }
-  } catch (e) {
-    if (msgEl) {
-      msgEl.textContent = "❌ Error al recalcular: " + e.message;
-      msgEl.className = "asig-msg err";
-    }
-  }
-
-  await cargarAsignaciones();
-  renderRegistroVivo();
-  if (tabActual === "dashboard") renderDashboard();
-}
-
-function renderFiltroSoloFamiliaZona(registros, etiquetaDia) {
-  const familias = [...new Set(registros.map(r => r.familia || "—"))].sort();
-  const zonas = [...new Set(registros.map(r => r.zona || "—"))].sort();
-
-  let registrosFiltrados = registros;
-  if (familiaProductividad !== "todas") {
-    registrosFiltrados = registrosFiltrados.filter(r => (r.familia || "—") === familiaProductividad);
-  }
-  if (zonaProductividad !== "todas") {
-    registrosFiltrados = registrosFiltrados.filter(r => (r.zona || "—") === zonaProductividad);
-  }
-
-  registrosFiltradosProductividad = registrosFiltrados;
-  fechaProductividad = null; // no aplica selector de dia en este modo
-
-  const baseParaFamilias = zonaProductividad === "todas" ? registros : registros.filter(r => (r.zona || "—") === zonaProductividad);
-  const placasPorFamilia = {};
-  baseParaFamilias.forEach(r => {
-    const fam = r.familia || "—";
-    if (!placasPorFamilia[fam]) placasPorFamilia[fam] = new Set();
-    placasPorFamilia[fam].add(r.placa);
-  });
-
-  const totalPlacasFiltro = new Set(registrosFiltrados.map(r => r.placa)).size;
-  const totalKgFiltro = registrosFiltrados.reduce((s, r) => s + (r.kg || 0), 0);
-
-  let html = `
-    <div class="hp-section">
-      <div class="dash-title" style="margin-top:0">🔎 Filtro (afecta solo al Ranking de Picadores)</div>
-      <div class="hp-loading" style="padding:8px 0;text-align:left;font-size:12px">📭 Aún no hay días archivados. Mostrando datos de <b>${etiquetaDia}</b> mientras tanto.</div>
-      <div class="hp-select-row" style="margin-top:8px">
-        <label class="hp-label">🗂️ Familia</label>
-        <select onchange="cambiarFamiliaProductividad(this.value)">
-          <option value="todas" ${familiaProductividad==='todas'?'selected':''}>Todas las familias</option>
-          ${familias.map(f => `<option value="${f}" ${f===familiaProductividad?'selected':''}>Familia ${f}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row" style="margin-top:8px">
-        <label class="hp-label">📍 Zona</label>
-        <select onchange="cambiarZonaProductividad(this.value)">
-          <option value="todas" ${zonaProductividad==='todas'?'selected':''}>Todas las zonas</option>
-          ${zonas.map(z => `<option value="${z}" ${z===zonaProductividad?'selected':''}>Zona ${z}</option>`).join("")}
-        </select>
-      </div>
-
-      <div class="stats-row" style="margin-top:12px">
-        <div class="stat"><div class="stat-n">${totalPlacasFiltro}</div><div class="stat-l">Placas avanzadas</div></div>
-        <div class="stat"><div class="stat-n">${(totalKgFiltro/1000).toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
-      </div>
-
-      <div class="dash-title">📦 Placas avanzadas por familia (${etiquetaDia}${zonaProductividad!=='todas'?' · Zona '+zonaProductividad:''})</div>
-      <div class="dash-card">
-        ${Object.entries(placasPorFamilia).sort((a,b) => b[1].size - a[1].size).map(([fam, placas]) => `
-          <div class="dash-row">
-            <div class="dash-name">Familia ${fam}</div>
-            <div class="dash-val">${placas.size} placas</div>
-          </div>`).join("")}
-      </div>
-
-      <div class="hp-recalc-box">
-        <div class="hp-recalc-text">⚙️ Si el ranking de hoy aparece en 0 kg después de una actualización del sistema, usa este botón una sola vez para recalcular los registros existentes con el nuevo filtro (solo Picking Regular).</div>
-        <button class="asig-btn" onclick="solicitarRecalculoKgRegular()">Recalcular Kg de hoy</button>
-        <div class="asig-msg" id="msgRecalculo"></div>
-      </div>
-    </div>`;
-
-  return html;
-}
-
-function renderFiltroHistoricoProductividad() {
-  const dias = (historicoPicadoresData && historicoPicadoresData.dias) || {};
-  const fechas = Object.keys(dias).sort().reverse();
-
-  // Si no hay ningun dia archivado, solo mostramos datos en vivo
-  if (fechas.length === 0) {
-    return renderFiltroSoloFamiliaZona(asignaciones, "Hoy (en vivo)");
-  }
-
-  // "hoy" es siempre la primera opcion del selector, apuntando a datos en vivo
-  // Si el usuario tiene seleccionado "hoy" (o no tiene fecha seleccionada), usamos asignaciones
-  const HOY_KEY = "__hoy__";
-  if (!fechaProductividad) {
-    fechaProductividad = HOY_KEY; // por defecto mostrar hoy
-  }
-
-  // Si se selecciono "Hoy", usar asignaciones en vivo con los mismos filtros
-  if (fechaProductividad === HOY_KEY) {
-    let registrosFiltrados = asignaciones;
-    if (familiaProductividad !== "todas") {
-      registrosFiltrados = registrosFiltrados.filter(r => (r.familia || "—") === familiaProductividad);
-    }
-    if (zonaProductividad !== "todas") {
-      registrosFiltrados = registrosFiltrados.filter(r => (r.zona || "—") === zonaProductividad);
-    }
-    registrosFiltradosProductividad = registrosFiltrados;
-
-    const familias = [...new Set(asignaciones.map(r => r.familia || "—"))].sort();
-    const zonas = [...new Set(asignaciones.map(r => r.zona || "—"))].sort();
-    const baseParaFamilias = zonaProductividad === "todas" ? asignaciones : asignaciones.filter(r => (r.zona || "—") === zonaProductividad);
-    const placasPorFamilia = {};
-    baseParaFamilias.forEach(r => {
-      const fam = r.familia || "—";
-      if (!placasPorFamilia[fam]) placasPorFamilia[fam] = new Set();
-      placasPorFamilia[fam].add(r.placa);
-    });
-
-    const totalPlacas = new Set(registrosFiltrados.map(r => r.placa)).size;
-    const totalKg = registrosFiltrados.reduce((s, r) => s + (r.kg || 0), 0);
-    const etiquetaHoy = "Hoy (en vivo)";
-
-    return `
-      <div class="hp-section">
-        <div class="dash-title" style="margin-top:0">🔎 Filtro (afecta solo al Ranking de Picadores)</div>
-        <div class="hp-select-row">
-          <label class="hp-label">📅 Día</label>
-          <select onchange="cambiarFechaProductividad(this.value)">
-            <option value="${HOY_KEY}" selected>📅 Hoy (en vivo)</option>
-            ${fechas.map(f => `<option value="${f}">${formatearFecha(f)}</option>`).join("")}
-          </select>
-        </div>
-        <div class="hp-select-row" style="margin-top:8px">
-          <label class="hp-label">🗂️ Familia</label>
-          <select onchange="cambiarFamiliaProductividad(this.value)">
-            <option value="todas" ${familiaProductividad==='todas'?'selected':''}>Todas las familias</option>
-            ${familias.map(f => `<option value="${f}" ${f===familiaProductividad?'selected':''}>Familia ${f}</option>`).join("")}
-          </select>
-        </div>
-        <div class="hp-select-row" style="margin-top:8px">
-          <label class="hp-label">📍 Zona</label>
-          <select onchange="cambiarZonaProductividad(this.value)">
-            <option value="todas" ${zonaProductividad==='todas'?'selected':''}>Todas las zonas</option>
-            ${zonas.map(z => `<option value="${z}" ${z===zonaProductividad?'selected':''}>Zona ${z}</option>`).join("")}
-          </select>
-        </div>
-        <div class="stats-row" style="margin-top:12px">
-          <div class="stat"><div class="stat-n">${totalPlacas}</div><div class="stat-l">Placas avanzadas</div></div>
-          <div class="stat"><div class="stat-n">${(totalKg/1000).toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
-        </div>
-        <div class="dash-title">📦 Placas avanzadas por familia (${etiquetaHoy}${zonaProductividad!=='todas'?' · Zona '+zonaProductividad:''})</div>
-        <div class="dash-card">
-          ${Object.entries(placasPorFamilia).sort((a,b) => b[1].size - a[1].size).map(([fam, placas]) => `
-            <div class="dash-row">
-              <div class="dash-name">Familia ${fam}</div>
-              <div class="dash-val">${placas.size} placas</div>
-            </div>`).join("")}
-        </div>
-      </div>`;
-  }
-
-  // Fecha historica seleccionada
-  if (!dias[fechaProductividad]) {
-    fechaProductividad = fechas[0];
-  }
-
-  const registrosDia = dias[fechaProductividad] || [];
-  const familias = [...new Set(registrosDia.map(r => r.familia || "—"))].sort();
-  const zonas = [...new Set(registrosDia.map(r => r.zona || "—"))].sort();
-
-  let registrosFiltrados = registrosDia;
-  if (familiaProductividad !== "todas") {
-    registrosFiltrados = registrosFiltrados.filter(r => (r.familia || "—") === familiaProductividad);
-  }
-  if (zonaProductividad !== "todas") {
-    registrosFiltrados = registrosFiltrados.filter(r => (r.zona || "—") === zonaProductividad);
-  }
-
-  registrosFiltradosProductividad = registrosFiltrados;
-
-  const baseParaFamilias = zonaProductividad === "todas" ? registrosDia : registrosDia.filter(r => (r.zona || "—") === zonaProductividad);
-  const placasPorFamilia = {};
-  baseParaFamilias.forEach(r => {
-    const fam = r.familia || "—";
-    if (!placasPorFamilia[fam]) placasPorFamilia[fam] = new Set();
-    placasPorFamilia[fam].add(r.placa);
-  });
-
-  const totalPlacasFiltro = new Set(registrosFiltrados.map(r => r.placa)).size;
-  const totalKgFiltro = registrosFiltrados.reduce((s, r) => s + (r.kg || 0), 0);
-
-  let html = `
-    <div class="hp-section">
-      <div class="dash-title" style="margin-top:0">🔎 Filtro histórico (afecta solo al Ranking de Picadores)</div>
-      <div class="hp-select-row">
-        <label class="hp-label">📅 Día</label>
-        <select onchange="cambiarFechaProductividad(this.value)">
-          <option value="${HOY_KEY}">📅 Hoy (en vivo)</option>
-          ${fechas.map(f => `<option value="${f}" ${f===fechaProductividad?'selected':''}>${formatearFecha(f)}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row" style="margin-top:8px">
-        <label class="hp-label">🗂️ Familia</label>
-        <select onchange="cambiarFamiliaProductividad(this.value)">
-          <option value="todas" ${familiaProductividad==='todas'?'selected':''}>Todas las familias</option>
-          ${familias.map(f => `<option value="${f}" ${f===familiaProductividad?'selected':''}>Familia ${f}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row" style="margin-top:8px">
-        <label class="hp-label">📍 Zona</label>
-        <select onchange="cambiarZonaProductividad(this.value)">
-          <option value="todas" ${zonaProductividad==='todas'?'selected':''}>Todas las zonas</option>
-          ${zonas.map(z => `<option value="${z}" ${z===zonaProductividad?'selected':''}>Zona ${z}</option>`).join("")}
-        </select>
-      </div>
-
-      <div class="stats-row" style="margin-top:12px">
-        <div class="stat"><div class="stat-n">${totalPlacasFiltro}</div><div class="stat-l">Placas avanzadas</div></div>
-        <div class="stat"><div class="stat-n">${(totalKgFiltro/1000).toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
-      </div>
-
-      <div class="dash-title">📦 Placas avanzadas por familia (${formatearFecha(fechaProductividad)}${zonaProductividad!=='todas'?' · Zona '+zonaProductividad:''})</div>
-      <div class="dash-card">
-        ${Object.entries(placasPorFamilia).sort((a,b) => b[1].size - a[1].size).map(([fam, placas]) => `
-          <div class="dash-row">
-            <div class="dash-name">Familia ${fam}</div>
-            <div class="dash-val">${placas.size} placas</div>
-          </div>`).join("")}
-      </div>
-    </div>`;
-
-  return html;
-}
-
-function cambiarFechaProductividad(fecha) {
-  fechaProductividad = fecha;
-  renderDashboard();
-}
-
-function cambiarFamiliaProductividad(familia) {
-  familiaProductividad = familia;
-  renderDashboard();
-}
-
-function cambiarZonaProductividad(zona) {
-  zonaProductividad = zona;
-  renderDashboard();
-}
-
-function renderRankingPicadores() {
-  const porPicador = {};
-  registrosFiltradosProductividad.forEach(r => {
-    // Solo cuenta el peso de Picking_Regular (excluye Picking Directo).
-    // kg_regular puede no existir en registros guardados antes de este
-    // cambio; en ese caso se cuenta como 0 (no se puede reconstruir).
-    const kg = r.kg_regular || 0;
-    const cajas = r.cajas || 0;
-    const unds = r.unds || 0;
-    if (!porPicador[r.picador]) porPicador[r.picador] = {kg:0, cajas:0, unds:0, placas:new Set()};
-    porPicador[r.picador].kg += kg;
-    porPicador[r.picador].cajas += cajas;
-    porPicador[r.picador].unds += unds;
-    porPicador[r.picador].placas.add(r.placa);
-  });
-
-  const rankPicker = Object.entries(porPicador).sort((a,b) => b[1].kg - a[1].kg);
-  const maxKgPicker = Math.max(...rankPicker.map(([,v])=>v.kg), 1);
-  const fechaLabel = (!fechaProductividad || fechaProductividad === "__hoy__") ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
-
-  if (rankPicker.length === 0) {
-    return `<div class="dash-section">
-      <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores (Kg · solo Picking Regular) — ${fechaLabel}</div>
-      <div class="dash-card"><div class="dash-empty">No hay datos para este filtro.</div></div>
-    </div>`;
-  }
-
-  let html = `<div class="dash-section">
-    <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores (Kg · solo Picking Regular) — ${fechaLabel}</div>
-    <div class="dash-card">`;
-  rankPicker.forEach(([nombre, v], i) => {
-    const pct = Math.round((v.kg / maxKgPicker) * 100);
-    html += `<div class="dash-row">
-      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${nombre}</div>
-      <div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div>
-      <div class="dash-val">${v.kg.toFixed(1)} kg · ${v.placas.size} placas</div>
-    </div>`;
-  });
-  html += `</div></div>`;
-  return html;
-}
-
-function rankClass(i) { return i===0?"top1":i===1?"top2":i===2?"top3":""; }
-
-// ── EXPORTACION DE PRODUCTIVIDAD (Excel y PDF) ───────────────────
-function calcularAgregadosExport() {
-  // Ranking de Picadores: del historico filtrado (igual que renderRankingPicadores)
-  const porPicador = {};
-  registrosFiltradosProductividad.forEach(r => {
-    const kg = r.kg_regular || 0;
-    if (!porPicador[r.picador]) porPicador[r.picador] = {kg:0, cajas:0, unds:0, placas:new Set()};
-    porPicador[r.picador].kg += kg;
-    porPicador[r.picador].cajas += (r.cajas || 0);
-    porPicador[r.picador].unds += (r.unds || 0);
-    porPicador[r.picador].placas.add(r.placa);
-  });
-  const rankPicker = Object.entries(porPicador).sort((a,b) => b[1].kg - a[1].kg);
-
-  // Por Placa / Controlador / Familia: del dia en vivo (igual que renderDashboard)
-  const porPlaca = {}, porControlador = {}, porFamilia = {};
-  asignaciones.forEach(a => {
-    const kg = a.kg || 0, cajas = a.cajas || 0, unds = a.unds || 0;
-
-    if (!porPlaca[a.placa]) porPlaca[a.placa] = {kg:0, cajas:0, unds:0};
-    porPlaca[a.placa].kg += kg; porPlaca[a.placa].cajas += cajas; porPlaca[a.placa].unds += unds;
-
-    const ctrl = a.controlador || "—";
-    if (!porControlador[ctrl]) porControlador[ctrl] = {kg:0, cajas:0, unds:0};
-    porControlador[ctrl].kg += kg; porControlador[ctrl].cajas += cajas; porControlador[ctrl].unds += unds;
-
-    const fam = a.familia || "—";
-    if (!porFamilia[fam]) porFamilia[fam] = {kg:0, cajas:0, unds:0};
-    porFamilia[fam].kg += kg; porFamilia[fam].cajas += cajas; porFamilia[fam].unds += unds;
-  });
-
-  return {
-    rankPicker,
-    rankPlaca: Object.entries(porPlaca).sort((a,b) => b[1].kg - a[1].kg),
-    rankCtrl: Object.entries(porControlador).sort((a,b) => b[1].kg - a[1].kg),
-    rankFamilia: Object.entries(porFamilia).sort((a,b) => b[1].kg - a[1].kg),
-  };
-}
-
-function cargarScriptExport(src) {
-  return new Promise((resolve, reject) => {
-    const existing = document.querySelector(`script[src="${src}"]`);
-    if (existing) { resolve(); return; }
-    const script = document.createElement("script");
-    script.src = src;
-    script.onload = resolve;
-    script.onerror = reject;
-    document.head.appendChild(script);
-  });
-}
-
-async function exportarProductividadExcel() {
-  try {
-    if (typeof XLSX === "undefined") {
-      await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js");
-    }
-
-    const { rankPicker, rankPlaca, rankCtrl, rankFamilia } = calcularAgregadosExport();
-    const wb = XLSX.utils.book_new();
-    const fechaLabel = (!fechaProductividad || fechaProductividad === "__hoy__") ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
-
-    const hojaPicadores = [
-      ["Ranking de Picadores (Kg · solo Picking Regular)", `Día: ${fechaLabel}`],
-      [],
-      ["#", "Picador", "Kg", "Placas", "Cajas", "Unds"],
-      ...rankPicker.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), v.placas.size, Math.round(v.cajas), Math.round(v.unds)])
-    ];
-    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet(hojaPicadores), "Ranking Picadores");
-
-    const hojaPlaca = [
-      ["Por Placa (Kg) - Día en vivo"], [],
-      ["#", "Placa", "Kg", "Cajas", "Unds"],
-      ...rankPlaca.map(([placa, v], i) => [i+1, placa, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)])
-    ];
-    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet(hojaPlaca), "Por Placa");
-
-    const hojaCtrl = [
-      ["Por Controlador (Kg) - Día en vivo"], [],
-      ["#", "Controlador", "Kg", "Cajas", "Unds"],
-      ...rankCtrl.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)])
-    ];
-    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet(hojaCtrl), "Por Controlador");
-
-    const hojaFamilia = [
-      ["Por Familia (Kg) - Día en vivo"], [],
-      ["#", "Familia", "Kg", "Cajas", "Unds"],
-      ...rankFamilia.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)])
-    ];
-    XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet(hojaFamilia), "Por Familia");
-
-    const nombreArchivo = `Productividad_PickingLimaSur_${new Date().toISOString().slice(0,10)}.xlsx`;
-    XLSX.writeFile(wb, nombreArchivo);
-  } catch (e) {
-    alert("❌ Error al exportar a Excel: " + e.message);
-  }
-}
-
-async function exportarProductividadPDF() {
-  try {
-    if (typeof window.jspdf === "undefined") {
-      await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js");
-    }
-    if (typeof window.jspdf.jsPDF.API.autoTable === "undefined") {
-      await cargarScriptExport("https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js");
-    }
-
-    const { jsPDF } = window.jspdf;
-    const { rankPicker, rankPlaca, rankCtrl, rankFamilia } = calcularAgregadosExport();
-    const fechaLabel = (!fechaProductividad || fechaProductividad === "__hoy__") ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
-
-    const doc = new jsPDF();
-    doc.setFontSize(16);
-    doc.text("Picking Lima Sur - Productividad", 14, 16);
-    doc.setFontSize(10);
-    doc.text(`Generado: ${new Date().toLocaleString("es-PE")} · Día consultado: ${fechaLabel}`, 14, 23);
-
-    let y = 30;
-
-    doc.setFontSize(12);
-    doc.text("Ranking de Picadores (Kg · solo Picking Regular)", 14, y);
-    doc.autoTable({
-      startY: y + 4,
-      head: [["#", "Picador", "Kg", "Placas"]],
-      body: rankPicker.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), v.placas.size]),
-      styles: { fontSize: 8 },
-      headStyles: { fillColor: [13, 59, 97] },
-    });
-    y = doc.lastAutoTable.finalY + 12;
-
-    if (y > 250) { doc.addPage(); y = 20; }
-    doc.setFontSize(12);
-    doc.text("Por Placa (Kg)", 14, y);
-    doc.autoTable({
-      startY: y + 4,
-      head: [["#", "Placa", "Kg", "Cajas", "Unds"]],
-      body: rankPlaca.map(([placa, v], i) => [i+1, placa, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)]),
-      styles: { fontSize: 8 },
-      headStyles: { fillColor: [13, 59, 97] },
-    });
-    y = doc.lastAutoTable.finalY + 12;
-
-    if (y > 250) { doc.addPage(); y = 20; }
-    doc.setFontSize(12);
-    doc.text("Por Controlador (Kg)", 14, y);
-    doc.autoTable({
-      startY: y + 4,
-      head: [["#", "Controlador", "Kg", "Cajas", "Unds"]],
-      body: rankCtrl.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)]),
-      styles: { fontSize: 8 },
-      headStyles: { fillColor: [13, 59, 97] },
-    });
-    y = doc.lastAutoTable.finalY + 12;
-
-    if (y > 250) { doc.addPage(); y = 20; }
-    doc.setFontSize(12);
-    doc.text("Por Familia (Kg)", 14, y);
-    doc.autoTable({
-      startY: y + 4,
-      head: [["#", "Familia", "Kg", "Cajas", "Unds"]],
-      body: rankFamilia.map(([nombre, v], i) => [i+1, nombre, v.kg.toFixed(1), Math.round(v.cajas), Math.round(v.unds)]),
-      styles: { fontSize: 8 },
-      headStyles: { fillColor: [13, 59, 97] },
-    });
-
-    doc.save(`Productividad_PickingLimaSur_${new Date().toISOString().slice(0,10)}.pdf`);
-  } catch (e) {
-    alert("❌ Error al exportar a PDF: " + e.message);
-  }
-}
-
-function renderDashboard() {
-  const cont = document.getElementById("dashApp");
-
-  const htmlBotonesExport = `
-    <div class="export-bar">
-      <button class="export-btn" onclick="exportarProductividadExcel()">📊 Exportar Excel</button>
-      <button class="export-btn" onclick="exportarProductividadPDF()">📄 Exportar PDF</button>
-    </div>`;
-
-  // ── Selector de fecha + familia + zona con totales acumulados (historico) ──
-  let htmlFiltroHist = renderFiltroHistoricoProductividad();
-
-  // El Ranking de Picadores depende SOLO del historico filtrado, por lo
-  // que se muestra siempre que haya datos, incluso si hoy aun no hay
-  // asignaciones en vivo registradas.
-  let htmlRankingPicadores = renderRankingPicadores();
-
-  if (!asignaciones.length) {
-    cont.innerHTML = htmlBotonesExport + htmlFiltroHist + htmlRankingPicadores + `
-      <div class="dash-section">
-        <div class="dash-card">
-          <div class="dash-empty">📊 Aún no hay asignaciones registradas hoy.<br>Cuando los pickers se asignen a una placa desde "Consulta", aparecerán aquí las estadísticas del día.</div>
-        </div>
-      </div>`;
-    return;
-  }
-
-  // Totales por placa/controlador/familia: del DIA EN VIVO (sin cambios)
-  const porPlaca = {};
-  const porControlador = {};
-  const porFamilia = {};
-
-  asignaciones.forEach(a => {
-    const kg = a.kg || 0;
-    const cajas = a.cajas || 0;
-    const unds = a.unds || 0;
-
-    if (!porPlaca[a.placa]) porPlaca[a.placa] = {kg:0, cajas:0, unds:0, pickers:new Set()};
-    porPlaca[a.placa].kg += kg;
-    porPlaca[a.placa].cajas += cajas;
-    porPlaca[a.placa].unds += unds;
-    porPlaca[a.placa].pickers.add(a.picador);
-
-    const ctrl = a.controlador || "—";
-    if (!porControlador[ctrl]) porControlador[ctrl] = {kg:0, cajas:0, unds:0};
-    porControlador[ctrl].kg += kg;
-    porControlador[ctrl].cajas += cajas;
-    porControlador[ctrl].unds += unds;
-
-    const fam = a.familia || "—";
-    if (!porFamilia[fam]) porFamilia[fam] = {kg:0, cajas:0, unds:0, pickers:new Set()};
-    porFamilia[fam].kg += kg;
-    porFamilia[fam].cajas += cajas;
-    porFamilia[fam].unds += unds;
-    porFamilia[fam].pickers.add(a.picador);
-  });
-
-  const rankPlaca = Object.entries(porPlaca).sort((a,b) => b[1].kg - a[1].kg);
-  const rankCtrl = Object.entries(porControlador).sort((a,b) => b[1].kg - a[1].kg);
-  const rankFamilia = Object.entries(porFamilia).sort((a,b) => b[1].kg - a[1].kg);
-
-  const maxKgPlaca = Math.max(...rankPlaca.map(([,v])=>v.kg), 1);
-  const maxKgCtrl = Math.max(...rankCtrl.map(([,v])=>v.kg), 1);
-  const maxKgFamilia = Math.max(...rankFamilia.map(([,v])=>v.kg), 1);
-
-  const pickersHoy = new Set(asignaciones.map(a => a.picador)).size;
-
-  let html = `<div class="dash-section">`;
-
-  html += `<div class="stats-row" style="margin-bottom:4px">
-    <div class="stat"><div class="stat-n">${asignaciones.length}</div><div class="stat-l">Placas registradas hoy</div></div>
-    <div class="stat"><div class="stat-n">${pickersHoy}</div><div class="stat-l">Pickers activos hoy</div></div>
-    <div class="stat"><div class="stat-n">${asignaciones.reduce((s,a)=>s+(a.kg||0),0).toFixed(0)}</div><div class="stat-l">Kg totales hoy</div></div>
-  </div>`;
-
-  html += `<div class="dash-title">🚚 Por Placa (Kg)</div><div class="dash-card">`;
-  rankPlaca.slice(0, 15).forEach(([placa, v], i) => {
-    const pct = Math.round((v.kg / maxKgPlaca) * 100);
-    html += `<div class="dash-row">
-      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${placa}</div>
-      <div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div>
-      <div class="dash-val">${v.kg.toFixed(1)} kg</div>
-    </div>`;
-  });
-  html += `</div>`;
-
-  html += `<div class="dash-title">👷 Por Controlador (Kg)</div><div class="dash-card">`;
-  rankCtrl.forEach(([nombre, v], i) => {
-    const pct = Math.round((v.kg / maxKgCtrl) * 100);
-    html += `<div class="dash-row">
-      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${nombre}</div>
-      <div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div>
-      <div class="dash-val">${v.kg.toFixed(1)} kg</div>
-    </div>`;
-  });
-  html += `</div>`;
-
-  html += `<div class="dash-title">🗂️ Por Familia (Kg)</div><div class="dash-card">`;
-  rankFamilia.forEach(([nombre, v], i) => {
-    const pct = Math.round((v.kg / maxKgFamilia) * 100);
-    html += `<div class="dash-row">
-      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>Familia ${nombre}</div>
-      <div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div>
-      <div class="dash-val">${v.kg.toFixed(1)} kg</div>
-    </div>`;
-  });
-  html += `</div>`;
-
-  html += `</div>`;
-  cont.innerHTML = htmlBotonesExport + htmlFiltroHist + htmlRankingPicadores + html;
-}
-
-function toggle(id, headerEl) {
-  const body = document.getElementById(id);
-  const tog  = document.getElementById("tog_" + id);
-  if (!body) return;
-  const open = body.style.display !== "none";
-  body.style.display = open ? "none" : "block";
-  if (tog) tog.textContent = open ? "▼ ver productos" : "▲ ocultar";
-}
-
-// ── ASISTENTE IA ─────────────────────────────────────────────────
-document.getElementById("fab").addEventListener("click", () => {
-  document.getElementById("modalBg").classList.add("open");
-  document.getElementById("mInput").focus();
-});
-document.getElementById("mClose").addEventListener("click", () => {
-  document.getElementById("modalBg").classList.remove("open");
-});
-document.getElementById("modalBg").addEventListener("click", e => {
-  if (e.target === document.getElementById("modalBg"))
-    document.getElementById("modalBg").classList.remove("open");
-});
-document.getElementById("mInput").addEventListener("keydown", e => { if(e.key==="Enter") sendAI(); });
-
-function quickQ(q) { document.getElementById("mInput").value = q; sendAI(); }
-
-function addMsg(txt, role) {
-  const msgs = document.getElementById("msgs");
-  const div = document.createElement("div");
-  div.className = "msg msg-" + role;
-  div.textContent = txt;
-  msgs.appendChild(div);
-  msgs.scrollTop = msgs.scrollHeight;
-}
-
-function addTyping() {
-  const msgs = document.getElementById("msgs");
-  const div = document.createElement("div");
-  div.className = "msg msg-ai typing";
-  div.id = "typing";
-  div.innerHTML = `<div class="dot"></div><div class="dot"></div><div class="dot"></div>`;
-  msgs.appendChild(div);
-  msgs.scrollTop = msgs.scrollHeight;
-}
-
-async function sendAI() {
-  const inp = document.getElementById("mInput");
-  const q = inp.value.trim();
-  if (!q) return;
-  if (!ctx) { addMsg("⚠️ Los datos aún no han sido cargados. Espera un momento.", "ai"); return; }
-  inp.value = "";
-  document.getElementById("mSend").disabled = true;
-  addMsg(q, "user");
-  addTyping();
-
-  try {
-    const r = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: {"Content-Type":"application/json"},
-      body: JSON.stringify({
-        model: "claude-sonnet-4-6",
-        max_tokens: 800,
-        system: `Eres un asistente de almacén para picking en Lima Sur, Perú. Responde en español, de forma breve y clara. Usa los datos provistos. Si preguntan por una placa o controlador específico, busca en los datos. No inventes información.
-
-DATOS DEL DÍA:\n${ctx}`,
-        messages: [{role:"user", content: q}]
-      })
-    });
-    const d = await r.json();
+// ── ASISTENTE IA ──────────────────────────────────────────────────
+document.getElementById("fab").addEventListener("click",()=>{document.getElementById("modalBg").classList.add("open");document.getElementById("mInput").focus();});
+document.getElementById("mClose").addEventListener("click",()=>document.getElementById("modalBg").classList.remove("open"));
+document.getElementById("modalBg").addEventListener("click",e=>{if(e.target===document.getElementById("modalBg"))document.getElementById("modalBg").classList.remove("open");});
+document.getElementById("mInput").addEventListener("keydown",e=>{if(e.key==="Enter")sendAI();});
+
+function quickQ(q){document.getElementById("mInput").value=q;sendAI();}
+
+function addMsg(txt,role){const msgs=document.getElementById("msgs");const div=document.createElement("div");div.className="msg msg-"+role;div.textContent=txt;msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;}
+function addTyping(){const msgs=document.getElementById("msgs");const div=document.createElement("div");div.className="msg msg-ai typing";div.id="typing";div.innerHTML=`<div class="dot"></div><div class="dot"></div><div class="dot"></div>`;msgs.appendChild(div);msgs.scrollTop=msgs.scrollHeight;}
+
+async function sendAI(){
+  const inp=document.getElementById("mInput");const q=inp.value.trim();
+  if(!q)return;
+  if(!ctx){addMsg("⚠️ Los datos aún no han sido cargados.","ai");return;}
+  inp.value="";document.getElementById("mSend").disabled=true;
+  addMsg(q,"user");addTyping();
+  try{
+    const r=await fetch("https://api.anthropic.com/v1/messages",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({model:"claude-sonnet-4-6",max_tokens:800,system:`Eres un asistente de almacén para picking en Lima Sur, Perú. Responde en español, breve y claro. Usa los datos provistos.\n\nDATOS:\n${ctx}`,messages:[{role:"user",content:q}]})});
+    const d=await r.json();
     document.getElementById("typing")?.remove();
-    addMsg(d.content?.[0]?.text || "No pude procesar la consulta.", "ai");
-  } catch(e) {
-    document.getElementById("typing")?.remove();
-    addMsg("❌ Error de conexión con el asistente.", "ai");
-  }
-
-  document.getElementById("mSend").disabled = false;
-  document.getElementById("msgs").scrollTop = 99999;
+    addMsg(d.content?.[0]?.text||"No pude procesar la consulta.","ai");
+  }catch(e){document.getElementById("typing")?.remove();addMsg("❌ Error de conexión.","ai");}
+  document.getElementById("mSend").disabled=false;
+  document.getElementById("msgs").scrollTop=99999;
 }
 
-// ── INICIO ───────────────────────────────────────────────────────
+// ── INICIO ────────────────────────────────────────────────────────
 cargarDatos();
 </script>
 </body>
