@@ -673,5 +673,20 @@
     "unds": 182,
     "kg_regular": 136.95,
     "timestamp": "2026-07-04T07:21:14.970Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "B",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 804.17,
+    "n_orden": 0,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 52,
+    "unds": 239,
+    "kg_regular": 157.28,
+    "timestamp": "2026-07-04T07:21:57.421Z"
   }
 ]
