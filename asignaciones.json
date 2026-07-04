@@ -1783,5 +1783,20 @@
     "unds": 4,
     "kg_regular": 104.19,
     "timestamp": "2026-07-04T10:30:27.401Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 105.22,
+    "n_orden": 0,
+    "zona": "A",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 12,
+    "unds": 5,
+    "kg_regular": 105.22,
+    "timestamp": "2026-07-04T10:30:32.339Z"
   }
 ]
