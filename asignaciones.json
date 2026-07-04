@@ -793,5 +793,20 @@
     "unds": 205,
     "kg_regular": 155.49,
     "timestamp": "2026-07-04T07:31:43.823Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "F",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 143.8,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 23,
+    "unds": 253,
+    "kg_regular": 143.8,
+    "timestamp": "2026-07-04T07:37:03.471Z"
   }
 ]
