@@ -2128,5 +2128,20 @@
     "unds": 20,
     "kg_regular": 44.33,
     "timestamp": "2026-07-04T10:34:44.233Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 15.69,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 2,
+    "unds": 6,
+    "kg_regular": 15.69,
+    "timestamp": "2026-07-04T10:35:06.037Z"
   }
 ]
