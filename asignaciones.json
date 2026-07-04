@@ -2098,5 +2098,20 @@
     "unds": 13,
     "kg_regular": 11.65,
     "timestamp": "2026-07-04T10:34:31.680Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "B",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 361.66,
+    "n_orden": 0,
+    "zona": "D",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 27,
+    "unds": 93,
+    "kg_regular": 30.87,
+    "timestamp": "2026-07-04T10:34:35.796Z"
   }
 ]
