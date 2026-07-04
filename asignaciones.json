@@ -1903,5 +1903,20 @@
     "unds": 1,
     "kg_regular": 6.89,
     "timestamp": "2026-07-04T10:32:05.793Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "D",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 94.04,
+    "n_orden": 0,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 13,
+    "unds": 41,
+    "kg_regular": 94.04,
+    "timestamp": "2026-07-04T10:32:19.588Z"
   }
 ]
