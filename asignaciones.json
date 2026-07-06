@@ -4574,5 +4574,21 @@
     "unds": 87,
     "n_orden": 0,
     "timestamp": "2026-07-06T10:45:15.201Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "E",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 163.25,
+    "kg_regular": 20.13,
+    "zona": "B",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 25,
+    "unds": 40,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T10:45:20.041Z"
   }
 ]
