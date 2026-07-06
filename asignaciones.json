@@ -2014,5 +2014,21 @@
     "unds": 202,
     "n_orden": 0,
     "timestamp": "2026-07-06T08:10:05.901Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 516.62,
+    "kg_regular": 122.71,
+    "zona": "C",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 40,
+    "unds": 164,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T08:10:13.612Z"
   }
 ]
