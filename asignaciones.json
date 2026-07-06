@@ -4638,5 +4638,21 @@
     "unds": 59,
     "n_orden": 0,
     "timestamp": "2026-07-06T10:45:35.190Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "E",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 213.78,
+    "kg_regular": 87.44,
+    "zona": "D",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 29,
+    "unds": 54,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T10:45:43.250Z"
   }
 ]
