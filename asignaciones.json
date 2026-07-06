@@ -3230,5 +3230,21 @@
     "unds": 176,
     "n_orden": 0,
     "timestamp": "2026-07-06T09:38:46.973Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "A",
+    "picador": "BAZAN CORTEGANA NILO",
+    "nombre": "BAZAN CORTEGANA NILO",
+    "controlador": "0",
+    "kg": 1547.91,
+    "kg_regular": 196.67,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 140,
+    "unds": 221,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T09:38:52.726Z"
   }
 ]
