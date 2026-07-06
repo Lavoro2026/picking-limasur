@@ -926,5 +926,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-07-06T06:29:20.243Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "E",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 252.94,
+    "kg_regular": 58.5,
+    "zona": "B",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 34,
+    "unds": 101,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T06:31:10.134Z"
   }
 ]
