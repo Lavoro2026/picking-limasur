@@ -1,1 +1,38 @@
-{"dias":{}}
+{
+  "dias": {
+    "2026-07-05": {
+      "fecha": "05/07/2026",
+      "total_kg": 62126.81000000003,
+      "total_kg_regular": 45580.08000000002,
+      "total_cajas": 6104,
+      "total_pickers": 10,
+      "total_placas": 192,
+      "pickers": [
+        "ESCALANTE BALDEON LUIS JAYRO",
+        "SALVADOR MAMANI ANTONY JEAN PIERRE",
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "FRANCIA MENA, LIZANDRO",
+        "LEIVA ACOSTA FERNANDO ALFREDO",
+        "TORRES CALDAS OSCAR RUBEN",
+        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+        "ZAPATA OYARCE MARCO ANTONIO",
+        "VALLEJO QUISPE LUIS CARLOS",
+        "VENTURA LOZANO BRAYANS AMIR"
+      ],
+      "por_familia": {
+        "B": 13593.650000000001,
+        "F": 7566.779999999998,
+        "A": 14797.26,
+        "C": 22579.34,
+        "D": 3589.7799999999993
+      },
+      "por_almacen": {
+        "A": 11050.770000000002,
+        "B": 11101.58,
+        "C": 12875.369999999999,
+        "D": 23742.35,
+        "P": 3356.74
+      }
+    }
+  }
+}
