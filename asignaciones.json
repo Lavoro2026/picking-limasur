@@ -1438,5 +1438,21 @@
     "unds": 87,
     "n_orden": 0,
     "timestamp": "2026-07-06T07:25:09.240Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 148.38,
+    "kg_regular": 148.38,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 33,
+    "unds": 164,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T07:28:50.682Z"
   }
 ]
