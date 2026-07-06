@@ -2926,5 +2926,21 @@
     "unds": 186,
     "n_orden": 0,
     "timestamp": "2026-07-06T09:30:45.433Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 320.52,
+    "kg_regular": 320.52,
+    "zona": "D",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 45,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T09:33:12.561Z"
   }
 ]
