@@ -1934,5 +1934,21 @@
     "unds": 272,
     "n_orden": 0,
     "timestamp": "2026-07-06T08:09:09.549Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 728.63,
+    "kg_regular": 188.81,
+    "zona": "A",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 56,
+    "unds": 284,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T08:09:16.622Z"
   }
 ]
