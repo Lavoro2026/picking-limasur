@@ -3678,5 +3678,21 @@
     "unds": 189,
     "n_orden": 0,
     "timestamp": "2026-07-06T09:59:20.930Z"
+  },
+  {
+    "placa": "A6P899",
+    "familia": "B",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 254.83,
+    "kg_regular": 93.09,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 17,
+    "unds": 189,
+    "n_orden": 0,
+    "timestamp": "2026-07-06T09:59:32.939Z"
   }
 ]
