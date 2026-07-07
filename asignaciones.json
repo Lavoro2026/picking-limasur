@@ -2942,5 +2942,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-07T10:45:24.192Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 21.81,
+    "kg_regular": 21.81,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 3,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T10:45:31.810Z"
   }
 ]
