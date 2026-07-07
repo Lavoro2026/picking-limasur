@@ -782,5 +782,21 @@
     "unds": 296,
     "n_orden": 0,
     "timestamp": "2026-07-07T07:27:42.479Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "C",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 219.05,
+    "kg_regular": 219.05,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 17,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T07:27:45.604Z"
   }
 ]
