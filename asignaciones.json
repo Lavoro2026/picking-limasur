@@ -2398,5 +2398,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-07-07T10:29:06.928Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "E",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 190.79,
+    "kg_regular": 44.72,
+    "zona": "P",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 26,
+    "unds": 83,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T10:29:25.001Z"
   }
 ]
