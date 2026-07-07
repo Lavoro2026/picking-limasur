@@ -878,5 +878,21 @@
     "unds": 227,
     "n_orden": 0,
     "timestamp": "2026-07-07T07:28:03.463Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "E",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 113.64,
+    "kg_regular": 15.93,
+    "zona": "B",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 16,
+    "unds": 46,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T07:28:04.984Z"
   }
 ]
