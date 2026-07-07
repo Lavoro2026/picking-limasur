@@ -3710,5 +3710,21 @@
     "unds": 123,
     "n_orden": 0,
     "timestamp": "2026-07-07T11:48:22.841Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "B",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 62.17,
+    "kg_regular": 14.96,
+    "zona": "D",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 5,
+    "unds": 38,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T11:48:34.409Z"
   }
 ]
