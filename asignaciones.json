@@ -3166,5 +3166,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-07-07T11:09:41.334Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "D",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 68.16,
+    "kg_regular": 68.16,
+    "zona": "P",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 10,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T11:17:03.800Z"
   }
 ]
