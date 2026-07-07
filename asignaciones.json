@@ -1278,5 +1278,21 @@
     "unds": 64,
     "n_orden": 0,
     "timestamp": "2026-07-07T08:23:58.397Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 587.92,
+    "kg_regular": 587.92,
+    "zona": "D",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 50,
+    "unds": 239,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T08:24:06.366Z"
   }
 ]
