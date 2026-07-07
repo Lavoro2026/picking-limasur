@@ -62,5 +62,21 @@
     "unds": 284,
     "n_orden": 0,
     "timestamp": "2026-07-07T05:49:22.268Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "A",
+    "picador": "QUINDE RETETE DANILO NATAN",
+    "nombre": "QUINDE RETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 636.8,
+    "kg_regular": 636.8,
+    "zona": "A",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 52,
+    "unds": 325,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T05:54:23.833Z"
   }
 ]
