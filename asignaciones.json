@@ -1262,5 +1262,21 @@
     "unds": 202,
     "n_orden": 0,
     "timestamp": "2026-07-07T08:23:21.979Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "E",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 392.06,
+    "kg_regular": 54.51,
+    "zona": "C",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 64,
+    "unds": 64,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T08:23:58.397Z"
   }
 ]
