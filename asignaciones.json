@@ -3342,5 +3342,21 @@
     "unds": 208,
     "n_orden": 0,
     "timestamp": "2026-07-07T11:23:07.451Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 106.54,
+    "kg_regular": 106.54,
+    "zona": "P",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 16,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T11:23:59.768Z"
   }
 ]
