@@ -2302,5 +2302,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-07-07T10:04:59.486Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "C",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 309.69,
+    "kg_regular": 309.69,
+    "zona": "D",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 26,
+    "unds": 26,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T10:21:33.323Z"
   }
 ]
