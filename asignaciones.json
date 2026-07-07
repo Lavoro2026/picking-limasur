@@ -2238,5 +2238,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-07-07T10:01:37.929Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "F",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 80.59,
+    "kg_regular": 80.59,
+    "zona": "D",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 17,
+    "unds": 65,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T10:02:02.659Z"
   }
 ]
