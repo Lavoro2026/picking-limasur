@@ -4350,5 +4350,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-07-07T13:18:29.738Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "C",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 193.61,
+    "kg_regular": 193.61,
+    "zona": "D",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 20,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T13:18:37.690Z"
   }
 ]
