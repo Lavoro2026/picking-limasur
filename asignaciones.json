@@ -4446,5 +4446,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-07-07T13:19:28.720Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "C",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 605.23,
+    "kg_regular": 605.23,
+    "zona": "P",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 57,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T13:19:36.553Z"
   }
 ]
