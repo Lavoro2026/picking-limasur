@@ -4958,5 +4958,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-07-07T13:24:59.150Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 490.67,
+    "kg_regular": 490.67,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 95,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T13:25:08.861Z"
   }
 ]
