@@ -4942,5 +4942,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-07T13:24:52.591Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 75.32,
+    "kg_regular": 75.32,
+    "zona": "D",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 8,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T13:24:59.150Z"
   }
 ]
