@@ -3150,5 +3150,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-07-07T11:03:47.989Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 254.73,
+    "kg_regular": 254.73,
+    "zona": "P",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 34,
+    "unds": 31,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T11:09:41.334Z"
   }
 ]
