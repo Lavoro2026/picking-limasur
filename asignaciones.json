@@ -4190,5 +4190,21 @@
     "unds": 41,
     "n_orden": 0,
     "timestamp": "2026-07-07T13:14:31.442Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "E",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 51.27,
+    "kg_regular": 7.84,
+    "zona": "D",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 6,
+    "unds": 25,
+    "n_orden": 0,
+    "timestamp": "2026-07-07T13:14:46.358Z"
   }
 ]
