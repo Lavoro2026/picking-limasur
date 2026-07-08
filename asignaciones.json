@@ -3870,5 +3870,21 @@
     "unds": 172,
     "n_orden": 0,
     "timestamp": "2026-07-08T10:56:00.221Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "G",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 1.45,
+    "kg_regular": 1.45,
+    "zona": "D",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T10:56:02.623Z"
   }
 ]
