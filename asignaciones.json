@@ -1246,5 +1246,21 @@
     "unds": 95,
     "n_orden": 0,
     "timestamp": "2026-07-08T07:12:14.565Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 30.13,
+    "kg_regular": 30.13,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 3,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T07:13:12.695Z"
   }
 ]
