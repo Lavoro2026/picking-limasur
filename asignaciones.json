@@ -4110,5 +4110,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-07-08T11:30:21.458Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "G",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 6.77,
+    "kg_regular": 6.77,
+    "zona": "P",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T11:30:23.688Z"
   }
 ]
