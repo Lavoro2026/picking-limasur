@@ -2094,5 +2094,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-07-08T08:04:56.550Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 94.53,
+    "kg_regular": 94.53,
+    "zona": "C",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 13,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T08:09:26.165Z"
   }
 ]
