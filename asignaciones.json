@@ -2462,5 +2462,21 @@
     "unds": 190,
     "n_orden": 0,
     "timestamp": "2026-07-08T08:33:22.348Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "C",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 205.35,
+    "kg_regular": 205.35,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 17,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T08:35:06.470Z"
   }
 ]
