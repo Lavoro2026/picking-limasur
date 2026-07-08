@@ -4078,5 +4078,21 @@
     "unds": 144,
     "n_orden": 0,
     "timestamp": "2026-07-08T11:27:44.481Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 795.16,
+    "kg_regular": 55.17,
+    "zona": "D",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 68,
+    "unds": 108,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T11:30:03.999Z"
   }
 ]
