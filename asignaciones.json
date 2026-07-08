@@ -702,5 +702,21 @@
     "unds": 227,
     "n_orden": 0,
     "timestamp": "2026-07-08T06:43:20.176Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "F",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 87.8,
+    "kg_regular": 87.8,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 15,
+    "unds": 173,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T06:44:58.419Z"
   }
 ]
