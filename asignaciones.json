@@ -1966,5 +1966,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-07-08T07:58:56.217Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 40.46,
+    "kg_regular": 40.46,
+    "zona": "C",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T07:59:19.897Z"
   }
 ]
