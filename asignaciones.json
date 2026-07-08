@@ -1086,5 +1086,21 @@
     "unds": 166,
     "n_orden": 0,
     "timestamp": "2026-07-08T06:59:14.483Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 333.86,
+    "kg_regular": 333.86,
+    "zona": "B",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 95,
+    "unds": 28,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T06:59:18.226Z"
   }
 ]
