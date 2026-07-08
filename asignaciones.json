@@ -4046,5 +4046,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-07-08T11:24:35.050Z"
+  },
+  {
+    "placa": "AVA931",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 1013.77,
+    "kg_regular": 159.8,
+    "zona": "P",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 101,
+    "unds": 59,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T11:27:38.149Z"
   }
 ]
