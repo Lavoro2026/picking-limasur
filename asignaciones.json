@@ -1950,5 +1950,21 @@
     "unds": 232,
     "n_orden": 0,
     "timestamp": "2026-07-08T07:54:54.760Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 92.56,
+    "kg_regular": 92.56,
+    "zona": "C",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 11,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T07:58:56.217Z"
   }
 ]
