@@ -2430,5 +2430,21 @@
     "unds": 202,
     "n_orden": 0,
     "timestamp": "2026-07-08T08:29:34.152Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 2.54,
+    "kg_regular": 2.54,
+    "zona": "C",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 0,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T08:29:35.891Z"
   }
 ]
