@@ -206,5 +206,21 @@
     "unds": 134,
     "n_orden": 0,
     "timestamp": "2026-07-08T05:56:04.419Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "B",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 643.39,
+    "kg_regular": 206.61,
+    "zona": "A",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 44,
+    "unds": 258,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T05:56:07.677Z"
   }
 ]
