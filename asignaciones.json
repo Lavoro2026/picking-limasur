@@ -4062,5 +4062,21 @@
     "unds": 59,
     "n_orden": 0,
     "timestamp": "2026-07-08T11:27:38.149Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 787.26,
+    "kg_regular": 71,
+    "zona": "P",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 63,
+    "unds": 144,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T11:27:44.481Z"
   }
 ]
