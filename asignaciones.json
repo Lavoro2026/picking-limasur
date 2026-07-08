@@ -446,5 +446,21 @@
     "unds": 306,
     "n_orden": 0,
     "timestamp": "2026-07-08T06:11:56.945Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "A",
+    "picador": "QUINDE RETETE DANILO NATAN",
+    "nombre": "QUINDE RETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 754.92,
+    "kg_regular": 754.92,
+    "zona": "A",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 64,
+    "unds": 319,
+    "n_orden": 0,
+    "timestamp": "2026-07-08T06:13:37.797Z"
   }
 ]
