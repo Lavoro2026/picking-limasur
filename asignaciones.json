@@ -4926,5 +4926,21 @@
     "unds": 145,
     "n_orden": 0,
     "timestamp": "2026-07-09T11:08:52.868Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "C",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 484.64,
+    "kg_regular": 484.64,
+    "zona": "P",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 44,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T11:11:01.793Z"
   }
 ]
