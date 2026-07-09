@@ -1710,5 +1710,21 @@
     "unds": 343,
     "n_orden": 0,
     "timestamp": "2026-07-09T07:41:38.224Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 5.32,
+    "kg_regular": 5.32,
+    "zona": "B",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 1,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T07:41:39.785Z"
   }
 ]
