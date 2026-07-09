@@ -942,5 +942,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-07-09T06:43:50.242Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 135,
+    "kg_regular": 135,
+    "zona": "A",
+    "material": "1050247",
+    "denominacion": "ARUBA TE VERDE DURAZNO X400MLX12 PET",
+    "cajas": 20,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T06:45:49.312Z"
   }
 ]
