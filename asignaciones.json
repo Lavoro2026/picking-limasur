@@ -5150,5 +5150,21 @@
     "unds": 79,
     "n_orden": 0,
     "timestamp": "2026-07-09T12:28:00.291Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "E",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 101.41,
+    "kg_regular": 16.52,
+    "zona": "P",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 13,
+    "unds": 54,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T12:37:57.523Z"
   }
 ]
