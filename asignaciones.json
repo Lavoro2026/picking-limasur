@@ -3822,5 +3822,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-09T09:53:53.856Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 117.92,
+    "kg_regular": 117.92,
+    "zona": "D",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 17,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T09:54:20.435Z"
   }
 ]
