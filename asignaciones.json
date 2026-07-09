@@ -2190,5 +2190,21 @@
     "unds": 66,
     "n_orden": 0,
     "timestamp": "2026-07-09T08:14:32.364Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 187.2,
+    "kg_regular": 187.2,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 26,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T08:14:40.681Z"
   }
 ]
