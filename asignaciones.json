@@ -30,5 +30,21 @@
     "unds": 257,
     "n_orden": 0,
     "timestamp": "2026-07-09T05:37:35.421Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 8.59,
+    "kg_regular": 8.59,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 3,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T05:37:36.656Z"
   }
 ]
