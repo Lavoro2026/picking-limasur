@@ -4862,5 +4862,21 @@
     "unds": 188,
     "n_orden": 0,
     "timestamp": "2026-07-09T10:56:28.818Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 115.35,
+    "kg_regular": 115.35,
+    "zona": "P",
+    "material": "1003109",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X6UX500G",
+    "cajas": 14,
+    "unds": 175,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T10:58:38.013Z"
   }
 ]
