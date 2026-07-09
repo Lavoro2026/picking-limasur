@@ -1918,5 +1918,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-07-09T08:02:01.553Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 80.34,
+    "kg_regular": 80.34,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 13,
+    "unds": 141,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T08:04:31.276Z"
   }
 ]
