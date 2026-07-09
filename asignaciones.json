@@ -2142,5 +2142,21 @@
     "unds": 302,
     "n_orden": 0,
     "timestamp": "2026-07-09T08:11:42.624Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "B",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 806.07,
+    "kg_regular": 190.81,
+    "zona": "B",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 64,
+    "unds": 272,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T08:13:30.182Z"
   }
 ]
