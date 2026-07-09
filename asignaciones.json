@@ -3118,5 +3118,21 @@
     "unds": 54,
     "n_orden": 0,
     "timestamp": "2026-07-09T09:06:05.276Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 363.68,
+    "kg_regular": 363.68,
+    "zona": "D",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 48,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T09:06:23.297Z"
   }
 ]
