@@ -1374,5 +1374,21 @@
     "unds": 310,
     "n_orden": 0,
     "timestamp": "2026-07-09T07:19:27.649Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 163.24,
+    "kg_regular": 163.24,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 21,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T07:20:54.339Z"
   }
 ]
