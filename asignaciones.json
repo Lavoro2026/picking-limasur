@@ -3022,5 +3022,21 @@
     "unds": 184,
     "n_orden": 0,
     "timestamp": "2026-07-09T09:02:21.059Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 10.31,
+    "kg_regular": 10.31,
+    "zona": "C",
+    "material": "1003349",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 VAINIL",
+    "cajas": 3,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T09:02:23.139Z"
   }
 ]
