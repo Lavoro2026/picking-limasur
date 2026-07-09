@@ -3470,5 +3470,21 @@
     "unds": 377,
     "n_orden": 0,
     "timestamp": "2026-07-09T09:26:39.287Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "E",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 338.47,
+    "kg_regular": 35.46,
+    "zona": "D",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 51,
+    "unds": 60,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T09:28:20.574Z"
   }
 ]
