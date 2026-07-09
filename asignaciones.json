@@ -2830,5 +2830,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-07-09T08:52:58.823Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 17.57,
+    "kg_regular": 17.57,
+    "zona": "D",
+    "material": "539006",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML SIXPACK",
+    "cajas": 3,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T08:53:42.307Z"
   }
 ]
