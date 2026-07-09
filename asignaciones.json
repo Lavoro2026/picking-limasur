@@ -1950,5 +1950,21 @@
     "unds": 213,
     "n_orden": 0,
     "timestamp": "2026-07-09T08:04:39.689Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "E",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 359.42,
+    "kg_regular": 43.58,
+    "zona": "C",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 56,
+    "unds": 74,
+    "n_orden": 0,
+    "timestamp": "2026-07-09T08:04:44.627Z"
   }
 ]
