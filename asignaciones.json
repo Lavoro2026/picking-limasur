@@ -1102,5 +1102,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-07-10T06:56:57.153Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 1922.44,
+    "kg_regular": 372.5,
+    "zona": "B",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 212,
+    "unds": 49,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:57:08.523Z"
   }
 ]
