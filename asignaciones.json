@@ -302,5 +302,21 @@
     "unds": 234,
     "n_orden": 0,
     "timestamp": "2026-07-10T05:50:33.140Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "G",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T05:50:34.381Z"
   }
 ]
