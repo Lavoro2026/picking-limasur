@@ -1118,5 +1118,21 @@
     "unds": 49,
     "n_orden": 0,
     "timestamp": "2026-07-10T06:57:08.523Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "G",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 8.71,
+    "kg_regular": 8.71,
+    "zona": "B",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:57:09.829Z"
   }
 ]
