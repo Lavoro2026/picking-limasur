@@ -1534,5 +1534,21 @@
     "unds": 215,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:12:57.491Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "E",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 561.64,
+    "kg_regular": 60.24,
+    "zona": "B",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 90,
+    "unds": 57,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:13:28.490Z"
   }
 ]
