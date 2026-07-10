@@ -3006,5 +3006,21 @@
     "unds": 74,
     "n_orden": 0,
     "timestamp": "2026-07-10T09:04:11.589Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "E",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 116.48,
+    "kg_regular": 34.56,
+    "zona": "C",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 15,
+    "unds": 75,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T09:04:32.042Z"
   }
 ]
