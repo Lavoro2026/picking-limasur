@@ -1966,5 +1966,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:50:23.290Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "B",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 734.87,
+    "kg_regular": 389.58,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 54,
+    "unds": 372,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:50:51.387Z"
   }
 ]
