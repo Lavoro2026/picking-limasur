@@ -3870,5 +3870,21 @@
     "unds": 264,
     "n_orden": 0,
     "timestamp": "2026-07-10T10:15:31.554Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "E",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 264.31,
+    "kg_regular": 67.9,
+    "zona": "P",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 38,
+    "unds": 83,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T10:17:26.378Z"
   }
 ]
