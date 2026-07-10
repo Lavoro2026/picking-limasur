@@ -158,5 +158,21 @@
     "unds": 251,
     "n_orden": 0,
     "timestamp": "2026-07-10T05:44:31.459Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "G",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 7.26,
+    "kg_regular": 7.26,
+    "zona": "A",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 3,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T05:44:32.724Z"
   }
 ]
