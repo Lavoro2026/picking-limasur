@@ -1294,5 +1294,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:01:08.800Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 9.01,
+    "kg_regular": 9.01,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 1,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:04:13.577Z"
   }
 ]
