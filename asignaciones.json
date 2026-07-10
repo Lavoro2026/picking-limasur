@@ -1470,5 +1470,21 @@
     "unds": 237,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:12:15.172Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "B",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 223.84,
+    "kg_regular": 82.77,
+    "zona": "B",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 13,
+    "unds": 215,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:12:28.388Z"
   }
 ]
