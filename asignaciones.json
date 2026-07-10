@@ -1438,5 +1438,21 @@
     "unds": 82,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:11:51.146Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "E",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 171.9,
+    "kg_regular": 12.99,
+    "zona": "B",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 25,
+    "unds": 51,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:12:06.988Z"
   }
 ]
