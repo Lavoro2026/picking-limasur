@@ -894,5 +894,21 @@
     "unds": 54,
     "n_orden": 0,
     "timestamp": "2026-07-10T06:39:13.939Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 97.97,
+    "kg_regular": 97.97,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 6,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:42:28.549Z"
   }
 ]
