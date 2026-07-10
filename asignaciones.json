@@ -526,5 +526,21 @@
     "unds": 37,
     "n_orden": 0,
     "timestamp": "2026-07-10T05:59:40.546Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "B",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 226.65,
+    "kg_regular": 51.74,
+    "zona": "A",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 16,
+    "unds": 120,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:00:57.400Z"
   }
 ]
