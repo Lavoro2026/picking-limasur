@@ -1566,5 +1566,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:14:46.033Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "A",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 376.93,
+    "kg_regular": 376.93,
+    "zona": "B",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 32,
+    "unds": 137,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:15:38.398Z"
   }
 ]
