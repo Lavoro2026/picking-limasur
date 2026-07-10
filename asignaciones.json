@@ -750,5 +750,21 @@
     "unds": 297,
     "n_orden": 0,
     "timestamp": "2026-07-10T06:21:50.078Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 121.43,
+    "kg_regular": 121.43,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 16,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:22:29.498Z"
   }
 ]
