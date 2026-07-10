@@ -1950,5 +1950,21 @@
     "unds": 169,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:45:11.230Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 41.6,
+    "kg_regular": 41.6,
+    "zona": "D",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 5,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:50:23.290Z"
   }
 ]
