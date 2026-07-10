@@ -1614,5 +1614,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:15:55.725Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 63.9,
+    "kg_regular": 63.9,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 8,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:17:04.349Z"
   }
 ]
