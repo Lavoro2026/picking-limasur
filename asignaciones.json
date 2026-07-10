@@ -1902,5 +1902,21 @@
     "unds": 206,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:42:21.181Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "F",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 127.98,
+    "kg_regular": 127.98,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 23,
+    "unds": 198,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:43:49.702Z"
   }
 ]
