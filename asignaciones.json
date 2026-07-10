@@ -1630,5 +1630,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-07-10T07:17:04.349Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 110.67,
+    "kg_regular": 110.67,
+    "zona": "B",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 16,
+    "unds": 206,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T07:17:33.359Z"
   }
 ]
