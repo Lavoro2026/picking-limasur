@@ -830,5 +830,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-10T06:29:13.276Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "E",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 267.68,
+    "kg_regular": 36.72,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 41,
+    "unds": 63,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T06:33:51.774Z"
   }
 ]
