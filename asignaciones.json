@@ -3742,5 +3742,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-07-10T10:03:39.106Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "E",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 97.4,
+    "kg_regular": 21.4,
+    "zona": "D",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 13,
+    "unds": 47,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T10:04:26.733Z"
   }
 ]
