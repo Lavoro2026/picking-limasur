@@ -2590,5 +2590,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-07-10T08:29:00.731Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "TOVAR AREVALO, OSCAR ANDRES",
+    "nombre": "TOVAR AREVALO, OSCAR ANDRES",
+    "controlador": "0",
+    "kg": 59.82,
+    "kg_regular": 59.82,
+    "zona": "P",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 9,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-07-10T08:34:20.331Z"
   }
 ]
