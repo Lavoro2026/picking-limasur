@@ -2494,5 +2494,21 @@
     "unds": 260,
     "n_orden": 0,
     "timestamp": "2026-07-11T08:19:58.854Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 713.29,
+    "kg_regular": 280.53,
+    "zona": "C",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 59,
+    "unds": 283,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T08:23:38.932Z"
   }
 ]
