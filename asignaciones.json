@@ -526,5 +526,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-11T05:43:50.626Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 284.4,
+    "kg_regular": 117.59,
+    "zona": "A",
+    "material": "1002751",
+    "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U FROJO",
+    "cajas": 44,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T05:44:39.133Z"
   }
 ]
