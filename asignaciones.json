@@ -3198,5 +3198,21 @@
     "unds": 220,
     "n_orden": 0,
     "timestamp": "2026-07-11T09:50:16.797Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 103.63,
+    "kg_regular": 103.63,
+    "zona": "P",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 19,
+    "unds": 92,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T09:50:27.580Z"
   }
 ]
