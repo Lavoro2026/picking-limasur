@@ -1150,5 +1150,21 @@
     "unds": 253,
     "n_orden": 0,
     "timestamp": "2026-07-11T06:40:35.244Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 252.67,
+    "kg_regular": 0,
+    "zona": "C",
+    "material": "1050209",
+    "denominacion": "GLORIA YOG.PARC.DESC. X 946G FRESA",
+    "cajas": 42,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T06:41:12.874Z"
   }
 ]
