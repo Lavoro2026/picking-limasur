@@ -702,5 +702,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-07-11T05:58:30.490Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 209.04,
+    "kg_regular": 209.04,
+    "zona": "A",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 39,
+    "unds": 217,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T06:00:18.940Z"
   }
 ]
