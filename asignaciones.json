@@ -1438,5 +1438,21 @@
     "unds": 49,
     "n_orden": 0,
     "timestamp": "2026-07-11T06:57:52.987Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "E",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 349.32,
+    "kg_regular": 84.8,
+    "zona": "C",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 51,
+    "unds": 79,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T06:57:59.699Z"
   }
 ]
