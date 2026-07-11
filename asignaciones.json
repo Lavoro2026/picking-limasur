@@ -1678,5 +1678,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-07-11T07:14:54.298Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 252.29,
+    "kg_regular": 36.14,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 37,
+    "unds": 50,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T07:15:24.683Z"
   }
 ]
