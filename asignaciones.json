@@ -126,5 +126,21 @@
     "unds": 253,
     "n_orden": 0,
     "timestamp": "2026-07-11T05:19:45.482Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 158.68,
+    "kg_regular": 158.68,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 32,
+    "unds": 183,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T05:21:41.699Z"
   }
 ]
