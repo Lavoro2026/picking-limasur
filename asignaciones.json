@@ -1790,5 +1790,21 @@
     "unds": 265,
     "n_orden": 0,
     "timestamp": "2026-07-11T07:24:02.046Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "E",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 246.07,
+    "kg_regular": 19.06,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 38,
+    "unds": 39,
+    "n_orden": 0,
+    "timestamp": "2026-07-11T07:28:43.157Z"
   }
 ]
