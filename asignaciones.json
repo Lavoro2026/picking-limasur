@@ -3710,5 +3710,21 @@
     "unds": 345,
     "n_orden": 0,
     "timestamp": "2026-07-13T10:33:34.134Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "B",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 242.92,
+    "kg_regular": 48.08,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 15,
+    "unds": 163,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T10:33:35.812Z"
   }
 ]
