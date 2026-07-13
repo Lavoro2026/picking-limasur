@@ -3918,5 +3918,21 @@
     "unds": 137,
     "n_orden": 0,
     "timestamp": "2026-07-13T11:18:06.086Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "G",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 2.14,
+    "kg_regular": 2.14,
+    "zona": "D",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T11:18:08.214Z"
   }
 ]
