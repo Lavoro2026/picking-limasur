@@ -3790,5 +3790,21 @@
     "unds": 37,
     "n_orden": 0,
     "timestamp": "2026-07-13T10:46:38.680Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "E",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 164.93,
+    "kg_regular": 34.64,
+    "zona": "P",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 23,
+    "unds": 79,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T10:52:58.434Z"
   }
 ]
