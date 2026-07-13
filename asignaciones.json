@@ -1006,5 +1006,21 @@
     "unds": 162,
     "n_orden": 0,
     "timestamp": "2026-07-13T07:13:52.127Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "E",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 336.18,
+    "kg_regular": 27.25,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 53,
+    "unds": 44,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T07:17:12.155Z"
   }
 ]
