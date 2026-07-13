@@ -1710,5 +1710,21 @@
     "unds": 216,
     "n_orden": 0,
     "timestamp": "2026-07-13T08:07:20.394Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 1.09,
+    "kg_regular": 1.09,
+    "zona": "B",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T08:07:22.360Z"
   }
 ]
