@@ -3838,5 +3838,21 @@
     "unds": 220,
     "n_orden": 0,
     "timestamp": "2026-07-13T11:09:17.235Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "G",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 1.03,
+    "kg_regular": 1.03,
+    "zona": "P",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T11:09:23.884Z"
   }
 ]
