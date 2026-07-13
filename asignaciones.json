@@ -2254,5 +2254,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-07-13T08:36:34.143Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "C",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 304.52,
+    "kg_regular": 304.52,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 24,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T08:37:34.893Z"
   }
 ]
