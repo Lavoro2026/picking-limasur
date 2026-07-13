@@ -318,5 +318,21 @@
     "unds": 249,
     "n_orden": 0,
     "timestamp": "2026-07-13T06:12:30.781Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "E",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 226.9,
+    "kg_regular": 27.53,
+    "zona": "A",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 34,
+    "unds": 47,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T06:12:35.737Z"
   }
 ]
