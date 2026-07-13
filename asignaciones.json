@@ -1550,5 +1550,21 @@
     "unds": 170,
     "n_orden": 0,
     "timestamp": "2026-07-13T07:52:36.919Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "E",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 218.05,
+    "kg_regular": 17.69,
+    "zona": "C",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 33,
+    "unds": 36,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T07:52:58.669Z"
   }
 ]
