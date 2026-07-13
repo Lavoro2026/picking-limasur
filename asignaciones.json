@@ -2942,5 +2942,21 @@
     "unds": 144,
     "n_orden": 0,
     "timestamp": "2026-07-13T09:36:46.312Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 3.56,
+    "kg_regular": 3.56,
+    "zona": "C",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T09:36:48.175Z"
   }
 ]
