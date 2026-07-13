@@ -350,5 +350,21 @@
     "unds": 46,
     "n_orden": 0,
     "timestamp": "2026-07-13T06:14:02.547Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "E",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 223.76,
+    "kg_regular": 26.36,
+    "zona": "A",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 34,
+    "unds": 41,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T06:16:14.299Z"
   }
 ]
