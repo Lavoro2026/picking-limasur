@@ -254,5 +254,21 @@
     "unds": 225,
     "n_orden": 0,
     "timestamp": "2026-07-13T06:08:12.479Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 0.69,
+    "kg_regular": 0.69,
+    "zona": "A",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-13T06:08:13.944Z"
   }
 ]
