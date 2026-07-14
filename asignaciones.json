@@ -3022,5 +3022,21 @@
     "unds": 109,
     "n_orden": 0,
     "timestamp": "2026-07-14T08:39:39.584Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 706.8,
+    "kg_regular": 706.8,
+    "zona": "C",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 50,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T08:39:47.834Z"
   }
 ]
