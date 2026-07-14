@@ -3294,5 +3294,21 @@
     "unds": 206,
     "n_orden": 0,
     "timestamp": "2026-07-14T09:02:43.151Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "D",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T09:02:45.104Z"
   }
 ]
