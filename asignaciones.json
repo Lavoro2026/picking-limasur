@@ -3006,5 +3006,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-07-14T08:39:27.486Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "F",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 56.93,
+    "kg_regular": 56.93,
+    "zona": "D",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 12,
+    "unds": 109,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T08:39:39.584Z"
   }
 ]
