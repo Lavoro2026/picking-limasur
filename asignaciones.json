@@ -3902,5 +3902,21 @@
     "unds": 164,
     "n_orden": 0,
     "timestamp": "2026-07-14T09:47:01.514Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "G",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 2.14,
+    "kg_regular": 2.14,
+    "zona": "P",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T09:47:03.336Z"
   }
 ]
