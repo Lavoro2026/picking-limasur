@@ -382,5 +382,21 @@
     "unds": 182,
     "n_orden": 0,
     "timestamp": "2026-07-14T05:50:03.887Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T05:50:05.137Z"
   }
 ]
