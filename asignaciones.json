@@ -2494,5 +2494,21 @@
     "unds": 56,
     "n_orden": 0,
     "timestamp": "2026-07-14T08:02:00.825Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 99.52,
+    "kg_regular": 99.52,
+    "zona": "D",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 16,
+    "unds": 114,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T08:02:04.195Z"
   }
 ]
