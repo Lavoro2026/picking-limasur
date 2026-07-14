@@ -1486,5 +1486,21 @@
     "unds": 203,
     "n_orden": 0,
     "timestamp": "2026-07-14T06:59:55.017Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 215.99,
+    "kg_regular": 61.04,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 31,
+    "unds": 66,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T07:00:55.696Z"
   }
 ]
