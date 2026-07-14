@@ -1854,5 +1854,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-07-14T07:24:42.655Z"
+  },
+  {
+    "placa": "A6P899",
+    "familia": "F",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 144.97,
+    "kg_regular": 144.97,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 26,
+    "unds": 245,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T07:26:23.844Z"
   }
 ]
