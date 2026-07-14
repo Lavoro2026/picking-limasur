@@ -2782,5 +2782,21 @@
     "unds": 282,
     "n_orden": 0,
     "timestamp": "2026-07-14T08:23:10.397Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 0.72,
+    "kg_regular": 0.72,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T08:23:12.586Z"
   }
 ]
