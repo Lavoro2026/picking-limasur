@@ -2398,5 +2398,21 @@
     "unds": 376,
     "n_orden": 0,
     "timestamp": "2026-07-14T07:59:40.864Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 760.64,
+    "kg_regular": 64.72,
+    "zona": "C",
+    "material": "1040085",
+    "denominacion": "GLORIA BEB NARANJ 1.5L TTS CJAX8U",
+    "cajas": 66,
+    "unds": 38,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T08:00:30.891Z"
   }
 ]
