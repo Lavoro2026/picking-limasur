@@ -686,5 +686,21 @@
     "unds": 311,
     "n_orden": 0,
     "timestamp": "2026-07-14T06:15:55.759Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 146.43,
+    "kg_regular": 41.81,
+    "zona": "A",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 19,
+    "unds": 72,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T06:15:58.491Z"
   }
 ]
