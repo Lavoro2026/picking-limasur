@@ -2142,5 +2142,21 @@
     "unds": 224,
     "n_orden": 0,
     "timestamp": "2026-07-14T07:48:28.902Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "G",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 35.24,
+    "kg_regular": 35.24,
+    "zona": "D",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 14,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-07-14T07:48:30.497Z"
   }
 ]
