@@ -4030,5 +4030,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-07-15T10:13:49.040Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "E",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 155.44,
+    "kg_regular": 31.08,
+    "zona": "P",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 22,
+    "unds": 61,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T10:14:29.976Z"
   }
 ]
