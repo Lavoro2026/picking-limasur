@@ -2526,5 +2526,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-07-15T08:10:59.814Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 130.92,
+    "kg_regular": 130.92,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 11,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T08:11:05.535Z"
   }
 ]
