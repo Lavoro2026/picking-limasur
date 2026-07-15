@@ -4062,5 +4062,21 @@
     "unds": 173,
     "n_orden": 0,
     "timestamp": "2026-07-15T10:15:35.736Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "E",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 180.12,
+    "kg_regular": 27.13,
+    "zona": "P",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 28,
+    "unds": 45,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T10:15:44.471Z"
   }
 ]
