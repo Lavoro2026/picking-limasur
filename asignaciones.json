@@ -1326,5 +1326,21 @@
     "unds": 316,
     "n_orden": 0,
     "timestamp": "2026-07-15T06:49:38.287Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 184.09,
+    "kg_regular": 184.09,
+    "zona": "C",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 29,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T06:51:28.790Z"
   }
 ]
