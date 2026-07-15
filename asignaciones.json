@@ -3086,5 +3086,21 @@
     "unds": 25,
     "n_orden": 0,
     "timestamp": "2026-07-15T08:45:42.556Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "E",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 302.3,
+    "kg_regular": 50.61,
+    "zona": "C",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 45,
+    "unds": 66,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T08:46:50.193Z"
   }
 ]
