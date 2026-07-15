@@ -910,5 +910,21 @@
     "unds": 92,
     "n_orden": 0,
     "timestamp": "2026-07-15T06:24:53.582Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "A",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 1123.75,
+    "kg_regular": 1123.75,
+    "zona": "B",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 104,
+    "unds": 125,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T06:25:08.353Z"
   }
 ]
