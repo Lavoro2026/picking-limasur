@@ -3998,5 +3998,21 @@
     "unds": 224,
     "n_orden": 0,
     "timestamp": "2026-07-15T10:12:06.626Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 2.07,
+    "kg_regular": 2.07,
+    "zona": "P",
+    "material": "1003345",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 VAINIL",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T10:12:08.328Z"
   }
 ]
