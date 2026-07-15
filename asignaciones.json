@@ -926,5 +926,21 @@
     "unds": 125,
     "n_orden": 0,
     "timestamp": "2026-07-15T06:25:08.353Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "F",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 85.69,
+    "kg_regular": 85.69,
+    "zona": "B",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 13,
+    "unds": 235,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T06:25:51.985Z"
   }
 ]
