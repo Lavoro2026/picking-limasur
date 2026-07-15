@@ -94,5 +94,21 @@
     "unds": 304,
     "n_orden": 0,
     "timestamp": "2026-07-15T05:05:22.851Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "A",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 357.04,
+    "kg_regular": 357.04,
+    "zona": "A",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 25,
+    "unds": 328,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T05:06:17.115Z"
   }
 ]
