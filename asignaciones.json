@@ -542,5 +542,21 @@
     "unds": 51,
     "n_orden": 0,
     "timestamp": "2026-07-15T05:46:58.103Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 19.63,
+    "kg_regular": 19.63,
+    "zona": "A",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 2,
+    "unds": 50,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T05:50:41.802Z"
   }
 ]
