@@ -2078,5 +2078,21 @@
     "unds": 160,
     "n_orden": 0,
     "timestamp": "2026-07-15T07:38:02.489Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "F",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 185.94,
+    "kg_regular": 185.94,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 37,
+    "unds": 192,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T07:40:37.988Z"
   }
 ]
