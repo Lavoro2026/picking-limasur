@@ -1518,5 +1518,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-07-15T07:05:53.059Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "A",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 429.04,
+    "kg_regular": 429.04,
+    "zona": "C",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 35,
+    "unds": 211,
+    "n_orden": 0,
+    "timestamp": "2026-07-15T07:06:05.443Z"
   }
 ]
