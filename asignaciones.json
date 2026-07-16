@@ -1054,5 +1054,21 @@
     "unds": 268,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:48:37.243Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "D",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 3.79,
+    "kg_regular": 3.79,
+    "zona": "B",
+    "material": "1005241",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 600ML PQTX6UND",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:50:53.279Z"
   }
 ]
