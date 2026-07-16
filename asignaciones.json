@@ -766,5 +766,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:20:14.293Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 46.39,
+    "kg_regular": 46.39,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 8,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:21:13.654Z"
   }
 ]
