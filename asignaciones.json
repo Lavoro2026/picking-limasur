@@ -1070,5 +1070,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:50:53.279Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 74.1,
+    "kg_regular": 74.1,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:52:52.903Z"
   }
 ]
