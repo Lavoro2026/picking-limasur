@@ -2174,5 +2174,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-07-16T07:47:20.197Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 35.03,
+    "kg_regular": 35.03,
+    "zona": "C",
+    "material": "1050249",
+    "denominacion": "ARUBA REFR. BLUE PUNCH 400MLX12U",
+    "cajas": 5,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T07:47:28.809Z"
   }
 ]
