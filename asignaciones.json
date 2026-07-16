@@ -2286,5 +2286,21 @@
     "unds": 233,
     "n_orden": 0,
     "timestamp": "2026-07-16T07:57:40.017Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 0.35,
+    "kg_regular": 0.35,
+    "zona": "C",
+    "material": "1003345",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 VAINIL",
+    "cajas": 0,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T07:57:41.703Z"
   }
 ]
