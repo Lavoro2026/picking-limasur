@@ -1214,5 +1214,21 @@
     "unds": 255,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:59:42.310Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 184.55,
+    "kg_regular": 184.55,
+    "zona": "B",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 27,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T07:00:02.055Z"
   }
 ]
