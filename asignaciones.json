@@ -750,5 +750,21 @@
     "unds": 55,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:19:34.456Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 7.58,
+    "kg_regular": 7.58,
+    "zona": "A",
+    "material": "1005241",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 600ML PQTX6UND",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:20:14.293Z"
   }
 ]
