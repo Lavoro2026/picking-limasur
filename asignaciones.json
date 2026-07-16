@@ -1134,5 +1134,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:53:34.756Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "A",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 984.59,
+    "kg_regular": 984.59,
+    "zona": "B",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 89,
+    "unds": 154,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:53:59.633Z"
   }
 ]
