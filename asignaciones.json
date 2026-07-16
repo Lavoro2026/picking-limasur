@@ -2350,5 +2350,21 @@
     "unds": 62,
     "n_orden": 0,
     "timestamp": "2026-07-16T08:08:08.823Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "B",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 593.4,
+    "kg_regular": 87.08,
+    "zona": "C",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 44,
+    "unds": 248,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T08:08:14.095Z"
   }
 ]
