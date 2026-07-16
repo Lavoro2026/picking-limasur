@@ -2094,5 +2094,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-07-16T07:46:11.342Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 1044.42,
+    "kg_regular": 56.32,
+    "zona": "B",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 93,
+    "unds": 104,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T07:46:29.501Z"
   }
 ]
