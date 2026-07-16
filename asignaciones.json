@@ -462,5 +462,21 @@
     "unds": 258,
     "n_orden": 0,
     "timestamp": "2026-07-16T05:53:26.954Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 1.09,
+    "kg_regular": 1.09,
+    "zona": "A",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T05:53:28.371Z"
   }
 ]
