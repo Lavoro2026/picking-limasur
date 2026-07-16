@@ -3806,5 +3806,21 @@
     "unds": 231,
     "n_orden": 0,
     "timestamp": "2026-07-16T10:00:24.155Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "E",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 148.87,
+    "kg_regular": 32.4,
+    "zona": "P",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 23,
+    "unds": 37,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T10:08:33.889Z"
   }
 ]
