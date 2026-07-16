@@ -958,5 +958,21 @@
     "unds": 338,
     "n_orden": 0,
     "timestamp": "2026-07-16T06:44:38.700Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "D",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 56.57,
+    "kg_regular": 56.57,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 5,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-16T06:46:28.159Z"
   }
 ]
