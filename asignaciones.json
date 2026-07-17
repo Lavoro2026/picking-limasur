@@ -1982,5 +1982,21 @@
     "unds": 209,
     "n_orden": 0,
     "timestamp": "2026-07-17T07:50:22.049Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 225.9,
+    "kg_regular": 225.9,
+    "zona": "C",
+    "material": "3233",
+    "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
+    "cajas": 36,
+    "unds": 237,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T07:50:29.490Z"
   }
 ]
