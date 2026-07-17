@@ -2126,5 +2126,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:04:44.985Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 154.35,
+    "kg_regular": 154.35,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 22,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T08:05:25.023Z"
   }
 ]
