@@ -2814,5 +2814,21 @@
     "unds": 245,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:38:46.063Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 6.14,
+    "kg_regular": 6.14,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T08:38:47.626Z"
   }
 ]
