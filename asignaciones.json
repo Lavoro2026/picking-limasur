@@ -1822,5 +1822,21 @@
     "unds": 155,
     "n_orden": 0,
     "timestamp": "2026-07-17T07:31:49.800Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 90,
+    "kg_regular": 90,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 16,
+    "unds": 109,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T07:34:11.242Z"
   }
 ]
