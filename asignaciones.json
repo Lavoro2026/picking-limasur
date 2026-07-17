@@ -2654,5 +2654,21 @@
     "unds": 212,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:30:40.632Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 555.36,
+    "kg_regular": 164.79,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 41,
+    "unds": 325,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T08:30:48.697Z"
   }
 ]
