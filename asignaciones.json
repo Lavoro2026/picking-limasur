@@ -1326,5 +1326,21 @@
     "unds": 237,
     "n_orden": 0,
     "timestamp": "2026-07-17T06:58:39.962Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "C",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 270.32,
+    "kg_regular": 270.32,
+    "zona": "B",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 21,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T06:58:48.245Z"
   }
 ]
