@@ -2510,5 +2510,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:20:03.308Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 9.68,
+    "kg_regular": 9.68,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 3,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T08:20:05.024Z"
   }
 ]
