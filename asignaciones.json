@@ -670,5 +670,21 @@
     "unds": 45,
     "n_orden": 0,
     "timestamp": "2026-07-17T05:51:46.863Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "C",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 616.7,
+    "kg_regular": 616.7,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 56,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T05:51:48.059Z"
   }
 ]
