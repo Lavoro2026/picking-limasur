@@ -4222,5 +4222,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-07-17T11:07:53.828Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 454.95,
+    "kg_regular": 70.45,
+    "zona": "P",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 37,
+    "unds": 147,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T11:08:08.663Z"
   }
 ]
