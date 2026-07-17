@@ -1038,5 +1038,21 @@
     "unds": 54,
     "n_orden": 0,
     "timestamp": "2026-07-17T06:27:28.677Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 118.43,
+    "kg_regular": 118.43,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 20,
+    "unds": 276,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T06:27:32.759Z"
   }
 ]
