@@ -3326,5 +3326,21 @@
     "unds": 253,
     "n_orden": 0,
     "timestamp": "2026-07-17T09:17:32.298Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 403.84,
+    "kg_regular": 69.5,
+    "zona": "D",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 30,
+    "unds": 207,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T09:19:02.583Z"
   }
 ]
