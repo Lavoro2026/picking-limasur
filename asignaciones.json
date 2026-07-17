@@ -2286,5 +2286,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:07:09.781Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 17.55,
+    "kg_regular": 17.55,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 2,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T08:07:22.764Z"
   }
 ]
