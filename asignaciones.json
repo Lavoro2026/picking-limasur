@@ -3182,5 +3182,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-07-17T08:58:16.244Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 472.39,
+    "kg_regular": 212.43,
+    "zona": "D",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 37,
+    "unds": 275,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T09:00:18.069Z"
   }
 ]
