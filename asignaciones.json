@@ -1838,5 +1838,21 @@
     "unds": 109,
     "n_orden": 0,
     "timestamp": "2026-07-17T07:34:11.242Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "F",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 123.21,
+    "kg_regular": 123.21,
+    "zona": "C",
+    "material": "3233",
+    "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
+    "cajas": 19,
+    "unds": 222,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T07:34:17.562Z"
   }
 ]
