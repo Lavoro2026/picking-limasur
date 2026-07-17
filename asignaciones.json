@@ -1230,5 +1230,21 @@
     "unds": 98,
     "n_orden": 0,
     "timestamp": "2026-07-17T06:48:14.419Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "F",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 159.5,
+    "kg_regular": 159.5,
+    "zona": "B",
+    "material": "3233",
+    "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
+    "cajas": 28,
+    "unds": 267,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T06:51:00.509Z"
   }
 ]
