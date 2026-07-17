@@ -750,5 +750,21 @@
     "unds": 60,
     "n_orden": 0,
     "timestamp": "2026-07-17T05:56:01.933Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 220.53,
+    "kg_regular": 220.53,
+    "zona": "A",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 30,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T05:56:11.523Z"
   }
 ]
