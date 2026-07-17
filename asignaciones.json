@@ -4030,5 +4030,21 @@
     "unds": 27,
     "n_orden": 0,
     "timestamp": "2026-07-17T10:48:21.132Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "C",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 3950.34,
+    "kg_regular": 0,
+    "zona": "B",
+    "material": "539001",
+    "denominacion": "SAN MATEO AGUA CON GAS 600ML X15UND",
+    "cajas": 409,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T10:49:12.196Z"
   }
 ]
