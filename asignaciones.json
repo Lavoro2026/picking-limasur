@@ -1566,5 +1566,21 @@
     "unds": 271,
     "n_orden": 0,
     "timestamp": "2026-07-17T07:18:14.199Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 576.09,
+    "kg_regular": 45.18,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 46,
+    "unds": 185,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T07:18:52.281Z"
   }
 ]
