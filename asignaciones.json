@@ -766,5 +766,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-07-17T05:56:11.523Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "E",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 380.21,
+    "kg_regular": 96.94,
+    "zona": "A",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 59,
+    "unds": 74,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T05:56:20.274Z"
   }
 ]
