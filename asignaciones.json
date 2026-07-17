@@ -3566,5 +3566,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-07-17T09:48:18.155Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 350.2,
+    "kg_regular": 350.2,
+    "zona": "P",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 96,
+    "unds": 92,
+    "n_orden": 0,
+    "timestamp": "2026-07-17T09:48:43.572Z"
   }
 ]
