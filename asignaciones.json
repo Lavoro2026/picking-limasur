@@ -990,5 +990,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-07-18T06:18:47.891Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "F",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 217.14,
+    "kg_regular": 217.14,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 46,
+    "unds": 187,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T06:23:16.744Z"
   }
 ]
