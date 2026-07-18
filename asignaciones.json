@@ -1774,5 +1774,21 @@
     "unds": 103,
     "n_orden": 0,
     "timestamp": "2026-07-18T07:18:04.444Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "G",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 4.3,
+    "kg_regular": 4.3,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T07:18:06.134Z"
   }
 ]
