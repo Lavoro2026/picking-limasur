@@ -3118,5 +3118,21 @@
     "unds": 181,
     "n_orden": 0,
     "timestamp": "2026-07-18T09:07:10.817Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "C",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 119.62,
+    "kg_regular": 119.62,
+    "zona": "D",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 9,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T09:11:09.264Z"
   }
 ]
