@@ -862,5 +862,21 @@
     "unds": 181,
     "n_orden": 0,
     "timestamp": "2026-07-18T06:00:15.124Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "E",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 505.72,
+    "kg_regular": 52.69,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 80,
+    "unds": 55,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T06:00:20.109Z"
   }
 ]
