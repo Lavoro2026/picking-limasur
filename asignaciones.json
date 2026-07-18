@@ -1454,5 +1454,21 @@
     "unds": 349,
     "n_orden": 0,
     "timestamp": "2026-07-18T06:52:50.697Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 141.98,
+    "kg_regular": 141.98,
+    "zona": "B",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 23,
+    "unds": 150,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T06:53:24.569Z"
   }
 ]
