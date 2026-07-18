@@ -2926,5 +2926,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-07-18T08:52:06.437Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "B",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 345.7,
+    "kg_regular": 45.02,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 25,
+    "unds": 181,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T08:52:23.443Z"
   }
 ]
