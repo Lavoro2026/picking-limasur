@@ -1470,5 +1470,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-07-18T06:53:24.569Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 129.48,
+    "kg_regular": 129.48,
+    "zona": "B",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 19,
+    "unds": 126,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T06:53:32.398Z"
   }
 ]
