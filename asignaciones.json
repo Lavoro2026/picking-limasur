@@ -1790,5 +1790,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-18T07:18:06.134Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 165.24,
+    "kg_regular": 165.24,
+    "zona": "C",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 29,
+    "unds": 105,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T07:18:19.449Z"
   }
 ]
