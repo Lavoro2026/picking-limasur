@@ -1630,5 +1630,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-18T07:06:56.168Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "B",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 241.86,
+    "kg_regular": 66.16,
+    "zona": "B",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 25,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T07:09:00.431Z"
   }
 ]
