@@ -558,5 +558,21 @@
     "unds": 210,
     "n_orden": 0,
     "timestamp": "2026-07-18T05:42:49.575Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 5.51,
+    "kg_regular": 5.51,
+    "zona": "A",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 1,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T05:45:53.915Z"
   }
 ]
