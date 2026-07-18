@@ -2238,5 +2238,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-18T07:48:55.784Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 651.03,
+    "kg_regular": 45.87,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 56,
+    "unds": 142,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T07:48:59.994Z"
   }
 ]
