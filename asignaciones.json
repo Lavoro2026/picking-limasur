@@ -254,5 +254,21 @@
     "unds": 154,
     "n_orden": 0,
     "timestamp": "2026-07-18T05:20:31.291Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "B",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 354.96,
+    "kg_regular": 126.33,
+    "zona": "A",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 26,
+    "unds": 192,
+    "n_orden": 0,
+    "timestamp": "2026-07-18T05:22:00.471Z"
   }
 ]
