@@ -3326,5 +3326,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:45:14.787Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "C",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 556.86,
+    "kg_regular": 556.86,
+    "zona": "P",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 46,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:45:24.351Z"
   }
 ]
