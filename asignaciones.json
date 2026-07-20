@@ -2014,5 +2014,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:04:59.954Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 88.1,
+    "kg_regular": 88.1,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 12,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:05:19.910Z"
   }
 ]
