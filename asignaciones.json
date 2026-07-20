@@ -1310,5 +1310,21 @@
     "unds": 52,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:29:48.711Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 130.61,
+    "kg_regular": 130.61,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 23,
+    "unds": 207,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:29:53.486Z"
   }
 ]
