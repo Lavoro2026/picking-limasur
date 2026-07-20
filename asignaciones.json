@@ -2078,5 +2078,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:05:56.956Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 25.1,
+    "kg_regular": 25.1,
+    "zona": "A",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 4,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:06:18.438Z"
   }
 ]
