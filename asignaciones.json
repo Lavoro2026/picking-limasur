@@ -2094,5 +2094,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:06:18.438Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 28.77,
+    "kg_regular": 28.77,
+    "zona": "A",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 5,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:06:33.659Z"
   }
 ]
