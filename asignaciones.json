@@ -2430,5 +2430,21 @@
     "unds": 283,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:23:26.847Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "A",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 260.7,
+    "kg_regular": 260.7,
+    "zona": "C",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 19,
+    "unds": 219,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:24:03.756Z"
   }
 ]
