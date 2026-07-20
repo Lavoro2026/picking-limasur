@@ -1966,5 +1966,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:04:19.567Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 99.63,
+    "kg_regular": 99.63,
+    "zona": "C",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 12,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:04:31.246Z"
   }
 ]
