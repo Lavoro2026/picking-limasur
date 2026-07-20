@@ -1134,5 +1134,21 @@
     "unds": 117,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:16:36.357Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "G",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 4.25,
+    "kg_regular": 4.25,
+    "zona": "B",
+    "material": "1003331",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 DURAZN",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:16:37.928Z"
   }
 ]
