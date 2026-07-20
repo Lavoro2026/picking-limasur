@@ -318,5 +318,21 @@
     "unds": 174,
     "n_orden": 0,
     "timestamp": "2026-07-20T05:10:18.786Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 1.09,
+    "kg_regular": 1.09,
+    "zona": "A",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T05:10:20.020Z"
   }
 ]
