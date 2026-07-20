@@ -2206,5 +2206,21 @@
     "unds": 142,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:08:25.944Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 0.72,
+    "kg_regular": 0.72,
+    "zona": "C",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:08:27.398Z"
   }
 ]
