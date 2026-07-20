@@ -2222,5 +2222,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:08:27.398Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 112.97,
+    "kg_regular": 112.97,
+    "zona": "P",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 14,
+    "unds": 37,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:09:03.459Z"
   }
 ]
