@@ -1710,5 +1710,21 @@
     "unds": 231,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:54:37.785Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "F",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 47.27,
+    "kg_regular": 47.27,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 4,
+    "unds": 110,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:54:40.717Z"
   }
 ]
