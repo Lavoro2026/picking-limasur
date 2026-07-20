@@ -3342,5 +3342,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:45:24.351Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "F",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 166.42,
+    "kg_regular": 166.42,
+    "zona": "D",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 42,
+    "unds": 55,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:45:27.740Z"
   }
 ]
