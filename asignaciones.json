@@ -830,5 +830,21 @@
     "unds": 254,
     "n_orden": 0,
     "timestamp": "2026-07-20T05:49:55.383Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "G",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T05:49:57.277Z"
   }
 ]
