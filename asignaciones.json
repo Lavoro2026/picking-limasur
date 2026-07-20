@@ -3310,5 +3310,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:44:35.293Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "C",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 783.24,
+    "kg_regular": 783.24,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 64,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:45:14.787Z"
   }
 ]
