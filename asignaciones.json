@@ -2830,5 +2830,21 @@
     "unds": 254,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:08:13.528Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "G",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 10.76,
+    "kg_regular": 10.76,
+    "zona": "D",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 5,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:08:15.228Z"
   }
 ]
