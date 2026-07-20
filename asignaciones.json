@@ -1118,5 +1118,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:16:31.764Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 362.77,
+    "kg_regular": 42.19,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 29,
+    "unds": 117,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:16:36.357Z"
   }
 ]
