@@ -3150,5 +3150,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:34:56.882Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "B",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 549.97,
+    "kg_regular": 119.59,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 38,
+    "unds": 278,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:35:30.337Z"
   }
 ]
