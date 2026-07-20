@@ -190,5 +190,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-07-20T04:47:49.322Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "F",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 120.2,
+    "kg_regular": 120.2,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 26,
+    "unds": 143,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T04:51:45.729Z"
   }
 ]
