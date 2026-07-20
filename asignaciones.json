@@ -2494,5 +2494,21 @@
     "unds": 295,
     "n_orden": 0,
     "timestamp": "2026-07-20T07:24:44.846Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 171.46,
+    "kg_regular": 171.46,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 39,
+    "unds": 123,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T07:26:13.863Z"
   }
 ]
