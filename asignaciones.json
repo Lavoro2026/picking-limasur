@@ -1454,5 +1454,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:34:32.406Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "A",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 491.24,
+    "kg_regular": 491.24,
+    "zona": "B",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 40,
+    "unds": 233,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:34:50.982Z"
   }
 ]
