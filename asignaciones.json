@@ -3182,5 +3182,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-07-20T08:35:31.865Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 324.79,
+    "kg_regular": 110.78,
+    "zona": "D",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 22,
+    "unds": 194,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T08:37:26.892Z"
   }
 ]
