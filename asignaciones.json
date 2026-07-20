@@ -1534,5 +1534,21 @@
     "unds": 217,
     "n_orden": 0,
     "timestamp": "2026-07-20T06:38:43.890Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "G",
+    "picador": "HUARCAYA POMA RUDY",
+    "nombre": "HUARCAYA POMA RUDY",
+    "controlador": "0",
+    "kg": 3.21,
+    "kg_regular": 3.21,
+    "zona": "B",
+    "material": "1003345",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 VAINIL",
+    "cajas": 1,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-20T06:38:45.366Z"
   }
 ]
