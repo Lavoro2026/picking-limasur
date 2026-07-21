@@ -2206,5 +2206,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-07-21T08:52:08.552Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "B",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 464.49,
+    "kg_regular": 196.69,
+    "zona": "C",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 33,
+    "unds": 245,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T08:52:14.219Z"
   }
 ]
