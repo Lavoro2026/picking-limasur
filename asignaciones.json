@@ -686,5 +686,21 @@
     "unds": 51,
     "n_orden": 0,
     "timestamp": "2026-07-21T06:05:31.368Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 305.14,
+    "kg_regular": 114.91,
+    "zona": "A",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 22,
+    "unds": 183,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T06:06:44.265Z"
   }
 ]
