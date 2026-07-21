@@ -2798,5 +2798,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-07-21T10:11:52.348Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "G",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 1.03,
+    "kg_regular": 1.03,
+    "zona": "E",
+    "material": "1003331",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 DURAZN",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T10:11:53.981Z"
   }
 ]
