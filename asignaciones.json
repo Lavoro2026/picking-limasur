@@ -638,5 +638,21 @@
     "unds": 63,
     "n_orden": 0,
     "timestamp": "2026-07-21T06:03:34.199Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "E",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 255.07,
+    "kg_regular": 18.19,
+    "zona": "B",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 40,
+    "unds": 35,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T06:03:53.845Z"
   }
 ]
