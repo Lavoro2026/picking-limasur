@@ -3070,5 +3070,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-21T11:08:42.637Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 181.38,
+    "kg_regular": 36.7,
+    "zona": "P",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 13,
+    "unds": 112,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T11:18:00.682Z"
   }
 ]
