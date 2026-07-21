@@ -3038,5 +3038,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-21T11:03:44.913Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "B",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 552.02,
+    "kg_regular": 120.23,
+    "zona": "E",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 43,
+    "unds": 231,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T11:08:41.063Z"
   }
 ]
