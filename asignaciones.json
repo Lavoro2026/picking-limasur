@@ -654,5 +654,21 @@
     "unds": 35,
     "n_orden": 0,
     "timestamp": "2026-07-21T06:03:53.845Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "E",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 200.41,
+    "kg_regular": 73.08,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 24,
+    "unds": 95,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T06:04:10.139Z"
   }
 ]
