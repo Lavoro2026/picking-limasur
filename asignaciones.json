@@ -1982,5 +1982,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-21T08:33:50.629Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 117.91,
+    "kg_regular": 117.91,
+    "zona": "C",
+    "material": "1005255",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 600 MLX6U",
+    "cajas": 17,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T08:35:34.057Z"
   }
 ]
