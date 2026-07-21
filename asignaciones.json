@@ -494,5 +494,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-07-21T05:53:21.508Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 346.59,
+    "kg_regular": 78.34,
+    "zona": "A",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 26,
+    "unds": 161,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T05:56:43.777Z"
   }
 ]
