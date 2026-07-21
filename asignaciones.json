@@ -1198,5 +1198,21 @@
     "unds": 317,
     "n_orden": 0,
     "timestamp": "2026-07-21T07:16:55.345Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "G",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 5.77,
+    "kg_regular": 5.77,
+    "zona": "B",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-21T07:16:56.876Z"
   }
 ]
