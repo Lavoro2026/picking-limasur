@@ -1822,5 +1822,21 @@
     "unds": 252,
     "n_orden": 0,
     "timestamp": "2026-07-22T09:13:00.491Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 1.45,
+    "kg_regular": 1.45,
+    "zona": "P",
+    "material": "1033403",
+    "denominacion": "PRO DAY UHT 320ML VAINILLA BOT",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T09:13:02.596Z"
   }
 ]
