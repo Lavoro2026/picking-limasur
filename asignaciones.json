@@ -462,5 +462,21 @@
     "unds": 201,
     "n_orden": 0,
     "timestamp": "2026-07-22T05:59:08.712Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 966.25,
+    "kg_regular": 196.63,
+    "zona": "A",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 90,
+    "unds": 81,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T05:59:39.367Z"
   }
 ]
