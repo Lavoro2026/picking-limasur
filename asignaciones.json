@@ -2078,5 +2078,21 @@
     "unds": 149,
     "n_orden": 0,
     "timestamp": "2026-07-22T09:52:46.558Z"
+  },
+  {
+    "placa": "ANI940",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 1.09,
+    "kg_regular": 1.09,
+    "zona": "B",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T09:52:47.834Z"
   }
 ]
