@@ -718,5 +718,21 @@
     "unds": 69,
     "n_orden": 0,
     "timestamp": "2026-07-22T06:38:57.191Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 834.96,
+    "kg_regular": 144.95,
+    "zona": "B",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 66,
+    "unds": 210,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T06:40:56.166Z"
   }
 ]
