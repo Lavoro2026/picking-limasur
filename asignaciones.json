@@ -2046,5 +2046,21 @@
     "unds": 310,
     "n_orden": 0,
     "timestamp": "2026-07-22T09:52:29.534Z"
+  },
+  {
+    "placa": "A6P899",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 39.29,
+    "kg_regular": 39.29,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 17,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T09:52:30.723Z"
   }
 ]
