@@ -1262,5 +1262,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-22T07:51:56.489Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 1053.89,
+    "kg_regular": 111.04,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 89,
+    "unds": 168,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T07:53:31.586Z"
   }
 ]
