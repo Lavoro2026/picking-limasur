@@ -910,5 +910,21 @@
     "unds": 48,
     "n_orden": 0,
     "timestamp": "2026-07-22T07:04:31.741Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 78.01,
+    "kg_regular": 78.01,
+    "zona": "P",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 11,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T07:05:17.016Z"
   }
 ]
