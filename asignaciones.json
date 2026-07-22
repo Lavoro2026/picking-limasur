@@ -2238,5 +2238,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-07-22T09:54:27.067Z"
+  },
+  {
+    "placa": "ANE848",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 1631.71,
+    "kg_regular": 4.04,
+    "zona": "P",
+    "material": "1001317",
+    "denominacion": "BONLE MEZC LACT FAMILIAR 480G X4-6PK TTP",
+    "cajas": 133,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T09:54:39.999Z"
   }
 ]
