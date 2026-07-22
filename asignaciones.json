@@ -1550,5 +1550,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-07-22T08:15:12.082Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 340.46,
+    "kg_regular": 340.46,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 71,
+    "unds": 301,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T08:19:04.102Z"
   }
 ]
