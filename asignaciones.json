@@ -2206,5 +2206,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-07-22T09:54:14.121Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 441.39,
+    "kg_regular": 32.4,
+    "zona": "P",
+    "material": "1007197",
+    "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+    "cajas": 33,
+    "unds": 127,
+    "n_orden": 0,
+    "timestamp": "2026-07-22T09:54:26.018Z"
   }
 ]
