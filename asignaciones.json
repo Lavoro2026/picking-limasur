@@ -350,5 +350,21 @@
     "unds": 317,
     "n_orden": 0,
     "timestamp": "2026-07-23T05:58:56.539Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "F",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 115.33,
+    "kg_regular": 115.33,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 19,
+    "unds": 228,
+    "n_orden": 0,
+    "timestamp": "2026-07-23T06:01:57.585Z"
   }
 ]
