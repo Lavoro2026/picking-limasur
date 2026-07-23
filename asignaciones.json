@@ -942,5 +942,21 @@
     "unds": 43,
     "n_orden": 0,
     "timestamp": "2026-07-23T07:16:24.070Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "C",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 857.71,
+    "kg_regular": 857.71,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 73,
+    "unds": 27,
+    "n_orden": 0,
+    "timestamp": "2026-07-23T07:18:19.118Z"
   }
 ]
