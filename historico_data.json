@@ -2908,34 +2908,21 @@
     },
     "2026-07-22": {
       "fecha": "22/07/2026",
-      "total_kg": 65303.66999999999,
-      "total_kg_regular": 30403.690000000013,
-      "total_cajas": 6478,
-      "total_pickers": 8,
-      "total_placas": 155,
+      "total_kg": 544.92,
+      "total_kg_regular": 544.92,
+      "total_cajas": 46,
+      "total_pickers": 2,
+      "total_placas": 2,
       "pickers": [
-        "YANAC VILLANUEVA, PEDRO LUIS",
-        "MACAZANA ROSALES, JOHN ALEXANDER",
-        "VIZA QUISPE, JOEL ALEXANDER",
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "QUINDE RETETE DANILO NATAN",
-        "ROLDAM QUICAÑA, JOSE ANTONIO",
-        "GUERRERO VILCA, BRYAN ANTONY",
-        "TORRES CALDAS OSCAR RUBEN"
+        "TAMANI MARICAHUA CARLOS",
+        "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL"
       ],
       "por_familia": {
-        "D": 1581.4300000000003,
-        "E": 8065.359999999998,
-        "A": 31864.379999999997,
-        "F": 1654.76,
-        "B": 21834.409999999996,
-        "G": 303.33
+        "D": 77.02,
+        "C": 467.9
       },
       "por_almacen": {
-        "A": 12440.810000000003,
-        "B": 18154.710000000003,
-        "C": 13164.18,
-        "P": 21543.969999999998
+        "P": 544.92
       }
     },
     "2026-06-23": {
