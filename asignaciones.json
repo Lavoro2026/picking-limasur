@@ -1262,5 +1262,21 @@
     "unds": 185,
     "n_orden": 0,
     "timestamp": "2026-07-23T08:02:34.927Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "C",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 25.77,
+    "kg_regular": 25.77,
+    "zona": "D",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 2,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-23T08:03:53.967Z"
   }
 ]
