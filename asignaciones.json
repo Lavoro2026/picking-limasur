@@ -190,5 +190,21 @@
     "unds": 38,
     "n_orden": 0,
     "timestamp": "2026-07-24T06:04:50.785Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 863.05,
+    "kg_regular": 285.59,
+    "zona": "A",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 96,
+    "unds": 99,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T06:05:50.128Z"
   }
 ]
