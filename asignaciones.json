@@ -158,5 +158,21 @@
     "unds": 277,
     "n_orden": 0,
     "timestamp": "2026-07-24T06:01:49.266Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "G",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 2.9,
+    "kg_regular": 2.9,
+    "zona": "A",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T06:01:50.703Z"
   }
 ]
