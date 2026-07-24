@@ -1774,5 +1774,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-07-24T10:22:59.089Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "A",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 950.01,
+    "kg_regular": 950.01,
+    "zona": "D",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 81,
+    "unds": 369,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T10:24:37.552Z"
   }
 ]
