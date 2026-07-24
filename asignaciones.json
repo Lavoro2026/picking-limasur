@@ -1374,5 +1374,21 @@
     "unds": 63,
     "n_orden": 0,
     "timestamp": "2026-07-24T08:47:00.233Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "A",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 584.82,
+    "kg_regular": 584.82,
+    "zona": "C",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 50,
+    "unds": 211,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T08:48:51.700Z"
   }
 ]
