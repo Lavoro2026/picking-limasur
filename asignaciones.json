@@ -142,5 +142,21 @@
     "unds": 55,
     "n_orden": 0,
     "timestamp": "2026-07-24T05:57:53.424Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "B",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 369.38,
+    "kg_regular": 117.64,
+    "zona": "A",
+    "material": "507327",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 5 KG BOLSA",
+    "cajas": 21,
+    "unds": 277,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T06:01:49.266Z"
   }
 ]
