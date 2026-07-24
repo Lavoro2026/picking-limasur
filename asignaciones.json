@@ -590,5 +590,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-07-24T06:50:15.493Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "E",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 266.95,
+    "kg_regular": 19.21,
+    "zona": "B",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 42,
+    "unds": 34,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T06:50:55.227Z"
   }
 ]
