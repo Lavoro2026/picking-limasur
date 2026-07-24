@@ -78,5 +78,21 @@
     "unds": 64,
     "n_orden": 0,
     "timestamp": "2026-07-24T05:50:33.069Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 602.95,
+    "kg_regular": 159.68,
+    "zona": "A",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 39,
+    "unds": 277,
+    "n_orden": 0,
+    "timestamp": "2026-07-24T05:54:25.887Z"
   }
 ]
