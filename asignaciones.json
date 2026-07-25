@@ -558,5 +558,21 @@
     "unds": 166,
     "n_orden": 0,
     "timestamp": "2026-07-25T06:51:10.851Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 2.18,
+    "kg_regular": 2.18,
+    "zona": "A",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T06:51:12.271Z"
   }
 ]
