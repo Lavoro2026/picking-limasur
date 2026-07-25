@@ -830,5 +830,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-07-25T07:10:03.985Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "E",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 227.99,
+    "kg_regular": 40.46,
+    "zona": "C",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 35,
+    "unds": 71,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T07:10:06.896Z"
   }
 ]
