@@ -1230,5 +1230,21 @@
     "unds": 27,
     "n_orden": 0,
     "timestamp": "2026-07-25T07:46:26.572Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 507.36,
+    "kg_regular": 507.36,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 48,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T07:46:30.172Z"
   }
 ]
