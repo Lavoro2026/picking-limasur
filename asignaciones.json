@@ -1118,5 +1118,21 @@
     "unds": 342,
     "n_orden": 0,
     "timestamp": "2026-07-25T07:31:12.832Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 58.01,
+    "kg_regular": 58.01,
+    "zona": "B",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 8,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T07:32:32.301Z"
   }
 ]
