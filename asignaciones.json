@@ -1422,5 +1422,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-07-25T07:56:37.293Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "B",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 586.79,
+    "kg_regular": 67.14,
+    "zona": "B",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 41,
+    "unds": 243,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T07:57:24.331Z"
   }
 ]
