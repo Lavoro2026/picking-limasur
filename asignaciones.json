@@ -3006,5 +3006,21 @@
     "unds": 239,
     "n_orden": 0,
     "timestamp": "2026-07-25T09:52:29.301Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "G",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 17.6,
+    "kg_regular": 17.6,
+    "zona": "P",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 8,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T09:52:31.350Z"
   }
 ]
