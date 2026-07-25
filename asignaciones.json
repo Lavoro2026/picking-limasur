@@ -3150,5 +3150,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-07-25T09:54:42.676Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "B",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 830.07,
+    "kg_regular": 99.07,
+    "zona": "P",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 77,
+    "unds": 74,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T10:01:29.003Z"
   }
 ]
