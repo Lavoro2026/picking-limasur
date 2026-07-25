@@ -3374,5 +3374,21 @@
     "unds": 207,
     "n_orden": 0,
     "timestamp": "2026-07-25T10:15:20.019Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 329.75,
+    "kg_regular": 46.2,
+    "zona": "P",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 23,
+    "unds": 151,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T10:16:45.661Z"
   }
 ]
