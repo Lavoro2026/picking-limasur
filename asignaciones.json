@@ -2398,5 +2398,21 @@
     "unds": 1,
     "n_orden": 0,
     "timestamp": "2026-07-25T09:21:03.754Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "B",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 375.32,
+    "kg_regular": 50.09,
+    "zona": "D",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 27,
+    "unds": 166,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T09:22:55.723Z"
   }
 ]
