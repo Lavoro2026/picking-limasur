@@ -3358,5 +3358,21 @@
     "unds": 217,
     "n_orden": 0,
     "timestamp": "2026-07-25T10:11:36.997Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "A",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 346.59,
+    "kg_regular": 346.59,
+    "zona": "D",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 27,
+    "unds": 207,
+    "n_orden": 0,
+    "timestamp": "2026-07-25T10:15:20.019Z"
   }
 ]
