@@ -2366,5 +2366,21 @@
     "unds": 39,
     "n_orden": 0,
     "timestamp": "2026-07-27T08:11:47.132Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "C",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 715.38,
+    "kg_regular": 715.38,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 63,
+    "unds": 29,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T08:12:17.989Z"
   }
 ]
