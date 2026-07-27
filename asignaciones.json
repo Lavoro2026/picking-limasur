@@ -1646,5 +1646,21 @@
     "unds": 34,
     "n_orden": 0,
     "timestamp": "2026-07-27T07:21:00.202Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 670.55,
+    "kg_regular": 159.83,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 51,
+    "unds": 196,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T07:23:17.942Z"
   }
 ]
