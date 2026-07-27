@@ -2894,5 +2894,21 @@
     "unds": 168,
     "n_orden": 0,
     "timestamp": "2026-07-27T09:01:02.721Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "G",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 0.71,
+    "kg_regular": 0.71,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T09:01:04.612Z"
   }
 ]
