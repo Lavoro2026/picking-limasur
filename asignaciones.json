@@ -1790,5 +1790,21 @@
     "unds": 276,
     "n_orden": 0,
     "timestamp": "2026-07-27T07:30:21.098Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "E",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 113.32,
+    "kg_regular": 36.34,
+    "zona": "E",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 13,
+    "unds": 58,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T07:31:51.056Z"
   }
 ]
