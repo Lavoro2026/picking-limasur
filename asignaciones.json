@@ -1102,5 +1102,21 @@
     "unds": 35,
     "n_orden": 0,
     "timestamp": "2026-07-27T06:35:44.583Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "F",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 187.93,
+    "kg_regular": 187.93,
+    "zona": "B",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 36,
+    "unds": 247,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T06:35:57.013Z"
   }
 ]
