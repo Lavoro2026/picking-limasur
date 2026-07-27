@@ -3246,5 +3246,21 @@
     "unds": 93,
     "n_orden": 0,
     "timestamp": "2026-07-27T09:27:25.132Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 28.53,
+    "kg_regular": 28.53,
+    "zona": "E",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T09:27:37.546Z"
   }
 ]
