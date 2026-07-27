@@ -2558,5 +2558,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-07-27T08:22:09.246Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 39.68,
+    "kg_regular": 39.68,
+    "zona": "D",
+    "material": "1005069",
+    "denominacion": "UBA REFR. GRANADILLA PUNCH 3L X 4UND",
+    "cajas": 5,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T08:23:05.432Z"
   }
 ]
