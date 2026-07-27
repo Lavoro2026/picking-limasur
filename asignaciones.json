@@ -2590,5 +2590,21 @@
     "unds": 262,
     "n_orden": 0,
     "timestamp": "2026-07-27T08:23:14.150Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "C",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 476.09,
+    "kg_regular": 476.09,
+    "zona": "E",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 45,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T08:28:17.695Z"
   }
 ]
