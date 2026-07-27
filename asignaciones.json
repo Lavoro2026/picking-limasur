@@ -3294,5 +3294,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-07-27T09:32:15.172Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "A",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 787.45,
+    "kg_regular": 787.45,
+    "zona": "E",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 67,
+    "unds": 307,
+    "n_orden": 0,
+    "timestamp": "2026-07-27T09:32:37.387Z"
   }
 ]
