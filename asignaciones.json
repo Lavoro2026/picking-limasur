@@ -2686,5 +2686,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-07-29T09:33:51.959Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "LALO",
+    "kg": 33.18,
+    "kg_regular": 33.18,
+    "zona": "D",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T09:36:34.536Z"
   }
 ]
