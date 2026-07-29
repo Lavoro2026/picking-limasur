@@ -2542,5 +2542,21 @@
     "unds": 56,
     "n_orden": 0,
     "timestamp": "2026-07-29T09:22:04.846Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "TORRES",
+    "kg": 98.96,
+    "kg_regular": 98.96,
+    "zona": "D",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 9,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T09:22:20.856Z"
   }
 ]
