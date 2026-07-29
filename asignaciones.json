@@ -46,5 +46,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-07-29T05:42:32.488Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "LALO",
+    "kg": 544.9,
+    "kg_regular": 86.57,
+    "zona": "A",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 46,
+    "unds": 76,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T05:42:40.783Z"
   }
 ]
