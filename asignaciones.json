@@ -2990,5 +2990,21 @@
     "unds": 242,
     "n_orden": 0,
     "timestamp": "2026-07-29T09:52:22.072Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "A",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "VENTURA",
+    "kg": 451.15,
+    "kg_regular": 451.15,
+    "zona": "B",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 36,
+    "unds": 250,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T09:52:37.923Z"
   }
 ]
