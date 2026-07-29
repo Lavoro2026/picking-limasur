@@ -62,5 +62,21 @@
     "unds": 76,
     "n_orden": 0,
     "timestamp": "2026-07-29T05:42:40.783Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "LALO",
+    "kg": 0.69,
+    "kg_regular": 0.69,
+    "zona": "A",
+    "material": "1003331",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 DURAZN",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T05:42:41.815Z"
   }
 ]
