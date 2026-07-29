@@ -3166,5 +3166,21 @@
     "unds": 231,
     "n_orden": 0,
     "timestamp": "2026-07-29T10:08:21.003Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "PIERRE",
+    "kg": 407.91,
+    "kg_regular": 84.73,
+    "zona": "E",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 23,
+    "unds": 275,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T10:09:37.433Z"
   }
 ]
