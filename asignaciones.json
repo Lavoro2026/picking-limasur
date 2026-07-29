@@ -3694,5 +3694,21 @@
     "unds": 211,
     "n_orden": 0,
     "timestamp": "2026-07-29T11:05:32.340Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "F",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "NICOLAS",
+    "kg": 115.14,
+    "kg_regular": 115.14,
+    "zona": "P",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 16,
+    "unds": 228,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T11:06:26.843Z"
   }
 ]
