@@ -2158,5 +2158,21 @@
     "unds": 61,
     "n_orden": 0,
     "timestamp": "2026-07-29T08:46:41.201Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "LALO",
+    "kg": 911.07,
+    "kg_regular": 69.37,
+    "zona": "C",
+    "material": "1005067",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 3L X 4UND",
+    "cajas": 127,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T08:47:44.202Z"
   }
 ]
