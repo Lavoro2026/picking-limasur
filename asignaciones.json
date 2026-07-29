@@ -814,5 +814,21 @@
     "unds": 57,
     "n_orden": 0,
     "timestamp": "2026-07-29T06:54:17.860Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "TORRES",
+    "kg": 359.17,
+    "kg_regular": 109.58,
+    "zona": "A",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 24,
+    "unds": 179,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T06:54:50.865Z"
   }
 ]
