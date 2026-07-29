@@ -3486,5 +3486,21 @@
     "unds": 277,
     "n_orden": 0,
     "timestamp": "2026-07-29T10:41:06.711Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "NICOLAS",
+    "kg": 437.53,
+    "kg_regular": 150.34,
+    "zona": "E",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 28,
+    "unds": 282,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T10:41:34.399Z"
   }
 ]
