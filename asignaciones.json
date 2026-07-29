@@ -3566,5 +3566,21 @@
     "unds": 119,
     "n_orden": 0,
     "timestamp": "2026-07-29T10:51:02.102Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "NICOLAS",
+    "kg": 194.4,
+    "kg_regular": 194.4,
+    "zona": "E",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 22,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T10:52:13.888Z"
   }
 ]
