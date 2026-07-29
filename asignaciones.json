@@ -270,5 +270,21 @@
     "unds": 58,
     "n_orden": 0,
     "timestamp": "2026-07-29T06:01:36.066Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "VENTURA",
+    "kg": 463.31,
+    "kg_regular": 100.38,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 33,
+    "unds": 176,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T06:04:01.756Z"
   }
 ]
