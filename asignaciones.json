@@ -2030,5 +2030,21 @@
     "unds": 64,
     "n_orden": 0,
     "timestamp": "2026-07-29T08:35:05.273Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "TORRES",
+    "kg": 23.08,
+    "kg_regular": 23.08,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 4,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T08:35:31.107Z"
   }
 ]
