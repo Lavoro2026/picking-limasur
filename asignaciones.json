@@ -2462,5 +2462,21 @@
     "unds": 151,
     "n_orden": 0,
     "timestamp": "2026-07-29T09:18:43.443Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "G",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "PIERRE",
+    "kg": 1.45,
+    "kg_regular": 1.45,
+    "zona": "D",
+    "material": "1033403",
+    "denominacion": "PRO DAY UHT 320ML VAINILLA BOT",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-07-29T09:18:45.067Z"
   }
 ]
