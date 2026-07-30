@@ -1662,5 +1662,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-07-30T07:35:15.598Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "A",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 525.49,
+    "kg_regular": 525.49,
+    "zona": "B",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 43,
+    "unds": 262,
+    "n_orden": 0,
+    "timestamp": "2026-07-30T07:37:53.076Z"
   }
 ]
