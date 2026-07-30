@@ -2190,5 +2190,21 @@
     "unds": 184,
     "n_orden": 0,
     "timestamp": "2026-07-30T08:26:44.063Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 458.5,
+    "kg_regular": 140.93,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 36,
+    "unds": 185,
+    "n_orden": 0,
+    "timestamp": "2026-07-30T08:27:24.560Z"
   }
 ]
