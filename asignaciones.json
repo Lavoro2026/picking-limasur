@@ -3118,5 +3118,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-30T10:08:39.544Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "A",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 407.09,
+    "kg_regular": 407.09,
+    "zona": "D",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 34,
+    "unds": 157,
+    "n_orden": 0,
+    "timestamp": "2026-07-30T10:10:13.062Z"
   }
 ]
