@@ -1550,5 +1550,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-07-30T07:26:34.320Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 92.39,
+    "kg_regular": 92.39,
+    "zona": "B",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 11,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-07-30T07:27:24.765Z"
   }
 ]
