@@ -766,5 +766,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-07-30T06:18:07.393Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 58.6,
+    "kg_regular": 58.6,
+    "zona": "A",
+    "material": "1005253",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 1.5 LX6U",
+    "cajas": 6,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-07-30T06:22:16.650Z"
   }
 ]
