@@ -3974,6 +3974,44 @@
       },
       "total_kg": 88713.86,
       "total_registros": 5296
+    },
+    "2026-07-28": {
+      "fecha": "28/07/2026",
+      "total_kg": 81931.32,
+      "total_kg_regular": 59351.24,
+      "total_cajas": 8041,
+      "total_pickers": 11,
+      "total_placas": 238,
+      "pickers": [
+        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+        "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+        "VALLEJO QUISPE LUIS CARLOS",
+        "MACAZANA ROSALES, JOHN ALEXANDER",
+        "SALVADOR MAMANI ANTONY JEAN PIERRE",
+        "TORRES CALDAS OSCAR RUBEN",
+        "VENTURA LOZANO BRAYANS AMIR",
+        "YANAC VILLANUEVA, PEDRO LUIS",
+        "FRANCIA MENA, LIZANDRO",
+        "GUERRERO VILCA, BRYAN ANTONY",
+        "VIZA QUISPE, JOEL ALEXANDER"
+      ],
+      "por_familia": {
+        "A": 21108.68,
+        "C": 28774.88,
+        "B": 13978.3,
+        "G": 245.84,
+        "F": 4383.96,
+        "E": 10219.14,
+        "D": 3220.52
+      },
+      "por_almacen": {
+        "A": 17933.26,
+        "B": 18471.63,
+        "C": 14871.35,
+        "D": 15342.91,
+        "E": 10024.2,
+        "P": 5287.97
+      }
     }
   }
 }
