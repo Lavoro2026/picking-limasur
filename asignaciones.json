@@ -1502,5 +1502,21 @@
     "unds": 260,
     "n_orden": 0,
     "timestamp": "2026-07-31T06:47:20.665Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 170.07,
+    "kg_regular": 59.4,
+    "zona": "B",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 5,
+    "unds": 208,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T06:47:28.360Z"
   }
 ]
