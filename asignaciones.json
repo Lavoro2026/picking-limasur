@@ -110,5 +110,21 @@
     "unds": 70,
     "n_orden": 0,
     "timestamp": "2026-07-31T05:00:03.390Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 52.09,
+    "kg_regular": 52.09,
+    "zona": "A",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T05:04:47.413Z"
   }
 ]
