@@ -3598,5 +3598,21 @@
     "unds": 162,
     "n_orden": 0,
     "timestamp": "2026-07-31T09:49:42.878Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "D",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T09:49:44.217Z"
   }
 ]
