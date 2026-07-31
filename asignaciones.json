@@ -782,5 +782,21 @@
     "unds": 216,
     "n_orden": 0,
     "timestamp": "2026-07-31T05:46:18.611Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "G",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "A",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T05:46:20.212Z"
   }
 ]
