@@ -3422,5 +3422,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-07-31T09:40:26.084Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 596.92,
+    "kg_regular": 111.38,
+    "zona": "P",
+    "material": "1003893",
+    "denominacion": "BONLE MANJARBLANCO DISPLAYX 200GRX50U",
+    "cajas": 50,
+    "unds": 68,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T09:46:50.823Z"
   }
 ]
