@@ -1374,5 +1374,21 @@
     "unds": 242,
     "n_orden": 0,
     "timestamp": "2026-07-31T06:35:18.901Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "G",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 2.18,
+    "kg_regular": 2.18,
+    "zona": "B",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T06:35:20.733Z"
   }
 ]
