@@ -3198,5 +3198,21 @@
     "unds": 124,
     "n_orden": 0,
     "timestamp": "2026-07-31T09:14:12.519Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 105.38,
+    "kg_regular": 105.38,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 17,
+    "unds": 249,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T09:14:28.677Z"
   }
 ]
