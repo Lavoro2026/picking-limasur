@@ -2094,5 +2094,21 @@
     "unds": 212,
     "n_orden": 0,
     "timestamp": "2026-07-31T07:27:17.970Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 37.45,
+    "kg_regular": 37.45,
+    "zona": "C",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 4,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-07-31T07:27:42.622Z"
   }
 ]
