@@ -3426,8 +3426,8 @@
   {
     "placa": "APB825",
     "familia": "G",
-    "picador": "VENTURA LOZANO BRAYANS AMIR",
-    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
     "controlador": "0",
     "kg": 14.99,
     "kg_regular": 14.99,
@@ -3437,6 +3437,6 @@
     "cajas": 6,
     "unds": 6,
     "n_orden": 0,
-    "timestamp": "2026-08-01T08:27:52.917Z"
+    "timestamp": "2026-08-01T08:28:09.860Z"
   }
 ]
