@@ -3870,5 +3870,21 @@
     "unds": 198,
     "n_orden": 0,
     "timestamp": "2026-08-01T09:34:38.454Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 789.42,
+    "kg_regular": 79.68,
+    "zona": "P",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 66,
+    "unds": 188,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T09:37:28.326Z"
   }
 ]
