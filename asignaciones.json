@@ -2750,5 +2750,21 @@
     "unds": 57,
     "n_orden": 0,
     "timestamp": "2026-08-01T07:40:53.429Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "E",
+    "picador": "PAUL LORENZO, ZAVALA VIVAS",
+    "nombre": "PAUL LORENZO, ZAVALA VIVAS",
+    "controlador": "0",
+    "kg": 250.73,
+    "kg_regular": 31.62,
+    "zona": "B",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 37,
+    "unds": 75,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T07:41:00.858Z"
   }
 ]
