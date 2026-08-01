@@ -174,5 +174,21 @@
     "unds": 236,
     "n_orden": 0,
     "timestamp": "2026-08-01T04:57:15.636Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 13.86,
+    "kg_regular": 13.86,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 2,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T04:58:20.312Z"
   }
 ]
