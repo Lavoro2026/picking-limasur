@@ -3358,5 +3358,21 @@
     "unds": 203,
     "n_orden": 0,
     "timestamp": "2026-08-01T08:19:29.879Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "A",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 614.78,
+    "kg_regular": 614.78,
+    "zona": "D",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 51,
+    "unds": 275,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T08:20:57.540Z"
   }
 ]
