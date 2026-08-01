@@ -1102,5 +1102,21 @@
     "unds": 64,
     "n_orden": 0,
     "timestamp": "2026-08-01T06:00:49.193Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "C",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 24.43,
+    "kg_regular": 24.43,
+    "zona": "B",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 2,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T06:01:12.637Z"
   }
 ]
