@@ -2062,5 +2062,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-08-01T06:59:12.772Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "A",
+    "picador": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "nombre": "ALVAREZ YGUAVIL SERLLY ANDERSON RAUL",
+    "controlador": "0",
+    "kg": 404.53,
+    "kg_regular": 404.53,
+    "zona": "C",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 33,
+    "unds": 188,
+    "n_orden": 0,
+    "timestamp": "2026-08-01T06:59:21.357Z"
   }
 ]
