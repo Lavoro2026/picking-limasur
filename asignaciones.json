@@ -110,5 +110,21 @@
     "unds": 215,
     "n_orden": 0,
     "timestamp": "2026-08-03T05:20:23.213Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "A",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 276.47,
+    "kg_regular": 276.47,
+    "zona": "A",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 22,
+    "unds": 137,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T05:21:41.181Z"
   }
 ]
