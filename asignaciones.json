@@ -78,5 +78,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-03T05:17:59.112Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 55.03,
+    "kg_regular": 55.03,
+    "zona": "A",
+    "material": "1005069",
+    "denominacion": "UBA REFR. GRANADILLA PUNCH 3L X 4UND",
+    "cajas": 6,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T05:19:33.693Z"
   }
 ]
