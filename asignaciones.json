@@ -3294,5 +3294,21 @@
     "unds": 315,
     "n_orden": 0,
     "timestamp": "2026-08-03T10:30:15.896Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "A",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 839.09,
+    "kg_regular": 839.09,
+    "zona": "D",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 71,
+    "unds": 386,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T10:31:14.230Z"
   }
 ]
