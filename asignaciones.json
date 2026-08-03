@@ -2414,5 +2414,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-03T08:47:37.753Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "F",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 141.29,
+    "kg_regular": 141.29,
+    "zona": "C",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 20,
+    "unds": 274,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T08:51:56.267Z"
   }
 ]
