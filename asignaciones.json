@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 31.75,
+    "kg_regular": 31.75,
+    "zona": "A",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T05:04:26.645Z"
+  }
+]
