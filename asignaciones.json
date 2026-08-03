@@ -3262,5 +3262,21 @@
     "unds": 241,
     "n_orden": 0,
     "timestamp": "2026-08-03T10:29:38.111Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "F",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 73.18,
+    "kg_regular": 73.18,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 13,
+    "unds": 158,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T10:29:53.087Z"
   }
 ]
