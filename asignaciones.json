@@ -3358,5 +3358,21 @@
     "unds": 248,
     "n_orden": 0,
     "timestamp": "2026-08-03T10:46:37.311Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "B",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 385.51,
+    "kg_regular": 44.75,
+    "zona": "P",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 25,
+    "unds": 197,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T10:49:19.856Z"
   }
 ]
