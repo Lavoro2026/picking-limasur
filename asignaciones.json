@@ -3230,5 +3230,21 @@
     "unds": 283,
     "n_orden": 0,
     "timestamp": "2026-08-03T10:29:01.357Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "F",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 146.83,
+    "kg_regular": 146.83,
+    "zona": "C",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 20,
+    "unds": 316,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T10:29:22.386Z"
   }
 ]
