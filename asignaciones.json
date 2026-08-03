@@ -2702,5 +2702,21 @@
     "unds": 234,
     "n_orden": 0,
     "timestamp": "2026-08-03T09:22:09.782Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "C",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 653.65,
+    "kg_regular": 653.65,
+    "zona": "P",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 54,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T09:22:19.255Z"
   }
 ]
