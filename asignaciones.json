@@ -2798,5 +2798,21 @@
     "unds": 287,
     "n_orden": 0,
     "timestamp": "2026-08-03T09:30:14.458Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "G",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 5.08,
+    "kg_regular": 5.08,
+    "zona": "C",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 2,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T09:30:16.003Z"
   }
 ]
