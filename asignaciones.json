@@ -590,5 +590,21 @@
     "unds": 171,
     "n_orden": 0,
     "timestamp": "2026-08-03T06:10:26.627Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 0.73,
+    "kg_regular": 0.73,
+    "zona": "A",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-03T06:10:27.637Z"
   }
 ]
