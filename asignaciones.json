@@ -3438,5 +3438,21 @@
     "unds": 313,
     "n_orden": 0,
     "timestamp": "2026-08-04T11:33:56.175Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 2.18,
+    "kg_regular": 2.18,
+    "zona": "C",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T11:33:57.415Z"
   }
 ]
