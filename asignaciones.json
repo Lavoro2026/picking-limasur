@@ -222,5 +222,21 @@
     "unds": 156,
     "n_orden": 0,
     "timestamp": "2026-08-04T05:11:53.272Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 15.91,
+    "kg_regular": 15.91,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 2,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T05:13:49.834Z"
   }
 ]
