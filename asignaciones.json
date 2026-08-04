@@ -1694,5 +1694,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-08-04T07:40:54.081Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "C",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 346.82,
+    "kg_regular": 346.82,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 28,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T07:45:30.222Z"
   }
 ]
