@@ -3214,5 +3214,21 @@
     "unds": 203,
     "n_orden": 0,
     "timestamp": "2026-08-04T11:01:02.579Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 186.07,
+    "kg_regular": 186.07,
+    "zona": "P",
+    "material": "3233",
+    "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
+    "cajas": 25,
+    "unds": 294,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T11:14:39.287Z"
   }
 ]
