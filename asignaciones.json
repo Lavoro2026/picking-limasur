@@ -478,5 +478,21 @@
     "unds": 68,
     "n_orden": 0,
     "timestamp": "2026-08-04T05:23:37.360Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 15.09,
+    "kg_regular": 15.09,
+    "zona": "A",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 3,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T05:24:46.641Z"
   }
 ]
