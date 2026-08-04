@@ -3150,5 +3150,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-08-04T10:44:06.861Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "F",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 127.25,
+    "kg_regular": 127.25,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 24,
+    "unds": 184,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T10:49:01.058Z"
   }
 ]
