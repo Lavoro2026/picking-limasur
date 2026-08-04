@@ -3310,5 +3310,21 @@
     "unds": 144,
     "n_orden": 0,
     "timestamp": "2026-08-04T11:32:38.887Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 2.07,
+    "kg_regular": 2.07,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T11:32:40.005Z"
   }
 ]
