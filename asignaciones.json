@@ -2078,5 +2078,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-08-04T08:28:12.326Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "C",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 469.05,
+    "kg_regular": 469.05,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 40,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T08:28:28.508Z"
   }
 ]
