@@ -1454,5 +1454,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-08-04T07:21:01.397Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "F",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 111.96,
+    "kg_regular": 111.96,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 15,
+    "unds": 243,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T07:23:12.997Z"
   }
 ]
