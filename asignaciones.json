@@ -254,5 +254,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-08-04T05:14:26.041Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "TAMANI MARICAHUA CARLOS",
+    "nombre": "TAMANI MARICAHUA CARLOS",
+    "controlador": "0",
+    "kg": 4.67,
+    "kg_regular": 4.67,
+    "zona": "A",
+    "material": "1005243",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 1.5L PQTX6UND",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-04T05:15:18.988Z"
   }
 ]
