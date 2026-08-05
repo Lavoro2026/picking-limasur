@@ -2462,5 +2462,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-08-05T09:54:42.845Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 111.78,
+    "kg_regular": 111.78,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 19,
+    "unds": 254,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T09:55:05.829Z"
   }
 ]
