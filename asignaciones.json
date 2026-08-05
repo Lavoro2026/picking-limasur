@@ -1582,5 +1582,21 @@
     "unds": 254,
     "n_orden": 0,
     "timestamp": "2026-08-05T08:21:20.919Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "B",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 330.16,
+    "kg_regular": 86.27,
+    "zona": "C",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 37,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T08:27:46.634Z"
   }
 ]
