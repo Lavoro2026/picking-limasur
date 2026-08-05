@@ -2014,5 +2014,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-05T09:12:58.535Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 315.41,
+    "kg_regular": 69.64,
+    "zona": "C",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 19,
+    "unds": 212,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T09:13:03.833Z"
   }
 ]
