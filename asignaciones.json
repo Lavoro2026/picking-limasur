@@ -1790,5 +1790,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-08-05T08:55:26.400Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "C",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 547.85,
+    "kg_regular": 547.85,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 40,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T08:57:30.862Z"
   }
 ]
