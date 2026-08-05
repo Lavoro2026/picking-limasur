@@ -750,5 +750,21 @@
     "unds": 277,
     "n_orden": 0,
     "timestamp": "2026-08-05T06:50:04.014Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 26.11,
+    "kg_regular": 26.11,
+    "zona": "A",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T06:51:18.293Z"
   }
 ]
