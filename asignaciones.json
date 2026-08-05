@@ -1918,5 +1918,21 @@
     "unds": 215,
     "n_orden": 0,
     "timestamp": "2026-08-05T09:07:21.749Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "C",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 697.72,
+    "kg_regular": 697.72,
+    "zona": "C",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 70,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-05T09:11:39.744Z"
   }
 ]
