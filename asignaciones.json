@@ -1758,5 +1758,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-08-06T08:31:14.237Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 15.8,
+    "kg_regular": 15.8,
+    "zona": "C",
+    "material": "1005249",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 3.78L PQTX2UND",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-06T08:31:38.415Z"
   }
 ]
