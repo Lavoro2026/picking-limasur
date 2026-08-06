@@ -206,5 +206,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-06T05:40:52.417Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 67.95,
+    "kg_regular": 67.95,
+    "zona": "A",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 8,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-06T05:41:04.236Z"
   }
 ]
