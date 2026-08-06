@@ -782,5 +782,21 @@
     "unds": 200,
     "n_orden": 0,
     "timestamp": "2026-08-06T06:35:05.921Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "G",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 1.43,
+    "kg_regular": 1.43,
+    "zona": "A",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-06T06:35:07.101Z"
   }
 ]
