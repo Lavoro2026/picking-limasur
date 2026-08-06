@@ -1614,5 +1614,21 @@
     "unds": 180,
     "n_orden": 0,
     "timestamp": "2026-08-06T08:11:59.346Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 24.14,
+    "kg_regular": 24.14,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-06T08:13:30.115Z"
   }
 ]
