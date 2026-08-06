@@ -1470,5 +1470,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-08-06T07:58:55.856Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "F",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 169.39,
+    "kg_regular": 169.39,
+    "zona": "C",
+    "material": "3233",
+    "denominacion": "BONLE QUESO FRESC LIGHTXKG MOLDE SIN OCT",
+    "cajas": 31,
+    "unds": 219,
+    "n_orden": 0,
+    "timestamp": "2026-08-06T07:59:00.800Z"
   }
 ]
