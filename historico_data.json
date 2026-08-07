@@ -1139,37 +1139,24 @@
     },
     "2026-08-06": {
       "fecha": "06/08/2026",
-      "total_kg": 55710.31,
-      "total_kg_regular": 48261.15999999999,
-      "total_cajas": 5534,
-      "total_pickers": 9,
-      "total_placas": 176,
+      "total_kg": 2012.79,
+      "total_kg_regular": 1493.73,
+      "total_cajas": 158,
+      "total_pickers": 4,
+      "total_placas": 5,
       "pickers": [
-        "FRANCIA MENA, LIZANDRO",
-        "MACAZANA ROSALES, JOHN ALEXANDER",
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "VIZA QUISPE, JOEL ALEXANDER",
+        "ARAUCO TICONA PABLO NICOLAS",
         "QUINDE RETETE DANILO NATAN",
-        "YANAC VILLANUEVA, PEDRO LUIS",
-        "GUERRERO VILCA, BRYAN ANTONY",
         "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-        "CALLE TRIGUEROS, LUIS GERARDO"
+        "VIZA QUISPE, JOEL ALEXANDER"
       ],
       "por_familia": {
-        "F": 6108.100000000001,
-        "C": 19880.060000000005,
-        "A": 19568.84,
-        "D": 3533.69,
-        "B": 5715.26,
-        "G": 124.64,
-        "E": 779.72
+        "B": 715.17,
+        "A": 907.1,
+        "C": 390.52
       },
       "por_almacen": {
-        "A": 15728.470000000005,
-        "B": 8485.179999999998,
-        "C": 10274.699999999995,
-        "E": 11791.870000000003,
-        "D": 9430.09
+        "A": 2012.79
       }
     },
     "2026-07-07": {
