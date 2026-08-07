@@ -1614,5 +1614,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-07T11:27:32.943Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "B",
+    "picador": "QUINDE RETETE DANILO NATAN",
+    "nombre": "QUINDE RETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 268.6,
+    "kg_regular": 80.8,
+    "zona": "E",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 17,
+    "unds": 167,
+    "n_orden": 0,
+    "timestamp": "2026-08-07T11:28:55.880Z"
   }
 ]
