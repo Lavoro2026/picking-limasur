@@ -14,5 +14,21 @@
     "unds": 364,
     "n_orden": 0,
     "timestamp": "2026-08-07T06:02:52.366Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "G",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 20.58,
+    "kg_regular": 20.58,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 6,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-08-07T06:02:53.578Z"
   }
 ]
