@@ -94,5 +94,21 @@
     "unds": 243,
     "n_orden": 0,
     "timestamp": "2026-08-07T06:06:06.595Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 99.15,
+    "kg_regular": 15.12,
+    "zona": "A",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 6,
+    "unds": 46,
+    "n_orden": 0,
+    "timestamp": "2026-08-07T06:13:01.195Z"
   }
 ]
