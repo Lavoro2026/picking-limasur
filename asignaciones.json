@@ -590,5 +590,21 @@
     "unds": 290,
     "n_orden": 0,
     "timestamp": "2026-08-07T07:35:04.629Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "G",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 2.16,
+    "kg_regular": 2.16,
+    "zona": "B",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-07T07:35:06.226Z"
   }
 ]
