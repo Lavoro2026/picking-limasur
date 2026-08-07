@@ -1518,5 +1518,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-08-07T11:01:42.367Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "C",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 82.41,
+    "kg_regular": 82.41,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 7,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-08-07T11:01:53.910Z"
   }
 ]
