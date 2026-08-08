@@ -718,5 +718,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-08-08T07:02:23.569Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "F",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 200.75,
+    "kg_regular": 200.75,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 41,
+    "unds": 269,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T07:03:03.180Z"
   }
 ]
