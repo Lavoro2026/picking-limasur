@@ -1614,5 +1614,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-08-08T08:16:06.100Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 216.85,
+    "kg_regular": 216.85,
+    "zona": "C",
+    "material": "1005253",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 1.5 LX6U",
+    "cajas": 27,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T08:20:35.997Z"
   }
 ]
