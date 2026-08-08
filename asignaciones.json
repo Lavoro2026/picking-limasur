@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "F7B746",
+    "familia": "F",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 143.79,
+    "kg_regular": 143.79,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 26,
+    "unds": 218,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T05:16:42.930Z"
+  }
+]
