@@ -2558,5 +2558,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-08-08T09:29:16.983Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 19.77,
+    "kg_regular": 19.77,
+    "zona": "D",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 3,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T09:32:49.659Z"
   }
 ]
