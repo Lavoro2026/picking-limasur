@@ -1678,5 +1678,21 @@
     "unds": 97,
     "n_orden": 0,
     "timestamp": "2026-08-08T08:26:50.033Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "G",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 4.21,
+    "kg_regular": 4.21,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T08:26:51.481Z"
   }
 ]
