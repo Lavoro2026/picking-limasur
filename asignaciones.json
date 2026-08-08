@@ -2910,5 +2910,21 @@
     "unds": 182,
     "n_orden": 0,
     "timestamp": "2026-08-08T10:04:09.629Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "A",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 580.74,
+    "kg_regular": 580.74,
+    "zona": "D",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 50,
+    "unds": 174,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T10:04:48.621Z"
   }
 ]
