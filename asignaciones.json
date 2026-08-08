@@ -1342,5 +1342,21 @@
     "unds": 237,
     "n_orden": 0,
     "timestamp": "2026-08-08T07:45:02.645Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "G",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 24.94,
+    "kg_regular": 24.94,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 8,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T07:45:04.015Z"
   }
 ]
