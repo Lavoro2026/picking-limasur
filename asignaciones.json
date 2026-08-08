@@ -1102,5 +1102,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-08-08T07:28:11.247Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "CALLE TRIGUEROS, LUIS GERARDO",
+    "nombre": "CALLE TRIGUEROS, LUIS GERARDO",
+    "controlador": "0",
+    "kg": 734.14,
+    "kg_regular": 264.22,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 60,
+    "unds": 180,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T07:28:22.696Z"
   }
 ]
