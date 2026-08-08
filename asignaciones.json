@@ -2174,5 +2174,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-08-08T08:51:01.940Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "YANAC VILLANUEVA, PEDRO LUIS",
+    "nombre": "YANAC VILLANUEVA, PEDRO LUIS",
+    "controlador": "0",
+    "kg": 106.88,
+    "kg_regular": 106.88,
+    "zona": "C",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 7,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-08T08:53:45.651Z"
   }
 ]
