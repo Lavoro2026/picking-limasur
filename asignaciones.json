@@ -46,5 +46,21 @@
     "unds": 260,
     "n_orden": 0,
     "timestamp": "2026-08-10T05:23:22.825Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "B",
+    "picador": "GUERRERO VILCA, BRYAN ANTONY",
+    "nombre": "GUERRERO VILCA, BRYAN ANTONY",
+    "controlador": "0",
+    "kg": 553.97,
+    "kg_regular": 87.8,
+    "zona": "A",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 43,
+    "unds": 218,
+    "n_orden": 0,
+    "timestamp": "2026-08-10T05:23:44.809Z"
   }
 ]
