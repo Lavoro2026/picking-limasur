@@ -1166,5 +1166,21 @@
     "unds": 201,
     "n_orden": 0,
     "timestamp": "2026-08-10T09:05:00.005Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "B",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 102.35,
+    "kg_regular": 69.97,
+    "zona": "D",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 13,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-08-10T09:05:40.883Z"
   }
 ]
