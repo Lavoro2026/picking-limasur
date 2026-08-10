@@ -1630,5 +1630,21 @@
     "unds": 256,
     "n_orden": 0,
     "timestamp": "2026-08-10T12:01:35.236Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "F",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 128.5,
+    "kg_regular": 128.5,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 22,
+    "unds": 211,
+    "n_orden": 0,
+    "timestamp": "2026-08-10T12:02:05.173Z"
   }
 ]
