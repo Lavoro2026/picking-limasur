@@ -1726,5 +1726,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-11T09:19:46.097Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "E",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 222.33,
+    "kg_regular": 47.63,
+    "zona": "F",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 35,
+    "unds": 65,
+    "n_orden": 0,
+    "timestamp": "2026-08-11T09:24:28.812Z"
   }
 ]
