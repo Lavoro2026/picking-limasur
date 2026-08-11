@@ -1422,5 +1422,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-08-11T08:36:31.525Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 165.92,
+    "kg_regular": 165.92,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 35,
+    "unds": 215,
+    "n_orden": 0,
+    "timestamp": "2026-08-11T08:39:15.906Z"
   }
 ]
