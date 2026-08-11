@@ -2478,5 +2478,21 @@
     "unds": 202,
     "n_orden": 0,
     "timestamp": "2026-08-11T11:55:14.205Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "A",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 551.75,
+    "kg_regular": 551.75,
+    "zona": "E",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 45,
+    "unds": 281,
+    "n_orden": 0,
+    "timestamp": "2026-08-11T11:55:44.886Z"
   }
 ]
