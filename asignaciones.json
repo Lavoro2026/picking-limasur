@@ -2302,5 +2302,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-08-11T10:51:36.366Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "B",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 213.17,
+    "kg_regular": 88.1,
+    "zona": "E",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 14,
+    "unds": 173,
+    "n_orden": 0,
+    "timestamp": "2026-08-11T10:51:44.063Z"
   }
 ]
