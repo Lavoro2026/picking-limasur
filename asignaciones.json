@@ -2158,5 +2158,21 @@
     "unds": 309,
     "n_orden": 0,
     "timestamp": "2026-08-12T09:47:33.463Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "A",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 1308.15,
+    "kg_regular": 1308.15,
+    "zona": "D",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 115,
+    "unds": 385,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T09:47:36.179Z"
   }
 ]
