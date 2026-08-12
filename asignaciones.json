@@ -734,5 +734,21 @@
     "unds": 259,
     "n_orden": 0,
     "timestamp": "2026-08-12T07:04:33.825Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "A",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 1249.8,
+    "kg_regular": 1249.8,
+    "zona": "B",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 120,
+    "unds": 51,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T07:04:36.312Z"
   }
 ]
