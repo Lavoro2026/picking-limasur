@@ -1054,5 +1054,21 @@
     "unds": 203,
     "n_orden": 0,
     "timestamp": "2026-08-12T07:40:22.348Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "B",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 1861.29,
+    "kg_regular": 18.4,
+    "zona": "B",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 173,
+    "unds": 73,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T07:42:11.567Z"
   }
 ]
