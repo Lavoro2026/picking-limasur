@@ -782,5 +782,21 @@
     "unds": 242,
     "n_orden": 0,
     "timestamp": "2026-08-12T07:05:13.933Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "E",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 315.68,
+    "kg_regular": 41.29,
+    "zona": "A",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 50,
+    "unds": 60,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T07:07:00.752Z"
   }
 ]
