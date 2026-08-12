@@ -382,5 +382,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-08-12T06:18:44.304Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "G",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 1.73,
+    "kg_regular": 1.73,
+    "zona": "A",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T06:18:45.778Z"
   }
 ]
