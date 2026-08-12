@@ -2750,5 +2750,21 @@
     "unds": 230,
     "n_orden": 0,
     "timestamp": "2026-08-12T11:52:14.169Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "A",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 761.14,
+    "kg_regular": 761.14,
+    "zona": "E",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 69,
+    "unds": 152,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T11:59:09.202Z"
   }
 ]
