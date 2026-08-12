@@ -2734,5 +2734,21 @@
     "unds": 168,
     "n_orden": 0,
     "timestamp": "2026-08-12T11:49:16.184Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "A",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 404.45,
+    "kg_regular": 404.45,
+    "zona": "E",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 33,
+    "unds": 230,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T11:52:14.169Z"
   }
 ]
