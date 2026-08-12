@@ -1246,5 +1246,21 @@
     "unds": 166,
     "n_orden": 0,
     "timestamp": "2026-08-12T07:58:39.471Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "G",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 11.05,
+    "kg_regular": 11.05,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 4,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T07:58:41.088Z"
   }
 ]
