@@ -2414,5 +2414,21 @@
     "unds": 94,
     "n_orden": 0,
     "timestamp": "2026-08-12T10:28:09.946Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 740.53,
+    "kg_regular": 129,
+    "zona": "D",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 67,
+    "unds": 163,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T10:29:08.263Z"
   }
 ]
