@@ -1886,5 +1886,21 @@
     "unds": 218,
     "n_orden": 0,
     "timestamp": "2026-08-12T08:59:02.682Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "E",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 207.02,
+    "kg_regular": 19.49,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 31,
+    "unds": 45,
+    "n_orden": 0,
+    "timestamp": "2026-08-12T09:03:35.872Z"
   }
 ]
