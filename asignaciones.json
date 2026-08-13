@@ -366,5 +366,21 @@
     "unds": 326,
     "n_orden": 0,
     "timestamp": "2026-08-13T07:14:40.687Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "A",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 320.92,
+    "kg_regular": 320.92,
+    "zona": "B",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 25,
+    "unds": 206,
+    "n_orden": 0,
+    "timestamp": "2026-08-13T07:14:48.832Z"
   }
 ]
