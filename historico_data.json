@@ -2369,36 +2369,19 @@
     },
     "2026-08-12": {
       "fecha": "12/08/2026",
-      "total_kg": 75369.34999999995,
-      "total_kg_regular": 45062.02,
-      "total_cajas": 7756,
-      "total_pickers": 9,
-      "total_placas": 173,
+      "total_kg": 987.09,
+      "total_kg_regular": 168.87,
+      "total_cajas": 158,
+      "total_pickers": 1,
+      "total_placas": 3,
       "pickers": [
-        "QUINDE RETETE DANILO NATAN",
-        "ESCALANTE BALDEON LUIS JAYRO",
-        "VIZA QUISPE, JOEL ALEXANDER",
-        "FRANCIA MENA, LIZANDRO",
-        "CARHUAPOMA GOSURE, ALVARO",
-        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "ROLDAM QUICAÑA, JOSE ANTONIO",
-        "ARAUCO TICONA PABLO NICOLAS"
+        "ROLDAM QUICAÑA, JOSE ANTONIO"
       ],
       "por_familia": {
-        "A": 35494.9,
-        "F": 5479.139999999999,
-        "B": 24000.050000000003,
-        "G": 173.73,
-        "E": 10221.53
+        "E": 987.09
       },
       "por_almacen": {
-        "A": 18452.690000000006,
-        "B": 16501.14,
-        "C": 14559.750000000002,
-        "D": 15296.499999999998,
-        "E": 8754.59,
-        "F": 1804.68
+        "A": 987.09
       }
     },
     "2026-06-13": {
