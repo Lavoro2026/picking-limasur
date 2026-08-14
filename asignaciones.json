@@ -1598,5 +1598,21 @@
     "unds": 199,
     "n_orden": 0,
     "timestamp": "2026-08-14T08:01:09.544Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "B",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 250.93,
+    "kg_regular": 82.79,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 15,
+    "unds": 211,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T08:01:28.540Z"
   }
 ]
