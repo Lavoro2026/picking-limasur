@@ -3054,5 +3054,21 @@
     "unds": 283,
     "n_orden": 0,
     "timestamp": "2026-08-14T10:07:20.777Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "G",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 3.63,
+    "kg_regular": 3.63,
+    "zona": "D",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T10:07:22.527Z"
   }
 ]
