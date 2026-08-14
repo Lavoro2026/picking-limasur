@@ -366,5 +366,21 @@
     "unds": 344,
     "n_orden": 0,
     "timestamp": "2026-08-14T06:05:39.152Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 91.48,
+    "kg_regular": 91.48,
+    "zona": "A",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 15,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T06:05:46.850Z"
   }
 ]
