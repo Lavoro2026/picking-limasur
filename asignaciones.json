@@ -1422,5 +1422,21 @@
     "unds": 48,
     "n_orden": 0,
     "timestamp": "2026-08-14T07:50:30.743Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 1.68,
+    "kg_regular": 1.68,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T07:53:29.630Z"
   }
 ]
