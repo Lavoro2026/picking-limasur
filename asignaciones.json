@@ -1150,5 +1150,21 @@
     "unds": 164,
     "n_orden": 0,
     "timestamp": "2026-08-14T07:30:12.019Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "A",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 379.66,
+    "kg_regular": 379.66,
+    "zona": "C",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 30,
+    "unds": 222,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T07:30:28.774Z"
   }
 ]
