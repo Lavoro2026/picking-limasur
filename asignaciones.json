@@ -2606,5 +2606,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-08-14T09:34:12.552Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 34.04,
+    "kg_regular": 34.04,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 5,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T09:34:52.631Z"
   }
 ]
