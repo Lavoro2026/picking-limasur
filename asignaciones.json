@@ -3134,5 +3134,21 @@
     "unds": 206,
     "n_orden": 0,
     "timestamp": "2026-08-14T10:18:27.849Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "A",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 332.71,
+    "kg_regular": 332.71,
+    "zona": "E",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 27,
+    "unds": 143,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T10:22:03.463Z"
   }
 ]
