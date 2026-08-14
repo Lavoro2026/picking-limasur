@@ -3582,5 +3582,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-08-14T10:35:16.336Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 104.57,
+    "kg_regular": 104.57,
+    "zona": "E",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 13,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T10:35:23.444Z"
   }
 ]
