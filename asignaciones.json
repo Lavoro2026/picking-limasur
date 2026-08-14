@@ -830,5 +830,21 @@
     "unds": 272,
     "n_orden": 0,
     "timestamp": "2026-08-14T06:53:11.778Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "G",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 25.12,
+    "kg_regular": 25.12,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 11,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T06:53:13.096Z"
   }
 ]
