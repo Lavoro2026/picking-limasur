@@ -2990,5 +2990,21 @@
     "unds": 303,
     "n_orden": 0,
     "timestamp": "2026-08-14T10:01:12.860Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 168.71,
+    "kg_regular": 168.71,
+    "zona": "D",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 20,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T10:06:30.739Z"
   }
 ]
