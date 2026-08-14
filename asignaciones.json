@@ -1950,5 +1950,21 @@
     "unds": 198,
     "n_orden": 0,
     "timestamp": "2026-08-14T08:38:40.166Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 100.57,
+    "kg_regular": 100.57,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 10,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T08:39:17.800Z"
   }
 ]
