@@ -2814,5 +2814,21 @@
     "unds": 344,
     "n_orden": 0,
     "timestamp": "2026-08-14T09:51:29.326Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "F",
+    "picador": "ESCALANTE BALDEON LUIS JAYRO",
+    "nombre": "ESCALANTE BALDEON LUIS JAYRO",
+    "controlador": "0",
+    "kg": 111.28,
+    "kg_regular": 111.28,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 23,
+    "unds": 166,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T09:51:38.028Z"
   }
 ]
