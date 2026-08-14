@@ -238,5 +238,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-08-14T05:52:07.181Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 27.97,
+    "kg_regular": 27.97,
+    "zona": "A",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 4,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T05:52:34.716Z"
   }
 ]
