@@ -1278,5 +1278,21 @@
     "unds": 135,
     "n_orden": 0,
     "timestamp": "2026-08-14T07:43:48.979Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "B",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 336.5,
+    "kg_regular": 79.02,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 25,
+    "unds": 184,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T07:44:07.910Z"
   }
 ]
