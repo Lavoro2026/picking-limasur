@@ -3630,5 +3630,21 @@
     "unds": 1,
     "n_orden": 0,
     "timestamp": "2026-08-14T10:38:51.967Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "B",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 472.17,
+    "kg_regular": 161.16,
+    "zona": "E",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 33,
+    "unds": 263,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T10:40:50.543Z"
   }
 ]
