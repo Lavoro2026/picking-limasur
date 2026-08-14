@@ -1742,5 +1742,21 @@
     "unds": 1,
     "n_orden": 0,
     "timestamp": "2026-08-14T08:17:36.532Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "D",
+    "picador": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "nombre": "DE LA ROSA PAÑIURA, JOSE EDUARDO",
+    "controlador": "0",
+    "kg": 383.49,
+    "kg_regular": 383.49,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 53,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T08:17:53.976Z"
   }
 ]
