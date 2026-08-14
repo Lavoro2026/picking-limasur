@@ -2782,5 +2782,21 @@
     "unds": 201,
     "n_orden": 0,
     "timestamp": "2026-08-14T09:50:43.314Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 53.72,
+    "kg_regular": 53.72,
+    "zona": "D",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 7,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-08-14T09:51:24.712Z"
   }
 ]
