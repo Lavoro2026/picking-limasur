@@ -1806,5 +1806,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-08-15T10:28:53.895Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "A",
+    "picador": "VENTURA LOZANO BRAYANS AMIR",
+    "nombre": "VENTURA LOZANO BRAYANS AMIR",
+    "controlador": "0",
+    "kg": 1204.64,
+    "kg_regular": 1204.64,
+    "zona": "E",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 110,
+    "unds": 251,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T10:30:04.687Z"
   }
 ]
