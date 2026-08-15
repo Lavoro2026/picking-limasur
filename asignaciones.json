@@ -286,5 +286,21 @@
     "unds": 124,
     "n_orden": 0,
     "timestamp": "2026-08-15T07:20:37.483Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 11.57,
+    "kg_regular": 11.57,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T07:22:53.276Z"
   }
 ]
