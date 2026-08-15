@@ -750,5 +750,21 @@
     "unds": 231,
     "n_orden": 0,
     "timestamp": "2026-08-15T08:21:45.808Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 109.12,
+    "kg_regular": 109.12,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 18,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T08:27:01.048Z"
   }
 ]
