@@ -1102,5 +1102,21 @@
     "unds": 185,
     "n_orden": 0,
     "timestamp": "2026-08-15T09:08:48.853Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 225.37,
+    "kg_regular": 225.37,
+    "zona": "C",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 31,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T09:09:16.935Z"
   }
 ]
