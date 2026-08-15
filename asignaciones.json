@@ -942,5 +942,21 @@
     "unds": 73,
     "n_orden": 0,
     "timestamp": "2026-08-15T08:38:23.357Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "G",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 2.18,
+    "kg_regular": 2.18,
+    "zona": "B",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T08:38:25.024Z"
   }
 ]
