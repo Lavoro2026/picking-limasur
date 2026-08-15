@@ -1934,5 +1934,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-08-15T11:02:28.132Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 40.44,
+    "kg_regular": 40.44,
+    "zona": "D",
+    "material": "1050249",
+    "denominacion": "ARUBA REFR. BLUE PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T11:02:56.152Z"
   }
 ]
