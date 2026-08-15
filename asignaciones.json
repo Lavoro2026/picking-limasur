@@ -734,5 +734,21 @@
     "unds": 205,
     "n_orden": 0,
     "timestamp": "2026-08-15T06:38:10.882Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "C",
+    "picador": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "nombre": "MACAZANA ROSALES, JOHN ALEXANDER",
+    "controlador": "0",
+    "kg": 626.51,
+    "kg_regular": 626.51,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 58,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T06:41:47.559Z"
   }
 ]
