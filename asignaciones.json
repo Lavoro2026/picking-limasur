@@ -1182,5 +1182,21 @@
     "unds": 361,
     "n_orden": 0,
     "timestamp": "2026-08-15T09:32:31.448Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "B",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 280.2,
+    "kg_regular": 53.09,
+    "zona": "D",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 18,
+    "unds": 136,
+    "n_orden": 0,
+    "timestamp": "2026-08-15T09:49:44.013Z"
   }
 ]
