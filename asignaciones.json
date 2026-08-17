@@ -78,5 +78,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-08-17T05:27:24.360Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "C",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 949.7,
+    "kg_regular": 949.7,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 78,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-08-17T05:34:01.798Z"
   }
 ]
