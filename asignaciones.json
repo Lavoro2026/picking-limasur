@@ -494,5 +494,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-08-17T06:55:49.594Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 129.95,
+    "kg_regular": 129.95,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 24,
+    "unds": 167,
+    "n_orden": 0,
+    "timestamp": "2026-08-17T06:57:50.587Z"
   }
 ]
