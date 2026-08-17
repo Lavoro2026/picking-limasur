@@ -430,5 +430,21 @@
     "unds": 158,
     "n_orden": 0,
     "timestamp": "2026-08-17T06:44:20.355Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "G",
+    "picador": "ZAPATA OYARCE MARCO ANTONIO",
+    "nombre": "ZAPATA OYARCE MARCO ANTONIO",
+    "controlador": "0",
+    "kg": 2.07,
+    "kg_regular": 2.07,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-17T06:44:21.911Z"
   }
 ]
