@@ -638,5 +638,21 @@
     "unds": 287,
     "n_orden": 0,
     "timestamp": "2026-08-18T09:30:22.028Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "G",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 2.15,
+    "kg_regular": 2.15,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T09:30:23.653Z"
   }
 ]
