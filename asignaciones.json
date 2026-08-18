@@ -382,5 +382,21 @@
     "unds": 167,
     "n_orden": 0,
     "timestamp": "2026-08-18T08:08:00.427Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 55.74,
+    "kg_regular": 55.74,
+    "zona": "C",
+    "material": "1003109",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X6UX500G",
+    "cajas": 15,
+    "unds": 66,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T08:10:05.365Z"
   }
 ]
