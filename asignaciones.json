@@ -62,5 +62,21 @@
     "unds": 151,
     "n_orden": 0,
     "timestamp": "2026-08-18T05:47:02.705Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "A",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 707.07,
+    "kg_regular": 707.07,
+    "zona": "A",
+    "material": "535452",
+    "denominacion": "LA MESA GRAT SARDINA AGUA Y SALX160GX48L",
+    "cajas": 61,
+    "unds": 229,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T05:50:16.172Z"
   }
 ]
