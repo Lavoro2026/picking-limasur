@@ -622,5 +622,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-08-18T09:29:53.107Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "B",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 617.11,
+    "kg_regular": 180.29,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 47,
+    "unds": 287,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T09:30:22.028Z"
   }
 ]
