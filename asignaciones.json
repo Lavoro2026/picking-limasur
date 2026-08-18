@@ -782,5 +782,21 @@
     "unds": 293,
     "n_orden": 0,
     "timestamp": "2026-08-18T09:35:52.228Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "C",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 678.72,
+    "kg_regular": 678.72,
+    "zona": "D",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 63,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T09:36:22.189Z"
   }
 ]
