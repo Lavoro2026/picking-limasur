@@ -142,5 +142,21 @@
     "unds": 225,
     "n_orden": 0,
     "timestamp": "2026-08-18T06:14:11.433Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "B",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 424.93,
+    "kg_regular": 93.11,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 32,
+    "unds": 193,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T06:15:46.083Z"
   }
 ]
