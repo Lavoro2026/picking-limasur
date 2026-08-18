@@ -430,5 +430,21 @@
     "unds": 238,
     "n_orden": 0,
     "timestamp": "2026-08-18T08:19:06.327Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "A",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 674.22,
+    "kg_regular": 674.22,
+    "zona": "C",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 57,
+    "unds": 300,
+    "n_orden": 0,
+    "timestamp": "2026-08-18T08:24:40.539Z"
   }
 ]
