@@ -766,5 +766,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-08-19T08:14:10.104Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 84.21,
+    "kg_regular": 84.21,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 12,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-08-19T08:14:43.290Z"
   }
 ]
