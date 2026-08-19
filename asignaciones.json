@@ -606,5 +606,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-08-19T07:43:04.841Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 30.36,
+    "kg_regular": 30.36,
+    "zona": "B",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-19T07:49:12.776Z"
   }
 ]
