@@ -718,5 +718,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-19T08:04:28.127Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 330.93,
+    "kg_regular": 330.93,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 42,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-08-19T08:12:00.565Z"
   }
 ]
