@@ -2174,5 +2174,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-08-20T10:10:52.486Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "E",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 189.79,
+    "kg_regular": 50.62,
+    "zona": "F",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 27,
+    "unds": 73,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T10:11:21.007Z"
   }
 ]
