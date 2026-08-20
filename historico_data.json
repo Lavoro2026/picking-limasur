@@ -3809,32 +3809,19 @@
     },
     "2026-08-19": {
       "fecha": "19/08/2026",
-      "total_kg": 32997.42000000001,
-      "total_kg_regular": 26739.040000000008,
-      "total_cajas": 3738,
-      "total_pickers": 7,
-      "total_placas": 101,
+      "total_kg": 53.95,
+      "total_kg_regular": 53.95,
+      "total_cajas": 7,
+      "total_pickers": 1,
+      "total_placas": 1,
       "pickers": [
-        "CARHUAPOMA GOSURE, ALVARO",
-        "VIZA QUISPE, JOEL ALEXANDER",
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-        "GARCIA DAHUA, LIZANDRO",
-        "MEZA RAMOS, REYNER FRANZ",
-        "TORRES CALDAS OSCAR RUBEN"
+        "GARCIA DAHUA, LIZANDRO"
       ],
       "por_familia": {
-        "F": 6595.950000000001,
-        "A": 23809.469999999994,
-        "D": 2591.999999999999
+        "D": 53.95
       },
       "por_almacen": {
-        "A": 5975.089999999998,
-        "B": 4925.7,
-        "C": 8219.530000000002,
-        "D": 6169.990000000001,
-        "E": 3240.7,
-        "F": 4466.41
+        "A": 53.95
       }
     },
     "2026-06-20": {
