@@ -1950,5 +1950,21 @@
     "unds": 47,
     "n_orden": 0,
     "timestamp": "2026-08-20T09:39:34.736Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "E",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 219.82,
+    "kg_regular": 27.35,
+    "zona": "E",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 34,
+    "unds": 51,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T09:39:48.292Z"
   }
 ]
