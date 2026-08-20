@@ -2190,5 +2190,21 @@
     "unds": 73,
     "n_orden": 0,
     "timestamp": "2026-08-20T10:11:21.007Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "E",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 157.9,
+    "kg_regular": 27.62,
+    "zona": "F",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 23,
+    "unds": 49,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T10:13:56.834Z"
   }
 ]
