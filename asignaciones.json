@@ -478,5 +478,21 @@
     "unds": 69,
     "n_orden": 0,
     "timestamp": "2026-08-20T06:17:11.246Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 28.53,
+    "kg_regular": 28.53,
+    "zona": "A",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T06:19:00.567Z"
   }
 ]
