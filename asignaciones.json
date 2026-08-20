@@ -2382,5 +2382,21 @@
     "unds": 259,
     "n_orden": 0,
     "timestamp": "2026-08-20T10:42:26.980Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 86.32,
+    "kg_regular": 86.32,
+    "zona": "F",
+    "material": "1005067",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 3L X 4UND",
+    "cajas": 11,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T10:45:00.009Z"
   }
 ]
