@@ -894,5 +894,21 @@
     "unds": 103,
     "n_orden": 0,
     "timestamp": "2026-08-20T07:18:36.270Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "E",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 263.01,
+    "kg_regular": 59.69,
+    "zona": "C",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 40,
+    "unds": 83,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T07:19:39.016Z"
   }
 ]
