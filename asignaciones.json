@@ -254,5 +254,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-08-20T05:54:07.675Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 34.01,
+    "kg_regular": 34.01,
+    "zona": "A",
+    "material": "1050247",
+    "denominacion": "ARUBA TE VERDE DURAZNO X400MLX12 PET",
+    "cajas": 5,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T05:56:47.573Z"
   }
 ]
