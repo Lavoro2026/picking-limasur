@@ -2430,5 +2430,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-08-20T10:45:21.411Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 131.4,
+    "kg_regular": 131.4,
+    "zona": "F",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 20,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T10:57:21.445Z"
   }
 ]
