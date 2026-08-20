@@ -1166,5 +1166,21 @@
     "unds": 119,
     "n_orden": 0,
     "timestamp": "2026-08-20T08:03:39.052Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "D",
+    "picador": "GARCIA DAHUA, LIZANDRO",
+    "nombre": "GARCIA DAHUA, LIZANDRO",
+    "controlador": "0",
+    "kg": 180.62,
+    "kg_regular": 180.62,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 22,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-08-20T08:06:42.600Z"
   }
 ]
