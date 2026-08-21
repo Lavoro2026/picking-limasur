@@ -2414,5 +2414,21 @@
     "unds": 246,
     "n_orden": 0,
     "timestamp": "2026-08-21T09:08:28.728Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "G",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 1.45,
+    "kg_regular": 1.45,
+    "zona": "D",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T09:08:30.357Z"
   }
 ]
