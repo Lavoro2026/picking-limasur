@@ -366,5 +366,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-21T05:44:20.108Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 35.57,
+    "kg_regular": 35.57,
+    "zona": "A",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 3,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T05:45:04.589Z"
   }
 ]
