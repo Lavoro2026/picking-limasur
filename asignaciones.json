@@ -782,5 +782,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-21T06:21:47.846Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "E",
+    "picador": "FRANCIA MENA, LIZANDRO",
+    "nombre": "FRANCIA MENA, LIZANDRO",
+    "controlador": "0",
+    "kg": 31.18,
+    "kg_regular": 31.18,
+    "zona": "B",
+    "material": "1002749",
+    "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U C/MIE",
+    "cajas": 4,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T06:22:32.017Z"
   }
 ]
