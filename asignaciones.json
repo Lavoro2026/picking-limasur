@@ -1790,5 +1790,21 @@
     "unds": 44,
     "n_orden": 0,
     "timestamp": "2026-08-21T07:59:54.250Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "E",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 101.77,
+    "kg_regular": 23.79,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 14,
+    "unds": 42,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T08:02:44.314Z"
   }
 ]
