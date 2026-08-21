@@ -2702,5 +2702,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-08-21T09:57:37.462Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "D",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 65.86,
+    "kg_regular": 65.86,
+    "zona": "E",
+    "material": "1005067",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 3L X 4UND",
+    "cajas": 6,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T09:57:45.414Z"
   }
 ]
