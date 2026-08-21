@@ -1454,5 +1454,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-21T07:29:59.503Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 5.51,
+    "kg_regular": 5.51,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 1,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T07:30:10.030Z"
   }
 ]
