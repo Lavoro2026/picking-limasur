@@ -2142,5 +2142,21 @@
     "unds": 188,
     "n_orden": 0,
     "timestamp": "2026-08-21T08:43:31.115Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 18.24,
+    "kg_regular": 18.24,
+    "zona": "D",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 2,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T08:44:40.769Z"
   }
 ]
