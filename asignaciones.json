@@ -2494,5 +2494,21 @@
     "unds": 232,
     "n_orden": 0,
     "timestamp": "2026-08-21T09:22:17.163Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "B",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 1345.59,
+    "kg_regular": 236.78,
+    "zona": "E",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 142,
+    "unds": 27,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T09:28:41.570Z"
   }
 ]
