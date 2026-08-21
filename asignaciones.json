@@ -974,5 +974,21 @@
     "unds": 372,
     "n_orden": 0,
     "timestamp": "2026-08-21T06:45:36.273Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "B",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 442.53,
+    "kg_regular": 91.47,
+    "zona": "B",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 32,
+    "unds": 171,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T06:45:39.527Z"
   }
 ]
