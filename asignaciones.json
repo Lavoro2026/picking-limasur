@@ -846,5 +846,21 @@
     "unds": 60,
     "n_orden": 0,
     "timestamp": "2026-08-21T06:36:31.342Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 21.85,
+    "kg_regular": 21.85,
+    "zona": "B",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T06:38:17.202Z"
   }
 ]
