@@ -830,5 +830,21 @@
     "unds": 70,
     "n_orden": 0,
     "timestamp": "2026-08-21T06:27:07.089Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "E",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 241.66,
+    "kg_regular": 55.12,
+    "zona": "B",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 36,
+    "unds": 60,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T06:36:31.342Z"
   }
 ]
