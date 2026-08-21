@@ -1198,5 +1198,21 @@
     "unds": 55,
     "n_orden": 0,
     "timestamp": "2026-08-21T07:07:42.702Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 31.99,
+    "kg_regular": 31.99,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 4,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-08-21T07:11:48.676Z"
   }
 ]
