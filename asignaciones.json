@@ -62,5 +62,21 @@
     "unds": 222,
     "n_orden": 0,
     "timestamp": "2026-08-22T05:41:07.211Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 11.6,
+    "kg_regular": 11.6,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 4,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-22T05:41:08.474Z"
   }
 ]
