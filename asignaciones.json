@@ -670,5 +670,21 @@
     "unds": 250,
     "n_orden": 0,
     "timestamp": "2026-08-22T07:03:41.221Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "B",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 392.07,
+    "kg_regular": 78.75,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 28,
+    "unds": 169,
+    "n_orden": 0,
+    "timestamp": "2026-08-22T07:04:40.961Z"
   }
 ]
