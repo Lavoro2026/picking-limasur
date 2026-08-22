@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "AHX902",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 124.78,
+    "kg_regular": 124.78,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 23,
+    "unds": 181,
+    "n_orden": 0,
+    "timestamp": "2026-08-22T05:37:48.379Z"
+  }
+]
