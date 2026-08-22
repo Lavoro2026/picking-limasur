@@ -318,5 +318,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-08-22T06:07:05.445Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 23.4,
+    "kg_regular": 23.4,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-22T06:09:04.188Z"
   }
 ]
