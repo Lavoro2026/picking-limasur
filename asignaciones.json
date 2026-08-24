@@ -494,5 +494,21 @@
     "unds": 207,
     "n_orden": 0,
     "timestamp": "2026-08-24T08:18:29.503Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "B",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 543.36,
+    "kg_regular": 177.08,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 45,
+    "unds": 160,
+    "n_orden": 0,
+    "timestamp": "2026-08-24T08:21:56.219Z"
   }
 ]
