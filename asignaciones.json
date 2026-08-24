@@ -702,5 +702,21 @@
     "unds": 132,
     "n_orden": 0,
     "timestamp": "2026-08-24T09:16:11.010Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 1.38,
+    "kg_regular": 1.38,
+    "zona": "C",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-24T09:16:12.563Z"
   }
 ]
