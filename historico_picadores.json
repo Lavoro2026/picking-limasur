@@ -7132,6 +7132,21 @@
         "controlador": "0",
         "timestamp": "2026-08-22T11:02:17.900Z"
       }
+    ],
+    "2026-08-23": [
+      {
+        "picador": "VIZA QUISPE, JOEL ALEXANDER",
+        "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+        "familia": "A",
+        "placa": "BKV855",
+        "zona": "A",
+        "controlador": "0",
+        "kg": 460.28,
+        "kg_regular": 460.28,
+        "cajas": 38,
+        "unds": 223,
+        "timestamp": "2026-08-24T05:09:55.918Z"
+      }
     ]
   }
 }
