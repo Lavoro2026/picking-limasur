@@ -414,5 +414,21 @@
     "unds": 306,
     "n_orden": 0,
     "timestamp": "2026-08-24T07:50:46.926Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "G",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 4.3,
+    "kg_regular": 4.3,
+    "zona": "C",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 1,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-24T07:50:48.014Z"
   }
 ]
