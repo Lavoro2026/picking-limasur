@@ -158,5 +158,21 @@
     "unds": 401,
     "n_orden": 0,
     "timestamp": "2026-08-24T06:00:30.528Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "G",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 15.82,
+    "kg_regular": 15.82,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 7,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-24T06:00:32.281Z"
   }
 ]
