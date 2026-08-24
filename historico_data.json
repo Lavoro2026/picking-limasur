@@ -5634,6 +5634,23 @@
       },
       "total_kg": 103998.71,
       "total_registros": 5387
+    },
+    "2026-08-23": {
+      "fecha": "23/08/2026",
+      "total_kg": 460.28,
+      "total_kg_regular": 460.28,
+      "total_cajas": 38,
+      "total_pickers": 1,
+      "total_placas": 1,
+      "pickers": [
+        "VIZA QUISPE, JOEL ALEXANDER"
+      ],
+      "por_familia": {
+        "A": 460.28
+      },
+      "por_almacen": {
+        "A": 460.28
+      }
     }
   }
 }
