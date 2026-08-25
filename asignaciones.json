@@ -318,5 +318,21 @@
     "unds": 181,
     "n_orden": 0,
     "timestamp": "2026-08-25T06:14:28.895Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 27.26,
+    "kg_regular": 27.26,
+    "zona": "A",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 4,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T06:15:49.647Z"
   }
 ]
