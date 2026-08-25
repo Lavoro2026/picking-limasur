@@ -622,5 +622,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-08-25T06:53:36.166Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 46.38,
+    "kg_regular": 46.38,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 26,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T06:53:37.604Z"
   }
 ]
