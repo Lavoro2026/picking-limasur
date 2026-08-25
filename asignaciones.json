@@ -670,5 +670,21 @@
     "unds": 223,
     "n_orden": 0,
     "timestamp": "2026-08-25T07:09:33.387Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 4.04,
+    "kg_regular": 4.04,
+    "zona": "B",
+    "material": "1003341",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 LUCUMA",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T07:09:34.726Z"
   }
 ]
