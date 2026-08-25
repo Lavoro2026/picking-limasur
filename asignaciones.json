@@ -878,5 +878,21 @@
     "unds": 130,
     "n_orden": 0,
     "timestamp": "2026-08-25T07:35:33.699Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 1130.83,
+    "kg_regular": 13.34,
+    "zona": "C",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 95,
+    "unds": 83,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T07:38:04.556Z"
   }
 ]
