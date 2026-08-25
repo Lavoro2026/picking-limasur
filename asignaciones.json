@@ -1390,5 +1390,21 @@
     "unds": 236,
     "n_orden": 0,
     "timestamp": "2026-08-25T08:56:50.466Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 442.95,
+    "kg_regular": 109.48,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 32,
+    "unds": 202,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T08:57:38.510Z"
   }
 ]
