@@ -942,5 +942,21 @@
     "unds": 62,
     "n_orden": 0,
     "timestamp": "2026-08-25T07:53:00.859Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 540.88,
+    "kg_regular": 78.74,
+    "zona": "C",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 48,
+    "unds": 129,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T07:54:11.412Z"
   }
 ]
