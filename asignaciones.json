@@ -2046,5 +2046,21 @@
     "unds": 162,
     "n_orden": 0,
     "timestamp": "2026-08-25T10:19:50.077Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 702.63,
+    "kg_regular": 702.63,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 65,
+    "unds": 27,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T10:21:11.245Z"
   }
 ]
