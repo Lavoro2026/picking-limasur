@@ -862,5 +862,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-08-25T07:27:40.292Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "F",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 58.49,
+    "kg_regular": 58.49,
+    "zona": "B",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 5,
+    "unds": 130,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T07:35:33.699Z"
   }
 ]
