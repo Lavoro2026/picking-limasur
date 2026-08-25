@@ -1806,5 +1806,21 @@
     "unds": 149,
     "n_orden": 0,
     "timestamp": "2026-08-25T10:08:42.789Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 1.08,
+    "kg_regular": 1.08,
+    "zona": "E",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-25T10:08:44.730Z"
   }
 ]
