@@ -3694,5 +3694,21 @@
     "unds": 213,
     "n_orden": 0,
     "timestamp": "2026-08-26T11:10:25.568Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "G",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 2.54,
+    "kg_regular": 2.54,
+    "zona": "F",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 1,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T11:10:27.523Z"
   }
 ]
