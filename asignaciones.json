@@ -734,5 +734,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-26T06:57:44.516Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 362.38,
+    "kg_regular": 91.61,
+    "zona": "B",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 29,
+    "unds": 142,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T06:57:47.537Z"
   }
 ]
