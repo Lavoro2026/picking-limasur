@@ -2974,5 +2974,21 @@
     "unds": 168,
     "n_orden": 0,
     "timestamp": "2026-08-26T10:16:34.102Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 2.17,
+    "kg_regular": 2.17,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T10:16:35.609Z"
   }
 ]
