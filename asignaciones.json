@@ -1518,5 +1518,21 @@
     "unds": 213,
     "n_orden": 0,
     "timestamp": "2026-08-26T08:04:20.837Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 200.33,
+    "kg_regular": 200.33,
+    "zona": "C",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 27,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T08:06:35.555Z"
   }
 ]
