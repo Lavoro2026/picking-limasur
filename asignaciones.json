@@ -1038,5 +1038,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-08-26T07:28:04.956Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 52.99,
+    "kg_regular": 52.99,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 8,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T07:29:26.243Z"
   }
 ]
