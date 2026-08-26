@@ -2270,5 +2270,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-08-26T09:10:06.558Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 24.14,
+    "kg_regular": 24.14,
+    "zona": "D",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T09:10:12.776Z"
   }
 ]
