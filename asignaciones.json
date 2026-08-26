@@ -1934,5 +1934,21 @@
     "unds": 174,
     "n_orden": 0,
     "timestamp": "2026-08-26T08:52:49.458Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 10.16,
+    "kg_regular": 10.16,
+    "zona": "C",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 4,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T08:52:51.087Z"
   }
 ]
