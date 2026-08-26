@@ -478,5 +478,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-08-26T06:25:22.906Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 66.33,
+    "kg_regular": 66.33,
+    "zona": "A",
+    "material": "1005251",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 1.5 LX6U",
+    "cajas": 10,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-08-26T06:25:58.636Z"
   }
 ]
