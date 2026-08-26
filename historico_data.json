@@ -5114,35 +5114,22 @@
     },
     "2026-08-25": {
       "fecha": "25/08/2026",
-      "total_kg": 45972.98,
-      "total_kg_regular": 28980.34,
-      "total_cajas": 4133,
-      "total_pickers": 8,
-      "total_placas": 131,
+      "total_kg": 558.42,
+      "total_kg_regular": 558.42,
+      "total_cajas": 57,
+      "total_pickers": 2,
+      "total_placas": 2,
       "pickers": [
-        "QUISPE NARAZAS, LEONEL GABRIEL",
-        "VIZA QUISPE, JOEL ALEXANDER",
         "ROLDAM QUICAÑA, JOSE ANTONIO",
-        "SECLEN ALLENDE, JESUS ROLANDO",
-        "MEZA RAMOS, REYNER FRANZ",
-        "MORALES CHUMPITAZ, JUAN MAURICIO",
-        "MORALES SEVILLA, LUIS DANIEL",
-        "TORRES CALDAS OSCAR RUBEN"
+        "VIZA QUISPE, JOEL ALEXANDER"
       ],
       "por_familia": {
-        "B": 18696.8,
-        "G": 234.78,
-        "A": 15721.720000000001,
-        "F": 1942.49,
-        "D": 1540.51,
-        "C": 7836.679999999999
+        "F": 115.21,
+        "A": 443.21
       },
       "por_almacen": {
-        "A": 9755.390000000003,
-        "B": 8848.279999999999,
-        "C": 11005.38,
-        "D": 7541.79,
-        "E": 8822.139999999998
+        "A": 115.21,
+        "B": 443.21
       }
     },
     "2026-06-26": {
