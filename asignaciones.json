@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "F7B746",
+    "familia": "F",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 188.61,
+    "kg_regular": 188.61,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 41,
+    "unds": 236,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T05:25:54.336Z"
+  }
+]
