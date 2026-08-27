@@ -3022,5 +3022,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-08-27T12:22:04.668Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 123.57,
+    "kg_regular": 123.57,
+    "zona": "E",
+    "material": "1005253",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 1.5 LX6U",
+    "cajas": 14,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T12:22:27.325Z"
   }
 ]
