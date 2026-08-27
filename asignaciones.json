@@ -2430,5 +2430,21 @@
     "unds": 271,
     "n_orden": 0,
     "timestamp": "2026-08-27T11:20:29.650Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 336.27,
+    "kg_regular": 126.75,
+    "zona": "E",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 19,
+    "unds": 188,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T11:23:46.399Z"
   }
 ]
