@@ -766,5 +766,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-08-27T07:07:59.402Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 46.39,
+    "kg_regular": 46.39,
+    "zona": "A",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 7,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T07:08:18.689Z"
   }
 ]
