@@ -1118,5 +1118,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-08-27T07:33:11.199Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 3.5,
+    "kg_regular": 3.5,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 0,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T07:33:12.915Z"
   }
 ]
