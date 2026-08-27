@@ -1342,5 +1342,21 @@
     "unds": 245,
     "n_orden": 0,
     "timestamp": "2026-08-27T08:34:07.070Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "F",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 144.91,
+    "kg_regular": 144.91,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 25,
+    "unds": 239,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T08:40:04.388Z"
   }
 ]
