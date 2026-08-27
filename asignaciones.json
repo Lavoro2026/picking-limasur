@@ -1358,5 +1358,21 @@
     "unds": 239,
     "n_orden": 0,
     "timestamp": "2026-08-27T08:40:04.388Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "F",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 257.87,
+    "kg_regular": 257.87,
+    "zona": "C",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 54,
+    "unds": 310,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T08:40:48.210Z"
   }
 ]
