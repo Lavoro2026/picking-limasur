@@ -3006,5 +3006,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-08-27T12:21:40.616Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 16.64,
+    "kg_regular": 16.64,
+    "zona": "E",
+    "material": "1005077",
+    "denominacion": "ARUBA REFR. GREEN PUNCH 400MLX12U",
+    "cajas": 3,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T12:22:04.668Z"
   }
 ]
