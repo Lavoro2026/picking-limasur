@@ -2814,5 +2814,21 @@
     "unds": 43,
     "n_orden": 0,
     "timestamp": "2026-08-27T11:53:56.288Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "E",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 492.01,
+    "kg_regular": 19.24,
+    "zona": "F",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 80,
+    "unds": 39,
+    "n_orden": 0,
+    "timestamp": "2026-08-27T11:54:05.645Z"
   }
 ]
