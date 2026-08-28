@@ -2638,5 +2638,21 @@
     "unds": 71,
     "n_orden": 0,
     "timestamp": "2026-08-28T10:27:04.145Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "E",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 67.87,
+    "kg_regular": 8.65,
+    "zona": "E",
+    "material": "1002749",
+    "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U C/MIE",
+    "cajas": 10,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T10:37:36.986Z"
   }
 ]
