@@ -2110,5 +2110,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-08-28T09:14:41.532Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "E",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 237.37,
+    "kg_regular": 17.27,
+    "zona": "D",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 36,
+    "unds": 63,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T09:16:58.497Z"
   }
 ]
