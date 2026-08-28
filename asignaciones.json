@@ -2078,5 +2078,21 @@
     "unds": 123,
     "n_orden": 0,
     "timestamp": "2026-08-28T09:13:52.568Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 3.08,
+    "kg_regular": 3.08,
+    "zona": "C",
+    "material": "1003349",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 VAINIL",
+    "cajas": 0,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T09:13:54.050Z"
   }
 ]
