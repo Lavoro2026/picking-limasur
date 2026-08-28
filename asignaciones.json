@@ -574,5 +574,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-08-28T06:43:26.229Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 57.08,
+    "kg_regular": 57.08,
+    "zona": "B",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 6,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T06:43:36.752Z"
   }
 ]
