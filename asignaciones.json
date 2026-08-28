@@ -1150,5 +1150,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-08-28T07:41:50.679Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 101,
+    "kg_regular": 101,
+    "zona": "C",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 9,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T07:42:20.133Z"
   }
 ]
