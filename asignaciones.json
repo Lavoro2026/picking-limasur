@@ -2510,5 +2510,21 @@
     "unds": 36,
     "n_orden": 0,
     "timestamp": "2026-08-28T10:16:33.774Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "F",
+    "picador": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICAÑA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 63,
+    "kg_regular": 63,
+    "zona": "E",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 6,
+    "unds": 156,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T10:18:11.507Z"
   }
 ]
