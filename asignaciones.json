@@ -1854,5 +1854,21 @@
     "unds": 69,
     "n_orden": 0,
     "timestamp": "2026-08-28T08:55:26.440Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 44.34,
+    "kg_regular": 44.34,
+    "zona": "E",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 6,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T08:56:53.576Z"
   }
 ]
