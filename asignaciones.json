@@ -1326,5 +1326,21 @@
     "unds": 75,
     "n_orden": 0,
     "timestamp": "2026-08-28T08:03:11.600Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "E",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 172.16,
+    "kg_regular": 30.03,
+    "zona": "B",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 25,
+    "unds": 44,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T08:03:19.524Z"
   }
 ]
