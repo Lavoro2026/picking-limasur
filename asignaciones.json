@@ -1694,5 +1694,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-08-28T08:30:39.842Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "E",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 192.2,
+    "kg_regular": 36.26,
+    "zona": "C",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 25,
+    "unds": 64,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T08:43:06.894Z"
   }
 ]
