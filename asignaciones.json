@@ -1022,5 +1022,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-08-28T07:32:15.179Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 28.61,
+    "kg_regular": 28.61,
+    "zona": "C",
+    "material": "539006",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML SIXPACK",
+    "cajas": 4,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-08-28T07:32:33.857Z"
   }
 ]
