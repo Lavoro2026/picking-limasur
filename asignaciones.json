@@ -1230,5 +1230,21 @@
     "unds": 258,
     "n_orden": 0,
     "timestamp": "2026-08-29T07:19:16.709Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 6.76,
+    "kg_regular": 6.76,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T07:19:18.316Z"
   }
 ]
