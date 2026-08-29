@@ -126,5 +126,21 @@
     "unds": 80,
     "n_orden": 0,
     "timestamp": "2026-08-29T05:48:23.281Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 280.46,
+    "kg_regular": 77.17,
+    "zona": "A",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 14,
+    "unds": 219,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T05:49:20.377Z"
   }
 ]
