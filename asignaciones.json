@@ -2814,5 +2814,21 @@
     "unds": 86,
     "n_orden": 0,
     "timestamp": "2026-08-29T10:11:20.095Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 18.35,
+    "kg_regular": 18.35,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 4,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T10:11:21.682Z"
   }
 ]
