@@ -2398,5 +2398,21 @@
     "unds": 1,
     "n_orden": 0,
     "timestamp": "2026-08-29T09:26:50.578Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 80.05,
+    "kg_regular": 80.05,
+    "zona": "E",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 11,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T09:27:46.157Z"
   }
 ]
