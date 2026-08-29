@@ -142,5 +142,21 @@
     "unds": 219,
     "n_orden": 0,
     "timestamp": "2026-08-29T05:49:20.377Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 4.72,
+    "kg_regular": 4.72,
+    "zona": "A",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 2,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T05:49:21.498Z"
   }
 ]
