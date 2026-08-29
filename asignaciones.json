@@ -2318,5 +2318,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-08-29T09:18:51.988Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 429.02,
+    "kg_regular": 141.36,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 30,
+    "unds": 206,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T09:19:06.143Z"
   }
 ]
