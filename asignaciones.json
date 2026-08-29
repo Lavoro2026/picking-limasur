@@ -94,5 +94,21 @@
     "unds": 27,
     "n_orden": 0,
     "timestamp": "2026-08-29T05:46:15.416Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "E",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 55.35,
+    "kg_regular": 11.92,
+    "zona": "A",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 6,
+    "unds": 25,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T05:48:10.494Z"
   }
 ]
