@@ -686,5 +686,21 @@
     "unds": 272,
     "n_orden": 0,
     "timestamp": "2026-08-29T06:55:23.719Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 2.9,
+    "kg_regular": 2.9,
+    "zona": "B",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 1,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T06:55:24.965Z"
   }
 ]
