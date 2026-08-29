@@ -462,5 +462,21 @@
     "unds": 228,
     "n_orden": 0,
     "timestamp": "2026-08-29T06:47:12.521Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "F",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 98.82,
+    "kg_regular": 98.82,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 15,
+    "unds": 201,
+    "n_orden": 0,
+    "timestamp": "2026-08-29T06:47:23.628Z"
   }
 ]
