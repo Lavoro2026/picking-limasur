@@ -270,5 +270,21 @@
     "unds": 118,
     "n_orden": 0,
     "timestamp": "2026-08-31T09:04:16.789Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "G",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 1.09,
+    "kg_regular": 1.09,
+    "zona": "B",
+    "material": "1033403",
+    "denominacion": "PRO DAY UHT 320ML VAINILLA BOT",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-08-31T09:04:18.269Z"
   }
 ]
