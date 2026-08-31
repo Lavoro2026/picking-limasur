@@ -206,5 +206,21 @@
     "unds": 257,
     "n_orden": 0,
     "timestamp": "2026-08-31T09:03:50.765Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "G",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 4.31,
+    "kg_regular": 4.31,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-08-31T09:03:51.977Z"
   }
 ]
