@@ -222,5 +222,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-08-31T09:03:51.977Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 424.14,
+    "kg_regular": 149.48,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 30,
+    "unds": 283,
+    "n_orden": 0,
+    "timestamp": "2026-08-31T09:04:00.744Z"
   }
 ]
