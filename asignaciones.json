@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "AMQ791",
+    "familia": "C",
+    "picador": "BAZAN CORTEGANA NILO",
+    "nombre": "BAZAN CORTEGANA NILO",
+    "controlador": "0",
+    "kg": 562.59,
+    "kg_regular": 562.59,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 46,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-08-31T06:08:59.531Z"
+  }
+]
