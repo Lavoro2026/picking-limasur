@@ -156,37 +156,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .dash-bar{height:100%;background:linear-gradient(90deg,#0d3b61,#1a73b8);border-radius:6px}
 .dash-val{font-size:13px;font-weight:700;color:#0d3b61;white-space:nowrap;min-width:50px;text-align:right}
 .dash-empty{text-align:center;padding:30px 16px;color:#90a4ae;font-size:13px}
-.alerta-box{background:#fff3e0;border:1px solid #ffcc80;border-radius:12px;padding:12px 14px;margin:0 14px 10px}
-.alerta-title{font-size:13px;font-weight:700;color:#e65100;margin-bottom:6px;display:flex;align-items:center;gap:6px}
-.alerta-row{font-size:12px;color:#795548;padding:5px 0;border-bottom:1px solid #ffe0b2;display:flex;justify-content:space-between;gap:8px}
-.alerta-row:last-child{border-bottom:none}
-.sospechoso-box{background:#fce4ec;border:1px solid #f48fb1;border-radius:12px;padding:12px 14px;margin-bottom:10px}
-.sospechoso-title{font-size:13px;font-weight:700;color:#880e4f;margin-bottom:6px}
-.sospechoso-row{font-size:11px;color:#ad1457;padding:6px 0;border-bottom:1px solid #f8bbd0;line-height:1.5}
-.sospechoso-row:last-child{border-bottom:none}
-.meta-row{padding:9px 0;border-bottom:1px solid #f4f7fa}
-.meta-row:last-child{border-bottom:none}
-.meta-head{display:flex;justify-content:space-between;font-size:12px;font-weight:600;color:#1c2e3d;margin-bottom:5px}
-.meta-bar-wrap{background:#f0f4f8;border-radius:6px;height:9px;overflow:hidden}
-.meta-bar{height:100%;border-radius:6px;background:linear-gradient(90deg,#0d3b61,#1a73b8)}
-.meta-bar.cumplida{background:linear-gradient(90deg,#2e7d32,#43a047)}
-.perfil-nombre-btn{background:none;border:none;color:#0d3b61;font-weight:600;cursor:pointer;text-align:left;padding:0;text-decoration:underline dotted}
-.reparto-picker{margin-bottom:12px}
-.reparto-nombre{font-size:12px;font-weight:700;color:#1c2e3d;margin-bottom:4px}
-.reparto-bar{display:flex;height:14px;border-radius:6px;overflow:hidden;background:#f0f4f8}
-.reparto-seg{height:100%}
-.reparto-leyenda{display:flex;flex-wrap:wrap;gap:8px;margin-top:5px;font-size:10px;color:#607d8b}
-.nota-item{padding:9px 0;border-bottom:1px solid #f4f7fa;font-size:12px}
-.nota-item:last-child{border-bottom:none}
-.nota-meta{color:#90a4ae;font-size:10px;margin-top:2px;display:flex;justify-content:space-between}
-.nota-form-row{display:flex;gap:8px;margin-bottom:8px}
-.nota-form-row select,.nota-form-row input{flex:1;border:1.5px solid #d0dce8;border-radius:10px;padding:9px 10px;font-size:13px;outline:none;background:white;color:#1c2e3d}
-.nota-textarea{width:100%;border:1.5px solid #d0dce8;border-radius:10px;padding:9px 10px;font-size:13px;outline:none;margin-bottom:8px;font-family:inherit;resize:vertical;min-height:60px}
-.nota-del-btn{background:none;border:none;font-size:13px;cursor:pointer;color:#c62828}
-.rank-toggle{display:flex;gap:6px;margin-bottom:10px}
-.rank-toggle button{flex:1;background:#e3edf8;color:#0d3b61;border:none;border-radius:8px;padding:7px 4px;font-size:11px;font-weight:700;cursor:pointer}
-.rank-toggle button.on{background:#0d3b61;color:white}
-.dash-sub{font-size:11px;color:#90a4ae;margin-left:8px;white-space:nowrap}
 </style>
 </head>
 <body>
@@ -251,20 +220,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   </div>
 </div>
 
-<div class="modal-bg" id="modalPerfilBg">
-  <div class="modal-sheet" style="max-height:88vh">
-    <div class="mh">
-      <div class="mavatar" id="perfilAvatar">👤</div>
-      <div class="mh-info">
-        <h3 id="perfilNombre">Picador</h3>
-        <p>Perfil histórico de productividad</p>
-      </div>
-      <button class="m-close" id="mClosePerfil">✕</button>
-    </div>
-    <div id="perfilBody" style="flex:1;overflow-y:auto;padding:14px"></div>
-  </div>
-</div>
-
 <script>
 // ─── CONFIG ──────────────────────────────────────────────────────
 const GITHUB_USER = "Lavoro2026";
@@ -277,31 +232,6 @@ const PERSONAL_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_
 const REFRESH_MS = 3 * 60 * 1000;
 const PIN_SUPERVISOR = "Lavoro";
 const PASS_PRODUCTIVIDAD = "Lavoro2026$";
-// Mapeo Familia -> Almacén. Ajustar aquí si alguna letra no corresponde.
-const FAMILIA_ALMACEN_MAP = { "A":"ABARROTES", "B":"ABARROTES", "C":"ABARROTES", "D":"ABARROTES", "E":"REFRIGERADOS", "F":"REFRIGERADOS", "G":"ABARROTES" };
-// Minutos que se descuentan de cada intervalo entre un registro y el siguiente (tiempo de traslado/registro, no es picking real). Ajustar aquí si cambia.
-const DESCUENTO_ENTRE_REGISTROS_SEG = 3 * 60;
-// A partir de qué momento se empieza a medir el tiempo de picking. Los registros
-// anteriores a esta fecha/hora (de hoy o de días pasados) NO se consideran para
-// el cálculo de tiempos, ya que no fueron pensados con esta medición en mente.
-// Ajusta esta fecha/hora exacta antes de subir el archivo esta noche.
-const INICIO_MEDICION_TIEMPOS = "2026-07-07T20:00:00";
-// Minutos sin registrar una nueva placa para considerar a un picker "inactivo" hoy.
-const UMBRAL_INACTIVO_MIN = 25;
-// Meta diaria de referencia (toneladas) aplicada por igual a todos los pickers.
-// Ajusta este número si quieres una meta distinta.
-const META_DIARIA_TON = 20;
-// Si el intervalo entre dos registros consecutivos de la misma persona es menor
-// a esto, se marca como "registro para revisar" (poco realista físicamente).
-const UMBRAL_SOSPECHOSO_SEG = 60;
-// Duración de referencia del turno (horas). Como muchos pickers no tienen
-// celular todo el día y registran todo junto al final, no podemos confiar
-// en calcular las horas trabajadas a partir de los timestamps de la app.
-// Por eso el indicador principal de rendimiento usa esta duración fija de
-// turno en vez de intentar inferir horas reales — ajusta este número si tu
-// jornada real es distinta.
-const DURACION_TURNO_HORAS = 8;
-const COLORES_FAMILIA = {"A":"#0d3b61","B":"#1a73b8","C":"#2e7d32","D":"#bf360c","E":"#7b1fa2","F":"#bf6f00","G":"#00838f","—":"#90a4ae"};
 // ─────────────────────────────────────────────────────────────────
 
 let allData = [];
@@ -316,81 +246,15 @@ let fechaSeleccionadaHist = null;
 let fechaProductividad = null;
 let familiaProductividad = "todas";
 let zonaProductividad = "todas";
-let mesProductividad = "todos";
-let semanaProductividad = "todos";
 let registrosFiltradosProductividad = [];
 let productividadDesbloqueada = false;
 let chartTotalInstance = null;
 let chartFamiliaInstance = null;
 let chartAlmacenInstance = null;
 
-// Filtros del ranking de productividad en la pestaña Histórico
-let histRankMes = "todos";
-let histRankSemana = "todos";
-let histRankFamilia = "todas";
-let histRankOrden = "ton"; // "ton" o "placas"
-let repartoOrden = "concentracion"; // "concentracion" | "volumen" | "nombre"
-// Si una persona hace más de este % de su trabajo en una sola familia, se
-// marca como candidato a rotar.
-const UMBRAL_CONCENTRACION_PCT = 85;
-
 // ── CARGA DE DATOS ────────────────────────────────────────────────
-// ── PRESERVAR BÚSQUEDA/FILTROS EN CADA ACTUALIZACIÓN ───────────────
-// El refresh automático (cada 3 min) reconstruye toda la pestaña Consulta.
-// Sin esto, cualquier búsqueda o filtro que el usuario tuviera activo se
-// perdía y la pantalla "saltaba" de vuelta al listado completo.
-function capturarEstadoConsulta() {
-  return {
-    busq: document.getElementById("busq")?.value || "",
-    ctrl: document.getElementById("selFiltroControlador")?.value || "todos",
-    zona: document.getElementById("selFiltroZona")?.value || "todas",
-    fam: document.getElementById("selFiltroFamilia")?.value || "todas",
-    asigFam: document.getElementById("selFamiliaAsig")?.value || "",
-    asigPlaca: document.getElementById("selPlacaAsig")?.value || "",
-    asigPicador: document.getElementById("selPicadorAsig")?.value || "",
-    scrollY: window.scrollY,
-    inputEnfocado: document.activeElement && document.activeElement.id === "busq",
-  };
-}
-
-function restaurarEstadoConsulta(estado) {
-  if (!estado) return;
-  const busqEl = document.getElementById("busq");
-  const ctrlEl = document.getElementById("selFiltroControlador");
-  const zonaEl = document.getElementById("selFiltroZona");
-  const famEl = document.getElementById("selFiltroFamilia");
-  const setSiExiste = (el, val) => { if (el && val && [...el.options].some(o => o.value === val)) el.value = val; };
-
-  if (busqEl) busqEl.value = estado.busq;
-  setSiExiste(ctrlEl, estado.ctrl !== "todos" ? estado.ctrl : "");
-  setSiExiste(zonaEl, estado.zona !== "todas" ? estado.zona : "");
-  setSiExiste(famEl, estado.fam !== "todas" ? estado.fam : "");
-
-  if (estado.busq || estado.ctrl !== "todos" || estado.zona !== "todas" || estado.fam !== "todas") {
-    filtrar();
-  }
-
-  // Restaurar selección del panel "Regístrate en una placa"
-  const asigFamEl = document.getElementById("selFamiliaAsig");
-  if (asigFamEl && estado.asigFam) {
-    setSiExiste(asigFamEl, estado.asigFam);
-    if (asigFamEl.value === estado.asigFam) {
-      actualizarPlacasAsig();
-      const asigPlacaEl = document.getElementById("selPlacaAsig");
-      const asigPicadorEl = document.getElementById("selPicadorAsig");
-      if (asigPlacaEl) setSiExiste(asigPlacaEl, estado.asigPlaca);
-      if (asigPicadorEl) setSiExiste(asigPicadorEl, estado.asigPicador);
-      actualizarNombreAsigState();
-    }
-  }
-
-  window.scrollTo(0, estado.scrollY || 0);
-  if (estado.inputEnfocado && busqEl) busqEl.focus();
-}
-
 async function cargarDatos(silencioso = false) {
   if (!silencioso) mostrarLoader();
-  const estadoPrevio = capturarEstadoConsulta();
   try {
     const res = await fetch(DATA_URL + "?t=" + Date.now());
     if (!res.ok) throw new Error("HTTP " + res.status);
@@ -408,7 +272,6 @@ async function cargarDatos(silencioso = false) {
     await cargarAsignaciones();
     buildCtx(json);
     renderUI(json);
-    restaurarEstadoConsulta(estadoPrevio);
     renderRegistroVivo();
     document.getElementById("hStatus").className = "hstatus ok";
     document.getElementById("hStatus").textContent = "✓ Actualizado";
@@ -420,7 +283,7 @@ async function cargarDatos(silencioso = false) {
       document.getElementById("hStatus").textContent = "Sin conexión";
     }
   }
-  if (tabActual === "dashboard") renderDashboardSeguro();
+  if (tabActual === "dashboard") renderDashboard();
   clearTimeout(refreshTimer);
   refreshTimer = setTimeout(() => cargarDatos(true), REFRESH_MS);
 }
@@ -470,44 +333,6 @@ function actualizarNombreAsigState() {
   document.getElementById("btnAsigPanel").disabled = !(familia && placa && nombre);
 }
 
-// Familias que se pickean simultáneamente por la misma persona en la misma zona.
-// Al registrarse en la familia clave (izquierda), se genera automáticamente
-// el mismo registro (misma placa, misma persona) en la familia asociada (derecha).
-const FAMILIAS_ESPEJO = { "B": "G" };
-
-async function registrarAsignacionFamilia(placa, familia, nombre) {
-  const filasCoincidentes = allData.filter(r => r.placa === placa && r.familia === familia);
-  if (!filasCoincidentes.length) return { ok:false, motivo:"sin_datos" };
-
-  const totalKg = filasCoincidentes.reduce((s,r) => s+(r.peso_kg||0), 0);
-  const totalCajas = filasCoincidentes.reduce((s,r) => s+(r.cajas||0), 0);
-  const totalUnds = filasCoincidentes.reduce((s,r) => s+(r.unds||0), 0);
-  const filasRegular = filasCoincidentes.filter(r => (r.estado||"").trim() === "Picking_Regular");
-  const kgRegular = filasRegular.reduce((s,r) => s+(r.peso_kg||0), 0);
-  const ref = filasCoincidentes[0];
-  const zona = ref ? (ref.status || "") : "";
-
-  const res = await fetch(WORKER_URL + "/asignaciones", {
-    method: "POST",
-    headers: {"Content-Type":"application/json"},
-    body: JSON.stringify({
-      placa, familia, zona,
-      material: ref ? String(ref.material) : "",
-      denominacion: ref ? ref.denominacion : "",
-      controlador: ref ? ref.controlador : "",
-      picador: nombre,
-      nombre: nombre,
-      kg: Math.round(totalKg * 100) / 100,
-      kg_regular: Math.round(kgRegular * 100) / 100,
-      cajas: Math.round(totalCajas),
-      unds: Math.round(totalUnds),
-    })
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error(data.error || `Error al guardar Familia ${familia}`);
-  return { ok:true, totalKg };
-}
-
 async function confirmarAsignacionPanel() {
   const familia = document.getElementById("selFamiliaAsig").value;
   const placa = document.getElementById("selPlacaAsig").value;
@@ -516,33 +341,45 @@ async function confirmarAsignacionPanel() {
   const btn = document.getElementById("btnAsigPanel");
   if (!familia || !placa || !nombre) return;
 
+  const filasCoincidentes = allData.filter(r => r.placa === placa && r.familia === familia);
+  const totalKg = filasCoincidentes.reduce((s,r) => s+(r.peso_kg||0), 0);
+  const totalCajas = filasCoincidentes.reduce((s,r) => s+(r.cajas||0), 0);
+  const totalUnds = filasCoincidentes.reduce((s,r) => s+(r.unds||0), 0);
+  const filasRegular = filasCoincidentes.filter(r => (r.estado||"").trim() === "Picking_Regular");
+  const kgRegular = filasRegular.reduce((s,r) => s+(r.peso_kg||0), 0);
+  const ref = filasCoincidentes[0];
+  const zona = ref ? (ref.status || "") : "";
+
   btn.disabled = true;
   msgEl.textContent = "Guardando...";
   msgEl.className = "asig-msg";
 
   try {
-    const principal = await registrarAsignacionFamilia(placa, familia, nombre);
-    if (!principal.ok) throw new Error(`No se encontraron datos de Familia ${familia} en la placa ${placa}`);
-
-    let mensajeExtra = "";
-    const familiaEspejo = FAMILIAS_ESPEJO[familia];
-    if (familiaEspejo) {
-      try {
-        const espejo = await registrarAsignacionFamilia(placa, familiaEspejo, nombre);
-        if (espejo.ok) mensajeExtra = ` · También registrado automáticamente en Familia ${familiaEspejo} (${espejo.totalKg.toFixed(1)} kg)`;
-        else mensajeExtra = ` · (No se encontró Familia ${familiaEspejo} en esta placa, no se generó registro adicional)`;
-      } catch(eEspejo) {
-        mensajeExtra = ` · ⚠️ No se pudo registrar automáticamente en Familia ${familiaEspejo}: ${eEspejo.message}`;
-      }
-    }
-
-    msgEl.textContent = `✅ ${nombre} registrado en ${placa} (Familia ${familia}) — ${principal.totalKg.toFixed(1)} kg${mensajeExtra}`;
+    const res = await fetch(WORKER_URL + "/asignaciones", {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({
+        placa, familia, zona,
+        material: ref ? String(ref.material) : "",
+        denominacion: ref ? ref.denominacion : "",
+        controlador: ref ? ref.controlador : "",
+        picador: nombre,
+        nombre: nombre,
+        kg: Math.round(totalKg * 100) / 100,
+        kg_regular: Math.round(kgRegular * 100) / 100,
+        cajas: Math.round(totalCajas),
+        unds: Math.round(totalUnds),
+      })
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Error al guardar");
+    msgEl.textContent = `✅ ${nombre} registrado en ${placa} (Familia ${familia}) — ${totalKg.toFixed(1)} kg`;
     msgEl.className = "asig-msg ok";
     await cargarAsignaciones();
     actualizarPlacasAsig();
     renderRegistroVivo();
     filtrar();
-    if (tabActual === "dashboard") renderDashboardSeguro();
+    if (tabActual === "dashboard") renderDashboard();
   } catch(e) {
     msgEl.textContent = "❌ " + e.message;
     msgEl.className = "asig-msg err";
@@ -556,15 +393,8 @@ function renderRegistroVivo() {
   if (!cont) return;
   if (!asignaciones.length) { cont.innerHTML = ""; return; }
 
-  const inactivos = calcularPickersInactivos();
-  const htmlInactivos = inactivos.length ? `
-    <div class="alerta-box">
-      <div class="alerta-title">⚠️ Sin registrar hace rato (${UMBRAL_INACTIVO_MIN}+ min)</div>
-      ${inactivos.map(x => `<div class="alerta-row"><span>${x.nombre}</span><span>${x.minutos} min</span></div>`).join("")}
-    </div>` : "";
-
   const ordenadas = [...asignaciones].sort((a,b) => new Date(b.timestamp||0) - new Date(a.timestamp||0));
-  let html = htmlInactivos + `
+  let html = `
     <div class="reg-vivo-title">📋 Registro en vivo del día</div>
     <div class="reg-vivo-table-wrap">
       <table class="reg-vivo-table">
@@ -584,10 +414,6 @@ function renderRegistroVivo() {
   cont.innerHTML = html;
 }
 
-// Refresca solo la alerta de inactivos cada minuto, sin recargar datos ni
-// molestar ninguna búsqueda/filtro que el usuario tenga abierto.
-setInterval(() => { if (tabActual === "consulta") renderRegistroVivo(); }, 60 * 1000);
-
 function solicitarBorradoRegistro(placa, familia) {
   const pin = prompt("Ingresa el PIN de supervisor para borrar este registro:");
   if (pin === null) return;
@@ -606,7 +432,7 @@ async function borrarRegistro(placa, familia) {
     await cargarAsignaciones();
     renderRegistroVivo();
     actualizarPlacasAsig();
-    if (tabActual === "dashboard") renderDashboardSeguro();
+    if (tabActual === "dashboard") renderDashboard();
   } catch(e) { alert("❌ Error al borrar: " + e.message); }
 }
 
@@ -645,7 +471,7 @@ async function cerrarDia() {
     historicoData = null;
     await cargarAsignaciones();
     renderRegistroVivo();
-    renderDashboardSeguro();
+    renderDashboard();
   } catch(e) {
     if (msgEl) { msgEl.textContent = "❌ Error: " + e.message; msgEl.className = "asig-msg err"; }
   } finally {
@@ -670,372 +496,31 @@ function switchTab(tab) {
   document.getElementById("dashApp").style.display = tab === "dashboard" ? "block" : "none";
   document.getElementById("dashHistorico").style.display = tab === "dashboard" ? "block" : "none";
   if (tab === "historico") cargarHistoricoPicadores();
-  if (tab === "dashboard") { renderDashboardSeguro(); cargarHistorico(); cargarHistoricoPicadoresParaProductividad(); }
+  if (tab === "dashboard") { renderDashboard(); cargarHistorico(); cargarHistoricoPicadoresParaProductividad(); }
 }
 
-// ── HELPERS DE FECHA (mes / semana) ───────────────────────────────
-function getMesKey(fechaISO) { return (fechaISO && typeof fechaISO === "string") ? fechaISO.slice(0,7) : "sin-fecha"; } // "YYYY-MM"
-function getMesLabel(mesKey) {
-  const meses = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
-  if (!mesKey || typeof mesKey !== "string" || !mesKey.includes("-")) return mesKey || "—";
-  const [y,m] = mesKey.split("-");
-  const idx = parseInt(m) - 1;
-  if (isNaN(idx) || !meses[idx]) return mesKey;
-  return `${meses[idx]} ${y}`;
-}
-function getSemanaKey(fechaISO) {
-  if (!fechaISO || typeof fechaISO !== "string") return "sin-fecha-S00";
-  const d = new Date(fechaISO + "T00:00:00");
-  if (isNaN(d.getTime())) return "sin-fecha-S00";
-  const target = new Date(d.valueOf());
-  const dayNr = (d.getDay() + 6) % 7; // Lunes=0
-  target.setDate(target.getDate() - dayNr + 3);
-  const firstThursday = target.valueOf();
-  target.setMonth(0,1);
-  if (target.getDay() !== 4) target.setMonth(0, 1 + ((4 - target.getDay() + 7) % 7));
-  const week = 1 + Math.ceil((firstThursday - target) / (7*24*3600*1000));
-  const year = new Date(firstThursday).getFullYear();
-  return `${year}-S${String(week).padStart(2,"0")}`;
-}
-function getSemanaLabel(semKey) {
-  if (!semKey || typeof semKey !== "string" || !semKey.includes("-S")) return semKey || "—";
-  const [y,w] = semKey.split("-S");
-  return `Semana ${parseInt(w)} · ${y}`;
-}
-function getAlmacenPorFamilia(familia) { return FAMILIA_ALMACEN_MAP[familia] || "OTROS"; }
-
-// Aplana el histórico de picadores en un solo array, cada registro con su fecha
-function obtenerRegistrosHistoricosFlat() {
-  const dias = (historicoPicadoresData && historicoPicadoresData.dias) || {};
-  const out = [];
-  Object.keys(dias).forEach(fecha => {
-    (dias[fecha] || []).forEach(r => out.push({ ...r, __fecha: fecha, __vivo: false }));
-  });
-  return out;
-}
-
-// ── TIEMPO DE PICKING POR PICADOR ─────────────────────────────────
-// Idea: el tiempo que un picador "gastó" en una familia/placa es el intervalo
-// entre el momento en que se registró en ella y el momento en que se registró
-// en la siguiente (misma persona, mismo día). Para el último registro del día
-// de cada persona: si el día sigue en vivo (hoy, sin archivar) se usa el
-// momento actual; si el día ya fue archivado, se usa el timestamp más tardío
-// de ESE día (de cualquier picador) como referencia de "cierre".
-function calcularTiemposPicking(registros) {
-  const cutoffMs = new Date(INICIO_MEDICION_TIEMPOS).getTime();
-  registros = registros.filter(r => {
-    const t = new Date(r.timestamp || 0).getTime();
-    return t > 0 && t >= cutoffMs;
-  });
-  if (!registros.length) return {};
-
-  const porDia = {};
-  registros.forEach(r => {
-    const key = r.__fecha || "hoy";
-    if (!porDia[key]) porDia[key] = { vivo: !!r.__vivo, items: [] };
-    porDia[key].items.push(r);
-    if (r.__vivo) porDia[key].vivo = true;
-  });
-
-  const segPorPicador = {};
-  Object.values(porDia).forEach(dia => {
-    const tsValidos = dia.items.map(x => new Date(x.timestamp||0).getTime()).filter(t => t > 0);
-    const finDia = dia.vivo ? Date.now() : (tsValidos.length ? Math.max(...tsValidos) : Date.now());
-
-    const porPicadorDia = {};
-    dia.items.forEach(r => {
-      const n = r.picador || r.nombre || "—";
-      if (!porPicadorDia[n]) porPicadorDia[n] = [];
-      porPicadorDia[n].push(r);
-    });
-
-    Object.entries(porPicadorDia).forEach(([n, items]) => {
-      const ordenados = [...items]
-        .filter(r => new Date(r.timestamp||0).getTime() > 0)
-        .sort((a,b) => new Date(a.timestamp) - new Date(b.timestamp));
-      if (ordenados.length < 2) return;
-
-      // Detección de "registro por lote": si la mayoría de los intervalos
-      // entre placas son sospechosamente cortos, esta persona probablemente
-      // registró todo junto al final del turno (no en tiempo real durante
-      // el día). En ese caso el tiempo calculado sería inventado, así que
-      // se descarta ese día completo para esa persona — mejor "sin dato"
-      // que un número falso.
-      let totalIntervalos = 0, cortos = 0;
-      for (let i = 0; i < ordenados.length - 1; i++) {
-        const t0 = new Date(ordenados[i].timestamp).getTime();
-        const t1 = new Date(ordenados[i+1].timestamp).getTime();
-        totalIntervalos++;
-        if ((t1 - t0) < UMBRAL_SOSPECHOSO_SEG * 1000) cortos++;
-      }
-      const esRegistroPorLote = totalIntervalos > 0 && (cortos / totalIntervalos) >= 0.5;
-      if (esRegistroPorLote) return;
-
-      let total = 0;
-      for (let i = 0; i < ordenados.length; i++) {
-        const t0 = new Date(ordenados[i].timestamp).getTime();
-        const t1 = (i+1 < ordenados.length) ? new Date(ordenados[i+1].timestamp).getTime() : finDia;
-        let dur = (t1 - t0) / 1000;
-        dur -= DESCUENTO_ENTRE_REGISTROS_SEG; // se descuenta el tiempo de traslado/registro entre una placa y la siguiente
-        if (isFinite(dur) && dur > 0) total += dur;
-      }
-      segPorPicador[n] = (segPorPicador[n] || 0) + total;
-    });
-  });
-  return segPorPicador; // { picador: segundosTotales }
-}
-
-// Devuelve el set de picadores que tuvieron al menos un día de "registro por
-// lote" dentro del conjunto de registros dado (mismo criterio que arriba),
-// para poder avisar en la UI que su tiempo no es confiable.
-function obtenerPickersConRegistroPorLote(registros) {
-  const cutoffMs = new Date(INICIO_MEDICION_TIEMPOS).getTime();
-  registros = registros.filter(r => {
-    const t = new Date(r.timestamp || 0).getTime();
-    return t > 0 && t >= cutoffMs;
-  });
-  const porDia = {};
-  registros.forEach(r => {
-    const key = r.__fecha || "hoy";
-    if (!porDia[key]) porDia[key] = [];
-    porDia[key].push(r);
-  });
-  const lote = new Set();
-  Object.values(porDia).forEach(items => {
-    const porPicadorDia = {};
-    items.forEach(r => {
-      const n = r.picador || r.nombre || "—";
-      if (!porPicadorDia[n]) porPicadorDia[n] = [];
-      porPicadorDia[n].push(r);
-    });
-    Object.entries(porPicadorDia).forEach(([n, its]) => {
-      const ordenados = [...its]
-        .filter(r => new Date(r.timestamp||0).getTime() > 0)
-        .sort((a,b) => new Date(a.timestamp) - new Date(b.timestamp));
-      if (ordenados.length < 2) return;
-      let totalIntervalos = 0, cortos = 0;
-      for (let i = 0; i < ordenados.length - 1; i++) {
-        const t0 = new Date(ordenados[i].timestamp).getTime();
-        const t1 = new Date(ordenados[i+1].timestamp).getTime();
-        totalIntervalos++;
-        if ((t1 - t0) < UMBRAL_SOSPECHOSO_SEG * 1000) cortos++;
-      }
-      if (totalIntervalos > 0 && (cortos/totalIntervalos) >= 0.5) lote.add(n);
-    });
-  });
-  return lote;
-}
-
-function formatearDuracion(seg) {
-  if (!seg || seg <= 0) return "—";
-  const h = Math.floor(seg / 3600);
-  const m = Math.round((seg % 3600) / 60);
-  if (h > 0) return `${h}h ${m}min`;
-  return `${m}min`;
-}
-
-// ── META DIARIA POR FAMILIA ────────────────────────────────────────
-// La meta no puede ser la misma para todas las familias porque no pesan lo
-// mismo. Se calcula automáticamente el promedio histórico real de kg/día
-// que UN picker mueve en cada familia (kg totales de esa familia ese día,
-// entre la cantidad de pickers distintos que la trabajaron ese día), y se
-// promedia entre todos los días archivados. Sin historial todavía, usa el
-// mismo valor de referencia (META_DIARIA_TON) para todas las familias.
-function calcularMetaPorFamiliaKg() {
-  const flat = obtenerRegistrosHistoricosFlat();
-  if (!flat.length) {
-    const fams = [...new Set(allData.map(r => r.familia).filter(Boolean))];
-    const fallback = {};
-    fams.forEach(f => fallback[f] = META_DIARIA_TON * 1000);
-    return fallback;
-  }
-  const porDia = {};
-  flat.forEach(r => {
-    const key = r.__fecha;
-    const fam = r.familia || "—";
-    if (!porDia[key]) porDia[key] = {};
-    if (!porDia[key][fam]) porDia[key][fam] = { kg:0, pickers:new Set() };
-    porDia[key][fam].kg += (r.kg||0);
-    porDia[key][fam].pickers.add(r.picador);
-  });
-  const valoresPorFamilia = {};
-  Object.values(porDia).forEach(dia => {
-    Object.entries(dia).forEach(([fam, v]) => {
-      if (v.pickers.size > 0) {
-        if (!valoresPorFamilia[fam]) valoresPorFamilia[fam] = [];
-        valoresPorFamilia[fam].push(v.kg / v.pickers.size);
-      }
-    });
-  });
-  const metaPorFamilia = {};
-  Object.entries(valoresPorFamilia).forEach(([fam, valores]) => {
-    metaPorFamilia[fam] = valores.reduce((s,v)=>s+v,0) / valores.length;
-  });
-  return metaPorFamilia;
-}
-
-// Meta de un picker = suma de la meta de cada familia distinta que registró
-// hoy (si trabajó Familia B y su espejo G, su meta es la suma de ambas).
-function calcularMetaPicker(familiasTrabajadas, metaPorFamiliaKg) {
-  const valores = Object.values(metaPorFamiliaKg);
-  const promedioGeneral = valores.length ? valores.reduce((s,v)=>s+v,0)/valores.length : META_DIARIA_TON*1000;
-  return [...familiasTrabajadas].reduce((s,f) => s + (metaPorFamiliaKg[f] !== undefined ? metaPorFamiliaKg[f] : promedioGeneral), 0);
-}
-
-
-// ── PICKERS INACTIVOS (en vivo, hoy) ───────────────────────────────
-function calcularPickersInactivos() {
-  if (!asignaciones.length) return [];
-  const ultimoPorPicador = {};
-  asignaciones.forEach(a => {
-    const n = a.picador || a.nombre || "—";
-    const t = new Date(a.timestamp || 0).getTime();
-    if (!t) return;
-    if (!ultimoPorPicador[n] || t > ultimoPorPicador[n]) ultimoPorPicador[n] = t;
-  });
-  const ahora = Date.now();
-  return Object.entries(ultimoPorPicador)
-    .map(([nombre, t]) => ({ nombre, minutos: Math.round((ahora - t) / 60000) }))
-    .filter(x => x.minutos >= UMBRAL_INACTIVO_MIN)
-    .sort((a,b) => b.minutos - a.minutos);
-}
-
-// ── REGISTROS SOSPECHOSOS (intervalos demasiado cortos) ────────────
-function detectarRegistrosSospechosos(registros) {
-  const porDia = {};
-  registros.forEach(r => {
-    const key = r.__fecha || "hoy";
-    if (!porDia[key]) porDia[key] = [];
-    porDia[key].push(r);
-  });
-  const sospechosos = [];
-  Object.values(porDia).forEach(items => {
-    const porPicadorDia = {};
-    items.forEach(r => {
-      const n = r.picador || r.nombre || "—";
-      if (!porPicadorDia[n]) porPicadorDia[n] = [];
-      porPicadorDia[n].push(r);
-    });
-    Object.entries(porPicadorDia).forEach(([n, its]) => {
-      const ordenados = [...its]
-        .filter(r => new Date(r.timestamp||0).getTime() > 0)
-        .sort((a,b) => new Date(a.timestamp) - new Date(b.timestamp));
-      for (let i = 0; i < ordenados.length - 1; i++) {
-        const t0 = new Date(ordenados[i].timestamp).getTime();
-        const t1 = new Date(ordenados[i+1].timestamp).getTime();
-        const segs = (t1 - t0) / 1000;
-        if (segs >= 0 && segs < UMBRAL_SOSPECHOSO_SEG) {
-          sospechosos.push({
-            picador: n,
-            placaAnterior: ordenados[i].placa, familiaAnterior: ordenados[i].familia, kgAnterior: ordenados[i].kg||0,
-            placaActual: ordenados[i+1].placa, familiaActual: ordenados[i+1].familia,
-            segundos: Math.round(segs),
-            fecha: ordenados[i].__fecha || "hoy",
-          });
-        }
-      }
-    });
-  });
-  return sospechosos.sort((a,b) => a.segundos - b.segundos);
-}
-
-// ── PERFIL HISTÓRICO INDIVIDUAL POR PICKER ─────────────────────────
-function obtenerHistorialPicador(nombre) {
-  const flat = obtenerRegistrosHistoricosFlat().filter(r => (r.picador||r.nombre) === nombre);
-  const hoyStr = new Date().toISOString().slice(0,10);
-  const deHoy = asignaciones.filter(a => (a.picador||a.nombre) === nombre).map(a => ({ ...a, __fecha: hoyStr }));
-  const todos = [...flat, ...deHoy];
-
-  const porDia = {};
-  todos.forEach(r => {
-    const f = r.__fecha || hoyStr;
-    if (!porDia[f]) porDia[f] = { kg:0, placas:new Set() };
-    porDia[f].kg += (r.kg||0);
-    porDia[f].placas.add(r.placa);
-  });
-  const dias = Object.keys(porDia).sort();
-
-  const porFamilia = {};
-  todos.forEach(r => { const f = r.familia||"—"; porFamilia[f] = (porFamilia[f]||0) + (r.kg||0); });
-
-  let mejorDia = null;
-  dias.forEach(f => { if (!mejorDia || porDia[f].kg > porDia[mejorDia].kg) mejorDia = f; });
-
-  const tiempos = calcularTiemposPicking(todos);
-  const esLote = obtenerPickersConRegistroPorLote(todos).has(nombre);
-  const totalKg = todos.reduce((s,r) => s+(r.kg||0), 0);
-
-  // El promedio de tiempo/día solo debe considerar los días que realmente
-  // tienen tiempo medido (a partir de INICIO_MEDICION_TIEMPOS), no todo el
-  // historial, para no diluir el promedio con días sin esa medición.
-  const cutoffMs = new Date(INICIO_MEDICION_TIEMPOS).getTime();
-  const diasConTiempo = new Set(
-    todos.filter(r => new Date(r.timestamp||0).getTime() >= cutoffMs).map(r => r.__fecha || hoyStr)
-  ).size;
-  const tiempoTotalSeg = tiempos[nombre] || 0;
-
-  return {
-    dias, porDia, porFamilia, mejorDia,
-    totalKg,
-    totalPlacas: new Set(todos.map(r => r.placa)).size,
-    diasTrabajados: dias.length,
-    promedioTonDia: dias.length ? (totalKg/1000)/dias.length : 0,
-    tiempoTotalSeg,
-    diasConTiempo,
-    tiempoPromedioDiaSeg: diasConTiempo ? tiempoTotalSeg/diasConTiempo : 0,
-    kgHoraTurno: dias.length ? totalKg / (dias.length * DURACION_TURNO_HORAS) : 0,
-    esLote,
-  };
-}
-
-// ── HISTÓRICO DE PICADORES (pestaña Histórico) ────────────────────
+// ── HISTÓRICO DE PICADORES ────────────────────────────────────────
 async function cargarHistoricoPicadores() {
-  const cont = document.getElementById("histPickApp");
-  if (historicoPicadoresData) {
-    try { renderHistoricoPicadores(); }
-    catch(e) {
-      console.error("Error al mostrar el histórico:", e);
-      cont.innerHTML = `<div class="hp-loading">⚠️ Se cargaron los datos pero hubo un error al mostrarlos.<br><small style="color:#c62828">${e.message}</small><br><br><button class="asig-btn" onclick="historicoPicadoresData=null;cargarHistoricoPicadores()">🔄 Reintentar</button></div>`;
-    }
-    return;
-  }
-  cont.innerHTML = `<div class="hp-loading">Cargando histórico...</div>`;
+  if (historicoPicadoresData) { renderHistoricoPicadores(); return; }
+  document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">Cargando histórico...</div>`;
   try {
     const res = await fetch(WORKER_URL + "/historico-picadores?t=" + Date.now());
-    if (!res.ok) throw new Error("El servidor respondió con error " + res.status);
+    if (!res.ok) throw new Error("No se pudo cargar");
     historicoPicadoresData = await res.json();
-  } catch(e) {
-    console.error("Error al cargar el histórico:", e);
-    cont.innerHTML = `<div class="hp-loading">No se pudo cargar el histórico.<br><small style="color:#c62828">${e.message}</small><br><br><button class="asig-btn" onclick="cargarHistoricoPicadores()">🔄 Reintentar</button></div>`;
-    return;
-  }
-  try {
     renderHistoricoPicadores();
   } catch(e) {
-    console.error("Error al mostrar el histórico:", e);
-    cont.innerHTML = `<div class="hp-loading">⚠️ Se cargaron los datos pero hubo un error al mostrarlos.<br><small style="color:#c62828">${e.message}</small><br><br><button class="asig-btn" onclick="historicoPicadoresData=null;cargarHistoricoPicadores()">🔄 Reintentar</button></div>`;
+    document.getElementById("histPickApp").innerHTML = `<div class="hp-loading">No se pudo cargar el histórico.</div>`;
   }
 }
 
 async function cargarHistoricoPicadoresParaProductividad() {
-  if (historicoPicadoresData) { renderDashboardSeguro(); return; }
+  if (historicoPicadoresData) { renderDashboard(); return; }
   try {
     const res = await fetch(WORKER_URL + "/historico-picadores?t=" + Date.now());
     if (!res.ok) return;
     historicoPicadoresData = await res.json();
-    if (tabActual === "dashboard") renderDashboardSeguro();
-  } catch(e) { console.error("Error al cargar histórico para Productividad:", e); }
-}
-
-// Envuelve renderDashboard para que un error de render no deje la pestaña en blanco
-// sin explicación — muestra el error real y no rompe el resto de la app.
-function renderDashboardSeguro() {
-  try { renderDashboard(); }
-  catch(e) {
-    console.error("Error al mostrar Productividad:", e);
-    const cont = document.getElementById("dashApp");
-    if (cont) cont.innerHTML = `<div class="dash-section"><div class="dash-card"><div class="dash-empty">⚠️ Error al mostrar esta pestaña.<br><small style="color:#c62828">${e.message}</small></div></div></div>`;
-  }
+    if (tabActual === "dashboard") renderDashboard();
+  } catch(e) {}
 }
 
 function renderHistoricoPicadores() {
@@ -1049,267 +534,20 @@ function renderHistoricoPicadores() {
   }
 
   if (!fechaSeleccionadaHist || !dias[fechaSeleccionadaHist]) fechaSeleccionadaHist = fechas[0];
-
-  cont.innerHTML = renderRankingProductividadHistorico() + renderRepartoFamilias() + renderRegistrosSospechosos() + renderDetalleDiaHistorico() + renderNotasIncidencias();
-}
-
-// ── Reparto de familias por picador (para detectar reparto injusto) ─
-function renderRepartoFamilias() {
-  const flat = obtenerRegistrosHistoricosFlat();
-  let filtrados = flat;
-  if (histRankMes !== "todos") filtrados = filtrados.filter(r => getMesKey(r.__fecha) === histRankMes);
-  if (histRankSemana !== "todos") filtrados = filtrados.filter(r => getSemanaKey(r.__fecha) === histRankSemana);
-  // Nota: aquí NO se aplica el filtro de familia, porque el objetivo es
-  // justamente ver cómo se reparten TODAS las familias entre las personas.
-
-  const porPicador = {};
-  filtrados.forEach(r => {
-    const n = r.picador || "—";
-    const f = r.familia || "—";
-    if (!porPicador[n]) porPicador[n] = {};
-    porPicador[n][f] = (porPicador[n][f]||0) + (r.kg||0);
-  });
-
-  let entradas = Object.entries(porPicador).map(([nombre, porFam]) => {
-    const orden = Object.entries(porFam).sort((a,b) => b[1]-a[1]);
-    if (!orden.length) return null;
-    const total = orden.reduce((s,[,v]) => s+v, 0) || 1;
-    const [famDominante, kgDominante] = orden[0];
-    const pctDominante = Math.round(kgDominante/total*100);
-    return { nombre, orden, total, famDominante, pctDominante };
-  }).filter(Boolean);
-  if (!entradas.length) return "";
-
-  if (repartoOrden === "nombre") entradas.sort((a,b) => a.nombre.localeCompare(b.nombre));
-  else if (repartoOrden === "volumen") entradas.sort((a,b) => b.total - a.total);
-  else entradas.sort((a,b) => b.pctDominante - a.pctDominante); // concentración: los más urgentes primero
-
-  const candidatosRotar = entradas.filter(e => e.pctDominante >= UMBRAL_CONCENTRACION_PCT);
-
-  return `
-    <div class="hp-section" style="border-top:8px solid #eef2f7">
-      <div class="dash-title" style="margin-top:0">⚖️ Reparto de Familias por Picador</div>
-      <div style="font-size:11px;color:#90a4ae;margin-bottom:8px">Toca a una persona para ver su perfil completo. Para detectar si alguien siempre trabaja las mismas familias mientras otros rotan.</div>
-      ${candidatosRotar.length ? `
-      <div class="alerta-box" style="margin:0 0 10px">
-        <div class="alerta-title">🔁 ${candidatosRotar.length} candidato(s) a rotar (${UMBRAL_CONCENTRACION_PCT}%+ en una sola familia)</div>
-        ${candidatosRotar.map(e => `<div class="alerta-row"><span>${e.nombre}</span><span>Fam. ${e.famDominante} · ${e.pctDominante}%</span></div>`).join("")}
-      </div>` : ""}
-      <div class="rank-toggle">
-        <button class="${repartoOrden==='concentracion'?'on':''}" onclick="cambiarRepartoOrden('concentracion')">Más urgente</button>
-        <button class="${repartoOrden==='volumen'?'on':''}" onclick="cambiarRepartoOrden('volumen')">Volumen</button>
-        <button class="${repartoOrden==='nombre'?'on':''}" onclick="cambiarRepartoOrden('nombre')">A-Z</button>
-      </div>
-      <div class="dash-card">
-        ${entradas.map(e => `
-          <div class="reparto-picker" onclick="abrirPerfilPicador('${e.nombre.replace(/'/g,"\\'")}')" style="cursor:pointer">
-            <div class="reparto-nombre">${e.nombre} ${e.pctDominante>=UMBRAL_CONCENTRACION_PCT?'⚠️':''} <span class="dash-sub">${(e.total/1000).toFixed(1)} t total ›</span></div>
-            <div class="reparto-bar">
-              ${e.orden.map(([f,kg]) => `<div class="reparto-seg" style="width:${(kg/e.total*100)}%;background:${COLORES_FAMILIA[f]||'#90a4ae'}"></div>`).join("")}
-            </div>
-            <div class="reparto-leyenda">
-              ${e.orden.map(([f,kg]) => `<span><span style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${COLORES_FAMILIA[f]||'#90a4ae'};margin-right:3px"></span>${f}: ${(kg/1000).toFixed(1)}t (${Math.round(kg/e.total*100)}%)</span>`).join("")}
-            </div>
-          </div>`).join("")}
-      </div>
-    </div>`;
-}
-
-// ── Registros sospechosos (intervalos demasiado cortos) ────────────
-function renderRegistrosSospechosos() {
-  const flat = obtenerRegistrosHistoricosFlat();
-  let filtrados = flat;
-  if (histRankMes !== "todos") filtrados = filtrados.filter(r => getMesKey(r.__fecha) === histRankMes);
-  if (histRankSemana !== "todos") filtrados = filtrados.filter(r => getSemanaKey(r.__fecha) === histRankSemana);
-
-  const sospechosos = detectarRegistrosSospechosos(filtrados);
-  if (!sospechosos.length) return "";
-
-  return `
-    <div class="hp-section" style="border-top:8px solid #eef2f7">
-      <div class="sospechoso-box">
-        <div class="sospechoso-title">⚠️ Registros para revisar (menos de ${UMBRAL_SOSPECHOSO_SEG}s entre placas)</div>
-        ${sospechosos.slice(0,30).map(s => `
-          <div class="sospechoso-row">
-            <b>${s.picador}</b> — ${formatearFecha(s.fecha)}: pasó de <b>${s.placaAnterior}</b> (Fam. ${s.familiaAnterior}, ${s.kgAnterior.toFixed(1)} kg) a <b>${s.placaActual}</b> (Fam. ${s.familiaActual}) en solo <b>${s.segundos}s</b>
-          </div>`).join("")}
-        ${sospechosos.length > 30 ? `<div class="sospechoso-row">...y ${sospechosos.length-30} más.</div>` : ""}
-      </div>
-    </div>`;
-}
-
-// ── NOTAS E INCIDENCIAS POR PERSONA ────────────────────────────────
-// Se guardan en este navegador/dispositivo (localStorage). No se sincronizan
-// entre celulares ni supervisores distintos — para eso habría que agregar un
-// endpoint en el Worker API que las guarde en GitHub, igual que las asignaciones.
-function obtenerIncidencias() {
-  try { return JSON.parse(localStorage.getItem("picking_incidencias") || "[]"); } catch(e) { return []; }
-}
-function guardarIncidencias(lista) {
-  try { localStorage.setItem("picking_incidencias", JSON.stringify(lista)); } catch(e) {}
-}
-function agregarIncidencia() {
-  const nombre = document.getElementById("notaPicador")?.value || "";
-  const fecha = document.getElementById("notaFecha")?.value || "";
-  const texto = (document.getElementById("notaTexto")?.value || "").trim();
-  if (!nombre || !fecha || !texto) { alert("Completa persona, fecha y la nota."); return; }
-  const lista = obtenerIncidencias();
-  lista.unshift({ id: Date.now().toString(36) + Math.random().toString(36).slice(2,6), nombre, fecha, texto, creado: new Date().toISOString() });
-  guardarIncidencias(lista);
-  renderHistoricoPicadores();
-}
-function borrarIncidencia(id) {
-  if (!confirm("¿Borrar esta nota?")) return;
-  guardarIncidencias(obtenerIncidencias().filter(n => n.id !== id));
-  renderHistoricoPicadores();
-}
-function renderNotasIncidencias() {
-  const lista = [...obtenerIncidencias()].sort((a,b) => (b.fecha||"").localeCompare(a.fecha||""));
-  const hoy = new Date().toISOString().slice(0,10);
-  return `
-    <div class="hp-section" style="border-top:8px solid #eef2f7">
-      <div class="dash-title" style="margin-top:0">📝 Notas e Incidencias</div>
-      <div style="font-size:11px;color:#90a4ae;margin-bottom:8px">⚠️ Se guardan solo en este navegador/dispositivo — no se comparten entre celulares.</div>
-      <div class="dash-card">
-        <div class="nota-form-row">
-          <select id="notaPicador"><option value="">Persona...</option>${personalList.map(n=>`<option value="${n}">${n}</option>`).join("")}</select>
-          <input type="date" id="notaFecha" value="${hoy}">
-        </div>
-        <textarea class="nota-textarea" id="notaTexto" placeholder="Escribe la nota o incidencia..."></textarea>
-        <button class="asig-btn" onclick="agregarIncidencia()">Guardar nota</button>
-      </div>
-      <div class="dash-card" style="margin-top:10px">
-        ${lista.length===0 ? '<div class="dash-empty">Sin notas registradas todavía.</div>' : lista.map(n => `
-          <div class="nota-item">
-            <div><b>${n.nombre}</b> — ${n.texto}</div>
-            <div class="nota-meta"><span>${formatearFecha(n.fecha)}</span><button class="nota-del-btn" onclick="borrarIncidencia('${n.id}')">🗑️ borrar</button></div>
-          </div>`).join("")}
-      </div>
-    </div>`;
-}
-
-// ── Ranking de productividad por picador (toneladas y placas), con filtros ──
-function renderRankingProductividadHistorico() {
-  const flat = obtenerRegistrosHistoricosFlat();
-  const meses = [...new Set(flat.map(r => getMesKey(r.__fecha)))].sort().reverse();
-  const semanas = [...new Set(flat.map(r => getSemanaKey(r.__fecha)))].sort().reverse();
-  const familias = [...new Set(flat.map(r => r.familia || "—"))].sort();
-
-  let filtrados = flat;
-  if (histRankMes !== "todos") filtrados = filtrados.filter(r => getMesKey(r.__fecha) === histRankMes);
-  if (histRankSemana !== "todos") filtrados = filtrados.filter(r => getSemanaKey(r.__fecha) === histRankSemana);
-  if (histRankFamilia !== "todas") filtrados = filtrados.filter(r => (r.familia || "—") === histRankFamilia);
-
-  const porPicador = {};
-  filtrados.forEach(r => {
-    const n = r.picador || "—";
-    if (!porPicador[n]) porPicador[n] = { kg:0, placas:new Set(), dias:new Set() };
-    porPicador[n].kg += (r.kg || 0);
-    porPicador[n].placas.add(r.placa);
-    porPicador[n].dias.add(r.__fecha || "hoy");
-  });
-
-  const tiempos = calcularTiemposPicking(filtrados);
-  const pickersLote = obtenerPickersConRegistroPorLote(filtrados);
-
-  let rank = Object.entries(porPicador);
-  if (histRankOrden === "placas") rank.sort((a,b) => b[1].placas.size - a[1].placas.size);
-  else if (histRankOrden === "tiempo") rank.sort((a,b) => (tiempos[b[0]]||0) - (tiempos[a[0]]||0));
-  else rank.sort((a,b) => b[1].kg - a[1].kg);
-  const maxKg = Math.max(...rank.map(([,v]) => v.kg), 1);
-  const maxPlacas = Math.max(...rank.map(([,v]) => v.placas.size), 1);
-  const maxTiempo = Math.max(...rank.map(([n]) => tiempos[n]||0), 1);
-
-  const totalTon = filtrados.reduce((s,r) => s+(r.kg||0), 0) / 1000;
-  const totalPlacas = new Set(filtrados.map(r => r.placa)).size;
-
-  const filasHtml = rank.length === 0
-    ? `<div class="dash-empty">No hay datos para este filtro.</div>`
-    : rank.map(([nombre, v], i) => {
-        const segs = tiempos[nombre] || 0;
-        const esLote = pickersLote.has(nombre);
-        const dias = v.dias.size || 1;
-        const kgHoraTurno = v.kg / (dias * DURACION_TURNO_HORAS);
-        let pct;
-        if (histRankOrden === "placas") pct = Math.round(v.placas.size / maxPlacas * 100);
-        else if (histRankOrden === "tiempo") pct = Math.round(segs / maxTiempo * 100);
-        else pct = Math.round(v.kg / maxKg * 100);
-        return `<div class="dash-row">
-          <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span><button class="perfil-nombre-btn" onclick="abrirPerfilPicador('${nombre.replace(/'/g,"\\'")}')">${nombre}</button></div>
-          <div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div>
-          <div class="dash-val" style="white-space:normal;min-width:100px;line-height:1.35">${(v.kg/1000).toFixed(2)} t · ${v.placas.size} pl<br><span class="dash-sub" style="margin-left:0">📦 ${kgHoraTurno.toFixed(0)} kg/h de turno</span>${esLote ? `<br><span class="dash-sub" style="margin-left:0;color:#bf360c">⚠️ registro por lote${segs>0?' (parcial)':''}</span>` : (segs>0 ? `<br><span class="dash-sub" style="margin-left:0">⏱️ ${formatearDuracion(segs)} en tiempo real</span>` : '')}</div>
-        </div>`;
-      }).join("");
-
-  return `
-    <div class="hp-section">
-      <div class="dash-title" style="margin-top:0">🏆 Productividad por Picador</div>
-      <div class="hp-select-row" style="margin-bottom:8px">
-        <label class="hp-label">📅 Mes</label>
-        <select onchange="cambiarHistRankMes(this.value)">
-          <option value="todos" ${histRankMes==='todos'?'selected':''}>Todos los meses</option>
-          ${meses.map(m => `<option value="${m}" ${m===histRankMes?'selected':''}>${getMesLabel(m)}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row" style="margin-bottom:8px">
-        <label class="hp-label">🗓️ Semana</label>
-        <select onchange="cambiarHistRankSemana(this.value)">
-          <option value="todos" ${histRankSemana==='todos'?'selected':''}>Todas las semanas</option>
-          ${semanas.map(s => `<option value="${s}" ${s===histRankSemana?'selected':''}>${getSemanaLabel(s)}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row">
-        <label class="hp-label">🗂️ Familia</label>
-        <select onchange="cambiarHistRankFamilia(this.value)">
-          <option value="todas" ${histRankFamilia==='todas'?'selected':''}>Todas las familias</option>
-          ${familias.map(f => `<option value="${f}" ${f===histRankFamilia?'selected':''}>Familia ${f}</option>`).join("")}
-        </select>
-      </div>
-      <div class="stats-row" style="margin-top:12px;margin-bottom:2px">
-        <div class="stat"><div class="stat-n">${totalPlacas}</div><div class="stat-l">Placas</div></div>
-        <div class="stat"><div class="stat-n">${totalTon.toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
-        <div class="stat"><div class="stat-n">${rank.length}</div><div class="stat-l">Picadores</div></div>
-      </div>
-    </div>
-    <div class="dash-section" style="padding-top:0">
-      <div class="rank-toggle">
-        <button class="${histRankOrden==='ton'?'on':''}" onclick="cambiarHistRankOrden('ton')">Toneladas</button>
-        <button class="${histRankOrden==='placas'?'on':''}" onclick="cambiarHistRankOrden('placas')">Placas</button>
-        <button class="${histRankOrden==='tiempo'?'on':''}" onclick="cambiarHistRankOrden('tiempo')">Tiempo</button>
-      </div>
-      <div class="dash-card">${filasHtml}</div>
-    </div>`;
-}
-
-function cambiarHistRankMes(v) { histRankMes = v; renderHistoricoPicadores(); }
-function cambiarHistRankSemana(v) { histRankSemana = v; renderHistoricoPicadores(); }
-function cambiarHistRankFamilia(v) { histRankFamilia = v; renderHistoricoPicadores(); }
-function cambiarHistRankOrden(v) { histRankOrden = v; renderHistoricoPicadores(); }
-function cambiarRepartoOrden(v) { repartoOrden = v; renderHistoricoPicadores(); }
-
-// ── Detalle de un día específico (vista original, se conserva) ────
-function renderDetalleDiaHistorico() {
-  const dias = (historicoPicadoresData && historicoPicadoresData.dias) || {};
-  const fechas = Object.keys(dias).sort().reverse();
-  let registros = dias[fechaSeleccionadaHist] || [];
-  if (histRankFamilia !== "todas") registros = registros.filter(r => (r.familia||"—") === histRankFamilia);
+  const registros = dias[fechaSeleccionadaHist] || [];
   const totalKg = registros.reduce((s,r) => s+(r.kg||0), 0);
-  const totalPlacas = new Set(registros.map(r => r.placa)).size;
   const pickersUnicos = new Set(registros.map(r => r.picador)).size;
-  const etiquetaFamilia = histRankFamilia !== "todas" ? ` · Familia ${histRankFamilia}` : "";
 
-  return `
-    <div class="hp-section" style="border-top:8px solid #eef2f7">
-      <div class="dash-title" style="margin-top:0">🔍 Detalle por día específico${etiquetaFamilia}</div>
+  cont.innerHTML = `
+    <div class="hp-section">
       <div class="hp-select-row">
         <label class="hp-label">📅 Selecciona un día:</label>
         <select id="selFechaHist" onchange="cambiarFechaHist(this.value)">
           ${fechas.map(f => `<option value="${f}" ${f===fechaSeleccionadaHist?'selected':''}>${formatearFecha(f)}</option>`).join("")}
         </select>
       </div>
-      ${histRankFamilia !== "todas" ? `<div style="padding:6px 0 0;font-size:11px;color:#90a4ae">Filtrado por Familia ${histRankFamilia} (cambia el filtro arriba, en "Productividad por Picador", para verlo sin filtrar)</div>` : ""}
       <div class="stats-row" style="margin-top:10px">
-        <div class="stat"><div class="stat-n">${totalPlacas}</div><div class="stat-l">Placas</div></div>
+        <div class="stat"><div class="stat-n">${registros.length}</div><div class="stat-l">Placas</div></div>
         <div class="stat"><div class="stat-n">${pickersUnicos}</div><div class="stat-l">Pickers</div></div>
         <div class="stat"><div class="stat-n">${(totalKg/1000).toFixed(1)}</div><div class="stat-l">Toneladas</div></div>
       </div>
@@ -1331,17 +569,12 @@ function renderDetalleDiaHistorico() {
 function cambiarFechaHist(fecha) { fechaSeleccionadaHist = fecha; renderHistoricoPicadores(); }
 
 function formatearFecha(fechaISO) {
-  if (!fechaISO || typeof fechaISO !== "string") return fechaISO || "—";
-  const partes = fechaISO.split("-");
-  if (partes.length < 3) return fechaISO;
-  const [yyyy, mm, dd] = partes;
+  const [yyyy, mm, dd] = fechaISO.split("-");
   const meses = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
-  const idx = parseInt(mm) - 1;
-  if (isNaN(idx) || !meses[idx]) return fechaISO;
-  return `${dd} ${meses[idx]} ${yyyy}`;
+  return `${dd} ${meses[parseInt(mm)-1]} ${yyyy}`;
 }
 
-// ── HISTÓRICO DE TONELAJE (gráficos de la pestaña Productividad) ──
+// ── HISTÓRICO DE TONELAJE ─────────────────────────────────────────
 async function cargarHistorico() {
   if (historicoData) { renderGraficoHistorico(); return; }
   try {
@@ -1357,9 +590,7 @@ function renderGraficoHistorico() {
   if (!cont) return;
   if (!historicoData || !historicoData.dias || Object.keys(historicoData.dias).length === 0) { cont.innerHTML = ""; return; }
 
-  let fechas = Object.keys(historicoData.dias).sort();
-  if (mesProductividad !== "todos") fechas = fechas.filter(f => getMesKey(f) === mesProductividad);
-  if (semanaProductividad !== "todos") fechas = fechas.filter(f => getSemanaKey(f) === semanaProductividad);
+  const fechas = Object.keys(historicoData.dias).sort();
   const labels = fechas.map(f => { const [,mm,dd] = f.split("-"); return `${dd}/${mm}`; });
 
   cont.innerHTML = `
@@ -1367,9 +598,7 @@ function renderGraficoHistorico() {
     <div class="hist-chart-wrap"><canvas id="histChartTotal"></canvas></div>
     <div class="hist-title" style="margin-top:22px">🗂️ Por familia (toneladas)</div>
     <div class="hist-chart-wrap"><canvas id="histChartFamilia"></canvas></div>
-    <div class="hist-legend" id="histLegendFamilia"></div>
-    <div class="hist-title" style="margin-top:22px">🏬 ABARROTES vs REFRIGERADOS (toneladas)</div>
-    <div class="hist-chart-wrap"><canvas id="histChartAlmacen"></canvas></div>`;
+    <div class="hist-legend" id="histLegendFamilia"></div>`;
 
   if (typeof Chart === "undefined") {
     const script = document.createElement("script");
@@ -1391,10 +620,9 @@ function dibujarGraficos(fechas, labels) {
     options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:false} }, scales:{ x:{ticks:{autoSkip:false,maxRotation:45}}, y:{title:{display:true,text:"Toneladas"}} } }
   });
 
-  let famSet = new Set();
+  const famSet = new Set();
   fechas.forEach(f => Object.keys(historicoData.dias[f].por_familia||{}).forEach(c => famSet.add(c)));
-  let fams = [...famSet].sort();
-  if (familiaProductividad !== "todas") fams = fams.filter(f => f === familiaProductividad);
+  const fams = [...famSet].sort();
   const cols = ["#0d3b61","#1a73b8","#2e7d32","#bf360c","#7b1fa2","#bf6f00","#00838f","#ad1457"];
   const dsFamilia = fams.map((fam,i) => ({
     label: fam,
@@ -1410,30 +638,6 @@ function dibujarGraficos(fechas, labels) {
   });
   const leg = document.getElementById("histLegendFamilia");
   if (leg) leg.innerHTML = dsFamilia.map(d => `<span class="hist-legend-item"><span class="hist-legend-dot" style="background:${d.borderColor}"></span>${d.label}</span>`).join("");
-
-  // ── ABARROTES vs REFRIGERADOS (derivado de por_familia usando FAMILIA_ALMACEN_MAP) ──
-  const abarrotes = [], refrigerados = [];
-  fechas.forEach(f => {
-    const porFam = historicoData.dias[f].por_familia || {};
-    let ab = 0, re = 0;
-    Object.keys(porFam).forEach(fam => {
-      if (familiaProductividad !== "todas" && fam !== familiaProductividad) return;
-      const kg = porFam[fam] || 0;
-      if (getAlmacenPorFamilia(fam) === "ABARROTES") ab += kg; else re += kg;
-    });
-    abarrotes.push(Math.round((ab/1000)*100)/100);
-    refrigerados.push(Math.round((re/1000)*100)/100);
-  });
-  if (chartAlmacenInstance) chartAlmacenInstance.destroy();
-  const ctxA = document.getElementById("histChartAlmacen");
-  if (ctxA) chartAlmacenInstance = new Chart(ctxA, {
-    type: "line",
-    data: { labels, datasets: [
-      { label:"ABARROTES", data:abarrotes, borderColor:"#bf6f00", backgroundColor:"#bf6f00", fill:false, tension:0.25, pointRadius:3 },
-      { label:"REFRIGERADOS", data:refrigerados, borderColor:"#1565c0", backgroundColor:"#1565c0", fill:false, tension:0.25, pointRadius:3 }
-    ] },
-    options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:true,position:"bottom"} }, scales:{ x:{ticks:{autoSkip:false,maxRotation:45}}, y:{title:{display:true,text:"Toneladas"}} } }
-  });
 }
 
 // ── DASHBOARD DE PRODUCTIVIDAD ────────────────────────────────────
@@ -1460,18 +664,16 @@ function renderDashboard() {
   const htmlFiltro = renderFiltroHistoricoProductividad();
   const htmlRanking = renderRankingPicadores();
 
-  const base = registrosFiltradosProductividad;
-
-  if (!base.length) {
+  if (!asignaciones.length) {
     cont.innerHTML = htmlCerrarDia + htmlExport + htmlFiltro + htmlRanking + `
       <div class="dash-section">
-        <div class="dash-card"><div class="dash-empty">📊 No hay asignaciones para este filtro.<br>Los pickers deben registrarse en la pestaña Consulta.</div></div>
+        <div class="dash-card"><div class="dash-empty">📊 Aún no hay asignaciones registradas hoy.<br>Cuando los pickers se registren en la pestaña Consulta, aparecerán aquí.</div></div>
       </div>`;
     return;
   }
 
   const porPlaca = {}, porControlador = {}, porFamilia = {};
-  base.forEach(a => {
+  asignaciones.forEach(a => {
     const kg = a.kg||0, cajas = a.cajas||0, unds = a.unds||0;
     if (!porPlaca[a.placa]) porPlaca[a.placa] = {kg:0,cajas:0,unds:0};
     porPlaca[a.placa].kg+=kg; porPlaca[a.placa].cajas+=cajas; porPlaca[a.placa].unds+=unds;
@@ -1489,50 +691,17 @@ function renderDashboard() {
   const maxP = Math.max(...rankPlaca.map(([,v])=>v.kg),1);
   const maxC = Math.max(...rankCtrl.map(([,v])=>v.kg),1);
   const maxF = Math.max(...rankFamilia.map(([,v])=>v.kg),1);
-  const pickersHoy = new Set(base.map(a=>a.picador)).size;
-
-  // El total esperado por placa solo se puede calcular contra el Excel de hoy (allData).
-  // Para días/periodos ya archivados no se conserva el plan original.
-  const diasHistDash = (historicoPicadoresData && historicoPicadoresData.dias) || {};
-  const HOY_KEY_DASH = "__hoy__";
-  const esHoyEnVivoDash = mesProductividad === "todos" && semanaProductividad === "todos" &&
-    (fechaProductividad === HOY_KEY_DASH || Object.keys(diasHistDash).length === 0);
-
-  let totalPlacaBase = allData;
-  if (familiaProductividad !== "todas") totalPlacaBase = totalPlacaBase.filter(r => r.familia === familiaProductividad);
-  if (zonaProductividad !== "todas") totalPlacaBase = totalPlacaBase.filter(r => r.status === zonaProductividad);
-  const totalKgPorPlaca = {};
-  if (esHoyEnVivoDash) {
-    totalPlacaBase.forEach(r => {
-      if (!r.placa) return;
-      totalKgPorPlaca[r.placa] = (totalKgPorPlaca[r.placa]||0) + (r.peso_kg||0);
-    });
-  }
-  const zonasHoyDash = [...new Set(allData.map(r => r.status).filter(Boolean))].sort();
+  const pickersHoy = new Set(asignaciones.map(a=>a.picador)).size;
 
   let html = `<div class="dash-section">
     <div class="stats-row" style="margin-bottom:4px">
-      <div class="stat"><div class="stat-n">${base.length}</div><div class="stat-l">Registros</div></div>
+      <div class="stat"><div class="stat-n">${asignaciones.length}</div><div class="stat-l">Registros hoy</div></div>
       <div class="stat"><div class="stat-n">${pickersHoy}</div><div class="stat-l">Pickers activos</div></div>
-      <div class="stat"><div class="stat-n">${base.reduce((s,a)=>s+(a.kg||0),0).toFixed(0)}</div><div class="stat-l">Kg totales</div></div>
+      <div class="stat"><div class="stat-n">${asignaciones.reduce((s,a)=>s+(a.kg||0),0).toFixed(0)}</div><div class="stat-l">Kg totales</div></div>
     </div>
-    ${esHoyEnVivoDash ? `
-    <div class="hp-select-row" style="margin:10px 0 8px">
-      <label class="hp-label">📍 Ver avance por Zona</label>
-      <select onchange="cambiarZonaProductividad(this.value)">
-        <option value="todas" ${zonaProductividad==='todas'?'selected':''}>Todas las zonas</option>
-        ${zonasHoyDash.map(z=>`<option value="${z}" ${z===zonaProductividad?'selected':''}>Zona ${z}</option>`).join("")}
-      </select>
-    </div>` : ''}
     <div class="dash-title">🚚 Por Placa (Kg)</div><div class="dash-card">`;
   rankPlaca.slice(0,15).forEach(([p,v],i) => {
-    if (esHoyEnVivoDash) {
-      const total = totalKgPorPlaca[p] || v.kg;
-      const pct = total > 0 ? Math.min(100, Math.round(v.kg/total*100)) : 100;
-      html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${p}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${pct}%"></div></div><div class="dash-val" style="white-space:normal;min-width:110px;line-height:1.35">${v.kg.toFixed(1)} / ${total.toFixed(1)} kg<br><span class="dash-sub" style="margin-left:0">${pct}% avance</span></div></div>`;
-    } else {
-      html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${p}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxP*100)}%"></div></div><div class="dash-val">${v.kg.toFixed(1)} kg</div></div>`;
-    }
+    html += `<div class="dash-row"><div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${p}</div><div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxP*100)}%"></div></div><div class="dash-val">${v.kg.toFixed(1)} kg</div></div>`;
   });
   html += `</div><div class="dash-title">👷 Por Controlador (Kg)</div><div class="dash-card">`;
   rankCtrl.forEach(([n,v],i) => {
@@ -1553,24 +722,12 @@ function renderFiltroHistoricoProductividad() {
   const HOY_KEY = "__hoy__";
   if (!fechaProductividad) fechaProductividad = HOY_KEY;
 
-  const flat = obtenerRegistrosHistoricosFlat();
-  const meses = [...new Set(flat.map(r => getMesKey(r.__fecha)))].sort().reverse();
-  const semanas = [...new Set(flat.map(r => getSemanaKey(r.__fecha)))].sort().reverse();
-
-  const usaPeriodo = mesProductividad !== "todos" || semanaProductividad !== "todos";
-
-  // Datos base: si hay mes o semana seleccionados, se agrega sobre el histórico archivado.
-  // Si no, se respeta el selector de día (hoy en vivo o un día puntual ya archivado).
+  // Datos del día seleccionado
   let registrosBase = [];
-  if (usaPeriodo) {
-    registrosBase = flat;
-    if (mesProductividad !== "todos") registrosBase = registrosBase.filter(r => getMesKey(r.__fecha) === mesProductividad);
-    if (semanaProductividad !== "todos") registrosBase = registrosBase.filter(r => getSemanaKey(r.__fecha) === semanaProductividad);
-  } else if (fechaProductividad === HOY_KEY || fechas.length === 0) {
-    const hoyStr = new Date().toISOString().slice(0,10);
-    registrosBase = asignaciones.map(r => ({ ...r, __fecha: hoyStr, __vivo: true }));
+  if (fechaProductividad === HOY_KEY || fechas.length === 0) {
+    registrosBase = asignaciones;
   } else {
-    registrosBase = (dias[fechaProductividad] || []).map(r => ({ ...r, __fecha: fechaProductividad, __vivo: false }));
+    registrosBase = dias[fechaProductividad] || [];
   }
 
   const familias = [...new Set(registrosBase.map(r => r.familia||"—"))].sort();
@@ -1588,31 +745,14 @@ function renderFiltroHistoricoProductividad() {
     placasPorFamilia[fam].add(r.placa);
   });
 
-  // El "total a picar" solo tiene sentido para hoy en vivo, porque es lo único
-  // de lo que tenemos el plan completo (el Excel del día). Para días/periodos
-  // ya archivados no se guarda el plan original, solo lo que se completó.
-  const esHoyEnVivo = !usaPeriodo && (fechaProductividad === HOY_KEY || fechas.length === 0);
-  const totalPlacasFamiliaHoy = {};
-  if (esHoyEnVivo) {
-    allData.forEach(r => {
-      if (!r.familia || !r.placa) return;
-      if (!totalPlacasFamiliaHoy[r.familia]) totalPlacasFamiliaHoy[r.familia] = new Set();
-      totalPlacasFamiliaHoy[r.familia].add(r.placa);
-    });
-  }
-
   const totalPlacas = new Set(filtrados.map(r=>r.placa)).size;
   const totalKg = filtrados.reduce((s,r)=>s+(r.kg||0),0);
-  let etiqueta;
-  if (mesProductividad !== "todos" && semanaProductividad !== "todos") etiqueta = `${getMesLabel(mesProductividad)} · ${getSemanaLabel(semanaProductividad)}`;
-  else if (mesProductividad !== "todos") etiqueta = getMesLabel(mesProductividad);
-  else if (semanaProductividad !== "todos") etiqueta = getSemanaLabel(semanaProductividad);
-  else etiqueta = (fechaProductividad === HOY_KEY || fechas.length===0) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
+  const etiqueta = (fechaProductividad === HOY_KEY || fechas.length===0) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
 
   const selectorFecha = fechas.length > 0 ? `
     <div class="hp-select-row" style="margin-bottom:8px">
       <label class="hp-label">📅 Día</label>
-      <select onchange="cambiarFechaProductividad(this.value)" ${usaPeriodo?'disabled':''}>
+      <select onchange="cambiarFechaProductividad(this.value)">
         <option value="${HOY_KEY}" ${fechaProductividad===HOY_KEY?'selected':''}>📅 Hoy (en vivo)</option>
         ${fechas.map(f=>`<option value="${f}" ${f===fechaProductividad?'selected':''}>${formatearFecha(f)}</option>`).join("")}
       </select>
@@ -1620,22 +760,8 @@ function renderFiltroHistoricoProductividad() {
 
   return `
     <div class="hp-section">
-      <div class="dash-title" style="margin-top:0">🔎 Filtros de Productividad</div>
+      <div class="dash-title" style="margin-top:0">🔎 Filtro Ranking de Picadores</div>
       ${selectorFecha}
-      <div class="hp-select-row" style="margin-bottom:8px">
-        <label class="hp-label">📅 Mes</label>
-        <select onchange="cambiarMesProductividad(this.value)">
-          <option value="todos" ${mesProductividad==='todos'?'selected':''}>Todos los meses</option>
-          ${meses.map(m=>`<option value="${m}" ${m===mesProductividad?'selected':''}>${getMesLabel(m)}</option>`).join("")}
-        </select>
-      </div>
-      <div class="hp-select-row" style="margin-bottom:8px">
-        <label class="hp-label">🗓️ Semana</label>
-        <select onchange="cambiarSemanaProductividad(this.value)">
-          <option value="todos" ${semanaProductividad==='todos'?'selected':''}>Todas las semanas</option>
-          ${semanas.map(s=>`<option value="${s}" ${s===semanaProductividad?'selected':''}>${getSemanaLabel(s)}</option>`).join("")}
-        </select>
-      </div>
       <div class="hp-select-row" style="margin-bottom:8px">
         <label class="hp-label">🗂️ Familia</label>
         <select onchange="cambiarFamiliaProductividad(this.value)">
@@ -1656,28 +782,11 @@ function renderFiltroHistoricoProductividad() {
       </div>
       <div class="dash-title">📦 Placas por familia — ${etiqueta}</div>
       <div class="dash-card">
-        ${(() => {
-          if (!esHoyEnVivo) {
-            return Object.entries(placasPorFamilia).sort((a,b)=>b[1].size-a[1].size).map(([fam,pls])=>`
-              <div class="dash-row">
-                <div class="dash-name">Familia ${fam}</div>
-                <div class="dash-val">${pls.size} placas</div>
-              </div>`).join("");
-          }
-          const todasFamilias = new Set([...Object.keys(totalPlacasFamiliaHoy), ...Object.keys(placasPorFamilia)]);
-          const filas = [...todasFamilias].map(fam => {
-            const registradas = placasPorFamilia[fam] ? placasPorFamilia[fam].size : 0;
-            const total = totalPlacasFamiliaHoy[fam] ? totalPlacasFamiliaHoy[fam].size : registradas;
-            const pct = total > 0 ? Math.min(100, Math.round(registradas/total*100)) : 0;
-            return { fam, registradas, total, pct };
-          }).sort((a,b) => b.registradas - a.registradas);
-          return filas.map(f => `
-            <div class="dash-row">
-              <div class="dash-name">Familia ${f.fam}</div>
-              <div class="dash-bar-wrap"><div class="dash-bar" style="width:${f.pct}%"></div></div>
-              <div class="dash-val">${f.registradas} / ${f.total} <span class="dash-sub">(${f.pct}%)</span></div>
-            </div>`).join("");
-        })()}
+        ${Object.entries(placasPorFamilia).sort((a,b)=>b[1].size-a[1].size).map(([fam,pls])=>`
+          <div class="dash-row">
+            <div class="dash-name">Familia ${fam}</div>
+            <div class="dash-val">${pls.size} placas</div>
+          </div>`).join("")}
       </div>
       <div class="hp-recalc-box">
         <div class="hp-recalc-text">⚙️ Si el ranking muestra 0 kg, usa este botón para recalcular con los datos actuales del Excel.</div>
@@ -1687,41 +796,26 @@ function renderFiltroHistoricoProductividad() {
     </div>`;
 }
 
-function cambiarFechaProductividad(f) { fechaProductividad = f; renderDashboardSeguro(); cargarHistorico(); }
-function cambiarFamiliaProductividad(f) { familiaProductividad = f; renderDashboardSeguro(); if (historicoData) dibujarGraficos(Object.keys(historicoData.dias).sort().filter(fx=>(mesProductividad==="todos"||getMesKey(fx)===mesProductividad)&&(semanaProductividad==="todos"||getSemanaKey(fx)===semanaProductividad)), Object.keys(historicoData.dias).sort().filter(fx=>(mesProductividad==="todos"||getMesKey(fx)===mesProductividad)&&(semanaProductividad==="todos"||getSemanaKey(fx)===semanaProductividad)).map(f=>{const [,mm,dd]=f.split("-");return `${dd}/${mm}`;})); }
-function cambiarZonaProductividad(z) { zonaProductividad = z; renderDashboardSeguro(); }
-function cambiarMesProductividad(v) { mesProductividad = v; renderDashboardSeguro(); renderGraficoHistorico(); }
-function cambiarSemanaProductividad(v) { semanaProductividad = v; renderDashboardSeguro(); renderGraficoHistorico(); }
+function cambiarFechaProductividad(f) { fechaProductividad = f; renderDashboard(); }
+function cambiarFamiliaProductividad(f) { familiaProductividad = f; renderDashboard(); }
+function cambiarZonaProductividad(z) { zonaProductividad = z; renderDashboard(); }
 
 function renderRankingPicadores() {
   const porPicador = {};
   registrosFiltradosProductividad.forEach(r => {
     const nombre = r.picador || r.nombre || "—";
-    const kg = r.kg_regular || r.kg || 0;
-    if (!porPicador[nombre]) porPicador[nombre] = {kg:0, cajas:0, unds:0, placas:new Set(), familias:new Set(), dias:new Set()};
+    const kg = r.kg_regular || 0;
+    if (!porPicador[nombre]) porPicador[nombre] = {kg:0, cajas:0, unds:0, placas:new Set()};
     porPicador[nombre].kg += kg;
     porPicador[nombre].cajas += (r.cajas||0);
     porPicador[nombre].unds += (r.unds||0);
     porPicador[nombre].placas.add(r.placa);
-    porPicador[nombre].familias.add(r.familia || "—");
-    porPicador[nombre].dias.add(r.__fecha || "hoy");
   });
-
-  const tiempos = calcularTiemposPicking(registrosFiltradosProductividad);
-  const pickersLote = obtenerPickersConRegistroPorLote(registrosFiltradosProductividad);
 
   const rank = Object.entries(porPicador).sort((a,b) => b[1].kg-a[1].kg);
   const maxKg = Math.max(...rank.map(([,v])=>v.kg), 1);
   const HOY_KEY = "__hoy__";
-  const diasHistRk = (historicoPicadoresData && historicoPicadoresData.dias) || {};
-  const esHoyEnVivoRk = mesProductividad === "todos" && semanaProductividad === "todos" &&
-    (fechaProductividad === HOY_KEY || Object.keys(diasHistRk).length === 0);
-  let fechaLabel;
-  if (mesProductividad !== "todos" || semanaProductividad !== "todos") {
-    fechaLabel = [mesProductividad!=="todos"?getMesLabel(mesProductividad):null, semanaProductividad!=="todos"?getSemanaLabel(semanaProductividad):null].filter(Boolean).join(" · ");
-  } else {
-    fechaLabel = (!fechaProductividad || fechaProductividad === HOY_KEY) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
-  }
+  const fechaLabel = (!fechaProductividad || fechaProductividad === HOY_KEY) ? "Hoy (en vivo)" : formatearFecha(fechaProductividad);
 
   if (rank.length === 0) {
     return `<div class="dash-section">
@@ -1730,42 +824,18 @@ function renderRankingPicadores() {
     </div>`;
   }
 
-  let htmlMeta = "";
-  if (esHoyEnVivoRk) {
-    const metaPorFamiliaKg = calcularMetaPorFamiliaKg();
-    htmlMeta = `<div class="dash-title">🎯 Meta Diaria (según familia trabajada)</div><div class="dash-card">`;
-    [...rank].sort((a,b) => b[1].kg - a[1].kg).forEach(([nombre,v]) => {
-      const metaKg = calcularMetaPicker(v.familias, metaPorFamiliaKg);
-      const metaTon = metaKg/1000;
-      const ton = v.kg/1000;
-      const pct = metaKg > 0 ? Math.min(100, Math.round(v.kg/metaKg*100)) : 0;
-      const cumplida = metaKg > 0 && v.kg >= metaKg;
-      const familiasTxt = [...v.familias].sort().join("+");
-      htmlMeta += `<div class="meta-row">
-        <div class="meta-head"><span>${nombre} <span class="dash-sub">(Fam. ${familiasTxt})</span></span><span>${ton.toFixed(1)} / ${metaTon.toFixed(1)} t ${cumplida?'✅':`(${pct}%)`}</span></div>
-        <div class="meta-bar-wrap"><div class="meta-bar ${cumplida?'cumplida':''}" style="width:${pct}%"></div></div>
-      </div>`;
-    });
-    htmlMeta += `</div>`;
-  }
-
   let html = `<div class="dash-section">
-    <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores — ${fechaLabel}</div>
-    <div style="font-size:11px;color:#90a4ae;margin:-4px 0 8px">📦 kg/h de turno = kg ÷ (días trabajados × ${DURACION_TURNO_HORAS}h). No depende de que la persona registre en tiempo real.</div>
+    <div class="dash-title" style="margin-top:0">🏆 Ranking de Picadores (Kg Regular) — ${fechaLabel}</div>
     <div class="dash-card">`;
   rank.forEach(([nombre,v],i) => {
-    const dias = v.dias.size || 1;
-    const kgHoraTurno = v.kg / (dias * DURACION_TURNO_HORAS);
-    const esLote = pickersLote.has(nombre);
-    const segs = tiempos[nombre] || 0;
     html += `<div class="dash-row">
-      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span><button class="perfil-nombre-btn" onclick="abrirPerfilPicador('${nombre.replace(/'/g,"\\'")}')">${nombre}</button></div>
+      <div class="dash-name"><span class="dash-rank ${rankClass(i)}">${i+1}</span>${nombre}</div>
       <div class="dash-bar-wrap"><div class="dash-bar" style="width:${Math.round(v.kg/maxKg*100)}%"></div></div>
-      <div class="dash-val" style="white-space:normal;min-width:100px;line-height:1.35">${v.kg.toFixed(1)} kg · ${v.placas.size} pl<br><span class="dash-sub" style="margin-left:0">📦 ${kgHoraTurno.toFixed(0)} kg/h de turno</span>${esLote ? `<br><span class="dash-sub" style="margin-left:0;color:#bf360c">⚠️ registro por lote${segs>0?' (parcial)':''}</span>` : (segs>0 ? `<br><span class="dash-sub" style="margin-left:0">⏱️ ${formatearDuracion(segs)} en tiempo real</span>` : '')}</div>
+      <div class="dash-val">${v.kg.toFixed(1)} kg · ${v.placas.size} pl</div>
     </div>`;
   });
   html += `</div></div>`;
-  return htmlMeta + html;
+  return html;
 }
 
 function rankClass(i) { return i===0?"top1":i===1?"top2":i===2?"top3":""; }
@@ -1816,7 +886,7 @@ async function recalcularKgRegular() {
   }
   await cargarAsignaciones();
   renderRegistroVivo();
-  if (tabActual === "dashboard") renderDashboardSeguro();
+  if (tabActual === "dashboard") renderDashboard();
 }
 
 // ── EXPORTAR ──────────────────────────────────────────────────────
@@ -1839,19 +909,19 @@ async function exportarProductividadExcel() {
     registrosFiltradosProductividad.forEach(r => {
       const n = r.picador||r.nombre||"—";
       if (!porPicador[n]) porPicador[n]={kg:0,cajas:0,unds:0,placas:new Set()};
-      porPicador[n].kg+=(r.kg_regular||r.kg||0); porPicador[n].cajas+=(r.cajas||0); porPicador[n].unds+=(r.unds||0); porPicador[n].placas.add(r.placa);
+      porPicador[n].kg+=(r.kg_regular||0); porPicador[n].cajas+=(r.cajas||0); porPicador[n].unds+=(r.unds||0); porPicador[n].placas.add(r.placa);
     });
     const rankPicker = Object.entries(porPicador).sort((a,b)=>b[1].kg-a[1].kg);
 
     XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet([
-      [`Ranking Picadores — ${fechaLabel}`],[],["#","Picador","Kg","Placas","Cajas","Unds"],
+      [`Ranking Picadores — ${fechaLabel}`],[],["#","Picador","Kg Regular","Placas","Cajas","Unds"],
       ...rankPicker.map(([n,v],i)=>[i+1,n,v.kg.toFixed(1),v.placas.size,Math.round(v.cajas),Math.round(v.unds)])
     ]), "Ranking Picadores");
 
     XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet([
-      ["Registro Filtrado"],[],["Picador","Familia","Placa","Zona","Kg","Cajas","Unds","Controlador"],
-      ...registrosFiltradosProductividad.map(a=>[a.picador,a.familia,a.placa,a.zona,(a.kg||0).toFixed(1),a.cajas,a.unds,a.controlador])
-    ]), "Registro Filtrado");
+      ["Registro del Día (en vivo)"],[],["Picador","Familia","Placa","Zona","Kg","Kg Regular","Cajas","Unds","Controlador"],
+      ...asignaciones.map(a=>[a.picador,a.familia,a.placa,a.zona,(a.kg||0).toFixed(1),(a.kg_regular||0).toFixed(1),a.cajas,a.unds,a.controlador])
+    ]), "Registro del Día");
 
     XLSX.writeFile(wb, `Productividad_PickingLS_${new Date().toISOString().slice(0,10)}.xlsx`);
   } catch(e) { alert("❌ Error: " + e.message); }
@@ -1872,10 +942,10 @@ async function exportarProductividadPDF() {
     registrosFiltradosProductividad.forEach(r => {
       const n = r.picador||r.nombre||"—";
       if (!porPicador[n]) porPicador[n]={kg:0,placas:new Set()};
-      porPicador[n].kg+=(r.kg_regular||r.kg||0); porPicador[n].placas.add(r.placa);
+      porPicador[n].kg+=(r.kg_regular||0); porPicador[n].placas.add(r.placa);
     });
     const rankPicker = Object.entries(porPicador).sort((a,b)=>b[1].kg-a[1].kg);
-    doc.setFontSize(12); doc.text("Ranking de Picadores (Kg)", 14, 32);
+    doc.setFontSize(12); doc.text("Ranking de Picadores (Kg Regular)", 14, 32);
     doc.autoTable({ startY:36, head:[["#","Picador","Kg","Placas"]], body:rankPicker.map(([n,v],i)=>[i+1,n,v.kg.toFixed(1),v.placas.size]), styles:{fontSize:8}, headStyles:{fillColor:[13,59,97]} });
     doc.save(`Productividad_PickingLS_${new Date().toISOString().slice(0,10)}.pdf`);
   } catch(e) { alert("❌ Error: " + e.message); }
@@ -2061,91 +1131,6 @@ document.getElementById("fab").addEventListener("click",()=>{document.getElement
 document.getElementById("mClose").addEventListener("click",()=>document.getElementById("modalBg").classList.remove("open"));
 document.getElementById("modalBg").addEventListener("click",e=>{if(e.target===document.getElementById("modalBg"))document.getElementById("modalBg").classList.remove("open");});
 document.getElementById("mInput").addEventListener("keydown",e=>{if(e.key==="Enter")sendAI();});
-
-// ── PERFIL HISTÓRICO DE PICADOR ────────────────────────────────────
-document.getElementById("mClosePerfil").addEventListener("click", () => document.getElementById("modalPerfilBg").classList.remove("open"));
-document.getElementById("modalPerfilBg").addEventListener("click", e => { if (e.target === document.getElementById("modalPerfilBg")) document.getElementById("modalPerfilBg").classList.remove("open"); });
-
-let chartPerfilInstance = null;
-
-async function abrirPerfilPicador(nombre) {
-  document.getElementById("perfilNombre").textContent = nombre;
-  document.getElementById("perfilAvatar").textContent = (nombre.trim()[0]||"👤").toUpperCase();
-  const body = document.getElementById("perfilBody");
-  body.innerHTML = `<div style="text-align:center;padding:30px;color:#90a4ae">Cargando historial...</div>`;
-  document.getElementById("modalPerfilBg").classList.add("open");
-
-  // Asegurar que tenemos el histórico completo cargado, no solo lo que ya se pidió antes
-  if (!historicoPicadoresData) {
-    try {
-      const res = await fetch(WORKER_URL + "/historico-picadores?t=" + Date.now());
-      if (res.ok) historicoPicadoresData = await res.json();
-    } catch(e) {}
-  }
-
-  const h = obtenerHistorialPicador(nombre);
-  if (h.diasTrabajados === 0 && h.totalKg === 0) {
-    body.innerHTML = `<div class="dash-empty">Sin historial registrado todavía para ${nombre}.</div>`;
-    return;
-  }
-
-  const familiaOrdenada = Object.entries(h.porFamilia).sort((a,b) => b[1]-a[1]);
-  const totalFamKg = familiaOrdenada.reduce((s,[,v]) => s+v, 0) || 1;
-  const kgHoraTurno = h.kgHoraTurno;
-  const esLotePerfil = h.esLote;
-
-  body.innerHTML = `
-    <div class="stats-row" style="padding:0 0 4px">
-      <div class="stat"><div class="stat-n">${(h.totalKg/1000).toFixed(1)}</div><div class="stat-l">Ton. históricas</div></div>
-      <div class="stat"><div class="stat-n">${h.totalPlacas}</div><div class="stat-l">Placas</div></div>
-      <div class="stat"><div class="stat-n">${h.diasTrabajados}</div><div class="stat-l">Días trabajados</div></div>
-    </div>
-    <div class="stats-row" style="padding:8px 0 4px">
-      <div class="stat"><div class="stat-n">${h.promedioTonDia.toFixed(1)}</div><div class="stat-l">Ton/día prom.</div></div>
-      <div class="stat"><div class="stat-n">${kgHoraTurno.toFixed(0)}</div><div class="stat-l">kg/h de turno</div></div>
-      <div class="stat"><div class="stat-n">${h.mejorDia?formatearFecha(h.mejorDia):"—"}</div><div class="stat-l">Mejor día</div></div>
-    </div>
-    <div style="font-size:10px;color:#90a4ae;margin:-2px 0 8px;text-align:center">📦 kg/h de turno = ton. históricas ÷ (días trabajados × ${DURACION_TURNO_HORAS}h). No depende de que registre en tiempo real.</div>
-    ${esLotePerfil
-      ? `<div style="font-size:11px;color:#bf360c;margin:-2px 0 10px;text-align:center">⚠️ Esta persona suele registrar todo junto al final del turno — el tiempo en tiempo real no es confiable para ella.</div>`
-      : (h.diasConTiempo
-          ? `<div style="font-size:10px;color:#90a4ae;margin:-2px 0 10px;text-align:center">⏱️ Tiempo en tiempo real: ${formatearDuracion(h.tiempoTotalSeg)} total · ${formatearDuracion(h.tiempoPromedioDiaSeg)} promedio/día</div>`
-          : `<div style="font-size:10px;color:#90a4ae;margin:-2px 0 10px;text-align:center">Aún no hay días con tiempo en tiempo real medido para esta persona (la medición empezó el ${formatearFecha(INICIO_MEDICION_TIEMPOS.slice(0,10))})</div>`)}
-    <div class="dash-title">📈 Toneladas por día</div>
-    <div class="hist-chart-wrap" style="height:200px"><canvas id="chartPerfil"></canvas></div>
-    <div class="dash-title">🗂️ Distribución por Familia</div>
-    <div class="dash-card">
-      <div class="reparto-bar">
-        ${familiaOrdenada.map(([f,kg]) => `<div class="reparto-seg" style="width:${(kg/totalFamKg*100)}%;background:${COLORES_FAMILIA[f]||'#90a4ae'}" title="Familia ${f}"></div>`).join("")}
-      </div>
-      <div class="reparto-leyenda">
-        ${familiaOrdenada.map(([f,kg]) => `<span><span style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${COLORES_FAMILIA[f]||'#90a4ae'};margin-right:3px"></span>Familia ${f}: ${(kg/1000).toFixed(1)} t (${Math.round(kg/totalFamKg*100)}%)</span>`).join("")}
-      </div>
-    </div>`;
-
-  const dias = h.dias;
-  const labels = dias.map(f => { const [,mm,dd] = f.split("-"); return `${dd}/${mm}`; });
-  const dataTon = dias.map(f => Math.round((h.porDia[f].kg/1000)*100)/100);
-
-  const dibujar = () => {
-    if (chartPerfilInstance) chartPerfilInstance.destroy();
-    const c = document.getElementById("chartPerfil");
-    if (!c) return;
-    chartPerfilInstance = new Chart(c, {
-      type: "line",
-      data: { labels, datasets: [{ label:"Toneladas", data:dataTon, borderColor:"#0d3b61", backgroundColor:"#0d3b61", fill:false, tension:0.25, pointRadius:3 }] },
-      options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}}, scales:{ x:{ticks:{autoSkip:true,maxRotation:45}}, y:{title:{display:true,text:"Toneladas"}} } }
-    });
-  };
-  if (typeof Chart === "undefined") {
-    const script = document.createElement("script");
-    script.src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js";
-    script.onload = dibujar;
-    document.head.appendChild(script);
-  } else {
-    dibujar();
-  }
-}
 
 function quickQ(q){document.getElementById("mInput").value=q;sendAI();}
 
