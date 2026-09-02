@@ -750,5 +750,21 @@
     "unds": 245,
     "n_orden": 0,
     "timestamp": "2026-09-02T06:53:43.015Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "G",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 2.16,
+    "kg_regular": 2.16,
+    "zona": "B",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-09-02T06:53:44.701Z"
   }
 ]
