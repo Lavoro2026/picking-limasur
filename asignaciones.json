@@ -862,5 +862,21 @@
     "unds": 215,
     "n_orden": 0,
     "timestamp": "2026-09-02T07:04:47.098Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "G",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 29.52,
+    "kg_regular": 29.52,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 13,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-09-02T07:04:48.707Z"
   }
 ]
