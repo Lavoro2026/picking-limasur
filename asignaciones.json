@@ -2334,5 +2334,21 @@
     "unds": 263,
     "n_orden": 0,
     "timestamp": "2026-09-02T10:37:27.021Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "G",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 1.77,
+    "kg_regular": 1.77,
+    "zona": "D",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-09-02T10:37:28.460Z"
   }
 ]
