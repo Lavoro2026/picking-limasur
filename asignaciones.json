@@ -1838,5 +1838,21 @@
     "unds": 154,
     "n_orden": 0,
     "timestamp": "2026-09-02T09:40:01.913Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "C",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 403.34,
+    "kg_regular": 403.34,
+    "zona": "E",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 32,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-09-02T09:53:12.127Z"
   }
 ]
