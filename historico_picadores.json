@@ -15874,6 +15874,34 @@
         "unds": 3,
         "timestamp": "2026-08-31T13:22:30.497Z"
       }
+    ],
+    "2026-09-01": [
+      {
+        "picador": "VILLACORTA PARIONA, OMAR IVAN",
+        "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+        "familia": "B",
+        "placa": "AUP711",
+        "zona": "E",
+        "controlador": "0",
+        "kg": 466.93,
+        "kg_regular": 165.37,
+        "cajas": 31,
+        "unds": 241,
+        "timestamp": "2026-09-01T10:20:01.221Z"
+      },
+      {
+        "picador": "VILLACORTA PARIONA, OMAR IVAN",
+        "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+        "familia": "G",
+        "placa": "AUP711",
+        "zona": "E",
+        "controlador": "0",
+        "kg": 49.45,
+        "kg_regular": 49.45,
+        "cajas": 21,
+        "unds": 11,
+        "timestamp": "2026-09-01T10:20:02.530Z"
+      }
     ]
   }
 }
