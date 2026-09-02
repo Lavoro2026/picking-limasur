@@ -366,5 +366,21 @@
     "unds": 248,
     "n_orden": 0,
     "timestamp": "2026-09-02T06:07:46.244Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 8.42,
+    "kg_regular": 8.42,
+    "zona": "A",
+    "material": "1003335",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 LUCUMA",
+    "cajas": 4,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-02T06:07:47.864Z"
   }
 ]
