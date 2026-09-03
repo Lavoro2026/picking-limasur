@@ -926,5 +926,21 @@
     "unds": 155,
     "n_orden": 0,
     "timestamp": "2026-09-03T10:06:22.502Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 759.52,
+    "kg_regular": 295.73,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 61,
+    "unds": 415,
+    "n_orden": 0,
+    "timestamp": "2026-09-03T10:21:44.278Z"
   }
 ]
