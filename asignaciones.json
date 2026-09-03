@@ -446,5 +446,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-09-03T07:50:18.472Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 273.18,
+    "kg_regular": 149.03,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 18,
+    "unds": 238,
+    "n_orden": 0,
+    "timestamp": "2026-09-03T07:51:46.184Z"
   }
 ]
