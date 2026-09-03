@@ -1118,5 +1118,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-09-03T11:18:49.704Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "F",
+    "picador": "VILLACORTA PARIONA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIONA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 142.3,
+    "kg_regular": 142.3,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 27,
+    "unds": 224,
+    "n_orden": 0,
+    "timestamp": "2026-09-03T11:18:56.919Z"
   }
 ]
