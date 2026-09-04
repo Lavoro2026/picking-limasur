@@ -3198,5 +3198,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-09-04T11:00:01.328Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "B",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 552.72,
+    "kg_regular": 206.96,
+    "zona": "D",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 39,
+    "unds": 303,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T11:00:33.537Z"
   }
 ]
