@@ -2750,5 +2750,21 @@
     "unds": 55,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:07:08.263Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "E",
+    "picador": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "nombre": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "controlador": "0",
+    "kg": 327.72,
+    "kg_regular": 35.57,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 51,
+    "unds": 82,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:07:24.650Z"
   }
 ]
