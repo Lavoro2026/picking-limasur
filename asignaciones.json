@@ -2526,5 +2526,21 @@
     "unds": 48,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:04:25.034Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "E",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 199.96,
+    "kg_regular": 65.72,
+    "zona": "B",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 29,
+    "unds": 84,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:04:45.426Z"
   }
 ]
