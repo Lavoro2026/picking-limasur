@@ -814,5 +814,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-09-04T07:48:26.408Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 12.09,
+    "kg_regular": 12.09,
+    "zona": "A",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 1,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T07:48:52.228Z"
   }
 ]
