@@ -2894,5 +2894,21 @@
     "unds": 49,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:20:24.794Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "A",
+    "picador": "QUINDE RETETETE DANILO NATAN",
+    "nombre": "QUINDE RETETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 442.51,
+    "kg_regular": 442.51,
+    "zona": "E",
+    "material": "1001273",
+    "denominacion": "GLORIA LECHE REC.ENTERA 390GR BANDEJX24U",
+    "cajas": 42,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:22:13.085Z"
   }
 ]
