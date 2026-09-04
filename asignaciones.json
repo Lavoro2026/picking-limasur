@@ -638,5 +638,21 @@
     "unds": 30,
     "n_orden": 0,
     "timestamp": "2026-09-04T07:40:22.994Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 192.36,
+    "kg_regular": 192.36,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 28,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T07:40:39.686Z"
   }
 ]
