@@ -1518,5 +1518,21 @@
     "unds": 298,
     "n_orden": 0,
     "timestamp": "2026-09-04T08:45:25.934Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "G",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 2.07,
+    "kg_regular": 2.07,
+    "zona": "C",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T08:45:27.337Z"
   }
 ]
