@@ -190,5 +190,21 @@
     "unds": 288,
     "n_orden": 0,
     "timestamp": "2026-09-04T06:11:03.866Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "G",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 1.08,
+    "kg_regular": 1.08,
+    "zona": "A",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T06:11:05.043Z"
   }
 ]
