@@ -1774,5 +1774,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-04T08:57:19.855Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 59.45,
+    "kg_regular": 59.45,
+    "zona": "E",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 9,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T08:57:43.536Z"
   }
 ]
