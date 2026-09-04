@@ -2510,5 +2510,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:04:22.559Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "E",
+    "picador": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "nombre": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "controlador": "0",
+    "kg": 219.8,
+    "kg_regular": 39.18,
+    "zona": "E",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 33,
+    "unds": 48,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:04:25.034Z"
   }
 ]
