@@ -2638,5 +2638,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:05:42.260Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "E",
+    "picador": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "nombre": "CUBAHERENDEZ, LUGGI LUCIANO",
+    "controlador": "0",
+    "kg": 26.74,
+    "kg_regular": 3.05,
+    "zona": "E",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 2,
+    "unds": 25,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:05:55.083Z"
   }
 ]
