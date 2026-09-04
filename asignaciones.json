@@ -846,5 +846,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-09-04T07:48:53.388Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 42.8,
+    "kg_regular": 42.8,
+    "zona": "A",
+    "material": "1005195",
+    "denominacion": "SAN MATEO AGUA SIN GAS 7L X UND",
+    "cajas": 6,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T07:49:04.304Z"
   }
 ]
