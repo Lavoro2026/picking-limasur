@@ -14,5 +14,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-09-04T05:30:35.172Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 1713.18,
+    "kg_regular": 112.23,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 134,
+    "unds": 237,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T05:42:04.872Z"
   }
 ]
