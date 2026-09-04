@@ -1022,5 +1022,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-09-04T07:51:01.043Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 119.67,
+    "kg_regular": 119.67,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 9,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T07:51:03.138Z"
   }
 ]
