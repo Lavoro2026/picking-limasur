@@ -686,5 +686,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-09-04T07:41:20.561Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "SECLEN ALLENDE, JESUS ROLANDO",
+    "nombre": "SECLEN ALLENDE, JESUS ROLANDO",
+    "controlador": "0",
+    "kg": 1809.01,
+    "kg_regular": 40.74,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 151,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T07:45:24.743Z"
   }
 ]
