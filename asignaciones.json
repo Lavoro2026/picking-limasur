@@ -2574,5 +2574,21 @@
     "unds": 43,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:05:13.358Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "E",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 176.44,
+    "kg_regular": 21.48,
+    "zona": "A",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 25,
+    "unds": 50,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:05:26.244Z"
   }
 ]
