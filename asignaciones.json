@@ -3166,5 +3166,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-09-04T10:45:47.086Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "B",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 1042.64,
+    "kg_regular": 298.36,
+    "zona": "E",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 101,
+    "unds": 171,
+    "n_orden": 0,
+    "timestamp": "2026-09-04T10:59:59.654Z"
   }
 ]
