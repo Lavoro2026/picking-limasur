@@ -2894,5 +2894,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-09-05T11:53:56.951Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 19.06,
+    "kg_regular": 19.06,
+    "zona": "E",
+    "material": "1003335",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 LUCUMA",
+    "cajas": 2,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T11:54:08.943Z"
   }
 ]
