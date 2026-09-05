@@ -2878,5 +2878,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-09-05T11:53:45.959Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 69.77,
+    "kg_regular": 69.77,
+    "zona": "D",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 9,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T11:53:56.951Z"
   }
 ]
