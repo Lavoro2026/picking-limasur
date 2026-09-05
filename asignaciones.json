@@ -1534,5 +1534,21 @@
     "unds": 25,
     "n_orden": 0,
     "timestamp": "2026-09-05T09:15:48.393Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "C",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 553.46,
+    "kg_regular": 553.46,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 47,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T09:15:59.516Z"
   }
 ]
