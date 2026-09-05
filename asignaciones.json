@@ -750,5 +750,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-05T07:37:53.518Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 259.41,
+    "kg_regular": 259.41,
+    "zona": "B",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 22,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T07:38:50.479Z"
   }
 ]
