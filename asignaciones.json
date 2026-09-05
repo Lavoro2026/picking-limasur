@@ -2558,5 +2558,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-09-05T11:00:37.021Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 162.51,
+    "kg_regular": 162.51,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 17,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T11:00:38.451Z"
   }
 ]
