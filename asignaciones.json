@@ -2286,5 +2286,21 @@
     "unds": 289,
     "n_orden": 0,
     "timestamp": "2026-09-05T10:48:08.677Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 641.97,
+    "kg_regular": 641.97,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 54,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T10:48:34.589Z"
   }
 ]
