@@ -2718,5 +2718,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-09-05T11:03:49.526Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "C",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 394.83,
+    "kg_regular": 394.83,
+    "zona": "E",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 32,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T11:04:38.892Z"
   }
 ]
