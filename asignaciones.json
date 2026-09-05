@@ -942,5 +942,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-09-05T08:06:27.754Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "A",
+    "picador": "QUINDE RETETETE DANILO NATAN",
+    "nombre": "QUINDE RETETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 224.53,
+    "kg_regular": 224.53,
+    "zona": "C",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 16,
+    "unds": 178,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T08:06:59.684Z"
   }
 ]
