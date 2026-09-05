@@ -2302,5 +2302,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-09-05T10:48:34.589Z"
+  },
+  {
+    "placa": "ANI940",
+    "familia": "C",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 476.42,
+    "kg_regular": 476.42,
+    "zona": "E",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 38,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T10:54:28.583Z"
   }
 ]
