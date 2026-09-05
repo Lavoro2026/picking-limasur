@@ -2334,5 +2334,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-09-05T10:56:10.816Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 8.4,
+    "kg_regular": 8.4,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T10:56:28.484Z"
   }
 ]
