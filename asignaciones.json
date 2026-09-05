@@ -734,5 +734,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-09-05T07:37:22.908Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 441.61,
+    "kg_regular": 441.61,
+    "zona": "B",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 42,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T07:37:53.518Z"
   }
 ]
