@@ -190,5 +190,21 @@
     "unds": 238,
     "n_orden": 0,
     "timestamp": "2026-09-05T06:43:13.805Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 3741.77,
+    "kg_regular": 7.03,
+    "zona": "A",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 307,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T06:44:24.831Z"
   }
 ]
