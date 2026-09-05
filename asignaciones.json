@@ -1630,5 +1630,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-09-05T09:43:08.157Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 464.46,
+    "kg_regular": 170.9,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 36,
+    "unds": 204,
+    "n_orden": 0,
+    "timestamp": "2026-09-05T09:43:30.158Z"
   }
 ]
