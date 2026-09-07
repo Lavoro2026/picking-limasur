@@ -798,5 +798,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-09-07T07:43:42.623Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 56.15,
+    "kg_regular": 56.15,
+    "zona": "C",
+    "material": "1005253",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 1.5 LX6U",
+    "cajas": 7,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-09-07T07:43:50.319Z"
   }
 ]
