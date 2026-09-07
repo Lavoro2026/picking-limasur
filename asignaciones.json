@@ -1630,5 +1630,21 @@
     "unds": 27,
     "n_orden": 0,
     "timestamp": "2026-09-07T09:40:55.205Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 57.48,
+    "kg_regular": 57.48,
+    "zona": "C",
+    "material": "539006",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML SIXPACK",
+    "cajas": 10,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-09-07T09:41:01.541Z"
   }
 ]
