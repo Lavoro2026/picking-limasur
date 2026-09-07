@@ -238,5 +238,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-09-07T06:30:05.652Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "C",
+    "picador": "QUINDE RETETETE DANILO NATAN",
+    "nombre": "QUINDE RETETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 291.44,
+    "kg_regular": 291.44,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 23,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-09-07T06:41:36.928Z"
   }
 ]
