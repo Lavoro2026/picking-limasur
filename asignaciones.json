@@ -1678,5 +1678,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-09-07T09:41:14.817Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 64.35,
+    "kg_regular": 64.35,
+    "zona": "D",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 12,
+    "unds": 28,
+    "n_orden": 0,
+    "timestamp": "2026-09-07T09:41:22.276Z"
   }
 ]
