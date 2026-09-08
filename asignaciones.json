@@ -2094,5 +2094,21 @@
     "unds": 89,
     "n_orden": 0,
     "timestamp": "2026-09-08T10:20:47.655Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "E",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 163.5,
+    "kg_regular": 35.19,
+    "zona": "C",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 23,
+    "unds": 55,
+    "n_orden": 0,
+    "timestamp": "2026-09-08T10:21:02.062Z"
   }
 ]
