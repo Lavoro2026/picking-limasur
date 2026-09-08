@@ -542,5 +542,21 @@
     "unds": 163,
     "n_orden": 0,
     "timestamp": "2026-09-08T06:48:08.629Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "C",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 703.5,
+    "kg_regular": 703.5,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 57,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-09-08T06:48:31.133Z"
   }
 ]
