@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "07/09/2026 00:16:25",
+  "ultima_actualizacion": "08/09/2026 00:10:52",
   "dias": {
     "2026-06-01": {
       "por_familia": {
@@ -2102,6 +2102,84 @@
       },
       "total_kg": 133444.1,
       "total_registros": 5363
+    },
+    "2026-09-08": {
+      "por_familia": {
+        "B": 22995.6,
+        "A": 39006.79,
+        "C": 26301.95,
+        "F": 7426.66,
+        "D": 4912.11,
+        "E": 7899.27
+      },
+      "por_status": {
+        "E": 10958.8,
+        "D": 21824.53,
+        "C": 23298.17,
+        "P": 5537.84,
+        "A": 22102.86,
+        "B": 24820.17
+      },
+      "por_placa": {
+        "C1J747": 1505.22,
+        "P4A742": 1397.55,
+        "ACX716": 3571.57,
+        "CKI862": 2382.05,
+        "F7X829": 1371.78,
+        "B0V924": 2173.97,
+        "BBI909": 2223.61,
+        "AHX902": 1525.24,
+        "BKV855": 2316.41,
+        "D7L941": 1389.53,
+        "ATP870": 1821.4,
+        "APU790": 2608.17,
+        "A1Q874": 3480.15,
+        "F1E927": 1588.7,
+        "D0I718": 2116.89,
+        "AMQ791": 2564.97,
+        "AXB855": 2487.13,
+        "A5K897": 2084.71,
+        "D9P934": 2007.34,
+        "ATB831": 2477.71,
+        "A6R946": 3078.73,
+        "D9G880": 2142.95,
+        "D4R705": 2571.42,
+        "APB825": 2385.95,
+        "AMF737": 2538.51,
+        "AZG758": 1849.36,
+        "AUP711": 2675.02,
+        "F9W785": 1694.8,
+        "ANI940": 2232.58,
+        "C2B801": 3311.09,
+        "C5G823": 1806.54,
+        "C3Q769": 2085.63,
+        "AWC785": 1902.84,
+        "APC840": 1897.06,
+        "A7Y808": 2191.14,
+        "ARZ862": 2081.35,
+        "F7B746": 1680.44,
+        "A4G840": 2248.83,
+        "A5Y854": 2164.46,
+        "T6F869": 2225.81,
+        "D3L703": 1742.42,
+        "D1V932": 2477.36,
+        "ARD784": 1790.95,
+        "ASA790": 2058.64,
+        "AWH909": 4210.4,
+        "AXH708": 1505.47,
+        "V2F841": 3274.56,
+        "F6X827": 3623.93
+      },
+      "por_almacen": {
+        "ABARROTES": 93216.45,
+        "REFRIGERADOS": 15325.93
+      },
+      "por_estado": {
+        "Picking_Regular": 72861.42,
+        "Picking Directo": 35680.95
+      },
+      "total_kg": 108542.38,
+      "total_registros": 5198
     },
     "2026-06-09": {
       "por_familia": {
@@ -6717,44 +6795,6 @@
       },
       "total_kg": 99669.98,
       "total_registros": 4923
-    },
-    "2026-09-06": {
-      "fecha": "06/09/2026",
-      "total_kg": 78744.99,
-      "total_kg_regular": 48320.18,
-      "total_cajas": 7729,
-      "total_pickers": 12,
-      "total_placas": 202,
-      "pickers": [
-        "VIZA QUISPE, JOEL ALEXANDER",
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "RAMOS ROJAS, DANIEL",
-        "QUINDE RETETETE DANILO NATAN",
-        "HERRERA CAMPOS, JOSE ANTONIO",
-        "SIGÜENZA NUÑEZ, GUSTAVO A.",
-        "BASILILIO SANTOS, ANGEL JEREMIAS",
-        "TORRES CALDAS OSCAR RUBEN",
-        "QUISPE NARAZAS, LEONEL GABRIEL",
-        "MEZA RAMOS, REYNER FRANZ",
-        "FRANCIA MENA, LIZANDRO",
-        "CARHUATANTA QUISPITONGO ROSAS OLIDES"
-      ],
-      "por_familia": {
-        "C": 22769.65,
-        "F": 1450.29,
-        "A": 15774.55,
-        "D": 3568.26,
-        "B": 23664.91,
-        "E": 11517.33
-      },
-      "por_almacen": {
-        "A": 19546.56,
-        "B": 18640.89,
-        "C": 15123.86,
-        "D": 15390.11,
-        "E": 6972.44,
-        "P": 3071.13
-      }
     }
   }
 }
