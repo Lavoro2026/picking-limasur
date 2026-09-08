@@ -1838,5 +1838,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-09-08T09:47:22.421Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "C",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 540.71,
+    "kg_regular": 540.71,
+    "zona": "D",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 48,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-09-08T09:54:18.336Z"
   }
 ]
