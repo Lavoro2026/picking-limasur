@@ -6717,6 +6717,44 @@
       },
       "total_kg": 99669.98,
       "total_registros": 4923
+    },
+    "2026-09-06": {
+      "fecha": "06/09/2026",
+      "total_kg": 78744.99,
+      "total_kg_regular": 48320.18,
+      "total_cajas": 7729,
+      "total_pickers": 12,
+      "total_placas": 202,
+      "pickers": [
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "SALVADOR MAMANI ANTONY JEAN PIERRE",
+        "RAMOS ROJAS, DANIEL",
+        "QUINDE RETETETE DANILO NATAN",
+        "HERRERA CAMPOS, JOSE ANTONIO",
+        "SIGÜENZA NUÑEZ, GUSTAVO A.",
+        "BASILILIO SANTOS, ANGEL JEREMIAS",
+        "TORRES CALDAS OSCAR RUBEN",
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "MEZA RAMOS, REYNER FRANZ",
+        "FRANCIA MENA, LIZANDRO",
+        "CARHUATANTA QUISPITONGO ROSAS OLIDES"
+      ],
+      "por_familia": {
+        "C": 22769.65,
+        "F": 1450.29,
+        "A": 15774.55,
+        "D": 3568.26,
+        "B": 23664.91,
+        "E": 11517.33
+      },
+      "por_almacen": {
+        "A": 19546.56,
+        "B": 18640.89,
+        "C": 15123.86,
+        "D": 15390.11,
+        "E": 6972.44,
+        "P": 3071.13
+      }
     }
   }
 }
