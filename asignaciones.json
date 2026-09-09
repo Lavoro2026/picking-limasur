@@ -2366,5 +2366,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-09-09T11:58:12.523Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 900,
+    "kg_regular": 900,
+    "zona": "E",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 77,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-09-09T11:58:22.701Z"
   }
 ]
