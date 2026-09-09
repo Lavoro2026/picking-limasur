@@ -782,5 +782,21 @@
     "unds": 211,
     "n_orden": 0,
     "timestamp": "2026-09-09T07:20:52.946Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "B",
+    "picador": "MORALES SEVILLA, LUIS DANIEL",
+    "nombre": "MORALES SEVILLA, LUIS DANIEL",
+    "controlador": "0",
+    "kg": 865.66,
+    "kg_regular": 177.81,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 80,
+    "unds": 158,
+    "n_orden": 0,
+    "timestamp": "2026-09-09T07:24:36.511Z"
   }
 ]
