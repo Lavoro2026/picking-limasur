@@ -2462,5 +2462,21 @@
     "unds": 97,
     "n_orden": 0,
     "timestamp": "2026-09-09T12:27:20.644Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 192.56,
+    "kg_regular": 192.56,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 35,
+    "unds": 31,
+    "n_orden": 0,
+    "timestamp": "2026-09-09T12:27:28.732Z"
   }
 ]
