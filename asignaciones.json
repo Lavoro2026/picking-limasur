@@ -430,5 +430,21 @@
     "unds": 335,
     "n_orden": 0,
     "timestamp": "2026-09-10T06:46:45.077Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 861.43,
+    "kg_regular": 259.4,
+    "zona": "A",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 63,
+    "unds": 312,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T06:55:35.790Z"
   }
 ]
