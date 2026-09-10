@@ -2078,5 +2078,21 @@
     "unds": 34,
     "n_orden": 0,
     "timestamp": "2026-09-10T09:52:03.443Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "E",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 327.8,
+    "kg_regular": 161.99,
+    "zona": "C",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 45,
+    "unds": 123,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T09:52:11.088Z"
   }
 ]
