@@ -2510,5 +2510,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-10T10:39:41.581Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 4.36,
+    "kg_regular": 4.36,
+    "zona": "C",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T10:40:51.915Z"
   }
 ]
