@@ -318,5 +318,21 @@
     "unds": 212,
     "n_orden": 0,
     "timestamp": "2026-09-10T12:28:30.098Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 622.91,
+    "kg_regular": 175.11,
+    "zona": "C",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 46,
+    "unds": 209,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T12:28:38.905Z"
   }
 ]
