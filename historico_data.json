@@ -2678,40 +2678,24 @@
     },
     "2026-09-10": {
       "fecha": "10/09/2026",
-      "total_kg": 88402.05000000002,
-      "total_kg_regular": 61854.72999999999,
-      "total_cajas": 8667,
-      "total_pickers": 13,
-      "total_placas": 227,
+      "total_kg": 10869.949999999997,
+      "total_kg_regular": 3869.38,
+      "total_cajas": 914,
+      "total_pickers": 2,
+      "total_placas": 25,
       "pickers": [
-        "SALVADOR MAMANI ANTONY JEAN PIERRE",
-        "BASILILIO SANTOS, ANGEL JEREMIAS",
-        "VIZA QUISPE, JOEL ALEXANDER",
-        "QUINDE RETETETE DANILO NATAN",
-        "QUISPE NARAZAS, LEONEL GABRIEL",
-        "GARCIA CALLUPA, CARLOS DANIEL",
-        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-        "VILLACORTA PARIOMA, OMAR IVAN",
-        "FRANCIA MENA, LIZANDRO",
-        "RAMOS ROJAS, DANIEL",
-        "SIGÜENZA NUÑEZ, GUSTAVO A.",
-        "HERRERA CAMPOS, JOSE ANTONIO",
-        "ALFARO CHAVEZ, JOSE MARTIN"
+        "VALLEJO QUISPE LUIS CARLOS",
+        "AQUISE FARFAN GERARDO FLORENTINO"
       ],
       "por_familia": {
-        "F": 5443.719999999999,
-        "B": 25113.190000000002,
-        "A": 21977.699999999997,
-        "C": 24442.100000000006,
-        "E": 6359.98,
-        "D": 5065.360000000001
+        "E": 2325.78,
+        "B": 8544.170000000002
       },
       "por_almacen": {
-        "A": 22701.969999999998,
-        "B": 20111.120000000006,
-        "C": 17327.17,
-        "D": 14922.209999999995,
-        "E": 13339.579999999996
+        "E": 3259.0699999999997,
+        "D": 2854.34,
+        "C": 2714.2200000000003,
+        "B": 2042.32
       }
     },
     "2026-06-11": {
