@@ -3486,5 +3486,21 @@
     "unds": 35,
     "n_orden": 0,
     "timestamp": "2026-09-10T11:30:52.844Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 39.51,
+    "kg_regular": 39.51,
+    "zona": "B",
+    "material": "1005249",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 3.78L PQTX2UND",
+    "cajas": 5,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T11:31:03.727Z"
   }
 ]
