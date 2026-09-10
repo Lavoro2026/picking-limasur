@@ -30,5 +30,21 @@
     "unds": 248,
     "n_orden": 0,
     "timestamp": "2026-09-10T05:40:03.600Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "A",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 417.85,
+    "kg_regular": 417.85,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 34,
+    "unds": 196,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T05:41:25.865Z"
   }
 ]
