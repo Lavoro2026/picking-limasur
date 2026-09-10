@@ -174,5 +174,21 @@
     "unds": 246,
     "n_orden": 0,
     "timestamp": "2026-09-10T12:27:37.106Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "E",
+    "picador": "VALLEJO QUISPE LUIS CARLOS",
+    "nombre": "VALLEJO QUISPE LUIS CARLOS",
+    "controlador": "0",
+    "kg": 137.23,
+    "kg_regular": 31.62,
+    "zona": "C",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 20,
+    "unds": 71,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T12:27:38.677Z"
   }
 ]
