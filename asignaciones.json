@@ -382,5 +382,21 @@
     "unds": 261,
     "n_orden": 0,
     "timestamp": "2026-09-10T12:28:59.235Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 511.82,
+    "kg_regular": 187.92,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 35,
+    "unds": 231,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T12:29:04.990Z"
   }
 ]
