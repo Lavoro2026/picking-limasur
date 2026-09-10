@@ -1118,5 +1118,21 @@
     "unds": 252,
     "n_orden": 0,
     "timestamp": "2026-09-10T07:57:17.795Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 1195.46,
+    "kg_regular": 1195.46,
+    "zona": "B",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 110,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-09-10T07:58:11.965Z"
   }
 ]
