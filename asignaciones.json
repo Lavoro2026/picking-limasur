@@ -2270,5 +2270,21 @@
     "unds": 268,
     "n_orden": 0,
     "timestamp": "2026-09-11T10:10:56.595Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 230.51,
+    "kg_regular": 48.1,
+    "zona": "D",
+    "material": "1007197",
+    "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+    "cajas": 17,
+    "unds": 149,
+    "n_orden": 0,
+    "timestamp": "2026-09-11T10:18:34.520Z"
   }
 ]
