@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "BKV855",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 139.57,
+    "kg_regular": 139.57,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 27,
+    "unds": 193,
+    "n_orden": 0,
+    "timestamp": "2026-09-11T05:09:38.355Z"
+  }
+]
