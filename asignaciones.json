@@ -1086,5 +1086,21 @@
     "unds": 309,
     "n_orden": 0,
     "timestamp": "2026-09-12T10:21:33.758Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "F",
+    "picador": "QUINDE RETETETE DANILO NATAN",
+    "nombre": "QUINDE RETETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 151.66,
+    "kg_regular": 151.66,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 26,
+    "unds": 234,
+    "n_orden": 0,
+    "timestamp": "2026-09-12T10:33:40.363Z"
   }
 ]
