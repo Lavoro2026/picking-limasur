@@ -654,5 +654,21 @@
     "unds": 225,
     "n_orden": 0,
     "timestamp": "2026-09-12T08:17:45.232Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 174.19,
+    "kg_regular": 174.19,
+    "zona": "C",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 21,
+    "unds": 209,
+    "n_orden": 0,
+    "timestamp": "2026-09-12T08:22:40.368Z"
   }
 ]
