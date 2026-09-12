@@ -862,5 +862,21 @@
     "unds": 191,
     "n_orden": 0,
     "timestamp": "2026-09-12T09:06:41.591Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 532.5,
+    "kg_regular": 253.33,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 52,
+    "unds": 93,
+    "n_orden": 0,
+    "timestamp": "2026-09-12T09:09:10.813Z"
   }
 ]
