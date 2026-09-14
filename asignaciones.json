@@ -2818,8 +2818,8 @@
   {
     "placa": "F1E927",
     "familia": "B",
-    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
-    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
     "controlador": "0",
     "kg": 465.55,
     "kg_regular": 263.29,
@@ -2829,6 +2829,6 @@
     "cajas": 30,
     "unds": 247,
     "n_orden": 0,
-    "timestamp": "2026-09-14T11:08:50.124Z"
+    "timestamp": "2026-09-14T11:09:06.145Z"
   }
 ]
