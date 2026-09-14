@@ -670,5 +670,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-09-14T07:28:29.089Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "B",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 509.28,
+    "kg_regular": 187.5,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 35,
+    "unds": 127,
+    "n_orden": 0,
+    "timestamp": "2026-09-14T07:28:52.884Z"
   }
 ]
