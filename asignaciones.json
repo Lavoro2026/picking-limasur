@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "F7B746",
+    "familia": "B",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 279.89,
+    "kg_regular": 90.53,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 20,
+    "unds": 164,
+    "n_orden": 0,
+    "timestamp": "2026-09-14T05:04:40.297Z"
+  }
+]
