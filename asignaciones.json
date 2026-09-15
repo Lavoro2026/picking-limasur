@@ -542,5 +542,21 @@
     "unds": 58,
     "n_orden": 0,
     "timestamp": "2026-09-15T07:25:38.274Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "B",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 1068.34,
+    "kg_regular": 191.6,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 92,
+    "unds": 231,
+    "n_orden": 0,
+    "timestamp": "2026-09-15T07:25:46.443Z"
   }
 ]
