@@ -974,5 +974,21 @@
     "unds": 270,
     "n_orden": 0,
     "timestamp": "2026-09-15T08:41:18.420Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 13.46,
+    "kg_regular": 13.46,
+    "zona": "B",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 2,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-09-15T08:45:14.720Z"
   }
 ]
