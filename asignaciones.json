@@ -3054,5 +3054,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-15T11:45:09.067Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 27.7,
+    "kg_regular": 27.7,
+    "zona": "D",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 3,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-09-15T11:45:19.953Z"
   }
 ]
