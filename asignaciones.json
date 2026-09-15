@@ -526,5 +526,21 @@
     "unds": 180,
     "n_orden": 0,
     "timestamp": "2026-09-15T07:25:30.834Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "B",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 991.5,
+    "kg_regular": 35.88,
+    "zona": "B",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 90,
+    "unds": 58,
+    "n_orden": 0,
+    "timestamp": "2026-09-15T07:25:38.274Z"
   }
 ]
