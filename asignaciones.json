@@ -3278,5 +3278,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-09-15T11:52:25.248Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "C",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 1124.53,
+    "kg_regular": 1124.53,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 110,
+    "unds": 30,
+    "n_orden": 0,
+    "timestamp": "2026-09-15T11:52:34.423Z"
   }
 ]
