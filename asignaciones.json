@@ -958,5 +958,21 @@
     "unds": 102,
     "n_orden": 0,
     "timestamp": "2026-09-16T09:26:00.951Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "B",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 1119.23,
+    "kg_regular": 121.23,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 87,
+    "unds": 143,
+    "n_orden": 0,
+    "timestamp": "2026-09-16T09:26:45.456Z"
   }
 ]
