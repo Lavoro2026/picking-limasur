@@ -3038,5 +3038,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-09-16T12:19:51.925Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 6.94,
+    "kg_regular": 6.94,
+    "zona": "A",
+    "material": "1003349",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 VAINIL",
+    "cajas": 0,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-09-16T12:20:07.739Z"
   }
 ]
