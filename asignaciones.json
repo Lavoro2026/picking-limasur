@@ -2366,5 +2366,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-09-16T10:54:13.857Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 42.27,
+    "kg_regular": 42.27,
+    "zona": "F",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 8,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-09-16T10:54:30.183Z"
   }
 ]
