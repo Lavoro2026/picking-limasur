@@ -126,5 +126,21 @@
     "unds": 228,
     "n_orden": 0,
     "timestamp": "2026-09-16T06:01:11.584Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "A",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 736.32,
+    "kg_regular": 736.32,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 65,
+    "unds": 197,
+    "n_orden": 0,
+    "timestamp": "2026-09-16T06:02:37.217Z"
   }
 ]
