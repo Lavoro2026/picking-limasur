@@ -4318,5 +4318,21 @@
     "unds": 160,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:51:29.100Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "F",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 120.1,
+    "kg_regular": 120.1,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 23,
+    "unds": 191,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:51:48.023Z"
   }
 ]
