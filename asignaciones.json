@@ -4126,5 +4126,21 @@
     "unds": 286,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:42:13.014Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 51.94,
+    "kg_regular": 51.94,
+    "zona": "E",
+    "material": "1003155",
+    "denominacion": "PURA VIDA BATIDITO VA FRESA B.LAC 80GX24",
+    "cajas": 24,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:42:20.470Z"
   }
 ]
