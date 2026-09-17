@@ -1518,5 +1518,21 @@
     "unds": 241,
     "n_orden": 0,
     "timestamp": "2026-09-17T08:31:55.568Z"
+  },
+  {
+    "placa": "ACX716",
+    "familia": "B",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 465.33,
+    "kg_regular": 111.4,
+    "zona": "D",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 32,
+    "unds": 219,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T08:35:55.137Z"
   }
 ]
