@@ -3678,5 +3678,21 @@
     "unds": 164,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:20:54.051Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 18.96,
+    "kg_regular": 18.96,
+    "zona": "E",
+    "material": "1005241",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 600ML PQTX6UND",
+    "cajas": 5,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:21:02.271Z"
   }
 ]
