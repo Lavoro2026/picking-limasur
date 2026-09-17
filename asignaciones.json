@@ -4382,5 +4382,21 @@
     "unds": 136,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:52:22.999Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "B",
+    "picador": "AQUISE FARFAN GERARDO FLORENTINO",
+    "nombre": "AQUISE FARFAN GERARDO FLORENTINO",
+    "controlador": "0",
+    "kg": 970.22,
+    "kg_regular": 207.73,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 77,
+    "unds": 206,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:52:29.687Z"
   }
 ]
