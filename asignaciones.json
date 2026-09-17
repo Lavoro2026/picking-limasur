@@ -3086,5 +3086,21 @@
     "unds": 12,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:13:29.585Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 93.28,
+    "kg_regular": 93.28,
+    "zona": "C",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 8,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:13:38.653Z"
   }
 ]
