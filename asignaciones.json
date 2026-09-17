@@ -4654,5 +4654,21 @@
     "unds": 216,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:54:08.510Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "F",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 73.35,
+    "kg_regular": 73.35,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 12,
+    "unds": 173,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:54:14.350Z"
   }
 ]
