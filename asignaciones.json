@@ -2686,5 +2686,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-09-17T10:58:51.990Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 66.38,
+    "kg_regular": 66.38,
+    "zona": "C",
+    "material": "1003341",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 LUCUMA",
+    "cajas": 10,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T10:59:33.755Z"
   }
 ]
