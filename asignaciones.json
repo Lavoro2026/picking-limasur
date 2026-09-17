@@ -2046,5 +2046,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-09-17T09:34:14.424Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 785.11,
+    "kg_regular": 785.11,
+    "zona": "E",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 72,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T09:34:22.545Z"
   }
 ]
