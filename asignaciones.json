@@ -4414,5 +4414,21 @@
     "unds": 158,
     "n_orden": 0,
     "timestamp": "2026-09-17T11:52:34.920Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 57.27,
+    "kg_regular": 57.27,
+    "zona": "B",
+    "material": "1003155",
+    "denominacion": "PURA VIDA BATIDITO VA FRESA B.LAC 80GX24",
+    "cajas": 12,
+    "unds": 45,
+    "n_orden": 0,
+    "timestamp": "2026-09-17T11:52:38.711Z"
   }
 ]
