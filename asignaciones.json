@@ -334,5 +334,21 @@
     "unds": 126,
     "n_orden": 0,
     "timestamp": "2026-09-18T07:05:10.966Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "E",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 89.63,
+    "kg_regular": 23.5,
+    "zona": "B",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 9,
+    "unds": 54,
+    "n_orden": 0,
+    "timestamp": "2026-09-18T07:08:23.129Z"
   }
 ]
