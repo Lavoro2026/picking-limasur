@@ -2670,5 +2670,21 @@
     "unds": 278,
     "n_orden": 0,
     "timestamp": "2026-09-18T12:00:18.052Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 206.03,
+    "kg_regular": 206.03,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 34,
+    "unds": 296,
+    "n_orden": 0,
+    "timestamp": "2026-09-18T12:00:32.251Z"
   }
 ]
