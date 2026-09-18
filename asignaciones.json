@@ -590,5 +590,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-09-18T08:30:40.104Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "RAMOS ROJAS, DANIEL",
+    "nombre": "RAMOS ROJAS, DANIEL",
+    "controlador": "0",
+    "kg": 186.54,
+    "kg_regular": 186.54,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 16,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-09-18T08:30:52.299Z"
   }
 ]
