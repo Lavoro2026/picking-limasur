@@ -1550,5 +1550,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-18T11:26:03.331Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 140.38,
+    "kg_regular": 140.38,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 27,
+    "unds": 231,
+    "n_orden": 0,
+    "timestamp": "2026-09-18T11:26:04.937Z"
   }
 ]
