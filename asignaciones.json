@@ -2814,5 +2814,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-09-19T12:29:01.014Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 19.78,
+    "kg_regular": 19.78,
+    "zona": "B",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T12:29:11.579Z"
   }
 ]
