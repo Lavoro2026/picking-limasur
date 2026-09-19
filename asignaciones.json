@@ -2334,5 +2334,21 @@
     "unds": 150,
     "n_orden": 0,
     "timestamp": "2026-09-19T12:24:24.708Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 93.21,
+    "kg_regular": 93.21,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 23,
+    "unds": 37,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T12:24:29.203Z"
   }
 ]
