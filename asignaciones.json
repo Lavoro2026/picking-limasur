@@ -430,5 +430,21 @@
     "unds": 210,
     "n_orden": 0,
     "timestamp": "2026-09-19T08:44:08.566Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "B",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 1077.97,
+    "kg_regular": 177.91,
+    "zona": "C",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 96,
+    "unds": 239,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T08:54:40.236Z"
   }
 ]
