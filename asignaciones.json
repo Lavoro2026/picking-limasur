@@ -2830,5 +2830,21 @@
     "unds": 1,
     "n_orden": 0,
     "timestamp": "2026-09-19T12:29:11.579Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 145.27,
+    "kg_regular": 145.27,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 24,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T12:29:23.910Z"
   }
 ]
