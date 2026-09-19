@@ -1950,5 +1950,21 @@
     "unds": 36,
     "n_orden": 0,
     "timestamp": "2026-09-19T12:17:22.805Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 11.16,
+    "kg_regular": 11.16,
+    "zona": "E",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 1,
+    "unds": 10,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T12:17:35.163Z"
   }
 ]
