@@ -1838,5 +1838,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-09-19T10:08:12.494Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "A",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 406.8,
+    "kg_regular": 406.8,
+    "zona": "E",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 31,
+    "unds": 286,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T10:19:57.674Z"
   }
 ]
