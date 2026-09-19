@@ -414,5 +414,21 @@
     "unds": 85,
     "n_orden": 0,
     "timestamp": "2026-09-19T08:34:14.869Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "A",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 712.43,
+    "kg_regular": 712.43,
+    "zona": "C",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 61,
+    "unds": 210,
+    "n_orden": 0,
+    "timestamp": "2026-09-19T08:44:08.566Z"
   }
 ]
