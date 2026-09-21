@@ -686,5 +686,21 @@
     "unds": 201,
     "n_orden": 0,
     "timestamp": "2026-09-21T10:54:54.050Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "F",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 151.74,
+    "kg_regular": 151.74,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 29,
+    "unds": 330,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T10:58:30.750Z"
   }
 ]
