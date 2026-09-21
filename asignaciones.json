@@ -974,5 +974,21 @@
     "unds": 44,
     "n_orden": 0,
     "timestamp": "2026-09-21T11:01:59.213Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 43.56,
+    "kg_regular": 43.56,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 8,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T12:17:19.417Z"
   }
 ]
