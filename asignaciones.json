@@ -606,5 +606,21 @@
     "unds": 177,
     "n_orden": 0,
     "timestamp": "2026-09-21T10:52:50.106Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "F",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 288.45,
+    "kg_regular": 288.45,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 61,
+    "unds": 257,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T10:53:19.806Z"
   }
 ]
