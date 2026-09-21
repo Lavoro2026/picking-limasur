@@ -222,5 +222,21 @@
     "unds": 189,
     "n_orden": 0,
     "timestamp": "2026-09-21T06:56:56.858Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "C",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 825.4,
+    "kg_regular": 825.4,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 73,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T07:01:56.114Z"
   }
 ]
