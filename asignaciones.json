@@ -1918,5 +1918,21 @@
     "unds": 204,
     "n_orden": 0,
     "timestamp": "2026-09-21T13:51:21.050Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "F",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 64.51,
+    "kg_regular": 64.51,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 12,
+    "unds": 122,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T13:53:03.247Z"
   }
 ]
