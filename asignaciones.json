@@ -878,5 +878,21 @@
     "unds": 267,
     "n_orden": 0,
     "timestamp": "2026-09-21T11:00:22.597Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 1140.65,
+    "kg_regular": 50.54,
+    "zona": "B",
+    "material": "1004997",
+    "denominacion": "GLORIA ALIM LIQ FORT DURAZ 145 MLX24UND",
+    "cajas": 119,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T11:00:33.946Z"
   }
 ]
