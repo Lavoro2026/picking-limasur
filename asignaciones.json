@@ -78,5 +78,21 @@
     "unds": 333,
     "n_orden": 0,
     "timestamp": "2026-09-21T05:34:39.657Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 64.1,
+    "kg_regular": 12.99,
+    "zona": "A",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 2,
+    "unds": 94,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T05:38:09.259Z"
   }
 ]
