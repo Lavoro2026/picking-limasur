@@ -1566,5 +1566,21 @@
     "unds": 35,
     "n_orden": 0,
     "timestamp": "2026-09-21T12:24:26.351Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "D",
+    "picador": "ALFARO CHAVEZ, JOSE MARTIN",
+    "nombre": "ALFARO CHAVEZ, JOSE MARTIN",
+    "controlador": "0",
+    "kg": 123.4,
+    "kg_regular": 123.4,
+    "zona": "A",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 19,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T12:24:35.985Z"
   }
 ]
