@@ -414,5 +414,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-21T08:26:31.091Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 236.98,
+    "kg_regular": 48.9,
+    "zona": "E",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 9,
+    "unds": 201,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T08:45:21.684Z"
   }
 ]
