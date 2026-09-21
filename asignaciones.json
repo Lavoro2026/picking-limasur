@@ -1950,5 +1950,21 @@
     "unds": 160,
     "n_orden": 0,
     "timestamp": "2026-09-21T13:53:13.524Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 135.71,
+    "kg_regular": 135.71,
+    "zona": "D",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 28,
+    "unds": 193,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T13:53:24.823Z"
   }
 ]
