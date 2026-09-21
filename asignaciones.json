@@ -1934,5 +1934,21 @@
     "unds": 122,
     "n_orden": 0,
     "timestamp": "2026-09-21T13:53:03.247Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "F",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 399.46,
+    "kg_regular": 399.46,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 79,
+    "unds": 160,
+    "n_orden": 0,
+    "timestamp": "2026-09-21T13:53:13.524Z"
   }
 ]
