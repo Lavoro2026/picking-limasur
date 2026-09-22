@@ -670,5 +670,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-09-22T07:15:20.018Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 4.41,
+    "kg_regular": 4.41,
+    "zona": "C",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 1,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-09-22T07:15:28.450Z"
   }
 ]
