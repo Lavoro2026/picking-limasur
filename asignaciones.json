@@ -3470,5 +3470,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-09-22T11:53:26.695Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "GARCIA CALLUPA, CARLOS DANIEL",
+    "nombre": "GARCIA CALLUPA, CARLOS DANIEL",
+    "controlador": "0",
+    "kg": 17.99,
+    "kg_regular": 17.99,
+    "zona": "C",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 1,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-09-22T11:54:17.774Z"
   }
 ]
