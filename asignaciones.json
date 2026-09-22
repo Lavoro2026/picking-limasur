@@ -3678,5 +3678,21 @@
     "unds": 288,
     "n_orden": 0,
     "timestamp": "2026-09-22T12:30:58.955Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 540.05,
+    "kg_regular": 6.24,
+    "zona": "A",
+    "material": "1001317",
+    "denominacion": "BONLE MEZC LACT FAMILIAR 480G X4-6PK TTP",
+    "cajas": 43,
+    "unds": 53,
+    "n_orden": 0,
+    "timestamp": "2026-09-22T12:31:33.858Z"
   }
 ]
