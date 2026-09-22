@@ -2014,5 +2014,21 @@
     "unds": 175,
     "n_orden": 0,
     "timestamp": "2026-09-22T09:31:52.357Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "D",
+    "picador": "MEZA RAMOS, REYNER FRANZ",
+    "nombre": "MEZA RAMOS, REYNER FRANZ",
+    "controlador": "0",
+    "kg": 12.62,
+    "kg_regular": 12.62,
+    "zona": "E",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 2,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-09-22T09:33:57.360Z"
   }
 ]
