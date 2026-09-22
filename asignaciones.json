@@ -334,5 +334,21 @@
     "unds": 325,
     "n_orden": 0,
     "timestamp": "2026-09-22T06:21:08.848Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 376.4,
+    "kg_regular": 185.95,
+    "zona": "B",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 35,
+    "unds": 159,
+    "n_orden": 0,
+    "timestamp": "2026-09-22T06:21:16.377Z"
   }
 ]
