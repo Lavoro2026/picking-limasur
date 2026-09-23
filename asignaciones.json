@@ -1922,8 +1922,8 @@
   {
     "placa": "APU790",
     "familia": "F",
-    "picador": "ARAUCO TICONA PABLO NICOLAS",
-    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
     "controlador": "0",
     "kg": 406.92,
     "kg_regular": 406.92,
@@ -1933,7 +1933,7 @@
     "cajas": 78,
     "unds": 324,
     "n_orden": 0,
-    "timestamp": "2026-09-23T11:29:53.840Z"
+    "timestamp": "2026-09-23T11:47:14.289Z"
   },
   {
     "placa": "AHX902",
