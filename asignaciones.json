@@ -830,5 +830,21 @@
     "unds": 254,
     "n_orden": 0,
     "timestamp": "2026-09-23T09:31:55.741Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 399.18,
+    "kg_regular": 84.56,
+    "zona": "E",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 29,
+    "unds": 172,
+    "n_orden": 0,
+    "timestamp": "2026-09-23T09:34:22.249Z"
   }
 ]
