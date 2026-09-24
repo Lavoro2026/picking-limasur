@@ -1854,5 +1854,21 @@
     "unds": 43,
     "n_orden": 0,
     "timestamp": "2026-09-24T10:32:39.606Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 42.3,
+    "kg_regular": 26.5,
+    "zona": "F",
+    "material": "1003893",
+    "denominacion": "BONLE MANJARBLANCO DISPLAYX 200GRX50U",
+    "cajas": 1,
+    "unds": 46,
+    "n_orden": 0,
+    "timestamp": "2026-09-24T10:32:46.744Z"
   }
 ]
