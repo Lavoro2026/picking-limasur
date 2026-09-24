@@ -46,5 +46,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-09-24T05:05:32.103Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 315,
+    "kg_regular": 199.37,
+    "zona": "A",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 19,
+    "unds": 163,
+    "n_orden": 0,
+    "timestamp": "2026-09-24T05:16:04.968Z"
   }
 ]
