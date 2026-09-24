@@ -2206,5 +2206,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-09-24T11:37:42.000Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "C",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 852.35,
+    "kg_regular": 852.35,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 70,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-09-24T11:37:46.224Z"
   }
 ]
