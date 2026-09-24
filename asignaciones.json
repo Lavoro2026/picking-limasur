@@ -2094,5 +2094,21 @@
     "unds": 38,
     "n_orden": 0,
     "timestamp": "2026-09-24T11:36:49.906Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 701.75,
+    "kg_regular": 701.75,
+    "zona": "D",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 54,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-09-24T11:36:57.066Z"
   }
 ]
