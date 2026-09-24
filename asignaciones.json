@@ -654,5 +654,21 @@
     "unds": 322,
     "n_orden": 0,
     "timestamp": "2026-09-24T08:49:25.601Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 336.22,
+    "kg_regular": 36.21,
+    "zona": "D",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 22,
+    "unds": 167,
+    "n_orden": 0,
+    "timestamp": "2026-09-24T08:52:56.042Z"
   }
 ]
