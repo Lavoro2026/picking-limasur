@@ -878,5 +878,21 @@
     "unds": 25,
     "n_orden": 0,
     "timestamp": "2026-09-25T09:43:28.547Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "D",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 65.45,
+    "kg_regular": 65.45,
+    "zona": "D",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 11,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T09:49:46.969Z"
   }
 ]
