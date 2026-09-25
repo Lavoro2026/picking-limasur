@@ -142,5 +142,21 @@
     "unds": 216,
     "n_orden": 0,
     "timestamp": "2026-09-25T05:44:15.925Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 588.11,
+    "kg_regular": 98.33,
+    "zona": "A",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 48,
+    "unds": 111,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T05:44:29.558Z"
   }
 ]
