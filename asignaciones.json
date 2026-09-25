@@ -1822,5 +1822,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-09-25T11:07:52.925Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 29.67,
+    "kg_regular": 29.67,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T11:08:13.146Z"
   }
 ]
