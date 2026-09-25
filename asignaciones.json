@@ -862,5 +862,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-09-25T09:36:46.764Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 68.44,
+    "kg_regular": 68.44,
+    "zona": "D",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 5,
+    "unds": 25,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T09:43:28.547Z"
   }
 ]
