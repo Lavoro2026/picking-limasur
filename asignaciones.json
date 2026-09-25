@@ -974,5 +974,21 @@
     "unds": 307,
     "n_orden": 0,
     "timestamp": "2026-09-25T10:23:07.417Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "D",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 164.88,
+    "kg_regular": 164.88,
+    "zona": "E",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 10,
+    "unds": 46,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T10:34:17.235Z"
   }
 ]
