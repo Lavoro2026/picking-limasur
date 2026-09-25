@@ -1710,5 +1710,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-09-25T11:05:38.865Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 36.44,
+    "kg_regular": 36.44,
+    "zona": "B",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 4,
+    "unds": 36,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T11:05:59.113Z"
   }
 ]
