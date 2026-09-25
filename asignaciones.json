@@ -190,5 +190,21 @@
     "unds": 224,
     "n_orden": 0,
     "timestamp": "2026-09-25T05:45:10.011Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "A",
+    "picador": "QUINDE RETETETE DANILO NATAN",
+    "nombre": "QUINDE RETETETE DANILO NATAN",
+    "controlador": "0",
+    "kg": 636.58,
+    "kg_regular": 636.58,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 54,
+    "unds": 261,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T05:45:45.351Z"
   }
 ]
