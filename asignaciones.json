@@ -2270,5 +2270,21 @@
     "unds": 244,
     "n_orden": 0,
     "timestamp": "2026-09-25T12:13:33.024Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "F",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 68.08,
+    "kg_regular": 68.08,
+    "zona": "B",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 14,
+    "unds": 91,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T12:13:49.329Z"
   }
 ]
