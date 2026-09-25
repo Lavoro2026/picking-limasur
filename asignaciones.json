@@ -1966,5 +1966,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-09-25T11:10:50.941Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 124.69,
+    "kg_regular": 124.69,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 22,
+    "unds": 39,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T11:15:31.660Z"
   }
 ]
