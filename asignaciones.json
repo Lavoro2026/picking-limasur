@@ -830,5 +830,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-09-25T09:18:25.460Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 52.68,
+    "kg_regular": 52.68,
+    "zona": "D",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 11,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-09-25T09:24:46.375Z"
   }
 ]
