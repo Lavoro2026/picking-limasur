@@ -78,5 +78,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-09-28T05:10:51.193Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "F",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 19.12,
+    "kg_regular": 19.12,
+    "zona": "A",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 2,
+    "unds": 73,
+    "n_orden": 0,
+    "timestamp": "2026-09-28T05:13:30.227Z"
   }
 ]
