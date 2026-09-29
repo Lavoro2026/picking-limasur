@@ -1182,5 +1182,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-09-29T11:31:08.973Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 25.07,
+    "kg_regular": 25.07,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 4,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-09-29T11:31:18.129Z"
   }
 ]
