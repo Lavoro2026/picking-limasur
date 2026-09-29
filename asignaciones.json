@@ -1694,5 +1694,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-09-29T12:08:56.028Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "HERRERA CAMPOS, JOSE ANTONIO",
+    "nombre": "HERRERA CAMPOS, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 26.26,
+    "kg_regular": 26.26,
+    "zona": "B",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 5,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-09-29T12:09:57.072Z"
   }
 ]
