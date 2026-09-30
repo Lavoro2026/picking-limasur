@@ -1550,5 +1550,21 @@
     "unds": 138,
     "n_orden": 0,
     "timestamp": "2026-09-30T09:35:52.573Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 95.65,
+    "kg_regular": 95.65,
+    "zona": "D",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 11,
+    "unds": 186,
+    "n_orden": 0,
+    "timestamp": "2026-09-30T09:54:09.096Z"
   }
 ]
