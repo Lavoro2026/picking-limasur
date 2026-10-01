@@ -510,5 +510,21 @@
     "unds": 122,
     "n_orden": 0,
     "timestamp": "2026-10-01T09:09:08.950Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 354.14,
+    "kg_regular": 136.52,
+    "zona": "B",
+    "material": "507327",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 5 KG BOLSA",
+    "cajas": 22,
+    "unds": 279,
+    "n_orden": 0,
+    "timestamp": "2026-10-01T09:09:43.668Z"
   }
 ]
