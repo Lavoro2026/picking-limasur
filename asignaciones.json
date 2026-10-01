@@ -1262,5 +1262,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-10-01T10:29:07.617Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "C",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 708.07,
+    "kg_regular": 708.07,
+    "zona": "D",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 58,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-10-01T10:29:21.303Z"
   }
 ]
