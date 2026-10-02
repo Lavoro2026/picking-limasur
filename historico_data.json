@@ -7268,31 +7268,19 @@
     },
     "2026-10-01": {
       "fecha": "01/10/2026",
-      "total_kg": 46084.56000000001,
-      "total_kg_regular": 28191.330000000005,
-      "total_cajas": 3989,
-      "total_pickers": 7,
-      "total_placas": 96,
+      "total_kg": 949.81,
+      "total_kg_regular": 949.81,
+      "total_cajas": 79,
+      "total_pickers": 1,
+      "total_placas": 2,
       "pickers": [
-        "VILLACORTA PARIOMA, OMAR IVAN",
-        "BASILILIO SANTOS, ANGEL JEREMIAS",
-        "MORALES CHUMPITAZ, JUAN MAURICIO",
-        "SANCHEZ ABANTO OSMAR",
-        "QUISPE NARAZAS, LEONEL GABRIEL",
-        "CARHUATANTA QUISPITONGO ROSAS OLIDES",
-        "VIZA QUISPE, JOEL ALEXANDER"
+        "MORALES CHUMPITAZ, JUAN MAURICIO"
       ],
       "por_familia": {
-        "F": 1812.28,
-        "B": 21234.410000000007,
-        "C": 23037.870000000003
+        "C": 949.81
       },
       "por_almacen": {
-        "A": 11677.319999999998,
-        "E": 5362.98,
-        "B": 10969.08,
-        "C": 9474.02,
-        "D": 8601.160000000002
+        "A": 949.81
       }
     },
     "2026-09-16": {
