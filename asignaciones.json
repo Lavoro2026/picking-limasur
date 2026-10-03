@@ -2142,5 +2142,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-10-03T08:45:16.475Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "A",
+    "picador": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "nombre": "SALVADOR MAMANI ANTONY JEAN PIERRE",
+    "controlador": "0",
+    "kg": 491.68,
+    "kg_regular": 491.68,
+    "zona": "C",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 41,
+    "unds": 218,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T08:49:49.117Z"
   }
 ]
