@@ -1534,5 +1534,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-10-03T07:50:18.955Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 31.29,
+    "kg_regular": 31.29,
+    "zona": "C",
+    "material": "1005241",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 600ML PQTX6UND",
+    "cajas": 5,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T07:52:21.067Z"
   }
 ]
