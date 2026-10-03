@@ -1646,5 +1646,21 @@
     "unds": 163,
     "n_orden": 0,
     "timestamp": "2026-10-03T08:00:01.830Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 1677.42,
+    "kg_regular": 15.5,
+    "zona": "C",
+    "material": "1050173",
+    "denominacion": "GLORIA ZEROLACT UHT SIN LACT 946ML TTP",
+    "cajas": 162,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T08:00:22.142Z"
   }
 ]
