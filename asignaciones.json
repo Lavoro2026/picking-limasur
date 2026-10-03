@@ -1502,5 +1502,21 @@
     "unds": 262,
     "n_orden": 0,
     "timestamp": "2026-10-03T07:49:30.657Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 7.41,
+    "kg_regular": 7.41,
+    "zona": "C",
+    "material": "1050245",
+    "denominacion": "ARUBA TE VERDE LIMON X400MLX12 PET",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T07:50:07.776Z"
   }
 ]
