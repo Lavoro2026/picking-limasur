@@ -7343,32 +7343,19 @@
     },
     "2026-10-02": {
       "fecha": "02/10/2026",
-      "total_kg": 33247.76,
-      "total_kg_regular": 24988.74,
-      "total_cajas": 2906,
-      "total_pickers": 7,
-      "total_placas": 73,
+      "total_kg": 460.84,
+      "total_kg_regular": 460.84,
+      "total_cajas": 39,
+      "total_pickers": 1,
+      "total_placas": 1,
       "pickers": [
-        "QUINDE RETETETE DANILO NATAN",
-        "MORALES CHUMPITAZ, JUAN MAURICIO",
-        "BASILILIO SANTOS, ANGEL JEREMIAS",
-        "VILLACORTA PARIOMA, OMAR IVAN",
-        "SANCHEZ ABANTO OSMAR",
-        "VENTURA LOZANO BRAYANS AMIR",
-        "VIZA QUISPE, JOEL ALEXANDER"
+        "MORALES CHUMPITAZ, JUAN MAURICIO"
       ],
       "por_familia": {
-        "A": 5201.75,
-        "C": 15716.57,
-        "B": 10507.199999999999,
-        "F": 1822.2399999999998
+        "C": 460.84
       },
       "por_almacen": {
-        "A": 7247.700000000001,
-        "B": 7992.509999999998,
-        "C": 7328.259999999999,
-        "D": 6415.580000000001,
-        "E": 4263.71
+        "A": 460.84
       }
     },
     "2026-09-16": {
