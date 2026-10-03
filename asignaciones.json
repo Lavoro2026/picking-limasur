@@ -862,5 +862,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-10-03T06:48:42.821Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 5.06,
+    "kg_regular": 5.06,
+    "zona": "B",
+    "material": "1050243",
+    "denominacion": "ARUBA REFR. RED PUNCH 400MLX12U",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T06:49:11.146Z"
   }
 ]
