@@ -2334,5 +2334,21 @@
     "unds": 25,
     "n_orden": 0,
     "timestamp": "2026-10-03T09:03:12.719Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "B",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 566.89,
+    "kg_regular": 109.61,
+    "zona": "D",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 44,
+    "unds": 232,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T09:12:09.266Z"
   }
 ]
