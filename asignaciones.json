@@ -2254,5 +2254,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-10-03T08:53:38.672Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "B",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 1181.35,
+    "kg_regular": 207.96,
+    "zona": "D",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 102,
+    "unds": 271,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T08:56:39.519Z"
   }
 ]
