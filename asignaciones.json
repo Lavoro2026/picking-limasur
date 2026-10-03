@@ -1326,5 +1326,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-10-03T07:29:31.275Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "B",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 332.24,
+    "kg_regular": 80.75,
+    "zona": "C",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 22,
+    "unds": 171,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T07:31:02.524Z"
   }
 ]
