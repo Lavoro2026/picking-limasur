@@ -1358,5 +1358,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-10-03T07:31:15.363Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 16.36,
+    "kg_regular": 16.36,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 4,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T07:35:00.957Z"
   }
 ]
