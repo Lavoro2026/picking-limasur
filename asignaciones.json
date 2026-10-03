@@ -4366,5 +4366,21 @@
     "unds": 144,
     "n_orden": 0,
     "timestamp": "2026-10-03T12:43:55.155Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "F",
+    "picador": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "nombre": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "controlador": "0",
+    "kg": 248.35,
+    "kg_regular": 248.35,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 52,
+    "unds": 245,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T12:44:01.206Z"
   }
 ]
