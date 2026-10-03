@@ -1150,5 +1150,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-10-03T07:10:37.635Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 1294.03,
+    "kg_regular": 1294.03,
+    "zona": "C",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 105,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T07:11:14.401Z"
   }
 ]
