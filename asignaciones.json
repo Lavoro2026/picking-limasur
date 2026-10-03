@@ -4334,5 +4334,21 @@
     "unds": 167,
     "n_orden": 0,
     "timestamp": "2026-10-03T12:43:41.667Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "F",
+    "picador": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "nombre": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "controlador": "0",
+    "kg": 146.86,
+    "kg_regular": 146.86,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 27,
+    "unds": 267,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T12:43:48.351Z"
   }
 ]
