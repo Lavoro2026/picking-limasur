@@ -4110,5 +4110,21 @@
     "unds": 247,
     "n_orden": 0,
     "timestamp": "2026-10-03T12:05:30.383Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "A",
+    "picador": "BAZAN CORTEGANA NILO",
+    "nombre": "BAZAN CORTEGANA NILO",
+    "controlador": "0",
+    "kg": 443.55,
+    "kg_regular": 443.55,
+    "zona": "A",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 35,
+    "unds": 232,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T12:05:37.919Z"
   }
 ]
