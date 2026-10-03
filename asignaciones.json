@@ -766,5 +766,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-10-03T06:34:56.184Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "B",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 384.66,
+    "kg_regular": 119.28,
+    "zona": "B",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 31,
+    "unds": 235,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T06:36:23.992Z"
   }
 ]
