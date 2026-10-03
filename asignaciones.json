@@ -4270,5 +4270,21 @@
     "unds": 199,
     "n_orden": 0,
     "timestamp": "2026-10-03T12:15:07.919Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "F",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 404.57,
+    "kg_regular": 404.57,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 99,
+    "unds": 165,
+    "n_orden": 0,
+    "timestamp": "2026-10-03T12:15:17.746Z"
   }
 ]
