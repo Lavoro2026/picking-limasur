@@ -654,5 +654,21 @@
     "unds": 162,
     "n_orden": 0,
     "timestamp": "2026-10-05T07:00:14.970Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 378.71,
+    "kg_regular": 378.71,
+    "zona": "A",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 49,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T07:07:50.542Z"
   }
 ]
