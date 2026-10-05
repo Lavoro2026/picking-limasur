@@ -430,5 +430,21 @@
     "unds": 167,
     "n_orden": 0,
     "timestamp": "2026-10-05T06:33:16.607Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 49.45,
+    "kg_regular": 49.45,
+    "zona": "A",
+    "material": "1003335",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 LUCUMA",
+    "cajas": 7,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T06:34:59.940Z"
   }
 ]
