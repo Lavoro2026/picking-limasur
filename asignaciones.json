@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "placa": "ARZ862",
+    "familia": "F",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 166.16,
+    "kg_regular": 166.16,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 29,
+    "unds": 256,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T05:46:01.114Z"
+  }
+]
