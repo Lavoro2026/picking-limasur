@@ -1614,5 +1614,21 @@
     "unds": 225,
     "n_orden": 0,
     "timestamp": "2026-10-05T09:23:38.752Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "F",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 70.75,
+    "kg_regular": 70.75,
+    "zona": "D",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 14,
+    "unds": 150,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T09:26:09.242Z"
   }
 ]
