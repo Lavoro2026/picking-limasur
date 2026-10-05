@@ -350,5 +350,21 @@
     "unds": 266,
     "n_orden": 0,
     "timestamp": "2026-10-05T06:22:28.592Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "A",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 482.46,
+    "kg_regular": 482.46,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 40,
+    "unds": 236,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T06:22:49.051Z"
   }
 ]
