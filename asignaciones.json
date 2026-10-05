@@ -830,5 +830,21 @@
     "unds": 165,
     "n_orden": 0,
     "timestamp": "2026-10-05T07:27:41.396Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "A",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 487.1,
+    "kg_regular": 487.1,
+    "zona": "A",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 38,
+    "unds": 338,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T07:30:47.057Z"
   }
 ]
