@@ -94,5 +94,21 @@
     "unds": 157,
     "n_orden": 0,
     "timestamp": "2026-10-05T05:56:10.016Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 30.35,
+    "kg_regular": 30.35,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 3,
+    "unds": 29,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T05:56:41.718Z"
   }
 ]
