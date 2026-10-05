@@ -638,5 +638,21 @@
     "unds": 219,
     "n_orden": 0,
     "timestamp": "2026-10-05T06:58:17.662Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "A",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 349.64,
+    "kg_regular": 349.64,
+    "zona": "A",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 29,
+    "unds": 162,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T07:00:14.970Z"
   }
 ]
