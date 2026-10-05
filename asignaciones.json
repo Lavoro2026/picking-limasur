@@ -1502,5 +1502,21 @@
     "unds": 266,
     "n_orden": 0,
     "timestamp": "2026-10-05T08:56:32.956Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 247.03,
+    "kg_regular": 247.03,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 28,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T09:05:11.280Z"
   }
 ]
