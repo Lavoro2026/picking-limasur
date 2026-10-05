@@ -1790,5 +1790,21 @@
     "unds": 274,
     "n_orden": 0,
     "timestamp": "2026-10-05T09:51:19.638Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "A",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 899.83,
+    "kg_regular": 899.83,
+    "zona": "C",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 82,
+    "unds": 184,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T09:51:33.363Z"
   }
 ]
