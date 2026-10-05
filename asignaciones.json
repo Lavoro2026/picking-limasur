@@ -478,5 +478,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-10-05T06:39:38.844Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 2.18,
+    "kg_regular": 2.18,
+    "zona": "A",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 0,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T06:40:20.033Z"
   }
 ]
