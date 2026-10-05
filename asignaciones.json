@@ -1438,5 +1438,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-10-05T08:43:36.429Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 52.03,
+    "kg_regular": 52.03,
+    "zona": "C",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 6,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T08:47:21.585Z"
   }
 ]
