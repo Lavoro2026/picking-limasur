@@ -622,5 +622,21 @@
     "unds": 226,
     "n_orden": 0,
     "timestamp": "2026-10-05T06:57:09.585Z"
+  },
+  {
+    "placa": "CKI862",
+    "familia": "F",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 290.25,
+    "kg_regular": 290.25,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 69,
+    "unds": 219,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T06:58:17.662Z"
   }
 ]
