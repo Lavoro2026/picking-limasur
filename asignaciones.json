@@ -1982,5 +1982,21 @@
     "unds": 198,
     "n_orden": 0,
     "timestamp": "2026-10-05T10:07:56.339Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "A",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 301.62,
+    "kg_regular": 301.62,
+    "zona": "D",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 24,
+    "unds": 174,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T10:09:10.688Z"
   }
 ]
