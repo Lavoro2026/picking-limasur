@@ -1182,5 +1182,21 @@
     "unds": 191,
     "n_orden": 0,
     "timestamp": "2026-10-05T08:16:53.868Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "F",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 141.46,
+    "kg_regular": 141.46,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 26,
+    "unds": 157,
+    "n_orden": 0,
+    "timestamp": "2026-10-05T08:17:49.272Z"
   }
 ]
