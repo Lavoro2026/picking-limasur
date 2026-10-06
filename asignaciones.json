@@ -2430,5 +2430,21 @@
     "unds": 302,
     "n_orden": 0,
     "timestamp": "2026-10-06T10:32:29.082Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 831.97,
+    "kg_regular": 831.97,
+    "zona": "A",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 73,
+    "unds": 233,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T10:32:42.980Z"
   }
 ]
