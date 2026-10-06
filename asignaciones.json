@@ -1438,5 +1438,21 @@
     "unds": 218,
     "n_orden": 0,
     "timestamp": "2026-10-06T08:22:55.010Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "A",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 801.75,
+    "kg_regular": 801.75,
+    "zona": "B",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 68,
+    "unds": 290,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T08:23:05.087Z"
   }
 ]
