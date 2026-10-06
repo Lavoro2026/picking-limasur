@@ -2750,5 +2750,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-10-06T10:51:53.319Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 42.09,
+    "kg_regular": 42.09,
+    "zona": "E",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T10:51:58.923Z"
   }
 ]
