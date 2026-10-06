@@ -2014,5 +2014,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-10-06T09:08:08.853Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "F",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 39.61,
+    "kg_regular": 39.61,
+    "zona": "E",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 2,
+    "unds": 80,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T09:10:24.914Z"
   }
 ]
