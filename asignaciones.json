@@ -2318,5 +2318,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-10-06T09:58:30.784Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 213.41,
+    "kg_regular": 213.41,
+    "zona": "D",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 39,
+    "unds": 40,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T10:06:30.363Z"
   }
 ]
