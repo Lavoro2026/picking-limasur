@@ -1662,5 +1662,21 @@
     "unds": 329,
     "n_orden": 0,
     "timestamp": "2026-10-06T08:32:48.425Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 335.26,
+    "kg_regular": 104.33,
+    "zona": "C",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 24,
+    "unds": 217,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T08:32:50.780Z"
   }
 ]
