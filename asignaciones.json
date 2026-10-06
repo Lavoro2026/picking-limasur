@@ -910,5 +910,21 @@
     "unds": 96,
     "n_orden": 0,
     "timestamp": "2026-10-06T07:21:05.429Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 116.61,
+    "kg_regular": 116.61,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 12,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T07:22:04.567Z"
   }
 ]
