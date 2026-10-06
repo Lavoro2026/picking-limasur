@@ -1966,5 +1966,21 @@
     "unds": 65,
     "n_orden": 0,
     "timestamp": "2026-10-06T08:58:41.692Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 13.78,
+    "kg_regular": 13.78,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 2,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T08:58:55.825Z"
   }
 ]
