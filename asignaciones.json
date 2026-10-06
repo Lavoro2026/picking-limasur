@@ -430,5 +430,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-10-06T06:11:28.310Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "A",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 778.29,
+    "kg_regular": 778.29,
+    "zona": "B",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 67,
+    "unds": 238,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T06:12:21.534Z"
   }
 ]
