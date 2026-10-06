@@ -1934,5 +1934,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-10-06T08:56:40.318Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "B",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 392.55,
+    "kg_regular": 170.45,
+    "zona": "E",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 29,
+    "unds": 243,
+    "n_orden": 0,
+    "timestamp": "2026-10-06T08:58:29.477Z"
   }
 ]
