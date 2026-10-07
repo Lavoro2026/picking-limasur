@@ -2462,5 +2462,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-10-07T12:16:03.669Z"
+  },
+  {
+    "placa": "CMX715",
+    "familia": "C",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 436.01,
+    "kg_regular": 436.01,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 34,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T12:16:24.591Z"
   }
 ]
