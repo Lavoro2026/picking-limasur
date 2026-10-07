@@ -3694,5 +3694,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-10-07T14:46:22.792Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "D",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 353.09,
+    "kg_regular": 353.09,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 39,
+    "unds": 69,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T14:46:28.434Z"
   }
 ]
