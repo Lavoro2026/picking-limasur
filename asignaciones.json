@@ -3774,5 +3774,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-10-07T14:46:54.747Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 12.17,
+    "kg_regular": 12.17,
+    "zona": "C",
+    "material": "1003331",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 DURAZN",
+    "cajas": 3,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T14:46:58.731Z"
   }
 ]
