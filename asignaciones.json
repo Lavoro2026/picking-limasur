@@ -3934,5 +3934,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-10-07T14:47:51.448Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 99.69,
+    "kg_regular": 99.69,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 19,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T14:47:56.218Z"
   }
 ]
