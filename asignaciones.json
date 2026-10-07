@@ -3790,5 +3790,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-10-07T14:46:58.731Z"
+  },
+  {
+    "placa": "ATB831",
+    "familia": "D",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 64.36,
+    "kg_regular": 64.36,
+    "zona": "E",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 9,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T14:47:02.673Z"
   }
 ]
