@@ -1054,5 +1054,21 @@
     "unds": 191,
     "n_orden": 0,
     "timestamp": "2026-10-07T07:50:37.888Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "A",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 1073.79,
+    "kg_regular": 1073.79,
+    "zona": "C",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 95,
+    "unds": 277,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T07:51:04.559Z"
   }
 ]
