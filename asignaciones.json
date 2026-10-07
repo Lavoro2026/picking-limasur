@@ -222,5 +222,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-10-07T05:49:15.368Z"
+  },
+  {
+    "placa": "A5K897",
+    "familia": "E",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 282.36,
+    "kg_regular": 30.68,
+    "zona": "A",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 43,
+    "unds": 66,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T05:49:23.604Z"
   }
 ]
