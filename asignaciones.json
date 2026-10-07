@@ -2206,5 +2206,21 @@
     "unds": 209,
     "n_orden": 0,
     "timestamp": "2026-10-07T10:35:18.703Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "A",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 617.34,
+    "kg_regular": 617.34,
+    "zona": "E",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 53,
+    "unds": 243,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T10:35:36.172Z"
   }
 ]
