@@ -1950,5 +1950,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-10-07T09:55:12.583Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 1372.68,
+    "kg_regular": 140.07,
+    "zona": "E",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 134,
+    "unds": 272,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T09:56:04.663Z"
   }
 ]
