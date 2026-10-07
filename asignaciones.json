@@ -398,5 +398,21 @@
     "unds": 270,
     "n_orden": 0,
     "timestamp": "2026-10-07T06:11:42.519Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "A",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 768.98,
+    "kg_regular": 768.98,
+    "zona": "A",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 64,
+    "unds": 290,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T06:14:46.924Z"
   }
 ]
