@@ -270,5 +270,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-10-07T05:57:13.859Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "B",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 439.41,
+    "kg_regular": 181.82,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 36,
+    "unds": 179,
+    "n_orden": 0,
+    "timestamp": "2026-10-07T05:58:38.976Z"
   }
 ]
