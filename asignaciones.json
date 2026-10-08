@@ -398,5 +398,21 @@
     "unds": 158,
     "n_orden": 0,
     "timestamp": "2026-10-08T05:53:46.276Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 313.51,
+    "kg_regular": 71.9,
+    "zona": "A",
+    "material": "507337",
+    "denominacion": "CARTAVIO AZUCAR BLANCA X 1 KG X 25 BOL",
+    "cajas": 24,
+    "unds": 90,
+    "n_orden": 0,
+    "timestamp": "2026-10-08T05:53:55.894Z"
   }
 ]
