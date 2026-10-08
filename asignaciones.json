@@ -1806,5 +1806,21 @@
     "unds": 39,
     "n_orden": 0,
     "timestamp": "2026-10-08T08:54:22.681Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 221.17,
+    "kg_regular": 34.63,
+    "zona": "C",
+    "material": "1002745",
+    "denominacion": "GLORIA YOGURT BATTIMI  146 PQTX24 VAINI",
+    "cajas": 34,
+    "unds": 51,
+    "n_orden": 0,
+    "timestamp": "2026-10-08T08:54:35.772Z"
   }
 ]
