@@ -110,5 +110,21 @@
     "unds": 243,
     "n_orden": 0,
     "timestamp": "2026-10-08T05:13:46.058Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "F",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 121.66,
+    "kg_regular": 121.66,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 24,
+    "unds": 183,
+    "n_orden": 0,
+    "timestamp": "2026-10-08T05:16:07.704Z"
   }
 ]
