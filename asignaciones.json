@@ -1134,5 +1134,21 @@
     "unds": 181,
     "n_orden": 0,
     "timestamp": "2026-10-08T07:28:36.411Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 275.87,
+    "kg_regular": 275.87,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 59,
+    "unds": 209,
+    "n_orden": 0,
+    "timestamp": "2026-10-08T07:30:16.967Z"
   }
 ]
