@@ -1374,5 +1374,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-10-08T07:48:56.538Z"
+  },
+  {
+    "placa": "F3V817",
+    "familia": "F",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 133.24,
+    "kg_regular": 133.24,
+    "zona": "C",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 26,
+    "unds": 138,
+    "n_orden": 0,
+    "timestamp": "2026-10-08T07:52:45.280Z"
   }
 ]
