@@ -2078,5 +2078,21 @@
     "unds": 278,
     "n_orden": 0,
     "timestamp": "2026-10-09T10:32:25.466Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 208.64,
+    "kg_regular": 208.64,
+    "zona": "E",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 45,
+    "unds": 131,
+    "n_orden": 0,
+    "timestamp": "2026-10-09T10:48:03.799Z"
   }
 ]
