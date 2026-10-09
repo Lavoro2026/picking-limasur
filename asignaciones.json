@@ -1678,5 +1678,21 @@
     "unds": 74,
     "n_orden": 0,
     "timestamp": "2026-10-09T09:36:09.125Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "C",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 481.24,
+    "kg_regular": 481.24,
+    "zona": "E",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 38,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-10-09T09:49:24.937Z"
   }
 ]
