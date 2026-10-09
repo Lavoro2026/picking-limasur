@@ -1310,5 +1310,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-10-09T08:42:56.325Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 148.21,
+    "kg_regular": 48.53,
+    "zona": "A",
+    "material": "1003133",
+    "denominacion": "GLORIA YOGURT PARC. DESLACT. FRESA 1KG",
+    "cajas": 19,
+    "unds": 63,
+    "n_orden": 0,
+    "timestamp": "2026-10-09T08:51:41.097Z"
   }
 ]
