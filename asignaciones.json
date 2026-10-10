@@ -2430,5 +2430,21 @@
     "unds": 33,
     "n_orden": 0,
     "timestamp": "2026-10-10T11:43:37.570Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "D",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 30.04,
+    "kg_regular": 30.04,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 3,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T11:43:50.104Z"
   }
 ]
