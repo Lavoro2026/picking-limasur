@@ -2350,5 +2350,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-10-10T11:42:17.147Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "D",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 318.15,
+    "kg_regular": 318.15,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 43,
+    "unds": 28,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T11:42:23.757Z"
   }
 ]
