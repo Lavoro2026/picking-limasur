@@ -1998,5 +1998,21 @@
     "unds": 215,
     "n_orden": 0,
     "timestamp": "2026-10-10T10:16:19.673Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 697.72,
+    "kg_regular": 697.72,
+    "zona": "E",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 70,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T10:19:34.807Z"
   }
 ]
