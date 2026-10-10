@@ -2302,5 +2302,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-10-10T11:31:17.908Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 37.88,
+    "kg_regular": 37.88,
+    "zona": "E",
+    "material": "1005243",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 1.5L PQTX6UND",
+    "cajas": 3,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T11:32:48.884Z"
   }
 ]
