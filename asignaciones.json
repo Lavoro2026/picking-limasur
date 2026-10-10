@@ -1342,5 +1342,21 @@
     "unds": 60,
     "n_orden": 0,
     "timestamp": "2026-10-10T08:33:56.388Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "C",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 325.92,
+    "kg_regular": 325.92,
+    "zona": "C",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 25,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T08:39:18.470Z"
   }
 ]
