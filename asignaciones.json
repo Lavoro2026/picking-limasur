@@ -2942,5 +2942,21 @@
     "unds": 35,
     "n_orden": 0,
     "timestamp": "2026-10-10T12:24:15.372Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "D",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 14.62,
+    "kg_regular": 14.62,
+    "zona": "E",
+    "material": "1003349",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 VAINIL",
+    "cajas": 2,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T12:24:39.434Z"
   }
 ]
