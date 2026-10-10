@@ -2894,5 +2894,21 @@
     "unds": 32,
     "n_orden": 0,
     "timestamp": "2026-10-10T12:23:31.244Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "D",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 75.45,
+    "kg_regular": 75.45,
+    "zona": "D",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 14,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-10-10T12:23:40.246Z"
   }
 ]
