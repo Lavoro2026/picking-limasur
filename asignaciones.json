@@ -910,5 +910,21 @@
     "unds": 46,
     "n_orden": 0,
     "timestamp": "2026-10-12T07:08:39.877Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 222.45,
+    "kg_regular": 28.99,
+    "zona": "A",
+    "material": "1003251",
+    "denominacion": "GLORIA GRIEGO YOG MIEL C/SOB X128GRX24U",
+    "cajas": 33,
+    "unds": 60,
+    "n_orden": 0,
+    "timestamp": "2026-10-12T07:08:48.724Z"
   }
 ]
