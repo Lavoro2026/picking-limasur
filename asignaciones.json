@@ -1230,5 +1230,21 @@
     "unds": 211,
     "n_orden": 0,
     "timestamp": "2026-10-12T07:50:46.227Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "F",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 112.38,
+    "kg_regular": 112.38,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 22,
+    "unds": 150,
+    "n_orden": 0,
+    "timestamp": "2026-10-12T07:50:54.931Z"
   }
 ]
