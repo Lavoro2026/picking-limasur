@@ -46,5 +46,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-10-13T04:58:23.668Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 513.16,
+    "kg_regular": 513.16,
+    "zona": "A",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 62,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T05:01:03.159Z"
   }
 ]
