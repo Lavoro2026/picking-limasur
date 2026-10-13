@@ -2590,5 +2590,21 @@
     "unds": 113,
     "n_orden": 0,
     "timestamp": "2026-10-13T10:13:37.254Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "F",
+    "picador": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "nombre": "SIGÜENZA NUÑEZ, GUSTAVO A.",
+    "controlador": "0",
+    "kg": 70.43,
+    "kg_regular": 70.43,
+    "zona": "E",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 8,
+    "unds": 122,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T10:13:50.306Z"
   }
 ]
