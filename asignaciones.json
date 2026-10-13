@@ -1854,5 +1854,21 @@
     "unds": 56,
     "n_orden": 0,
     "timestamp": "2026-10-13T08:43:24.509Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 152,
+    "kg_regular": 0.99,
+    "zona": "E",
+    "material": "1050209",
+    "denominacion": "GLORIA YOG.PARC.DESC. X 946G FRESA",
+    "cajas": 23,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T08:43:56.189Z"
   }
 ]
