@@ -558,5 +558,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-10-13T06:36:32.635Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 116.33,
+    "kg_regular": 116.33,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 17,
+    "unds": 31,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T06:44:50.465Z"
   }
 ]
