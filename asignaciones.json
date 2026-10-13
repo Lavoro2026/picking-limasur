@@ -126,5 +126,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-10-13T05:10:25.599Z"
+  },
+  {
+    "placa": "F7B746",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 174.93,
+    "kg_regular": 174.93,
+    "zona": "A",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 27,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T05:11:52.984Z"
   }
 ]
