@@ -2862,5 +2862,21 @@
     "unds": 32,
     "n_orden": 0,
     "timestamp": "2026-10-13T10:34:42.133Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 1097.28,
+    "kg_regular": 1097.28,
+    "zona": "E",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 96,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T10:39:41.681Z"
   }
 ]
