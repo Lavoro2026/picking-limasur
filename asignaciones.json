@@ -3022,5 +3022,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-13T11:56:22.509Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 98.69,
+    "kg_regular": 98.69,
+    "zona": "E",
+    "material": "1005253",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 1.5 LX6U",
+    "cajas": 11,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T11:56:34.474Z"
   }
 ]
