@@ -1022,5 +1022,21 @@
     "unds": 189,
     "n_orden": 0,
     "timestamp": "2026-10-13T07:43:07.851Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 11.37,
+    "kg_regular": 11.37,
+    "zona": "C",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 2,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T07:43:11.123Z"
   }
 ]
