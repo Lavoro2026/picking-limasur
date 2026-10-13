@@ -2398,5 +2398,21 @@
     "unds": 191,
     "n_orden": 0,
     "timestamp": "2026-10-13T10:01:53.197Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "F",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 89.86,
+    "kg_regular": 89.86,
+    "zona": "D",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 12,
+    "unds": 120,
+    "n_orden": 0,
+    "timestamp": "2026-10-13T10:02:14.600Z"
   }
 ]
