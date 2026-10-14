@@ -718,5 +718,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-10-14T07:05:22.577Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 50.95,
+    "kg_regular": 50.95,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 8,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T07:07:17.312Z"
   }
 ]
