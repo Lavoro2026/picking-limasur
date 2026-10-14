@@ -1022,5 +1022,21 @@
     "unds": 260,
     "n_orden": 0,
     "timestamp": "2026-10-14T08:05:23.102Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 424.83,
+    "kg_regular": 121.72,
+    "zona": "A",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 28,
+    "unds": 276,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T08:05:30.466Z"
   }
 ]
