@@ -1790,5 +1790,21 @@
     "unds": 72,
     "n_orden": 0,
     "timestamp": "2026-10-14T09:30:50.716Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 31.63,
+    "kg_regular": 11.89,
+    "zona": "B",
+    "material": "1002751",
+    "denominacion": "GLORIA YOGURT GRIEGO 950GR PQT X6U FROJO",
+    "cajas": 4,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T09:31:05.940Z"
   }
 ]
