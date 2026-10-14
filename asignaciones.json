@@ -686,5 +686,21 @@
     "unds": 172,
     "n_orden": 0,
     "timestamp": "2026-10-14T06:58:09.198Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 41.4,
+    "kg_regular": 41.4,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 20,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T07:01:11.722Z"
   }
 ]
