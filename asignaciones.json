@@ -190,5 +190,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-10-14T05:51:44.680Z"
+  },
+  {
+    "placa": "AMQ791",
+    "familia": "C",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 679.27,
+    "kg_regular": 679.27,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 62,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T05:52:20.070Z"
   }
 ]
