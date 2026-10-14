@@ -2334,5 +2334,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-10-14T10:32:05.824Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 204.98,
+    "kg_regular": 204.98,
+    "zona": "E",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 26,
+    "unds": 42,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T10:32:17.445Z"
   }
 ]
