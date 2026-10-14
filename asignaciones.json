@@ -910,5 +910,21 @@
     "unds": 250,
     "n_orden": 0,
     "timestamp": "2026-10-14T07:46:11.235Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 75.15,
+    "kg_regular": 75.15,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 8,
+    "unds": 24,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T07:46:59.311Z"
   }
 ]
