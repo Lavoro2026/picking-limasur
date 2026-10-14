@@ -9017,6 +9017,44 @@
       },
       "total_kg": 112519.92,
       "total_registros": 5578
+    },
+    "2026-10-13": {
+      "fecha": "13/10/2026",
+      "total_kg": 79804.71999999999,
+      "total_kg_regular": 58904.570000000014,
+      "total_cajas": 7928,
+      "total_pickers": 13,
+      "total_placas": 200,
+      "pickers": [
+        "QUINDE RETETETE DANILO NATAN",
+        "CARHUAPOMA GOSURE, ALVARO",
+        "MORALES CHUMPITAZ, JUAN MAURICIO",
+        "PARIONA BEDON ,GUSTAVO LEONIDES",
+        "QUISPE HILARIO ,JHONYFER TOMYLEE",
+        "RAMOS CASTILLO ,MIGUEL EDUARDO",
+        "BORJAS YAMO ,JACK STEVEN",
+        "HINOSTROZA QUISPE ,JOSE MARIA",
+        "BASILILIO SANTOS, ANGEL JEREMIAS",
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "GAMBOA GARCIA ,JHON ALDO",
+        "SIGÜENZA NUÑEZ, GUSTAVO A.",
+        "CARHUATANTA QUISPITONGO ROSAS OLIDES"
+      ],
+      "por_familia": {
+        "A": 6562.5199999999995,
+        "F": 4535.720000000001,
+        "C": 46130.26999999999,
+        "D": 7927.2300000000005,
+        "B": 6927.02,
+        "E": 7721.959999999999
+      },
+      "por_almacen": {
+        "A": 17985.95,
+        "B": 17728.030000000002,
+        "C": 14766.040000000003,
+        "D": 10970.470000000001,
+        "E": 18354.23
+      }
     }
   }
 }
