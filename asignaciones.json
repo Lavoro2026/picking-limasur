@@ -2318,5 +2318,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-14T10:29:48.783Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 17.92,
+    "kg_regular": 17.92,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 2,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T10:32:05.824Z"
   }
 ]
