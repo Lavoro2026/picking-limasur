@@ -1214,5 +1214,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-10-14T08:13:52.046Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 1824.82,
+    "kg_regular": 753.6,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 156,
+    "unds": 31,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T08:14:04.824Z"
   }
 ]
