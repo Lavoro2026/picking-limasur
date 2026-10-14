@@ -574,5 +574,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-10-14T06:41:22.041Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 199.78,
+    "kg_regular": 199.78,
+    "zona": "B",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 13,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-10-14T06:45:02.482Z"
   }
 ]
