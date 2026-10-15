@@ -654,5 +654,21 @@
     "unds": 239,
     "n_orden": 0,
     "timestamp": "2026-10-15T07:40:43.035Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "F",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 96.84,
+    "kg_regular": 96.84,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 16,
+    "unds": 200,
+    "n_orden": 0,
+    "timestamp": "2026-10-15T07:43:08.283Z"
   }
 ]
