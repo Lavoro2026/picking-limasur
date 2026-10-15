@@ -750,5 +750,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-15T07:51:52.547Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 58.47,
+    "kg_regular": 58.47,
+    "zona": "C",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 8,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-10-15T07:59:20.708Z"
   }
 ]
