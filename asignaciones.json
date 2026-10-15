@@ -1470,5 +1470,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-10-15T10:01:47.821Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 49.55,
+    "kg_regular": 49.55,
+    "zona": "E",
+    "material": "1003347",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 FRESA",
+    "cajas": 5,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-10-15T10:02:20.088Z"
   }
 ]
