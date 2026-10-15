@@ -1806,5 +1806,21 @@
     "unds": 19,
     "n_orden": 0,
     "timestamp": "2026-10-15T10:25:15.904Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 90.21,
+    "kg_regular": 90.21,
+    "zona": "D",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 23,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-15T10:25:29.381Z"
   }
 ]
