@@ -814,5 +814,21 @@
     "unds": 408,
     "n_orden": 0,
     "timestamp": "2026-10-16T08:47:54.334Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 87.57,
+    "kg_regular": 87.57,
+    "zona": "D",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 20,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T08:49:04.163Z"
   }
 ]
