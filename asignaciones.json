@@ -526,5 +526,21 @@
     "unds": 288,
     "n_orden": 0,
     "timestamp": "2026-10-16T07:32:30.003Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 361.08,
+    "kg_regular": 361.08,
+    "zona": "C",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 22,
+    "unds": 31,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T07:33:20.880Z"
   }
 ]
