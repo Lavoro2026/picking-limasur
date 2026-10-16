@@ -638,5 +638,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-10-16T07:52:13.930Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 31.49,
+    "kg_regular": 31.49,
+    "zona": "C",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 2,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T07:57:21.061Z"
   }
 ]
