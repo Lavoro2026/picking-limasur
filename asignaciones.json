@@ -1038,5 +1038,21 @@
     "unds": 27,
     "n_orden": 0,
     "timestamp": "2026-10-16T09:35:38.495Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "D",
+    "picador": "BORJAS YAMO ,JACK STEVEN",
+    "nombre": "BORJAS YAMO ,JACK STEVEN",
+    "controlador": "0",
+    "kg": 74.66,
+    "kg_regular": 74.66,
+    "zona": "E",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 8,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T09:38:06.135Z"
   }
 ]
