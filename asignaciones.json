@@ -974,5 +974,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-16T09:24:24.377Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 699.27,
+    "kg_regular": 699.27,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 58,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T09:29:17.040Z"
   }
 ]
