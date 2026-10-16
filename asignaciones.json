@@ -1550,5 +1550,21 @@
     "unds": 39,
     "n_orden": 0,
     "timestamp": "2026-10-16T09:42:18.251Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 56.27,
+    "kg_regular": 56.27,
+    "zona": "D",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 42,
+    "n_orden": 0,
+    "timestamp": "2026-10-16T09:42:20.810Z"
   }
 ]
