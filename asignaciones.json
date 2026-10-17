@@ -142,5 +142,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-10-17T05:07:04.524Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 45.36,
+    "kg_regular": 45.36,
+    "zona": "B",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 3,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-10-17T05:08:28.379Z"
   }
 ]
