@@ -1758,5 +1758,21 @@
     "unds": 137,
     "n_orden": 0,
     "timestamp": "2026-10-17T09:54:23.743Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 38.51,
+    "kg_regular": 38.51,
+    "zona": "E",
+    "material": "1003099",
+    "denominacion": "GLORIA YOGURT FRUTADO 120GRX24U DURAZNO",
+    "cajas": 3,
+    "unds": 45,
+    "n_orden": 0,
+    "timestamp": "2026-10-17T09:55:04.733Z"
   }
 ]
