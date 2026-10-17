@@ -254,5 +254,21 @@
     "unds": 211,
     "n_orden": 0,
     "timestamp": "2026-10-17T05:39:41.198Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 35.31,
+    "kg_regular": 35.31,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-17T05:42:20.835Z"
   }
 ]
