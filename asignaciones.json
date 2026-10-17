@@ -462,5 +462,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-10-17T06:20:23.981Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 137.86,
+    "kg_regular": 137.86,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 22,
+    "unds": 27,
+    "n_orden": 0,
+    "timestamp": "2026-10-17T06:20:26.447Z"
   }
 ]
