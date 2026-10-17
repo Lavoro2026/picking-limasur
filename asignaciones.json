@@ -750,5 +750,21 @@
     "unds": 22,
     "n_orden": 0,
     "timestamp": "2026-10-17T07:03:45.189Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 126.15,
+    "kg_regular": 126.15,
+    "zona": "C",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 16,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-10-17T07:04:21.551Z"
   }
 ]
