@@ -734,5 +734,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-10-19T07:23:35.364Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 35.65,
+    "kg_regular": 35.65,
+    "zona": "B",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-19T07:23:57.770Z"
   }
 ]
