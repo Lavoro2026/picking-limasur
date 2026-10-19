@@ -9456,6 +9456,37 @@
       },
       "total_kg": 112519.92,
       "total_registros": 5578
+    },
+    "2026-10-18": {
+      "fecha": "18/10/2026",
+      "total_kg": 50389.42,
+      "total_kg_regular": 27862.28,
+      "total_cajas": 4675,
+      "total_pickers": 8,
+      "total_placas": 128,
+      "pickers": [
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "CARHUAPOMA GOSURE, ALVARO",
+        "MORALES CHUMPITAZ, JUAN MAURICIO",
+        "RAMOS CASTILLO ,MIGUEL EDUARDO",
+        "SANCHEZ ABANTO OSMAR",
+        "HINOSTROZA QUISPE ,JOSE MARIA",
+        "QUISPE HILARIO ,JHONYFER TOMYLEE",
+        "BASILILIO SANTOS, ANGEL JEREMIAS"
+      ],
+      "por_familia": {
+        "C": 16299.68,
+        "D": 4573.38,
+        "F": 3291.16,
+        "B": 26225.2
+      },
+      "por_almacen": {
+        "A": 11220.24,
+        "B": 7991.87,
+        "C": 12401.61,
+        "D": 10982.23,
+        "E": 7793.47
+      }
     }
   }
 }
