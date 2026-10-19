@@ -126,5 +126,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-10-19T05:29:06.341Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 95.48,
+    "kg_regular": 95.48,
+    "zona": "A",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 20,
+    "unds": 171,
+    "n_orden": 0,
+    "timestamp": "2026-10-19T05:29:47.989Z"
   }
 ]
