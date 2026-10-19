@@ -190,5 +190,21 @@
     "unds": 26,
     "n_orden": 0,
     "timestamp": "2026-10-19T05:38:25.274Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 23.74,
+    "kg_regular": 23.74,
+    "zona": "A",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 3,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-19T05:41:13.190Z"
   }
 ]
