@@ -990,5 +990,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-10-19T08:03:30.086Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 705.92,
+    "kg_regular": 705.92,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 57,
+    "unds": 32,
+    "n_orden": 0,
+    "timestamp": "2026-10-19T08:10:33.541Z"
   }
 ]
