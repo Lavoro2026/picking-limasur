@@ -366,5 +366,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-10-19T06:03:14.073Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 0.36,
+    "kg_regular": 0.36,
+    "zona": "A",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 0,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-10-19T06:03:23.837Z"
   }
 ]
