@@ -1742,5 +1742,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-10-20T08:55:57.381Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 40.38,
+    "kg_regular": 40.38,
+    "zona": "E",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-10-20T08:56:16.293Z"
   }
 ]
