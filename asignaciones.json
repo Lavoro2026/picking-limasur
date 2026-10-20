@@ -2014,5 +2014,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-10-20T09:36:57.956Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "C",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 2403.75,
+    "kg_regular": 494.25,
+    "zona": "C",
+    "material": "1005189",
+    "denominacion": "SAN MATEO AGUA SIN GAS 600ML X15UND",
+    "cajas": 240,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-20T09:37:05.923Z"
   }
 ]
