@@ -638,5 +638,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-10-20T06:56:41.888Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 711.31,
+    "kg_regular": 711.31,
+    "zona": "B",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 59,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-10-20T07:02:09.510Z"
   }
 ]
