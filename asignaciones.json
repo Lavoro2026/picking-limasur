@@ -238,5 +238,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-10-21T06:23:03.411Z"
+  },
+  {
+    "placa": "ANI940",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 96.11,
+    "kg_regular": 96.11,
+    "zona": "A",
+    "material": "1003335",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 LUCUMA",
+    "cajas": 10,
+    "unds": 18,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T06:23:17.428Z"
   }
 ]
