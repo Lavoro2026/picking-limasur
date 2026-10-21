@@ -366,5 +366,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-10-21T06:37:19.787Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 130.86,
+    "kg_regular": 130.86,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 15,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T06:38:57.161Z"
   }
 ]
