@@ -2046,5 +2046,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-10-21T10:39:31.806Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 0.73,
+    "kg_regular": 0.73,
+    "zona": "E",
+    "material": "1033401",
+    "denominacion": "PRO DAY UHT 320ML CHOCOLATE BOT",
+    "cajas": 0,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T10:40:00.023Z"
   }
 ]
