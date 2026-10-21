@@ -2926,5 +2926,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-10-21T11:04:57.048Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 67.82,
+    "kg_regular": 67.82,
+    "zona": "C",
+    "material": "1005077",
+    "denominacion": "ARUBA REFR. GREEN PUNCH 400MLX12U",
+    "cajas": 7,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T11:07:10.978Z"
   }
 ]
