@@ -2318,5 +2318,21 @@
     "unds": 166,
     "n_orden": 0,
     "timestamp": "2026-10-21T10:43:33.670Z"
+  },
+  {
+    "placa": "C5G823",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 101.7,
+    "kg_regular": 101.7,
+    "zona": "E",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 9,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T10:43:39.610Z"
   }
 ]
