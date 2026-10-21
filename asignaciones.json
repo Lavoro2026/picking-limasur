@@ -2910,5 +2910,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-10-21T11:04:33.242Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 42.75,
+    "kg_regular": 42.75,
+    "zona": "C",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 5,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T11:04:57.048Z"
   }
 ]
