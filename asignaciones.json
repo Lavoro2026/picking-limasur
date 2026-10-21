@@ -2782,5 +2782,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-10-21T11:02:10.640Z"
+  },
+  {
+    "placa": "C1J747",
+    "familia": "D",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 55.89,
+    "kg_regular": 55.89,
+    "zona": "E",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 10,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-10-21T11:02:25.121Z"
   }
 ]
