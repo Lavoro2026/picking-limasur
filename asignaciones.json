@@ -478,5 +478,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-22T08:02:04.622Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 200.01,
+    "kg_regular": 200.01,
+    "zona": "C",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 26,
+    "unds": 27,
+    "n_orden": 0,
+    "timestamp": "2026-10-22T08:10:06.575Z"
   }
 ]
