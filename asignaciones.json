@@ -1614,5 +1614,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-10-22T10:18:05.322Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 20.75,
+    "kg_regular": 20.75,
+    "zona": "B",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 3,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-10-22T10:18:34.732Z"
   }
 ]
