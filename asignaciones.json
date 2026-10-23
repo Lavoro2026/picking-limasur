@@ -734,5 +734,21 @@
     "unds": 50,
     "n_orden": 0,
     "timestamp": "2026-10-23T08:53:22.194Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 318.44,
+    "kg_regular": 44.83,
+    "zona": "E",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 20,
+    "unds": 158,
+    "n_orden": 0,
+    "timestamp": "2026-10-23T08:53:27.840Z"
   }
 ]
