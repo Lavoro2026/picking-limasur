@@ -1566,5 +1566,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-10-23T09:36:28.653Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 131.39,
+    "kg_regular": 131.39,
+    "zona": "B",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 9,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-10-23T09:36:47.478Z"
   }
 ]
