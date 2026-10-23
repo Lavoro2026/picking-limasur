@@ -2270,5 +2270,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-23T09:57:11.235Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "C",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 1650.85,
+    "kg_regular": 558.75,
+    "zona": "A",
+    "material": "1005193",
+    "denominacion": "SAN MATEO AGUA SIN GAS 2.5L X6 UND",
+    "cajas": 157,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-10-23T09:57:23.930Z"
   }
 ]
