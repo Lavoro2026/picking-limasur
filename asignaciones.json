@@ -990,5 +990,21 @@
     "unds": 260,
     "n_orden": 0,
     "timestamp": "2026-10-24T09:22:37.398Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 203.72,
+    "kg_regular": 122.54,
+    "zona": "E",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 12,
+    "unds": 216,
+    "n_orden": 0,
+    "timestamp": "2026-10-24T09:22:51.196Z"
   }
 ]
