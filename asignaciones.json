@@ -2174,5 +2174,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-10-25T03:34:32.834Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 5.04,
+    "kg_regular": 5.04,
+    "zona": "B",
+    "material": "1005077",
+    "denominacion": "ARUBA REFR. GREEN PUNCH 400MLX12U",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-25T03:35:53.142Z"
   }
 ]
