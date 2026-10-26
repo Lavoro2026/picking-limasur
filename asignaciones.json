@@ -2318,5 +2318,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-10-26T10:38:37.452Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "C",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 9.89,
+    "kg_regular": 9.89,
+    "zona": "E",
+    "material": "1005181",
+    "denominacion": "SAN MATEO AGUA CON GAS 600ML X15UND",
+    "cajas": 1,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T10:45:21.798Z"
   }
 ]
