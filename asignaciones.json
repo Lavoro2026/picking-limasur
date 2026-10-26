@@ -878,5 +878,21 @@
     "unds": 62,
     "n_orden": 0,
     "timestamp": "2026-10-26T07:48:56.453Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "E",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 204.73,
+    "kg_regular": 48.78,
+    "zona": "A",
+    "material": "1002743",
+    "denominacion": "GLORIA BATTM YOG FRESA C/CHOX146G PTX24U",
+    "cajas": 31,
+    "unds": 57,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T07:49:08.241Z"
   }
 ]
