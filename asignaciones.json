@@ -494,5 +494,21 @@
     "unds": 7,
     "n_orden": 0,
     "timestamp": "2026-10-26T06:39:09.148Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "F",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 199.08,
+    "kg_regular": 199.08,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 48,
+    "unds": 163,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T06:41:44.952Z"
   }
 ]
