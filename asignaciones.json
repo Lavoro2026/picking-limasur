@@ -1518,5 +1518,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-10-26T08:29:09.433Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 156.28,
+    "kg_regular": 156.28,
+    "zona": "C",
+    "material": "1005247",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 3L PQTX4UND",
+    "cajas": 11,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T08:29:19.122Z"
   }
 ]
