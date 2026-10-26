@@ -526,5 +526,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-10-26T06:44:04.606Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 13.64,
+    "kg_regular": 13.64,
+    "zona": "B",
+    "material": "1003349",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 VAINIL",
+    "cajas": 3,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T06:47:11.180Z"
   }
 ]
