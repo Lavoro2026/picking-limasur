@@ -1550,5 +1550,21 @@
     "unds": 5,
     "n_orden": 0,
     "timestamp": "2026-10-26T08:39:06.565Z"
+  },
+  {
+    "placa": "F7X829",
+    "familia": "F",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 106.87,
+    "kg_regular": 106.87,
+    "zona": "D",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 21,
+    "unds": 191,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T08:43:39.515Z"
   }
 ]
