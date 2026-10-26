@@ -3102,5 +3102,21 @@
     "unds": 144,
     "n_orden": 0,
     "timestamp": "2026-10-26T12:18:21.885Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "F",
+    "picador": "PILLACA MARTINEZ, PIERRE A.",
+    "nombre": "PILLACA MARTINEZ, PIERRE A.",
+    "controlador": "0",
+    "kg": 123.03,
+    "kg_regular": 123.03,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 22,
+    "unds": 237,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T12:18:27.201Z"
   }
 ]
