@@ -702,5 +702,21 @@
     "unds": 198,
     "n_orden": 0,
     "timestamp": "2026-10-26T07:09:30.096Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 105.02,
+    "kg_regular": 105.02,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 17,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-10-26T07:11:07.655Z"
   }
 ]
