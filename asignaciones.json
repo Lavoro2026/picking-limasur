@@ -1326,5 +1326,21 @@
     "unds": 129,
     "n_orden": 0,
     "timestamp": "2026-10-27T10:33:00.039Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "F",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 182.72,
+    "kg_regular": 182.72,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 39,
+    "unds": 246,
+    "n_orden": 0,
+    "timestamp": "2026-10-27T10:36:32.575Z"
   }
 ]
