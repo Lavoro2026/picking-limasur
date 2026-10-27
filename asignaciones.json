@@ -1422,5 +1422,21 @@
     "unds": 45,
     "n_orden": 0,
     "timestamp": "2026-10-27T14:42:27.535Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 92.9,
+    "kg_regular": 92.9,
+    "zona": "A",
+    "material": "1005255",
+    "denominacion": "ARUBA REFRESCO CITRUS PUNCH 600 MLX6U",
+    "cajas": 7,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-27T14:43:06.674Z"
   }
 ]
