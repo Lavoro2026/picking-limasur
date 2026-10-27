@@ -94,5 +94,21 @@
     "unds": 30,
     "n_orden": 0,
     "timestamp": "2026-10-27T05:45:04.542Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "F",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 82.59,
+    "kg_regular": 82.59,
+    "zona": "A",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 16,
+    "unds": 111,
+    "n_orden": 0,
+    "timestamp": "2026-10-27T05:51:13.936Z"
   }
 ]
