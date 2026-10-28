@@ -526,5 +526,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-10-28T09:05:40.715Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "C",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 1501.81,
+    "kg_regular": 1501.81,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 132,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-10-28T09:05:49.100Z"
   }
 ]
