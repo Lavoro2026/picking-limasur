@@ -1198,5 +1198,21 @@
     "unds": 186,
     "n_orden": 0,
     "timestamp": "2026-10-28T10:08:27.769Z"
+  },
+  {
+    "placa": "F3M892",
+    "familia": "B",
+    "picador": "CARUAJULCA HURTADO ,LENIN",
+    "nombre": "CARUAJULCA HURTADO ,LENIN",
+    "controlador": "0",
+    "kg": 567.76,
+    "kg_regular": 124.8,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 42,
+    "unds": 241,
+    "n_orden": 0,
+    "timestamp": "2026-10-28T10:08:31.453Z"
   }
 ]
