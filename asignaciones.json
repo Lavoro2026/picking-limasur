@@ -1486,5 +1486,21 @@
     "unds": 263,
     "n_orden": 0,
     "timestamp": "2026-10-28T10:13:08.412Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "picador": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "nombre": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "controlador": "0",
+    "kg": 738.46,
+    "kg_regular": 150.82,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 52,
+    "unds": 313,
+    "n_orden": 0,
+    "timestamp": "2026-10-28T10:13:17.690Z"
   }
 ]
