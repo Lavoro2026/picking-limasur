@@ -382,5 +382,21 @@
     "unds": 28,
     "n_orden": 0,
     "timestamp": "2026-10-28T09:00:35.586Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "C",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 746.14,
+    "kg_regular": 746.14,
+    "zona": "D",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 69,
+    "unds": 22,
+    "n_orden": 0,
+    "timestamp": "2026-10-28T09:01:11.168Z"
   }
 ]
