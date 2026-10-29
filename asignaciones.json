@@ -1998,5 +1998,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-10-29T13:51:48.354Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 47.21,
+    "kg_regular": 47.21,
+    "zona": "E",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 4,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T13:52:04.690Z"
   }
 ]
