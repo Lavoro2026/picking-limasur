@@ -78,5 +78,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-10-29T05:54:26.372Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 869.93,
+    "kg_regular": 869.93,
+    "zona": "B",
+    "material": "1005247",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 3L PQTX4UND",
+    "cajas": 83,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T06:00:56.110Z"
   }
 ]
