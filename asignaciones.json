@@ -430,5 +430,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-10-29T08:33:58.147Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 8200.8,
+    "kg_regular": 0,
+    "zona": "B",
+    "material": "1005271",
+    "denominacion": "SAN MATEO AGUA SIN GAS PET 600ML X15UND",
+    "cajas": 816,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T08:34:10.533Z"
   }
 ]
