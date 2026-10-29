@@ -1134,5 +1134,21 @@
     "unds": 257,
     "n_orden": 0,
     "timestamp": "2026-10-29T10:11:02.512Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "CARUAJULCA HURTADO ,LENIN",
+    "nombre": "CARUAJULCA HURTADO ,LENIN",
+    "controlador": "0",
+    "kg": 29.94,
+    "kg_regular": 17.6,
+    "zona": "B",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 1,
+    "unds": 17,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T10:11:20.309Z"
   }
 ]
