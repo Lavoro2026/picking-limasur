@@ -782,5 +782,21 @@
     "unds": 216,
     "n_orden": 0,
     "timestamp": "2026-10-29T10:00:57.804Z"
+  },
+  {
+    "placa": "A1Q874",
+    "familia": "B",
+    "picador": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "nombre": "HINOSTROZA QUISPE ,ALBERT STHIVEN",
+    "controlador": "0",
+    "kg": 551.95,
+    "kg_regular": 78.93,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 40,
+    "unds": 159,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T10:01:09.044Z"
   }
 ]
