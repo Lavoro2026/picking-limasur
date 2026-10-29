@@ -1422,5 +1422,21 @@
     "unds": 53,
     "n_orden": 0,
     "timestamp": "2026-10-29T10:47:31.359Z"
+  },
+  {
+    "placa": "C8F736",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 49.39,
+    "kg_regular": 49.39,
+    "zona": "E",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 7,
+    "unds": 137,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T10:47:41.073Z"
   }
 ]
