@@ -990,5 +990,21 @@
     "unds": 158,
     "n_orden": 0,
     "timestamp": "2026-10-29T10:09:22.351Z"
+  },
+  {
+    "placa": "P4A742",
+    "familia": "B",
+    "picador": "CARUAJULCA HURTADO ,LENIN",
+    "nombre": "CARUAJULCA HURTADO ,LENIN",
+    "controlador": "0",
+    "kg": 414.06,
+    "kg_regular": 143.69,
+    "zona": "E",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 24,
+    "unds": 293,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T10:09:33.673Z"
   }
 ]
