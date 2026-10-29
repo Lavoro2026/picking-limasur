@@ -2174,5 +2174,21 @@
     "unds": 58,
     "n_orden": 0,
     "timestamp": "2026-10-29T13:54:44.871Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 84.77,
+    "kg_regular": 84.77,
+    "zona": "C",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 11,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-10-29T13:54:56.154Z"
   }
 ]
