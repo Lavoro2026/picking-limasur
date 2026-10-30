@@ -2558,5 +2558,21 @@
     "unds": 253,
     "n_orden": 0,
     "timestamp": "2026-10-30T10:32:05.590Z"
+  },
+  {
+    "placa": "AWC785",
+    "familia": "F",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 148.09,
+    "kg_regular": 148.09,
+    "zona": "C",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 22,
+    "unds": 179,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T10:32:16.118Z"
   }
 ]
