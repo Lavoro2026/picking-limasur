@@ -1310,5 +1310,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-10-30T08:49:52.319Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 39.98,
+    "kg_regular": 39.98,
+    "zona": "B",
+    "material": "1004919",
+    "denominacion": "AGUA PURA VIDA CAJA 20L",
+    "cajas": 2,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T08:49:58.249Z"
   }
 ]
