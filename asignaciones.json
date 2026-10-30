@@ -798,5 +798,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-10-30T07:59:25.920Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 1876.17,
+    "kg_regular": 222.4,
+    "zona": "C",
+    "material": "1007197",
+    "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+    "cajas": 158,
+    "unds": 124,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T08:10:34.558Z"
   }
 ]
