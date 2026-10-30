@@ -2030,5 +2030,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-10-30T09:57:59.759Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "F",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 147.55,
+    "kg_regular": 147.55,
+    "zona": "C",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 23,
+    "unds": 253,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T09:58:01.952Z"
   }
 ]
