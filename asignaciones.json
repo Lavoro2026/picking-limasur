@@ -14,5 +14,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-10-30T05:21:51.230Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "C",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 2301.45,
+    "kg_regular": 0,
+    "zona": "B",
+    "material": "1005271",
+    "denominacion": "SAN MATEO AGUA SIN GAS PET 600ML X15UND",
+    "cajas": 229,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T05:22:10.833Z"
   }
 ]
