@@ -2206,5 +2206,21 @@
     "unds": 286,
     "n_orden": 0,
     "timestamp": "2026-10-30T10:02:08.172Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 195.31,
+    "kg_regular": 195.31,
+    "zona": "B",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 29,
+    "unds": 33,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T10:02:16.854Z"
   }
 ]
