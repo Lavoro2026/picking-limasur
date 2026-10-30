@@ -334,5 +334,21 @@
     "unds": 185,
     "n_orden": 0,
     "timestamp": "2026-10-30T06:43:00.932Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "F",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 61.65,
+    "kg_regular": 61.65,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 6,
+    "unds": 164,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T06:46:35.296Z"
   }
 ]
