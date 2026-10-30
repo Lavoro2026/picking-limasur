@@ -1774,5 +1774,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-10-30T08:52:53.763Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 1.08,
+    "kg_regular": 1.08,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 0,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T08:53:07.375Z"
   }
 ]
