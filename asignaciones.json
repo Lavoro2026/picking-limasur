@@ -3102,5 +3102,21 @@
     "unds": 218,
     "n_orden": 0,
     "timestamp": "2026-10-30T11:09:35.558Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "A",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 1648.67,
+    "kg_regular": 1648.67,
+    "zona": "E",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 156,
+    "unds": 180,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T11:11:10.136Z"
   }
 ]
