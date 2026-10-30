@@ -1790,5 +1790,21 @@
     "unds": 3,
     "n_orden": 0,
     "timestamp": "2026-10-30T08:53:07.375Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 107.58,
+    "kg_regular": 107.58,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 12,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-10-30T08:53:16.284Z"
   }
 ]
