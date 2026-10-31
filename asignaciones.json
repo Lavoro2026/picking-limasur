@@ -1854,5 +1854,21 @@
     "unds": 329,
     "n_orden": 0,
     "timestamp": "2026-10-31T11:41:13.469Z"
+  },
+  {
+    "placa": "BBI909",
+    "familia": "F",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 149.06,
+    "kg_regular": 149.06,
+    "zona": "B",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 30,
+    "unds": 181,
+    "n_orden": 0,
+    "timestamp": "2026-10-31T11:41:24.949Z"
   }
 ]
