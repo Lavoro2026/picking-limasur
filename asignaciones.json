@@ -1006,5 +1006,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-10-31T10:20:13.593Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 8278.73,
+    "kg_regular": 0,
+    "zona": "E",
+    "material": "1005271",
+    "denominacion": "SAN MATEO AGUA SIN GAS PET 600ML X15UND",
+    "cajas": 835,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-10-31T10:20:23.401Z"
   }
 ]
