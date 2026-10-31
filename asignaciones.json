@@ -14,5 +14,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-10-31T05:44:16.011Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "C",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 1213.44,
+    "kg_regular": 365.13,
+    "zona": "A",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 100,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-10-31T05:44:36.539Z"
   }
 ]
