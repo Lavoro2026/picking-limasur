@@ -622,5 +622,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-11-02T09:14:57.580Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 51.62,
+    "kg_regular": 51.62,
+    "zona": "E",
+    "material": "1003551",
+    "denominacion": "GLORIA YOG GRIEGO DESC 120GR PQTX24 NATU",
+    "cajas": 17,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-11-02T09:17:32.392Z"
   }
 ]
