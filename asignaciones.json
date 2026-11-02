@@ -862,5 +862,21 @@
     "unds": 94,
     "n_orden": 0,
     "timestamp": "2026-11-02T09:19:31.724Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "F",
+    "picador": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "nombre": "LEIVA ACOSTA FERNANDO ALFREDO",
+    "controlador": "0",
+    "kg": 117.13,
+    "kg_regular": 117.13,
+    "zona": "A",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 23,
+    "unds": 162,
+    "n_orden": 0,
+    "timestamp": "2026-11-02T09:19:35.409Z"
   }
 ]
