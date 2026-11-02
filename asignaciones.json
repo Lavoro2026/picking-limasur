@@ -414,5 +414,21 @@
     "unds": 139,
     "n_orden": 0,
     "timestamp": "2026-11-02T08:37:24.519Z"
+  },
+  {
+    "placa": "ATP870",
+    "familia": "F",
+    "picador": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "nombre": "BASILILIO SANTOS, ANGEL JEREMIAS",
+    "controlador": "0",
+    "kg": 74.11,
+    "kg_regular": 74.11,
+    "zona": "B",
+    "material": "1003107",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X180GX24U",
+    "cajas": 13,
+    "unds": 163,
+    "n_orden": 0,
+    "timestamp": "2026-11-02T08:37:42.083Z"
   }
 ]
