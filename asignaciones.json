@@ -1134,5 +1134,21 @@
     "unds": 213,
     "n_orden": 0,
     "timestamp": "2026-11-03T10:18:31.047Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 530.79,
+    "kg_regular": 145.38,
+    "zona": "E",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 33,
+    "unds": 306,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T10:18:40.864Z"
   }
 ]
