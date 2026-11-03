@@ -574,5 +574,21 @@
     "unds": 98,
     "n_orden": 0,
     "timestamp": "2026-11-03T08:04:21.888Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "B",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 365.7,
+    "kg_regular": 189.66,
+    "zona": "E",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 30,
+    "unds": 264,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T08:05:35.308Z"
   }
 ]
