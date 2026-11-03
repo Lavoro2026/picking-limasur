@@ -334,5 +334,21 @@
     "unds": 242,
     "n_orden": 0,
     "timestamp": "2026-11-03T06:21:47.707Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "C",
+    "picador": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "nombre": "RAMOS CASTILLO ,MIGUEL EDUARDO",
+    "controlador": "0",
+    "kg": 559.68,
+    "kg_regular": 559.68,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 49,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T06:37:24.728Z"
   }
 ]
