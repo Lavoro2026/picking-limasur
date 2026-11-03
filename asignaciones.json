@@ -542,5 +542,21 @@
     "unds": 190,
     "n_orden": 0,
     "timestamp": "2026-11-03T07:37:57.385Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "B",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 107.69,
+    "kg_regular": 51.48,
+    "zona": "E",
+    "material": "1007139",
+    "denominacion": "GLORIA PANETON CAJAX900GRX6UND NAVIDAD",
+    "cajas": 0,
+    "unds": 118,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T07:51:50.878Z"
   }
 ]
