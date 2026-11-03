@@ -1918,5 +1918,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-11-03T11:27:33.029Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "D",
+    "picador": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "nombre": "HINOSTROZA QUISPE ,JOSE MARIA",
+    "controlador": "0",
+    "kg": 23.11,
+    "kg_regular": 23.11,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 2,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T11:27:46.610Z"
   }
 ]
