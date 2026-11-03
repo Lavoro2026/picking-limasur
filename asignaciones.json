@@ -1198,5 +1198,21 @@
     "unds": 195,
     "n_orden": 0,
     "timestamp": "2026-11-03T10:19:03.026Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 263.68,
+    "kg_regular": 50.83,
+    "zona": "C",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 14,
+    "unds": 173,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T10:19:12.967Z"
   }
 ]
