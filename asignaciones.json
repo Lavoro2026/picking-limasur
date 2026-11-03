@@ -350,5 +350,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-11-03T06:37:24.728Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 589.9,
+    "kg_regular": 234.57,
+    "zona": "D",
+    "material": "1004997",
+    "denominacion": "GLORIA ALIM LIQ FORT DURAZ 145 MLX24UND",
+    "cajas": 70,
+    "unds": 69,
+    "n_orden": 0,
+    "timestamp": "2026-11-03T06:41:03.683Z"
   }
 ]
