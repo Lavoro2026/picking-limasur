@@ -1422,5 +1422,21 @@
     "unds": 29,
     "n_orden": 0,
     "timestamp": "2026-11-04T09:45:33.710Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 284.92,
+    "kg_regular": 284.92,
+    "zona": "E",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 35,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-11-04T09:45:45.297Z"
   }
 ]
