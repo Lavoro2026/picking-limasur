@@ -1630,5 +1630,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-11-04T10:46:41.228Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "C",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 1956.99,
+    "kg_regular": 1133.45,
+    "zona": "B",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 167,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-11-04T10:46:49.318Z"
   }
 ]
