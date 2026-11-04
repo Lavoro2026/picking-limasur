@@ -1086,5 +1086,21 @@
     "unds": 10,
     "n_orden": 0,
     "timestamp": "2026-11-04T09:40:48.338Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 20.22,
+    "kg_regular": 20.22,
+    "zona": "B",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 2,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-11-04T09:41:01.739Z"
   }
 ]
