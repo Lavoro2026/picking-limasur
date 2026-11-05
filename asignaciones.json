@@ -366,5 +366,21 @@
     "unds": 173,
     "n_orden": 0,
     "timestamp": "2026-11-05T09:24:38.465Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 289.42,
+    "kg_regular": 94.78,
+    "zona": "D",
+    "material": "537996",
+    "denominacion": "GLORIA MERMELADA FRESA 310GR POTEX12U",
+    "cajas": 36,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T09:24:55.686Z"
   }
 ]
