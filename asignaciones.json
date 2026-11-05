@@ -1038,5 +1038,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-11-05T11:23:08.601Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "CARUAJULCA HURTADO ,LENIN",
+    "nombre": "CARUAJULCA HURTADO ,LENIN",
+    "controlador": "0",
+    "kg": 1837.04,
+    "kg_regular": 58.96,
+    "zona": "D",
+    "material": "1005271",
+    "denominacion": "SAN MATEO AGUA SIN GAS PET 600ML X15UND",
+    "cajas": 158,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T11:23:18.591Z"
   }
 ]
