@@ -78,5 +78,21 @@
     "unds": 208,
     "n_orden": 0,
     "timestamp": "2026-11-05T07:20:03.440Z"
+  },
+  {
+    "placa": "F1E927",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 556.5,
+    "kg_regular": 175.24,
+    "zona": "A",
+    "material": "1004553",
+    "denominacion": "GLORIA LECHE CONDENSADA PD90G DOYPACKX24",
+    "cajas": 48,
+    "unds": 212,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T07:20:04.592Z"
   }
 ]
