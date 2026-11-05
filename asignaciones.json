@@ -446,5 +446,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-11-05T10:45:14.941Z"
+  },
+  {
+    "placa": "ARZ862",
+    "familia": "D",
+    "picador": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "nombre": "TUANAMA VILLAREAL ,JOSE DARWIN",
+    "controlador": "0",
+    "kg": 35.83,
+    "kg_regular": 35.83,
+    "zona": "A",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 5,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T10:45:32.029Z"
   }
 ]
