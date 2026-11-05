@@ -286,5 +286,21 @@
     "unds": 266,
     "n_orden": 0,
     "timestamp": "2026-11-05T08:13:32.843Z"
+  },
+  {
+    "placa": "AXB855",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 443.62,
+    "kg_regular": 142.06,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 36,
+    "unds": 256,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T08:13:43.662Z"
   }
 ]
