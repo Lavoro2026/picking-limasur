@@ -1102,5 +1102,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-11-05T11:23:46.477Z"
+  },
+  {
+    "placa": "D1V932",
+    "familia": "C",
+    "picador": "CARUAJULCA HURTADO ,LENIN",
+    "nombre": "CARUAJULCA HURTADO ,LENIN",
+    "controlador": "0",
+    "kg": 1461.95,
+    "kg_regular": 427.88,
+    "zona": "C",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 119,
+    "unds": 20,
+    "n_orden": 0,
+    "timestamp": "2026-11-05T11:23:59.200Z"
   }
 ]
