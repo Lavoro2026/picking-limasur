@@ -1326,5 +1326,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-11-09T10:18:59.813Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 120.59,
+    "kg_regular": 29.26,
+    "zona": "E",
+    "material": "1005335",
+    "denominacion": "GLORIA BEB PIÑA 1.5L TTS CJAX8U",
+    "cajas": 10,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T10:19:06.776Z"
   }
 ]
