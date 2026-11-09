@@ -350,5 +350,21 @@
     "unds": 55,
     "n_orden": 0,
     "timestamp": "2026-11-09T08:20:10.623Z"
+  },
+  {
+    "placa": "AMF737",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 11.4,
+    "kg_regular": 11.4,
+    "zona": "E",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 1,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T08:20:18.772Z"
   }
 ]
