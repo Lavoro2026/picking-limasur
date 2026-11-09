@@ -1118,5 +1118,21 @@
     "unds": 208,
     "n_orden": 0,
     "timestamp": "2026-11-09T10:10:39.655Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 186.65,
+    "kg_regular": 1.3,
+    "zona": "B",
+    "material": "537991",
+    "denominacion": "GLORIA MERMELADA 90GR PQTX12 FRESA",
+    "cajas": 15,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T10:10:48.603Z"
   }
 ]
