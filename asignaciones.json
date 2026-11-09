@@ -414,5 +414,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-11-09T08:20:49.947Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 3.99,
+    "kg_regular": 3.99,
+    "zona": "E",
+    "material": "1033001",
+    "denominacion": "PRO POWER UHT 320 ML DARK CHOCOLATE X6",
+    "cajas": 1,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T08:20:58.545Z"
   }
 ]
