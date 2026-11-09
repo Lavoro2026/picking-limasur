@@ -398,5 +398,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-11-09T08:20:37.132Z"
+  },
+  {
+    "placa": "AXH708",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 38.32,
+    "kg_regular": 38.32,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 5,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T08:20:49.947Z"
   }
 ]
