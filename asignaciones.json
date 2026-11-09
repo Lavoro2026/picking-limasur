@@ -1262,5 +1262,21 @@
     "unds": 190,
     "n_orden": 0,
     "timestamp": "2026-11-09T10:12:16.963Z"
+  },
+  {
+    "placa": "C5R934",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 61.33,
+    "kg_regular": 9.98,
+    "zona": "F",
+    "material": "1050173",
+    "denominacion": "GLORIA ZEROLACT UHT SIN LACT 946ML TTP",
+    "cajas": 6,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T10:18:35.057Z"
   }
 ]
