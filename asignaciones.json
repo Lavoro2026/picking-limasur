@@ -1150,5 +1150,21 @@
     "unds": 319,
     "n_orden": 0,
     "timestamp": "2026-11-09T10:10:53.276Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 396.05,
+    "kg_regular": 68.4,
+    "zona": "B",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 27,
+    "unds": 177,
+    "n_orden": 0,
+    "timestamp": "2026-11-09T10:11:01.864Z"
   }
 ]
