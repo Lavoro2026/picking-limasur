@@ -2014,5 +2014,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-11-10T13:48:08.159Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 61.99,
+    "kg_regular": 61.99,
+    "zona": "E",
+    "material": "1003341",
+    "denominacion": "YOFRESH LECH FERMENTADA 970G PQX6 LUCUMA",
+    "cajas": 8,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-11-10T13:48:19.502Z"
   }
 ]
