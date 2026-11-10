@@ -1374,5 +1374,21 @@
     "unds": 158,
     "n_orden": 0,
     "timestamp": "2026-11-10T11:16:08.974Z"
+  },
+  {
+    "placa": "D2H719",
+    "familia": "A",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 470.29,
+    "kg_regular": 470.29,
+    "zona": "E",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 39,
+    "unds": 189,
+    "n_orden": 0,
+    "timestamp": "2026-11-10T11:16:19.241Z"
   }
 ]
