@@ -414,5 +414,21 @@
     "unds": 16,
     "n_orden": 0,
     "timestamp": "2026-11-10T10:47:05.354Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "C",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 242.78,
+    "kg_regular": 242.78,
+    "zona": "B",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 22,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-11-10T10:47:12.816Z"
   }
 ]
