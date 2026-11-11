@@ -1918,5 +1918,21 @@
     "unds": 282,
     "n_orden": 0,
     "timestamp": "2026-11-11T11:26:09.277Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 20.43,
+    "kg_regular": 20.43,
+    "zona": "C",
+    "material": "1003715",
+    "denominacion": "GLORIA MANTEQUILLA POTE X 390GR",
+    "cajas": 2,
+    "unds": 36,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T11:26:16.671Z"
   }
 ]
