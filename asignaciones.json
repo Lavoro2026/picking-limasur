@@ -3918,5 +3918,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-11-11T12:46:54.274Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 457.8,
+    "kg_regular": 457.8,
+    "zona": "B",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 90,
+    "unds": 13,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T12:46:59.651Z"
   }
 ]
