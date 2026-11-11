@@ -1646,5 +1646,21 @@
     "unds": 261,
     "n_orden": 0,
     "timestamp": "2026-11-11T11:23:50.554Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 519.66,
+    "kg_regular": 519.66,
+    "zona": "A",
+    "material": "3777",
+    "denominacion": "GLORIA LECHE CONDENSADA PD EO 393GR LATA",
+    "cajas": 42,
+    "unds": 228,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T11:24:02.016Z"
   }
 ]
