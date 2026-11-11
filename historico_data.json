@@ -10711,6 +10711,41 @@
         "E": 17952.25,
         "D": 16059.28
       }
+    },
+    "2026-11-11": {
+      "fecha": "11/11/2026",
+      "total_kg": 100450.29000000005,
+      "total_kg_regular": 65496.51999999998,
+      "total_cajas": 8789,
+      "total_pickers": 11,
+      "total_placas": 167,
+      "pickers": [
+        "MORALES CHUMPITAZ, JUAN MAURICIO",
+        "RAMOS MARTINEZ, JEREMY JHAIR",
+        "SANCHEZ ABANTO OSMAR",
+        "QUISPE HILARIO ,JHONYFER TOMYLEE",
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "PARIONA BEDON ,GUSTAVO LEONIDES",
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "CARHUAPOMA GOSURE, ALVARO",
+        "TORRES CALDAS OSCAR RUBEN",
+        "GAMBOA GARCIA ,JHON ALDO",
+        "HINOSTROZA QUISPE ,JOSE MARIA"
+      ],
+      "por_familia": {
+        "A": 17240.26,
+        "B": 30446.959999999992,
+        "C": 46669.960000000014,
+        "F": 2183.91,
+        "D": 3909.2000000000003
+      },
+      "por_almacen": {
+        "A": 16843.920000000002,
+        "B": 19382.459999999995,
+        "C": 17501.85,
+        "D": 18603.92,
+        "E": 28118.139999999992
+      }
     }
   }
 }
