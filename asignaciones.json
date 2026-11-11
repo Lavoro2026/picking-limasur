@@ -2334,5 +2334,21 @@
     "unds": 147,
     "n_orden": 0,
     "timestamp": "2026-11-11T12:03:08.765Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "F",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 139.49,
+    "kg_regular": 139.49,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 27,
+    "unds": 207,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T12:03:18.790Z"
   }
 ]
