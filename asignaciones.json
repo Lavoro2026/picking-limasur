@@ -3630,5 +3630,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-11-11T12:45:33.360Z"
+  },
+  {
+    "placa": "T6F869",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 191.89,
+    "kg_regular": 191.89,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 18,
+    "unds": 28,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T12:45:37.064Z"
   }
 ]
