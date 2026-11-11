@@ -4542,5 +4542,21 @@
     "unds": 237,
     "n_orden": 0,
     "timestamp": "2026-11-11T12:54:43.300Z"
+  },
+  {
+    "placa": "D9P934",
+    "familia": "F",
+    "picador": "ARAUCO TICONA PABLO NICOLAS",
+    "nombre": "ARAUCO TICONA PABLO NICOLAS",
+    "controlador": "0",
+    "kg": 424.55,
+    "kg_regular": 424.55,
+    "zona": "B",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 94,
+    "unds": 199,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T12:54:51.786Z"
   }
 ]
