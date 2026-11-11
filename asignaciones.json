@@ -670,5 +670,21 @@
     "unds": 243,
     "n_orden": 0,
     "timestamp": "2026-11-11T08:12:07.266Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 8.58,
+    "kg_regular": 8.58,
+    "zona": "D",
+    "material": "1003893",
+    "denominacion": "BONLE MANJARBLANCO DISPLAYX 200GRX50U",
+    "cajas": 0,
+    "unds": 19,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T08:16:24.337Z"
   }
 ]
