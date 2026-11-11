@@ -2318,5 +2318,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-11-11T11:56:53.988Z"
+  },
+  {
+    "placa": "BKV855",
+    "familia": "F",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 119.86,
+    "kg_regular": 119.86,
+    "zona": "E",
+    "material": "1003105",
+    "denominacion": "GLORIA YOG.PAR.DESC.DURAZNO X180GX24U",
+    "cajas": 24,
+    "unds": 147,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T12:03:08.765Z"
   }
 ]
