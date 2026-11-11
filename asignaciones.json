@@ -2014,5 +2014,21 @@
     "unds": 258,
     "n_orden": 0,
     "timestamp": "2026-11-11T11:26:52.244Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 3.43,
+    "kg_regular": 3.43,
+    "zona": "D",
+    "material": "1007701",
+    "denominacion": "GLORIA CREMA LECHE CULINARIA 800G X12BOL",
+    "cajas": 0,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T11:27:01.852Z"
   }
 ]
