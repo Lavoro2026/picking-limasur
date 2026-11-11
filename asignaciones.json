@@ -2190,5 +2190,21 @@
     "unds": 15,
     "n_orden": 0,
     "timestamp": "2026-11-11T11:55:09.140Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "C",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 22.11,
+    "kg_regular": 22.11,
+    "zona": "D",
+    "material": "1005271",
+    "denominacion": "SAN MATEO AGUA SIN GAS PET 600ML X15UND",
+    "cajas": 2,
+    "unds": 3,
+    "n_orden": 0,
+    "timestamp": "2026-11-11T11:55:23.736Z"
   }
 ]
