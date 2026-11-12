@@ -398,5 +398,21 @@
     "unds": 52,
     "n_orden": 0,
     "timestamp": "2026-11-12T09:05:22.162Z"
+  },
+  {
+    "placa": "D4R705",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 599.09,
+    "kg_regular": 193.4,
+    "zona": "D",
+    "material": "3759",
+    "denominacion": "GLORIA LECHE CONDENSADA PD 200GR DOYPACK",
+    "cajas": 52,
+    "unds": 248,
+    "n_orden": 0,
+    "timestamp": "2026-11-12T09:05:32.976Z"
   }
 ]
