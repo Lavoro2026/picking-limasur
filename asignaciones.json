@@ -2654,5 +2654,21 @@
     "unds": 242,
     "n_orden": 0,
     "timestamp": "2026-11-12T10:28:34.798Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "A",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 320.79,
+    "kg_regular": 320.79,
+    "zona": "E",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 25,
+    "unds": 217,
+    "n_orden": 0,
+    "timestamp": "2026-11-12T10:28:46.494Z"
   }
 ]
