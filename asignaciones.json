@@ -2638,5 +2638,21 @@
     "unds": 193,
     "n_orden": 0,
     "timestamp": "2026-11-12T10:28:26.841Z"
+  },
+  {
+    "placa": "A6R946",
+    "familia": "A",
+    "picador": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "nombre": "MORALES CHUMPITAZ, JUAN MAURICIO",
+    "controlador": "0",
+    "kg": 599.27,
+    "kg_regular": 599.27,
+    "zona": "E",
+    "material": "1004557",
+    "denominacion": "BONLE ALIM.AZ.C/LECHE Y G.VEG.397GX24UN",
+    "cajas": 51,
+    "unds": 242,
+    "n_orden": 0,
+    "timestamp": "2026-11-12T10:28:34.798Z"
   }
 ]
