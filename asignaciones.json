@@ -862,5 +862,21 @@
     "unds": 33,
     "n_orden": 0,
     "timestamp": "2026-11-13T09:38:56.679Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 10.18,
+    "kg_regular": 10.18,
+    "zona": "B",
+    "material": "1050247",
+    "denominacion": "ARUBA TE VERDE DURAZNO X400MLX12 PET",
+    "cajas": 2,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-11-13T09:39:09.754Z"
   }
 ]
