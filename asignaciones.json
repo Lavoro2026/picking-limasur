@@ -590,5 +590,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-11-13T09:33:05.669Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 38.39,
+    "kg_regular": 38.39,
+    "zona": "E",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 7,
+    "unds": 11,
+    "n_orden": 0,
+    "timestamp": "2026-11-13T09:33:17.369Z"
   }
 ]
