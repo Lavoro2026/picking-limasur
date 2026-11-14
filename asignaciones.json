@@ -2398,5 +2398,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-11-14T13:00:10.484Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "F",
+    "picador": "CARHUAPOMA GOSURE, ALVARO",
+    "nombre": "CARHUAPOMA GOSURE, ALVARO",
+    "controlador": "0",
+    "kg": 200.62,
+    "kg_regular": 200.62,
+    "zona": "F",
+    "material": "1003113",
+    "denominacion": "GLORIA YOG.PAR.DESC.VAINILLA X6UX500G",
+    "cajas": 22,
+    "unds": 139,
+    "n_orden": 0,
+    "timestamp": "2026-11-14T13:00:54.292Z"
   }
 ]
