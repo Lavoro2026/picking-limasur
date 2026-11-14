@@ -974,5 +974,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-11-14T11:28:52.448Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 11.42,
+    "kg_regular": 11.42,
+    "zona": "C",
+    "material": "1005239",
+    "denominacion": "TAMPICO REF CITRUS PUNCH 500ML PQTX12UND",
+    "cajas": 2,
+    "unds": 2,
+    "n_orden": 0,
+    "timestamp": "2026-11-14T11:28:54.706Z"
   }
 ]
