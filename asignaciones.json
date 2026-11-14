@@ -814,5 +814,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-11-14T11:26:59.475Z"
+  },
+  {
+    "placa": "AWH909",
+    "familia": "D",
+    "picador": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "nombre": "QUISPE HILARIO ,JHONYFER TOMYLEE",
+    "controlador": "0",
+    "kg": 78.42,
+    "kg_regular": 78.42,
+    "zona": "D",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 13,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-14T11:27:52.185Z"
   }
 ]
