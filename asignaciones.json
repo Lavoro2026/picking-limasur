@@ -1550,5 +1550,21 @@
     "unds": 17,
     "n_orden": 0,
     "timestamp": "2026-11-14T12:48:04.437Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 8041.45,
+    "kg_regular": 621.18,
+    "zona": "A",
+    "material": "1001273",
+    "denominacion": "GLORIA LECHE REC.ENTERA 390GR BANDEJX24U",
+    "cajas": 765,
+    "unds": 35,
+    "n_orden": 0,
+    "timestamp": "2026-11-14T12:48:17.229Z"
   }
 ]
