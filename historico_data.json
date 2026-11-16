@@ -11080,6 +11080,39 @@
         "D": 16519.23,
         "E": 31106.249999999993
       }
+    },
+    "2026-11-15": {
+      "fecha": "15/11/2026",
+      "total_kg": 96241.62000000004,
+      "total_kg_regular": 67120.25000000001,
+      "total_cajas": 8829,
+      "total_pickers": 8,
+      "total_placas": 167,
+      "pickers": [
+        "SANCHEZ ABANTO OSMAR",
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "QUISPE HILARIO ,JHONYFER TOMYLEE",
+        "PARIONA BEDON ,GUSTAVO LEONIDES",
+        "GAMBOA GARCIA ,JHON ALDO",
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "TORRES CALDAS OSCAR RUBEN",
+        "CARHUAPOMA GOSURE, ALVARO"
+      ],
+      "por_familia": {
+        "B": 17406.81,
+        "C": 45193.01,
+        "D": 10447.14,
+        "A": 20879.459999999995,
+        "F": 2315.2000000000003
+      },
+      "por_almacen": {
+        "A": 27663.38,
+        "B": 16277.779999999999,
+        "F": 8412.789999999999,
+        "E": 12812.729999999998,
+        "D": 13724.580000000002,
+        "C": 17350.36
+      }
     }
   }
 }
