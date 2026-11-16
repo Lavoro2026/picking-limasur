@@ -158,5 +158,21 @@
     "unds": 266,
     "n_orden": 0,
     "timestamp": "2026-11-16T09:06:19.495Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 116.68,
+    "kg_regular": 116.68,
+    "zona": "B",
+    "material": "1007409",
+    "denominacion": "GLORIA QUESO FUND SCH 80GRX25 UNTAB NATU",
+    "cajas": 13,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-11-16T09:06:35.085Z"
   }
 ]
