@@ -718,5 +718,21 @@
     "unds": 143,
     "n_orden": 0,
     "timestamp": "2026-11-16T10:57:35.350Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 39.37,
+    "kg_regular": 12.15,
+    "zona": "C",
+    "material": "1050167",
+    "denominacion": "GLORIA UHT ENTERA BOLSA X 800ML",
+    "cajas": 0,
+    "unds": 43,
+    "n_orden": 0,
+    "timestamp": "2026-11-16T10:57:47.293Z"
   }
 ]
