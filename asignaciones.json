@@ -734,5 +734,21 @@
     "unds": 43,
     "n_orden": 0,
     "timestamp": "2026-11-16T10:57:47.293Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "B",
+    "picador": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "nombre": "QUISPE NARAZAS, LEONEL GABRIEL",
+    "controlador": "0",
+    "kg": 18.74,
+    "kg_regular": 5.42,
+    "zona": "C",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 1,
+    "unds": 15,
+    "n_orden": 0,
+    "timestamp": "2026-11-16T10:58:16.538Z"
   }
 ]
