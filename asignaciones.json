@@ -1182,5 +1182,21 @@
     "unds": 228,
     "n_orden": 0,
     "timestamp": "2026-11-17T13:08:14.566Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 210.72,
+    "kg_regular": 210.72,
+    "zona": "F",
+    "material": "1001443",
+    "denominacion": "PURA VIDA MEZ. LAC. 390GR BDJX24U",
+    "cajas": 20,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-11-17T13:08:24.860Z"
   }
 ]
