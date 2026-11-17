@@ -142,5 +142,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-11-17T07:13:33.167Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "C",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 6063.1,
+    "kg_regular": 470.6,
+    "zona": "F",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 481,
+    "unds": 9,
+    "n_orden": 0,
+    "timestamp": "2026-11-17T07:13:39.965Z"
   }
 ]
