@@ -110,5 +110,21 @@
     "unds": 259,
     "n_orden": 0,
     "timestamp": "2026-11-17T06:41:13.270Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 3020.91,
+    "kg_regular": 20.01,
+    "zona": "B",
+    "material": "1006123",
+    "denominacion": "CHICOLAC UHT CHOCOLATE 180ML TTSX25 4-6P",
+    "cajas": 291,
+    "unds": 30,
+    "n_orden": 0,
+    "timestamp": "2026-11-17T06:41:21.697Z"
   }
 ]
