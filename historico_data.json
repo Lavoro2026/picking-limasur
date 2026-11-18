@@ -11105,6 +11105,35 @@
         "B": 4945.6,
         "A": 4102.11
       }
+    },
+    "2026-11-17": {
+      "fecha": "17/11/2026",
+      "total_kg": 70324.77999999998,
+      "total_kg_regular": 33413.03,
+      "total_cajas": 6397,
+      "total_pickers": 5,
+      "total_placas": 85,
+      "pickers": [
+        "ROLDAM QUICCENA, JOSE ANTONIO",
+        "RAMOS MARTINEZ, JEREMY JHAIR",
+        "VILLACORTA PARIOMA, OMAR IVAN",
+        "SANCHEZ ABANTO OSMAR",
+        "TORRES CALDAS OSCAR RUBEN"
+      ],
+      "por_familia": {
+        "C": 26075.979999999996,
+        "B": 24369.85000000001,
+        "F": 2018.28,
+        "A": 17860.67
+      },
+      "por_almacen": {
+        "A": 22379.39,
+        "B": 9057.23,
+        "F": 12164.139999999998,
+        "C": 9716.259999999998,
+        "E": 9953.45,
+        "D": 7054.31
+      }
     }
   }
 }
