@@ -1774,5 +1774,21 @@
     "unds": 234,
     "n_orden": 0,
     "timestamp": "2026-11-18T12:04:59.636Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "B",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 1617.48,
+    "kg_regular": 139.74,
+    "zona": "E",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 159,
+    "unds": 106,
+    "n_orden": 0,
+    "timestamp": "2026-11-18T12:05:09.008Z"
   }
 ]
