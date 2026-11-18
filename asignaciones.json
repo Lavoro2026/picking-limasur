@@ -1806,5 +1806,21 @@
     "unds": 63,
     "n_orden": 0,
     "timestamp": "2026-11-18T12:05:20.088Z"
+  },
+  {
+    "placa": "CHX715",
+    "familia": "B",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 80.99,
+    "kg_regular": 22.88,
+    "zona": "D",
+    "material": "1007197",
+    "denominacion": "GLORIA PANETON MINI BOL 80G CJAX48 NAVID",
+    "cajas": 2,
+    "unds": 113,
+    "n_orden": 0,
+    "timestamp": "2026-11-18T12:05:30.784Z"
   }
 ]
