@@ -1022,5 +1022,21 @@
     "unds": 4,
     "n_orden": 0,
     "timestamp": "2026-11-18T09:33:09.265Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 141.26,
+    "kg_regular": 141.26,
+    "zona": "B",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 21,
+    "unds": 43,
+    "n_orden": 0,
+    "timestamp": "2026-11-18T09:33:22.238Z"
   }
 ]
