@@ -1790,5 +1790,21 @@
     "unds": 106,
     "n_orden": 0,
     "timestamp": "2026-11-18T12:05:09.008Z"
+  },
+  {
+    "placa": "ASM812",
+    "familia": "B",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 198.33,
+    "kg_regular": 93.58,
+    "zona": "E",
+    "material": "507331",
+    "denominacion": "CARTAVIO AZUCAR RUBIA X 1 KG X 25 BOL",
+    "cajas": 11,
+    "unds": 63,
+    "n_orden": 0,
+    "timestamp": "2026-11-18T12:05:20.088Z"
   }
 ]
