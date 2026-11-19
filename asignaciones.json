@@ -494,5 +494,21 @@
     "unds": 0,
     "n_orden": 0,
     "timestamp": "2026-11-19T08:48:03.101Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 74.82,
+    "kg_regular": 74.82,
+    "zona": "E",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 10,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T08:48:16.955Z"
   }
 ]
