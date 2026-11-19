@@ -1566,5 +1566,21 @@
     "unds": 205,
     "n_orden": 0,
     "timestamp": "2026-11-19T12:19:38.922Z"
+  },
+  {
+    "placa": "F9W785",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 298.02,
+    "kg_regular": 76.01,
+    "zona": "A",
+    "material": "1989",
+    "denominacion": "GLORIA LECHE ENT POLVO X 96 G SCH EXH",
+    "cajas": 23,
+    "unds": 139,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T12:19:47.508Z"
   }
 ]
