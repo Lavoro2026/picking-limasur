@@ -1134,5 +1134,21 @@
     "unds": 14,
     "n_orden": 0,
     "timestamp": "2026-11-19T11:21:05.616Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "C",
+    "picador": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "nombre": "ROLDAM QUICCENA, JOSE ANTONIO",
+    "controlador": "0",
+    "kg": 487.69,
+    "kg_regular": 487.69,
+    "zona": "F",
+    "material": "1004903",
+    "denominacion": "PURA VIDA AGUA DE MESA SIN GAS X 3L",
+    "cajas": 47,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T11:21:20.161Z"
   }
 ]
