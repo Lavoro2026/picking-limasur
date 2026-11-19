@@ -1502,5 +1502,21 @@
     "unds": 246,
     "n_orden": 0,
     "timestamp": "2026-11-19T12:19:06.286Z"
+  },
+  {
+    "placa": "ASA790",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 326.96,
+    "kg_regular": 122.21,
+    "zona": "C",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 25,
+    "unds": 210,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T12:19:11.122Z"
   }
 ]
