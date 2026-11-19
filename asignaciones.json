@@ -782,5 +782,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-11-19T08:50:41.629Z"
+  },
+  {
+    "placa": "AHX902",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 30.54,
+    "kg_regular": 30.54,
+    "zona": "A",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 3,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T08:50:57.297Z"
   }
 ]
