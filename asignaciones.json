@@ -78,5 +78,21 @@
     "unds": 6,
     "n_orden": 0,
     "timestamp": "2026-11-19T08:45:05.216Z"
+  },
+  {
+    "placa": "D0I718",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 405.66,
+    "kg_regular": 405.66,
+    "zona": "C",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 35,
+    "unds": 16,
+    "n_orden": 0,
+    "timestamp": "2026-11-19T08:45:09.975Z"
   }
 ]
