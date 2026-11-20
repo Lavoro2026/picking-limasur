@@ -11477,6 +11477,35 @@
       },
       "total_kg": 139568.93,
       "total_registros": 4986
+    },
+    "2026-11-19": {
+      "fecha": "19/11/2026",
+      "total_kg": 34553.990000000005,
+      "total_kg_regular": 26931.5,
+      "total_cajas": 3416,
+      "total_pickers": 5,
+      "total_placas": 99,
+      "pickers": [
+        "ROLDAM QUICCENA, JOSE ANTONIO",
+        "GAMBOA GARCIA ,JHON ALDO",
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "VILLACORTA PARIOMA, OMAR IVAN",
+        "SANCHEZ ABANTO OSMAR"
+      ],
+      "por_familia": {
+        "C": 17883.790000000005,
+        "D": 8461.300000000001,
+        "F": 1890.4500000000005,
+        "B": 6318.450000000001
+      },
+      "por_almacen": {
+        "A": 6486.779999999999,
+        "C": 6613.36,
+        "F": 3317.1200000000003,
+        "B": 5447.16,
+        "E": 6336.769999999999,
+        "D": 6352.8
+      }
     }
   }
 }
