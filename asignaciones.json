@@ -974,5 +974,21 @@
     "unds": 115,
     "n_orden": 0,
     "timestamp": "2026-11-20T10:53:22.643Z"
+  },
+  {
+    "placa": "C2B801",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 118.56,
+    "kg_regular": 118.56,
+    "zona": "E",
+    "material": "1003101",
+    "denominacion": "GLORIA YOG.PAR.DESC.FRESA X180GX24U",
+    "cajas": 29,
+    "unds": 139,
+    "n_orden": 0,
+    "timestamp": "2026-11-20T10:53:36.337Z"
   }
 ]
