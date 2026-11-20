@@ -158,5 +158,21 @@
     "unds": 9,
     "n_orden": 0,
     "timestamp": "2026-11-20T08:51:53.621Z"
+  },
+  {
+    "placa": "A5Y854",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 78.97,
+    "kg_regular": 78.97,
+    "zona": "F",
+    "material": "1006005",
+    "denominacion": "SHAKE UHT COOKIES & CREAM 320 ML BOT",
+    "cajas": 12,
+    "unds": 23,
+    "n_orden": 0,
+    "timestamp": "2026-11-20T08:52:01.483Z"
   }
 ]
