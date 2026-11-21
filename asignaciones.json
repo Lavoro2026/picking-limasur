@@ -1726,5 +1726,21 @@
     "unds": 38,
     "n_orden": 0,
     "timestamp": "2026-11-21T11:02:21.951Z"
+  },
+  {
+    "placa": "D7L941",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 20.63,
+    "kg_regular": 20.63,
+    "zona": "E",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 4,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-21T11:02:33.886Z"
   }
 ]
