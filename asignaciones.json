@@ -190,5 +190,21 @@
     "unds": 21,
     "n_orden": 0,
     "timestamp": "2026-11-21T08:59:00.136Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "D",
+    "picador": "GAMBOA GARCIA ,JHON ALDO",
+    "nombre": "GAMBOA GARCIA ,JHON ALDO",
+    "controlador": "0",
+    "kg": 31.31,
+    "kg_regular": 31.31,
+    "zona": "C",
+    "material": "1050241",
+    "denominacion": "ARUBA REFR. GRANADILLA PUNCH 400MLX12U",
+    "cajas": 10,
+    "unds": 12,
+    "n_orden": 0,
+    "timestamp": "2026-11-21T08:59:13.051Z"
   }
 ]
