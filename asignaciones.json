@@ -1246,5 +1246,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-11-21T10:47:02.320Z"
+  },
+  {
+    "placa": "ASM907",
+    "familia": "A",
+    "picador": "TORRES CALDAS OSCAR RUBEN",
+    "nombre": "TORRES CALDAS OSCAR RUBEN",
+    "controlador": "0",
+    "kg": 308.07,
+    "kg_regular": 308.07,
+    "zona": "A",
+    "material": "1001135",
+    "denominacion": "GLORIA LECHE REC. ENTERA 170GRX48U",
+    "cajas": 22,
+    "unds": 260,
+    "n_orden": 0,
+    "timestamp": "2026-11-21T10:47:06.890Z"
   }
 ]
