@@ -11718,34 +11718,34 @@
     },
     "2026-11-21": {
       "fecha": "21/11/2026",
-      "total_kg": 63432.68999999999,
-      "total_kg_regular": 38333.66999999999,
-      "total_cajas": 5799,
-      "total_pickers": 7,
-      "total_placas": 142,
+      "total_kg": 71363.53000000001,
+      "total_kg_regular": 44261.629999999976,
+      "total_cajas": 6907,
+      "total_pickers": 8,
+      "total_placas": 151,
       "pickers": [
-        "VIZA QUISPE, JOEL ALEXANDER",
+        "ROLDAM QUICCENA, JOSE ANTONIO",
         "GAMBOA GARCIA ,JHON ALDO",
         "VILLACORTA PARIOMA, OMAR IVAN",
-        "QUISPE NARAZAS, LEONEL GABRIEL",
-        "CARHUAPOMA GOSURE, ALVARO",
         "RAMOS MARTINEZ, JEREMY JHAIR",
-        "TORRES CALDAS OSCAR RUBEN"
+        "QUISPE NARAZAS, LEONEL GABRIEL",
+        "TORRES CALDAS OSCAR RUBEN",
+        "VIZA QUISPE, JOEL ALEXANDER",
+        "SANCHEZ ABANTO OSMAR"
       ],
       "por_familia": {
-        "D": 8028.179999999999,
-        "F": 1829.31,
-        "B": 25881.770000000004,
-        "C": 18610.939999999995,
-        "A": 9082.49
+        "C": 18376.339999999997,
+        "D": 5794.719999999998,
+        "F": 1675.92,
+        "B": 32740.549999999992,
+        "A": 12776
       },
       "por_almacen": {
-        "F": 5644.360000000001,
-        "E": 11603.69,
-        "D": 10841.08,
-        "C": 8487.860000000002,
-        "B": 12806.01,
-        "A": 14049.689999999999
+        "A": 12712.54,
+        "E": 20330.559999999998,
+        "D": 12326.81,
+        "C": 12423.779999999999,
+        "B": 13569.839999999997
       }
     }
   }
