@@ -1902,5 +1902,21 @@
     "unds": 13,
     "n_orden": 0,
     "timestamp": "2026-11-21T11:04:33.907Z"
+  },
+  {
+    "placa": "F6X827",
+    "familia": "D",
+    "picador": "VIZA QUISPE, JOEL ALEXANDER",
+    "nombre": "VIZA QUISPE, JOEL ALEXANDER",
+    "controlador": "0",
+    "kg": 7.63,
+    "kg_regular": 7.63,
+    "zona": "C",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 2,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-21T11:04:43.440Z"
   }
 ]
