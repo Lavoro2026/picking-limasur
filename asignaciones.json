@@ -702,5 +702,21 @@
     "unds": 128,
     "n_orden": 0,
     "timestamp": "2026-11-21T10:00:04.764Z"
+  },
+  {
+    "placa": "V2F841",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 523.62,
+    "kg_regular": 180.21,
+    "zona": "B",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 34,
+    "unds": 277,
+    "n_orden": 0,
+    "timestamp": "2026-11-21T10:00:13.124Z"
   }
 ]
