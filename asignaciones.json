@@ -126,5 +126,21 @@
     "unds": 137,
     "n_orden": 0,
     "timestamp": "2026-11-23T10:55:02.640Z"
+  },
+  {
+    "placa": "BKT838",
+    "familia": "F",
+    "picador": "VILLACORTA PARIOMA, OMAR IVAN",
+    "nombre": "VILLACORTA PARIOMA, OMAR IVAN",
+    "controlador": "0",
+    "kg": 11.82,
+    "kg_regular": 11.82,
+    "zona": "D",
+    "material": "1004407",
+    "denominacion": "GLORIA QUESO MOZZARELLA X 250GR  BOLA",
+    "cajas": 2,
+    "unds": 21,
+    "n_orden": 0,
+    "timestamp": "2026-11-23T10:55:10.116Z"
   }
 ]
