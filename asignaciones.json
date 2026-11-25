@@ -558,5 +558,21 @@
     "unds": 18,
     "n_orden": 0,
     "timestamp": "2026-11-25T11:40:26.339Z"
+  },
+  {
+    "placa": "AVA931",
+    "familia": "F",
+    "picador": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON ,GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 66.43,
+    "kg_regular": 66.43,
+    "zona": "E",
+    "material": "1004551",
+    "denominacion": "GLORIA CREMA DE LECHE UHTX200ML TTSX24UN",
+    "cajas": 7,
+    "unds": 158,
+    "n_orden": 0,
+    "timestamp": "2026-11-25T11:41:26.940Z"
   }
 ]
