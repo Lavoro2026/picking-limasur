@@ -1502,5 +1502,21 @@
     "unds": 172,
     "n_orden": 0,
     "timestamp": "2026-11-27T12:39:06.847Z"
+  },
+  {
+    "placa": "APU790",
+    "familia": "B",
+    "picador": "SANCHEZ ABANTO OSMAR",
+    "nombre": "SANCHEZ ABANTO OSMAR",
+    "controlador": "0",
+    "kg": 315.81,
+    "kg_regular": 73.26,
+    "zona": "A",
+    "material": "1001507",
+    "denominacion": "BONLÉ CHOCOLATADA UHT X800 ML X12U BOLSA",
+    "cajas": 21,
+    "unds": 208,
+    "n_orden": 0,
+    "timestamp": "2026-11-27T12:39:27.823Z"
   }
 ]
