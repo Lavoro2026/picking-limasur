@@ -350,5 +350,21 @@
     "unds": 34,
     "n_orden": 0,
     "timestamp": "2026-11-27T10:52:22.899Z"
+  },
+  {
+    "placa": "A4G840",
+    "familia": "D",
+    "picador": "GONZALES PACAYA, DANIEL ADRIANO",
+    "nombre": "GONZALES PACAYA, DANIEL ADRIANO",
+    "controlador": "0",
+    "kg": 69.78,
+    "kg_regular": 69.78,
+    "zona": "E",
+    "material": "1004785",
+    "denominacion": "GLORIA BEB CHICHA MORADA X3LTX4BO PET",
+    "cajas": 10,
+    "unds": 8,
+    "n_orden": 0,
+    "timestamp": "2026-11-27T10:53:06.618Z"
   }
 ]
