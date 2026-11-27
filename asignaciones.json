@@ -382,5 +382,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-11-27T10:53:17.846Z"
+  },
+  {
+    "placa": "AZG758",
+    "familia": "D",
+    "picador": "GONZALES PACAYA, DANIEL ADRIANO",
+    "nombre": "GONZALES PACAYA, DANIEL ADRIANO",
+    "controlador": "0",
+    "kg": 293.78,
+    "kg_regular": 293.78,
+    "zona": "E",
+    "material": "1005957",
+    "denominacion": "SHAKE UHT CAPUCCINO 320 ML BOT PR",
+    "cajas": 31,
+    "unds": 7,
+    "n_orden": 0,
+    "timestamp": "2026-11-27T10:53:34.958Z"
   }
 ]
