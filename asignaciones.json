@@ -1022,5 +1022,21 @@
     "unds": 24,
     "n_orden": 0,
     "timestamp": "2026-11-27T11:02:28.001Z"
+  },
+  {
+    "placa": "D9G880",
+    "familia": "D",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 52.89,
+    "kg_regular": 52.89,
+    "zona": "E",
+    "material": "1033003",
+    "denominacion": "PRO POWER UHT 320ML CARAMEL MACCHIATO",
+    "cajas": 3,
+    "unds": 4,
+    "n_orden": 0,
+    "timestamp": "2026-11-27T11:02:41.966Z"
   }
 ]
