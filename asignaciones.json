@@ -686,5 +686,21 @@
     "unds": 8,
     "n_orden": 0,
     "timestamp": "2026-11-27T10:58:14.321Z"
+  },
+  {
+    "placa": "APB825",
+    "familia": "D",
+    "picador": "GONZALES PACAYA, DANIEL ADRIANO",
+    "nombre": "GONZALES PACAYA, DANIEL ADRIANO",
+    "controlador": "0",
+    "kg": 40.6,
+    "kg_regular": 40.6,
+    "zona": "A",
+    "material": "1050239",
+    "denominacion": "ARUBA REFR. CITRUS PUNCH 400MLX12U",
+    "cajas": 5,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-27T10:58:33.000Z"
   }
 ]
