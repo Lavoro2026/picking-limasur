@@ -974,5 +974,21 @@
     "unds": 2,
     "n_orden": 0,
     "timestamp": "2026-11-28T10:04:25.923Z"
+  },
+  {
+    "placa": "W6L701",
+    "familia": "D",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 60.31,
+    "kg_regular": 60.31,
+    "zona": "E",
+    "material": "1005261",
+    "denominacion": "ARUBA REFRESCO GRANADILLA PUNCH 600 MLX6",
+    "cajas": 11,
+    "unds": 1,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T10:04:38.893Z"
   }
 ]
