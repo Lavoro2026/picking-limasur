@@ -222,5 +222,21 @@
     "unds": 31,
     "n_orden": 0,
     "timestamp": "2026-11-28T07:28:07.488Z"
+  },
+  {
+    "placa": "B0V924",
+    "familia": "D",
+    "picador": "GONZALES PACAYA, DANIEL ADRIANO",
+    "nombre": "GONZALES PACAYA, DANIEL ADRIANO",
+    "controlador": "0",
+    "kg": 85.47,
+    "kg_regular": 85.47,
+    "zona": "C",
+    "material": "1005927",
+    "denominacion": "SHAKE UHT MOCACCINO 320 ML BOT PR",
+    "cajas": 9,
+    "unds": 14,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T07:51:41.198Z"
   }
 ]
