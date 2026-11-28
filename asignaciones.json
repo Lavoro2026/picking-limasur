@@ -1230,5 +1230,21 @@
     "unds": 207,
     "n_orden": 0,
     "timestamp": "2026-11-28T10:46:21.642Z"
+  },
+  {
+    "placa": "A7Y808",
+    "familia": "B",
+    "picador": "GAMBOA GARCIA, JHON ALDO",
+    "nombre": "GAMBOA GARCIA, JHON ALDO",
+    "controlador": "0",
+    "kg": 681.09,
+    "kg_regular": 186.59,
+    "zona": "A",
+    "material": "1007101",
+    "denominacion": "GL PANETÓN PASIÓN DE CHOCOLATEX500GX6U",
+    "cajas": 50,
+    "unds": 278,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T10:46:29.203Z"
   }
 ]
