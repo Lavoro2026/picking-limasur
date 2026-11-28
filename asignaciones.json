@@ -1310,5 +1310,21 @@
     "unds": 172,
     "n_orden": 0,
     "timestamp": "2026-11-28T10:47:38.463Z"
+  },
+  {
+    "placa": "AUP711",
+    "familia": "B",
+    "picador": "GAMBOA GARCIA, JHON ALDO",
+    "nombre": "GAMBOA GARCIA, JHON ALDO",
+    "controlador": "0",
+    "kg": 389.61,
+    "kg_regular": 142.68,
+    "zona": "C",
+    "material": "1007119",
+    "denominacion": "GLORIA PANETON BOLSAX900GRX6UND NAVIDAD",
+    "cajas": 28,
+    "unds": 231,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T10:48:07.148Z"
   }
 ]
