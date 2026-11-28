@@ -1646,5 +1646,21 @@
     "unds": 233,
     "n_orden": 0,
     "timestamp": "2026-11-28T12:27:30.965Z"
+  },
+  {
+    "placa": "APC840",
+    "familia": "B",
+    "picador": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "nombre": "RAMOS MARTINEZ, JEREMY JHAIR",
+    "controlador": "0",
+    "kg": 147.88,
+    "kg_regular": 48.23,
+    "zona": "A",
+    "material": "1006127",
+    "denominacion": "BONLE UHT CHOCOLATADA 180ML TTSX4-6P",
+    "cajas": 7,
+    "unds": 172,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T12:27:37.579Z"
   }
 ]
