@@ -798,5 +798,21 @@
     "unds": 11,
     "n_orden": 0,
     "timestamp": "2026-11-28T10:02:27.395Z"
+  },
+  {
+    "placa": "C3Q769",
+    "familia": "D",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 28.72,
+    "kg_regular": 28.72,
+    "zona": "F",
+    "material": "1004787",
+    "denominacion": "GLORIA BEB.CHICHA MORADA 400MLX16UND PET",
+    "cajas": 4,
+    "unds": 6,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T10:02:39.192Z"
   }
 ]
