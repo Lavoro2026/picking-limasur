@@ -894,5 +894,21 @@
     "unds": 23,
     "n_orden": 0,
     "timestamp": "2026-11-28T10:03:32.514Z"
+  },
+  {
+    "placa": "D3L703",
+    "familia": "D",
+    "picador": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "nombre": "CARHUATANTA QUISPITONGO ROSAS OLIDES",
+    "controlador": "0",
+    "kg": 73.14,
+    "kg_regular": 73.14,
+    "zona": "C",
+    "material": "1003343",
+    "denominacion": "YOFRESH LECH FERMENTADA 320G PQX6 FRESA",
+    "cajas": 7,
+    "unds": 5,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T10:03:43.976Z"
   }
 ]
