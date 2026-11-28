@@ -1902,5 +1902,21 @@
     "unds": 20,
     "n_orden": 0,
     "timestamp": "2026-11-28T12:48:27.570Z"
+  },
+  {
+    "placa": "ARD784",
+    "familia": "C",
+    "picador": "PARIONA BEDON, GUSTAVO LEONIDES",
+    "nombre": "PARIONA BEDON, GUSTAVO LEONIDES",
+    "controlador": "0",
+    "kg": 642.03,
+    "kg_regular": 642.03,
+    "zona": "D",
+    "material": "1004939",
+    "denominacion": "PURA VIDA AGUA X650ML X 12 UND",
+    "cajas": 66,
+    "unds": 0,
+    "n_orden": 0,
+    "timestamp": "2026-11-28T12:48:47.257Z"
   }
 ]
